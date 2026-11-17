@@ -7,6 +7,7 @@ If you load the index.html on your device, it will have all the data, and you ca
 The app will also suggest a few sides to go with a main and vice versa based on some heuristics on the meta-data.
 
 ## Possible Future enhancements
-For any search:
-* Include live web search to find recipes I would be likely to curate in, consolidate across top hits to create best version
-* Include generated recipes I would be likely to curate in
+* More data cleanup & restoration
+* For any search:
+  * Include live web search to find recipes I would be likely to curate in, consolidate across top hits to create best version
+  * Include generated recipes I would be likely to curate in
