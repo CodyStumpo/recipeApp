@@ -1,6 +1,6 @@
 # Recipe Database Export
 
-## AIR FRY PLANTAIN SLICES, (`rec_air_fry_plantain_slices_acae29`)
+## AIR FRY PLANTAIN SLICES (`rec_air_fry_plantain_slices_acae29`)
 - **Type:** side (starch)
 - **Cuisine:** Latin American | **Effort:** Low
 - **Seasons:** spring, summer, autumn, winter
@@ -10,9 +10,7 @@
 - **Ingredients:** plantains, olive oil to taste, salt to taste, garlic to taste (optional), lime juice to taste (optional), water (optional)
 
 ### Blueprint
-## AIR FRY PLANTAIN SLICES, 
-
-o.o., salt \- 350 for 8m,  overripe will be sweet, otherwise no   
+o.o., salt - 350 for 8m,  overripe will be sweet, otherwise no   
 For tostones, fry, smash, dip in garlic lime water, dry, oil, fry 400 another 5  
 salt
 
@@ -29,8 +27,6 @@ salt
 - **Ingredients:** 1 1/2 lb. pork tenderloin, 2 tsp. kosher salt, 2 tsp. light brown sugar, 1 tsp. ground black pepper, 1 tsp. dried thyme, 1 tsp. paprika, 1/2 tsp. garlic powder, 1 Tbsp. olive oil
 
 ### Blueprint
-# [Air Fryer Pork Tenderloin](https://www.thepioneerwoman.com/food-cooking/recipes/a46119327/air-fryer-pork-tenderloin-recipe/)
-
 Times it by about 1.5  
 1 1/2 lb. pork tenderloin  
 2 tsp. kosher salt  
@@ -56,9 +52,7 @@ Air fryer 400 for about 28 minutes
 - **Ingredients:** 1 lb broccolini, 6 cloves garlic, minced, 2 tbsp olive oil, 1 tbsp soy sauce, Cayenne pepper to taste, Salt to taste, Black pepper to taste
 
 ### Blueprint
-## [Air fryer broccolini](https://braziliankitchenabroad.com/air-fryer-broccolini/) 
-
-6 Garlic, 2T o.o. 1T Soy, cayenne, s\&p  
+6 Garlic, 2T o.o. 1T Soy, cayenne, s&p  
 Coat 1lb broccolini with that  
 400 6minutes
 
@@ -74,25 +68,23 @@ Coat 1lb broccolini with that
 - **Ingredients:** 4 chicken thighs, 1 bunch curly kale, thinly sliced, 3 tbsp lemon juice, 4 tsp lemon zest, divided, 2 tsp Dijon mustard, Pinch red pepper flakes, 1/2 cup panko breadcrumbs, 1 tbsp Pecorino Romano, plus more to taste, 2 tsp capers, 2 anchovies (or 2 tsp anchovy paste), 1 clove garlic, 1 tsp red wine vinegar, 1 cup fresh parsley, 1 cup fresh basil, 1/2 cup fresh chives, 11 tbsp olive oil, divided, Salt, to taste, Black pepper, to taste
 
 ### Blueprint
-# [Air fryer chicken thighs](https://www.foodnetwork.com/recipes/food-network-kitchen/air-fryer-chicken-thighs-with-salsa-verde-and-lemony-kale-salad-9822450)
-
-Kale salad:  
+# Kale salad:  
 3T  Lemon juice, 2t dijon, t zest, pinch red pepper flakes, t salt, black pepper  
 Whisk in 3T o.o.
 
 Add bunch curly kale,  thin sliced, sit 15m or more
 
 Air fryer 350  
-½ cup Panko, 2T o.o., s\&p \- air fry 5m, then stir in T pecorino romano
+½ cup Panko, 2T o.o., s&p - air fry 5m, then stir in T pecorino romano
 
-chicken  
+# chicken  
 Air fryer 400   
-Dry 4 chicken thighs, 2t zest on skinless side, s\&p  
-O.o. on skin, s\&p  
+Dry 4 chicken thighs, 2t zest on skinless side, s&p  
+O.o. on skin, s&p  
 Skin up, **24m**
 
-Salsa verde (food processor)  
-Chop: 2t Capers, 2 anchovies (2t paste), 1 garlic, salt \-\> paste  
+# Salsa verde (food processor)  
+Chop: 2t Capers, 2 anchovies (2t paste), 1 garlic, salt -> paste  
 6T o.o, t red wine vinegar, t zest  
 Cup parsley, cup basil, ½ cup chives
 
@@ -112,8 +104,6 @@ Salsa on thighs
 - **Ingredients:** 1 lb 90% ground beef, 5 cloves garlic (2 for meatballs, 3 minced for soup), 1/4 cup raw rice, 1 egg, 2 tbsp parsley, 1.5 tbsp mint, 2 tsp oregano (1 tsp for meatballs, 1 tsp for broth), 1 tsp cumin (1/2 tsp for meatballs, 1/2 tsp for broth), 1/2 tsp salt, 1/4 tsp pepper, oil (for sauteing), 1/2 onion, chopped, celery (to taste), 4 baby gold potatoes or 1 russet potato, diced, carrot, sliced (to taste), 2 tomatoes, chopped, 4 cups broth, zucchini, sliced (to taste), green beans (to taste), cilantro (to taste), 1 tbsp lime juice, chili (to taste)
 
 ### Blueprint
-# [Albondigas](https://gypsyplate.com/albondigas-soup/)
-
 Make meat balls  
 Lb 90% ground beef, 2 garlic, ¼ cup raw rice, egg. 2T parsley, 1.5T mint, t oregano, ½ t cumin, ½ t salt, ¼ t pepper
 
@@ -136,20 +126,11 @@ Zucchini, green beans, cilantro, T lime, chili, sautee /boil a couple minutes
 - **Ingredients:** 1/2 lb ground beef, 1/2 lb ground pork, 1/2 onion (divided), 4 cloves garlic (divided), 1/4 bunch parsley, 1/4 cup white rice, 1 tsp plus 1 tbsp cumin, 1 tsp plus 1 tbsp oregano, 1 tsp plus 1 tbsp paprika, 5 roma tomatoes, 5 cups chicken broth, 2 chipotle peppers in adobo, cooking oil to taste, 3 potatoes, 2 stalks celery, broccoli to taste, chili powder to taste, garlic powder to taste, onion powder to taste, red pepper flakes to taste, salt and pepper to taste, cooked rice for serving, beans for serving, tortillas for serving
 
 ### Blueprint
-# [Albondigas](https://www.mylatinatable.com/authentic-mexican-meatballs-albondigas/)
+1/2 lb beef  , 1/2 lb pork  , 1/4 onion  , 2 garlic  , 1/4 bunch parsley  
+1/4 cup white rice - boil 10m only before adding  
+t cumin, t oregano, t paprika, s&p
 
-1/2 lb beef  
-1/2 lb pork  
-1/4 onion  
-2 garlic  
-1/4 bunch parsley  
-1/4 cup white rice \- boil 10m only before adding  
-t cumin  
-t oregano  
-t paprika  
-s\&p
-
-make 1" balls, bake 400 \* 15
+make 1" balls, bake 400 * 15
 
 blend salsa:  
 5 roma tomatoes  
@@ -157,20 +138,17 @@ blend salsa:
 1/4 onion  
 5 cups chicken broth
 
-T oregano  
-T paprika  
-T cumin  
-s\&p  
+T oregano , T paprika, T cumin, s&p  
 2 chipotle in adobo
 
 sautee in oil mh  
-3 potatoes \-\> cubes boil 5m  
-2 celery \+ meatballs  
-s\&p, 20m simmering
+3 potatoes -> cubes boil 5m  
+2 celery + meatballs  
+s&p, 20m simmering
 
 rice, beans, tortillas
 
-also roast broccoli 400 \* 20 with oregano, cumin, chili pwder, garlic, onion powder, red pepper
+also roast broccoli 400 * 20 with oregano, cumin, chili pwder, garlic, onion powder, red pepper
 
 ---
 
@@ -185,10 +163,8 @@ also roast broccoli 400 \* 20 with oregano, cumin, chili pwder, garlic, onion po
 - **Ingredients:** baby potatoes, okra, onion, garlic, cumin to taste, turmeric to taste, chili powder to taste, coriander to taste, garam masala to taste, lemon juice or amchur to taste, water as needed
 
 ### Blueprint
-## [Aloo Bindhi](https://www.indianhealthyrecipes.com/aloo-bhindi/)
-
 Cut baby potatoes in half, microwave 4m with a little water  
-Masala \- garlic, onion,   
+Masala - garlic, onion,   
 Add potatoes & okra, 7m MH  
 cumin, turmeric, chili powder, coriander, 1m more  
 Garam masala / lemon juice or amchur
@@ -205,13 +181,11 @@ Garam masala / lemon juice or amchur
 - **Ingredients:** chicken to taste, salt and pepper to taste, all-purpose flour to taste, 2 tbsp butter, 2 tbsp olive oil, 4 shallots, 4 whole garlic cloves, 6 tbsp white wine, 2 tbsp cream, 6 apricots, halved and pitted, 1/2 tsp tarragon, 1/2 tsp basil
 
 ### Blueprint
-# [Apricot Chicken](https://www.purewow.com/recipes/skillet-chicken-apricots-fresh-herbs)
-
 375
 
-Dry chicken, S\&P, flour chicken  
+Dry chicken, S&P, flour chicken  
 Skillet M  
-2T Butter \+ 2T o.o   
+2T Butter + 2T o.o   
 Skin down, low 8-10m (golden & crisp)  
 Flip  
 Add 4 shallots (cup red onion, soak 5m cold water first) and 4 whole garlic  
@@ -234,10 +208,8 @@ Add 6 apricots, halved & pitted, **10-15m**
 - **Ingredients:** lettuce to taste, cucumber to taste, tomato to taste, onion to taste, sumac to taste, olive oil to taste, salt and pepper to taste
 
 ### Blueprint
-## [Salad](https://theodehlicious.com/arabic-salad-recipe/)
-
 Lettuce, cucumber, tomato, onion  
-Sumac, olive oil, s\&p
+Sumac, olive oil, s&p
 
 ---
 
@@ -252,8 +224,6 @@ Sumac, olive oil, s\&p
 - **Ingredients:** 1/2 yellow onion, grated, 1 lb ground lamb, 2 cloves garlic, grated, 1 tbsp parsley, chopped, 3 tsp ground coriander, 3 tsp ground cumin, 1.5 tsp paprika, 3/4 tsp allspice, 1/2 tsp cayenne pepper, 1.25 tsp kosher salt, 5 pita breads, halved, Oil spray as needed
 
 ### Blueprint
-# [Arayes](https://www.recipetineats.com/arayes-lebanese-meat-stuffed-pita/)
-
 Mix ½ yellow onion (grated), lb lamb, 2 garlic (grated), T parsley 3t coriander, 3t cumin, 1.5t paprika, 3/4 t allspice, ½ t cayenne, 1.25 t kosher salt
 
 Divide into 10
@@ -275,15 +245,13 @@ Spray with oil, 2m/side MH heat (longer if bread is thick)
 - **Ingredients:** 3 lb chicken, cooking oil, as needed, salt, to taste, black pepper, to taste, onion, to taste, green pepper, to taste, garlic, to taste, 8 oz tomato sauce, annatto-based seasoning, to taste, bay leaf, to taste, 1 tsp oregano, 1/2 tsp cumin, 1 cup white wine, 1/2 tsp white pepper, 2 cups rice, 3 cups broth, 8 oz peas, pimentos, to taste
 
 ### Blueprint
-# [Arroz y Pollo](https://www.jamesbeard.org/recipes/arroz-con-pollo)
-
 MH heat big pot, oil   
-season 3lb chicken with s\&p, brown 5m, set aside
+season 3lb chicken with s&p, brown 5m, set aside
 
-onion, green pepper, garlic \- 5m  
-8 oz tomato sauce \- 5m  
+onion, green pepper, garlic - 5m  
+8 oz tomato sauce - 5m  
 annatto-baesd seasoning, bay leaf, t oregano, 1/2 t cumin  
-cup white wine, 1/2 t white pepper, salt \- 5m
+cup white wine, 1/2 t white pepper, salt - 5m
 
 2 cup rice (stir), 3 cup broth
 
@@ -303,8 +271,6 @@ BAKE 30m @ 325\.  8 oz Peas & pimentos
 - **Ingredients:** artichokes, to taste, garlic, to taste, bay leaf, to taste, lemon, to taste, rosemary, to taste, 1.5 cups water
 
 ### Blueprint
-# Artichokes
-
 Trim artichokes  
 Instant pot  
 Rack  
@@ -327,9 +293,7 @@ Quick release
 - **Ingredients:** 4 chicken thighs, salt to taste, pepper to taste, 1/2 cup + 1 tbsp water, 1/4 cup hoisin sauce, 1 tbsp honey, 1 tbsp soy sauce, 1 tbsp minced ginger, 2 cloves garlic, minced, 1 tbsp sambal oelek, 1/2 tbsp cornstarch, noodles to taste, steamed broccoli to taste, scallions to taste, lime to taste, sesame seeds to taste
 
 ### Blueprint
-# [Asian BBQ Chicken](https://www.31daily.com/instant-pot-asian-bbq-chicken-thighs/)
-
-Dry 4 chicken thighs, s\&p
+Dry 4 chicken thighs, s&p
 
 Sauce  
 ½ cup water, ¼ cup hoisin, T honey, T soy, T ginger, 2 garlic, T sambal
@@ -356,8 +320,6 @@ Scallions, lime, sesame seeds
 - **Ingredients:** pork butt, cut into 1.5-inch cubes, 12 tbsp lime juice, 2 tbsp soy sauce, 2 cloves garlic, minced, 1 stalk lemongrass (inner white part, minced), 1 tbsp Szechuan peppercorns, 6 serrano chiles, 1 tbsp kosher salt, salt to taste
 
 ### Blueprint
-# [Babi Panggang Karo](https://www.foodandwine.com/recipes/babi-panggang-karo-north-sumatran-grilled-pork)
-
 1.5” cubed pork butt in 6T lime juice, metal bowl  
 Add 2T soy sauce, 2 garlic, lemongrass (inner white part) minced.  Stir, refrigerate **1 hour**
 
@@ -383,15 +345,13 @@ T kosher salt
 - **Ingredients:** cod fillets to taste, lemon zest to taste, fresh rosemary to taste, black pepper to taste, 3 slices smoked bacon, mayonnaise to taste, lemon juice to taste, asparagus to taste, new potatoes to taste
 
 ### Blueprint
-# [Bacon wrapped Cod](https://www.jamieoliver.com/recipes/fish-recipes/delicious-roasted-white-fish-wrapped-in-smoked-bacon-with-lemon-mayonnaise-and-asparagus/)
-
 Season cod with lemon zest & rosemary & pepper (no salt)  
-Wrap in bacon \- 3 slices  
+Wrap in bacon - 3 slices  
 Fry for a minute, then oven 400 x 12m
 
-Mayo \+ lemon juice \+ pepper
+Mayo + lemon juice + pepper
 
-Asparagus, new potatoes \-\> fish juice
+Asparagus, new potatoes -> fish juice
 
 ---
 
@@ -406,15 +366,13 @@ Asparagus, new potatoes \-\> fish juice
 - **Ingredients:** 2 limes, hot sauce to taste, bacon, onion, potatoes, celery, 2 lb fish (grouper, snapper, etc.), thyme to taste, hot peppers to taste, water, lime juice to taste, salt to taste, pepper to taste, butter
 
 ### Blueprint
-# [Bahamian Fish Boil](https://gypsyplate.com/bahamian-boiled-fish/)
-
 2 limes, hot sauce
 
-fry bacon in soup pot \-\> bites  
+fry bacon in soup pot -> bites  
 slice onion, potatoes, celery  
 add 2 lb fish (grouper, snapper, etc…), thyme, hot peppers  
 cover with water  
-lime juice, s\&p, butter
+lime juice, s&p, butter
 
 cover, low boil, until potatoes are done (20m)  
 salt / lime
@@ -432,25 +390,26 @@ salt / lime
 - **Ingredients:** 1 lb cod fillets, cut into pieces, 3 tbsp lemon juice, 3 tbsp olive oil, 1 tbsp melted butter, 1/4 cup flour, 1 tsp ground coriander, 1/2 tsp paprika, 1/2 tsp ground cumin, 3/4 tsp salt, 1/4 tsp black pepper, 3 cloves garlic, minced, fresh parsley to taste
 
 ### Blueprint
-# [Baked (Greek) Cod](https://www.themediterraneandish.com/baked-cod-recipe-lemon-garlic/)
-
 400  
 Mix 3T lemon, 3T o.o., T melted butter,   
 Mix ¼ cup flour, t coriander, ½ t paprika, ½ t cumin, ¾ t salt, ¼ t pepper  
 Dry 1 lb cod pieces  
-Fish \-\> lemon sauce \-\> flour
+Fish -> lemon sauce -> flour
 
 Sautee fish just 2m/side  
 Add 3 garlic to lemon sauce, cover fish  
 Bake 400 10 minutes  
 Parsley
 
-Greek salad \- tomato, cucumbe, red onion, green pepper, feta, olives,  O.O. red wine vinegar, oregano
+# Greek salad 
+tomato, cucumbe, red onion, green pepper, feta, olives,  O.O. red wine vinegar, oregano
 
-ROAST BROCCOLI \- oil & salt.  500, 10m flip, 5m  
+# ROAST BROCCOLI
+ oil & salt.  500, 10m flip, 5m  
 More salt, red pepper flakes, lemon, feta
 
-Fries or rice (toast vermicelli before starting rice).  Add toasted pine nuts at end.
+# Fries or rice 
+(toast vermicelli before starting rice).  Add toasted pine nuts at end.
 
 ---
 
@@ -465,16 +424,14 @@ Fries or rice (toast vermicelli before starting rice).  Add toasted pine nuts at
 - **Ingredients:** 5 tbsp olive oil, divided, 3 shallots, sliced, 4 cloves garlic, minced, salt and pepper, to taste, 2 lb tomatoes, skins removed, red pepper flakes, to taste, 1.5 lb shrimp, feta cheese, crumbled, to taste, oregano, to taste, fresh mint, to taste
 
 ### Blueprint
-# [Baked Shrimp/Tomato/Feta](https://cooking.nytimes.com/recipes/1016693-baked-greek-shrimp-with-tomatoes-and-feta)
-
 4T o.o., mh skillet  
-3 shallots, 4 garlic, s\&p \- **7m**  
-2lb tomatoes \- skin removed, s\&p, red pepper flakes \- **10m**  
+3 shallots, 4 garlic, s&p - **7m**  
+2lb tomatoes - skin removed, s&p, red pepper flakes - **10m**  
 stoneware
 
 400  
 
-1.5 lb shrimp with T o.o., s\&p, put on top,  
+1.5 lb shrimp with T o.o., s&p, put on top,  
 Feta, oregano  
 **11m**, let rest **5m**, mint
 
@@ -493,25 +450,24 @@ Serve over
 - **Ingredients:** chicken, to taste, salt, to taste, black pepper, to taste, paprika, to taste, cayenne pepper, to taste, cooking oil, as needed, butter, as needed, 2 red bell peppers, sliced, 2 green bell peppers, sliced, 1 onion, sliced, 16 oz canned tomatoes, 1/2 cup white wine, 1/2 cup water, bouillon, to taste, fresh parsley, to taste, rice, to taste, garlic, to taste, chicken broth, to taste
 
 ### Blueprint
-# [Basque Chicken](https://www.foodandwine.com/poulet-basquaise-6416720)
-
-s\&p chicken \+ paprika/cayenne  
-MH Oil, then butter, then chicken \- skin down, 5m  
+s&p chicken + paprika/cayenne  
+MH Oil, then butter, then chicken - skin down, 5m  
 Remove  
-M heat \- 2 red \+ 2 green bell Peppers sliced & 1 sliced onion, 10m  
+M heat - 2 red + 2 green bell Peppers sliced & 1 sliced onion, 10m  
 16 oz can Tomatoes, reduce by half (5-10m?)  
 ½ cup white Wine, scrape, reduce by half (5-10m?)  
 ½ cup Water, bouillon  
 Return chicken & juices  
 Cover & simmer 25m  
 Remove chicken,   
-H heat, boil sauce 5m, s\&p, parsley
+H heat, boil sauce 5m, s&p, parsley
 
-RICE PILAF \- onion garlic, butter, toast rice, s\&p, cook in chicken broth
+# RICE PILAF
+onion garlic, butter, toast rice, s&p, cook in chicken broth
 
 ---
 
-## Bay Scallops   \- Pasta (`rec_bay_scallops_pasta_516d1a`)
+## Bay Scallops  - Pasta (`rec_bay_scallops_pasta_516d1a`)
 - **Type:** main (pasta)
 - **Cuisine:** Italian | **Effort:** Low
 - **Seasons:** autumn, spring, summer
@@ -522,22 +478,13 @@ RICE PILAF \- onion garlic, butter, toast rice, s\&p, cook in chicken broth
 - **Ingredients:** 1 lb linguine, oil to taste, 1 red onion, chopped, 4 cloves garlic, 1.5 lb bay scallops, salt to taste, pepper to taste, 1 cup white wine, 1.5 tsp dijon mustard, parsley to taste
 
 ### Blueprint
-# [Bay Scallops   \- Pasta](https://www.wholefoodsmarket.com/recipes/bay-scallop-linguine-white-wine-and-parsley)
-
 cook lb linguine
 
 MH skillet, oil  
-red onion, chopped, 4 garlic \-\> 5m  
-1.5 lb bay scallops, s\&p, \-\> 2m  
-cup white wine, 1.5 tsp dijon \-\> 3m  
+red onion, chopped, 4 garlic -> 5m  
+1.5 lb bay scallops, s&p, -> 2m  
+cup white wine, 1.5 tsp dijon -> 3m  
 parsley
-
-Tri-Tip \- smoked  
-Pork Butt \- smoked  
-RibEye  
-Ground Beef  
-Chicken breast  
-Flank steak
 
 ---
 
@@ -552,11 +499,9 @@ Flank steak
 - **Ingredients:** green beans, cooking oil, 2 cloves garlic, sliced mushrooms, salt to taste, black pepper to taste
 
 ### Blueprint
-## [Beans & Mushrooms](https://www.eatingwell.com/recipe/252257/green-yellow-beans-with-wild-mushrooms/)
-
 Microwave green beans  
 Skillet M, oil, 2 garlic **1m**  
-Sliced mushrooms, **5m**, s\&p  
+Sliced mushrooms, **5m**, s&p  
 Add beans **2m**
 
 ---
@@ -572,15 +517,13 @@ Add beans **2m**
 - **Ingredients:** beef (skirt steak) to taste, 1/2 tsp salt, 2 1/2 tbsp sugar, 1/4 tsp white pepper, 2 tbsp plus 1 tsp shaoxing wine, 2 tbsp plus 1 tsp soy sauce, 1 1/2 tsp sesame oil, 1 1/2 tsp cornstarch, 1/8 tsp baking soda, 1/4 cup chicken stock, 1/4 cup oyster sauce, 2 cloves garlic, 2 tsp ginger, scallions to taste, cooking oil to taste, asparagus to taste, bell peppers to taste, shiitake mushrooms to taste
 
 ### Blueprint
-# [Beef & Asparagus Stir Fry](https://www.seriouseats.com/stir-fried-beef-skirt-steak-snap-peas-oyster-sauce-recipe) 
-
 1/2 t salt, 1/2 t sugar, 1/4 t white pepper, t shaoxing wine, t soy, 1/2t sesame oil, 1/2t cornstarch, 1/8t baking soda  
 cover & refrigerate 30m
 
 mix 2T soy, 2Twine, 1/4 cup chicken stock, 1/4 cup oyster sauce, 2T sugar, t sesame oil, t cornstarch, 2 garlic, 2 t ginger, scallion
 
 oil wok, 1m beef, toss 1m more, remove  
-cook asparagus, bell peppers, shitake \-\> char  
+cook asparagus, bell peppers, shitake -> char  
 add sauce, beef, 1m
 
 ---
@@ -596,9 +539,7 @@ add sauce, beef, 1m
 - **Ingredients:** steak (seasoned with salt and pepper to taste), 1/4 cup soy sauce, 1/4 cup lime juice, 2 tbsp sugar, 2 tbsp rice vinegar, 1 tbsp fresh ginger, 1 tbsp sesame oil, 6 oz rice noodles, zucchini (julienned, to taste), carrots (julienned, to taste), celery (julienned, to taste)
 
 ### Blueprint
-# [Beef Noodle Salad](https://www.tasteofhome.com/recipes/asian-noodle-beef-salad/)
-
-Steak s\&p \~7m per side, rest 5m, slice
+Steak s&p \~7m per side, rest 5m, slice
 
 Dressing
 
@@ -609,7 +550,7 @@ Dressing
 * T fresh ginger  
 * T sesame oil
 
-6 oz rice noodles \- rinse in cold water
+6 oz rice noodles - rinse in cold water
 
 Zucchini, carrots, celery (julienned)
 
@@ -626,14 +567,12 @@ Zucchini, carrots, celery (julienned)
 - **Ingredients:** 3 cups chicken stock, 4 packets (1 oz) unflavored gelatin, 3 tbsp tomato paste, 1 tbsp soy sauce, 1 tbsp anchovies or fish sauce, 1 tbsp Worcestershire sauce, cooking oil to taste, salt and pepper to taste, 3 lbs chuck roast, 10 oz mushrooms, 2 carrots, cut into bite-size pieces, 8 oz thawed pearl onions, 1 yellow onion, halved and unpeeled, 2 whole carrots, 2 ribs celery, 4 cloves garlic, unpeeled, 1 cup red wine or sherry, 2 tbsp flour, 2 bay leaves, 4 sprigs fresh thyme, 1 lb Yukon Gold potatoes, peeled and cubed, 4 oz peas
 
 ### Blueprint
-# [Beef Stew](https://www.seriouseats.com/pressure-cooker-beef-stew-recipe)
-
 BLEND 3 cups chicken stock, 4 packets (1 oz) unflavored gelatin, 3T tomato paste, T soy sauce, T anchovies / fish sauce, T worcestershire suace
 
-heat oil, S\&P 3 lbs chuck roast, brown both sides (10m), REMOVE  
+heat oil, S&P 3 lbs chuck roast, brown both sides (10m), REMOVE  
 10 oz mushrooms, 6m   
-2 chopped to bite-size carrots, 8oz thawed pearl onions, few minutes more, s\&p, REMOVE  
-halved unpeeled yellow onion, 2 whole carrots, 2 celery, 4 unpeeled garlic \- 4m  
+2 chopped to bite-size carrots, 8oz thawed pearl onions, few minutes more, s&p, REMOVE  
+halved unpeeled yellow onion, 2 whole carrots, 2 celery, 4 unpeeled garlic - 4m  
 cup red wine/sherry, scrape, 3m  
 add back stock  
 cut steaks to 1.5" chunks, toss with 2T flour, throw it in  
@@ -642,7 +581,7 @@ pressure cook 30m
 REMOVE whole carrot, celery, thyme, bay leaf, halved onion, and garlic  
 add lb peeled and cubed yukon gold potatoes and sauteed mushroom mix  
 pressure cook 15m more  
-4 oz peas, s\&p
+4 oz peas, s&p
 
 ---
 
@@ -656,8 +595,6 @@ pressure cook 15m more
 - **Ingredients:** 1+ lb skinless boneless chicken thighs, 3 ounces small red chilies (preferably malagueta / thai), 5 garlic cloves, lightly crushed, Scant 1/3 cup light olive or sunflower oil, 2 Tbsp. lemon juice, 2 1/2 tsp. tomato paste, 2 1/2 tsp. superfine sugar, 1/2 tsp. dried red pepper flakes, 1 heaping Tbsp. sweet paprika, 2 tsp. sea salt, Pinch of dried oregano, 2 Tbsp. honey, 1 Tbsp. cider vinegar, 1 tsp. Dijon mustard, Red bell pepper strips, to taste, Salt and black pepper, to taste, Flatbreads, to taste, Chili mayo, to taste, Arugula, to taste, Plum tomato slices, to taste, Grated cheddar cheese, to taste
 
 ### Blueprint
-# [Beirut Sandwich](https://www.oprah.com/food/the-beirut-recipe)
-
 Marinade OVERNIGHT lb+ skinless boneless chicken thighs in
 
 3 ounces small red chilies (preferably malagueta / thai)  ROASTED (split, then 350 for 10m w. Garlic & o.o., then food processor the whole business along with the rest of…)  
@@ -676,7 +613,7 @@ Make glaze
 1 Tbsp. cider vinegar  
 1 tsp. Dijon mustard
 
-Red Bell pepper strips & chicken chunks on skewer, S\&P  
+Red Bell pepper strips & chicken chunks on skewer, S&P  
 M broiler or BBQ.  10-15m  
 Glaze, and cook 3 more minutes
 
@@ -695,8 +632,6 @@ Now, assemble on flatbreads, spread with chili mayo, arugula, plum tomato slices
 - **Ingredients:** 1.5 tbsp paprika, 2 tsp red pepper flakes, 1 tsp cumin, 1/2 tsp coriander, 1/2 tsp cardamom, 1/2 tsp turmeric, 1/2 tsp salt, 1/2 tsp fenugreek, 1/2 tsp black pepper, pinch ground cloves, pinch ground allspice, pinch ground ginger, pinch ground cinnamon, 2 onions, diced, 2 carrots, diced, 5 cloves garlic, minced, 1 tbsp fresh ginger, minced, 2 tbsp olive oil, 1 cup green lentils, 1 cup tomatoes, diced, 1 tsp salt, 3 cups water, 6 chicken thighs, salt to taste, fresh parsley to taste
 
 ### Blueprint
-# [Berbere Chicken & Lentils](https://www.sidechef.com/recipes/2761/crispy_berbere_chicken_with_ethiopian_lentils/) 
-
 Toast & grind Berbere seasoning if necessary  
 1.5T paprika  
 2t red pepper flakes  
@@ -731,12 +666,10 @@ Serve over lentil mix with parsley
 - **Ingredients:** bulgogi to taste, rice to taste, mushrooms to taste, carrots to taste, spinach to taste, zucchini to taste, bean sprouts to taste, soy sauce to taste, garlic to taste, sesame oil to taste, eggs to taste, 4 parts gochujang, 2 parts mirin, 1.5 parts soy sauce, 1 part sesame oil, 2 parts sugar, 2 parts rice vinegar, 1 part minced garlic
 
 ### Blueprint
-# Bi Bim Bap
-
 Bulgogi, rice  
-Mushrooms, carrots, spinach, zucchini, bean sprouts \- matchstick, sautee, add (soy, garlic, sesame)  
+Mushrooms, carrots, spinach, zucchini, bean sprouts - matchstick, sautee, add (soy, garlic, sesame)  
 Fried eggs  
-Sauce \- 4 gochujang, 2 mirin, 1.5 soy, 1 sesame oil, 1 sugar, 2 rice vinegar, 1 garlic, 1 sugar
+Sauce - 4 gochujang, 2 mirin, 1.5 soy, 1 sesame oil, 1 sugar, 2 rice vinegar, 1 garlic, 1 sugar
 
 ---
 
@@ -750,16 +683,14 @@ Sauce \- 4 gochujang, 2 mirin, 1.5 soy, 1 sesame oil, 1 sugar, 2 rice vinegar, 1
 - **Ingredients:** 2 tbsp gochujang, 1 tbsp sesame oil (plus extra to taste), 1 tbsp sugar (plus extra to taste), 1 tbsp water, 1 tsp rice vinegar, 1 tsp minced garlic (plus extra to taste), 1 tbsp toasted sesame seeds (optional), meat, to taste, mushrooms, to taste, carrots, to taste, spinach, to taste, soy sauce, to taste, rice, to taste, eggs, to taste
 
 ### Blueprint
-# Bi Bim Bap
-
 2 T Gochujang, T Sesame oil, T Sugar, T Water  
 1 tsp Rice vinegar   
 1 tsp Minced garlic  
 (Optional) 1 Tbsp Toasted sesame seeds 
 
 Cook meat  
-Cook mushrooms, julienne carrots, spinach \- soy, sugar, garlic, sesame  
-Rice \- all that, sunny side up eggs
+Cook mushrooms, julienne carrots, spinach - soy, sugar, garlic, sesame  
+Rice - all that, sunny side up eggs
 
 ---
 
@@ -774,9 +705,7 @@ Rice \- all that, sunny side up eggs
 - **Ingredients:** 6 oz soba noodles, 2 Tbsp gochujang, 2 Tbsp rice vinegar, 1 Tbsp soy sauce, 1 Tbsp honey, 1 Tbsp brown sugar, 1 Tbsp sesame oil, 1 Tbsp toasted sesame seeds, 1 clove garlic, purple cabbage, julienned, to taste, carrot, julienned, to taste, cucumber, julienned, to taste, radish, julienned, to taste, lettuce to taste, kimchi to taste, snow peas to taste, hard boiled eggs to taste, tuna to taste
 
 ### Blueprint
-# [Bibim Guksu](https://mykoreankitchen.com/spicy-sweet-and-vinegary-noodles-bibim-guksu/)
-
-6 oz Soba noodles \- cold
+6 oz Soba noodles - cold
 
 sauce  
 2 Tbsp gochujang (Korean chili paste)  
@@ -788,7 +717,7 @@ sauce
 1 Tbsp toasted sesame seeds  
 1 garlic
 
-Julienne \- purple cabbage, carrot, cucumber, radish  
+Julienne - purple cabbage, carrot, cucumber, radish  
 Lettuce, kimchi, snow peas,...
 
 Hard boiled eggs, tuna,...
@@ -806,11 +735,9 @@ Hard boiled eggs, tuna,...
 - **Ingredients:** 1.5 lb pork chops, 1.5 cups white wine, 6 cloves garlic, 2 bay leaves, 1 tbsp white wine vinegar, 1 tbsp paprika, 2 tsp kosher salt, lard as needed, crusty rolls as needed, mustard to taste, chili sauce to taste
 
 ### Blueprint
-# [Bifana](https://leitesculinaria.com/282255/recipes-bifanas-portuguese-pork-sandwiches.html#wprm-recipe-container-390448)
-
 slice / pound 1.5 lb pork chops deli meat thin
 
-marinate in 1.5 cups white wine, 6 garlic, 2 bay leaves, T white wine vinegar, T paprika, 2t kosher salt \- 1.5 hours
+marinate in 1.5 cups white wine, 6 garlic, 2 bay leaves, T white wine vinegar, T paprika, 2t kosher salt - 1.5 hours
 
 skillet MH lard 1m/side, remove
 
@@ -830,8 +757,6 @@ return to coat and warm, serve on crusty rolls with mustard, chili sauce
 - **Ingredients:** 12 dried guajillo chiles (or New Mexico/pasilla/California), 5 dried ancho chiles, 5 dried chile de arbol, 2 tomatoes, 1/2 yellow onion, 1 cinnamon stick, 3 bay leaves, 1/2 tsp peppercorns, 1 cup reserved chile water, 2 cups beef broth, 1/4 cup white vinegar, 5 cloves garlic, 1 tsp cumin, 1 tsp oregano, 1/2 tsp cloves, 4 lbs beef chuck roast, salt to taste, pepper to taste, cumin (for rub) to taste, tortillas to taste, cheese to taste, cilantro to taste, diced onion to taste
 
 ### Blueprint
-# [Birria](https://www.isabeleats.com/authentic-birria/)
-
 12 dried guajillo / new mexico / pasilla / California, 5 ancho, 5 arbol, 2 tomatoes, ½ yellow onion, 1 cinnamon stick, 3 bay leaves, ½ t peppercorns,  COVER in water and boil then cover low for 10m
 
 Arbol are the spiciest, ancho spicy
@@ -841,7 +766,7 @@ Remove items to blender, with a cup of the water,  2 cups beef broth, ¼ cup whi
 STRAIN
 
 4 lbs chuck or whatever  
-Instant pot \- dry meat, s\&p\&cumin then sear the meat, then add sauce and 60 high \+ 10 m release
+Instant pot - dry meat, s&p&cumin then sear the meat, then add sauce and 60 high + 10 m release
 
 shred
 
@@ -862,22 +787,20 @@ Have some sauce for dipping
 - **Ingredients:** 2-3 heads baby bok choy, 2 tsp soy sauce, 1/2 tsp sesame oil, 1/2 tsp sugar, 1 tsp cornstarch, 1 tbsp water, garlic, to taste, 1 tbsp gochujang, 1 tbsp vegetable oil, sesame seeds, to taste
 
 ### Blueprint
-## [Bok Choy Namul](https://www.cooking-4-one.com/2020/01/18/bok-choy-namul-korean-style-bok-choy/)
-
 Per person
 
-2-3 baby bok choy heads \-\> cut base, separate leaves, wash, blanch 20 sec \-\> ice \-\> drain / pat
+2-3 baby bok choy heads -> cut base, separate leaves, wash, blanch 20 sec -> ice -> drain / pat
 
-2t soy, ½ t sesame oil, ½ t sugar, t cornstarch, T water \-\> whisk
+2t soy, ½ t sesame oil, ½ t sugar, t cornstarch, T water -> whisk
 
-Garlic, T gochujang, T veg oil, \-\> MH 2m  
+Garlic, T gochujang, T veg oil, -> MH 2m  
 Add bok choy, 2m, coating.  
 Add slurry, coat, add water if needed  
 Sesame seeds
 
 ---
 
-## Boston Butt Pizza (`rec_butt_eba9e7`)
+## Boston Butt (`rec_butt_eba9e7`)
 - **Type:** main (standard)
 - **Cuisine:** American | **Effort:** Medium-High
 - **Seasons:** autumn, summer, spring, winter
@@ -888,72 +811,13 @@ Sesame seeds
 - **Ingredients:** pork butt to taste, mustard to taste, pork rub to taste, 2 parts apple juice, 1 part apple cider vinegar, hot sauce to taste, worcestershire sauce to taste
 
 ### Blueprint
-# Butt
-
-\- score fat cap, mustard, pork rub  
-250 with Hickory \- indirect (conveggtor, drip pan, grill) fat down  
+- score fat cap, mustard, pork rub  
+250 with Hickory - indirect (conveggtor, drip pan, grill) fat down  
 3 hours, then baste (2 apple juice, 1 apple cider vinegar, hot sauce & worcestershire)  
 Baste every 30m until 165  (could be another 4 hours\!)  
-Double wrap aluminum foil, 275 \-\> 204 (2 more hours\!)  
+Double wrap aluminum foil, 275 -> 204 (2 more hours\!)  
 Remove and open foil for 15m, then wrap it back up and put in cooler for an hour  
 Shred with juice
-
----
-
-## Boston Butt Pizza (`rec_butt_https_thebbqbuddha_com_ho_525a95`)
-- **Type:** main (bread)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** spring, summer, autumn, winter
-- **Vibe:** smoky, savory, tangy, cheesy
-- **Times (min):** Prep: 20, Cook: 15, Oven: 15
-- **Source:**  (https://thebbqbuddha.com/how-to-smoke-a-boston-butt-on-the-big-green-egg/)
-- **Ingredients:** 1 ball pizza dough, 1 1/2 cups smoked pork butt (pulled pork), 1/2 cup barbecue sauce, 1 1/2 cups shredded mozzarella cheese, 1/4 red onion, thinly sliced, fresh cilantro to taste
-
-### Blueprint
-# [Butt](https://thebbqbuddha.com/how-to-smoke-a-boston-butt-on-the-big-green-egg/) Pizza
-
----
-
-## Boston Butt Pizza (`rec_butt_04b2c6`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Medium-High
-- **Seasons:** spring, summer, autumn
-- **Vibe:** smoky, savory, tangy
-- **Dietary:** dairy-free, gluten-free
-- **Times (min):** Prep: 15, Cook: 480, Oven: None
-- **Source:**  (https://thebbqbuddha.com/how-to-smoke-a-boston-butt-on-the-big-green-egg/)
-- **Ingredients:** 1 pork butt, yellow mustard to taste, pork rub to taste, hickory wood chunks or chips, 2 parts apple juice, 1 part apple cider vinegar, hot sauce to taste, worcestershire sauce to taste
-
-### Blueprint
-## Butt
-
-\- score fat cap, mustard, pork rub  
-250 with Hickory \- indirect (conveggtor, drip pan, grill) fat down  
-3 hours, then baste (2 apple juice, 1 apple cider vinegar, hot sauce & worcestershire)  
-Baste every 30m until 165  
-Double wrap aluminum foil, 275 \-\> 204  
-Remove and open foil for 15m, then wrap it back up and put in cooler for an hour  
-Shred with juice
-
----
-
-## Boston Butt Pizza (`rec_peanut_butter_ramen_faab1a`)
-- **Type:** main (pasta)
-- **Cuisine:** Fusion | **Effort:** Low
-- **Seasons:** winter, spring, summer, autumn
-- **Vibe:** nutty, spicy, savory, umami, quick
-- **Dietary:** dairy-free, vegetarian, vegan
-- **Times (min):** Prep: 5, Cook: 5, Oven: None
-- **Source:**  (https://thebbqbuddha.com/how-to-smoke-a-boston-butt-on-the-big-green-egg/)
-- **Ingredients:** 3 tbsp peanut butter, 2 tsp soy sauce, 1.5 tbsp gochujang or sriracha, 1 tbsp toasted sesame oil, 1 pack ramen noodles, 1/3 cup noodle cooking water, peanuts, to taste, scallions, to taste, cilantro, to taste, lime, to taste
-
-### Blueprint
-# [Peanut Butter Ramen](https://www.realsimple.com/food-recipes/browse-all-recipes/peanut-butter-ramen-recipe?print)
-
-3T pb, 2t soy, 1.5T gochujang or sriracha, T toasted sesame oil  
-Cook noodles, drain, add ⅓ cup cooking water to sauce  
-Add noodles to sauce \- add more water as needed  
-Top with Peanuts, scallions, cilantro, lime
 
 ---
 
@@ -967,16 +831,14 @@ Top with Peanuts, scallions, cilantro, lime
 - **Ingredients:** 1/2 cup bread crumbs, 1/2 cup pecorino romano, 4 tbsp chopped parsley, Garlic, to taste, Olive oil, as needed, Salt and pepper, to taste, 1.5-2 lb top round, flank, or skirt steak, sliced thin, 3 cloves garlic, 1/2 cup red wine, 28 oz tomato puree, Water, as needed, Hard-boiled eggs (optional), Pine nuts (optional), Soaked raisins (optional)
 
 ### Blueprint
-# [Braciole](https://www.marcellinaincucina.com/authentic-italian-braciole-recipe/)
-
-mix 1/2 cup bread crumbs, 1/2 cup pecorino romano, 4T parsley, garlic, oo, s\&p  
+mix 1/2 cup bread crumbs, 1/2 cup pecorino romano, 4T parsley, garlic, oo, s&p  
 make many thin steaks out of 1.5-2 lb pound top round thin (or skirt or flank)  
 fill with mix, roll up and tie  
-brown in hot oil \- 3m/side  
+brown in hot oil - 3m/side  
 3 garlic & 1/2 cup red wine 3m  
-28 oz tomato puree, s\&p, simmer covered 90m \- check after 45 to trun and addwater
+28 oz tomato puree, s&p, simmer covered 90m - check after 45 to trun and addwater
 
-optional \- add hard boiled eggs, pine nuts, soaked raisins
+optional - add hard boiled eggs, pine nuts, soaked raisins
 
 ---
 
@@ -991,11 +853,9 @@ optional \- add hard boiled eggs, pine nuts, soaked raisins
 - **Ingredients:** 1 tbsp paprika, 2 tsp coriander, 1.5 tsp cumin, 0.25 tsp cinnamon, 0.25 tsp cayenne, 4 cloves garlic, cooking oil to taste, 4 tbsp tomato paste, 5 oz frozen spinach, 1.5 cups water, 2 tsp sugar, 1 tsp kosher salt (plus more to taste), black pepper to taste, 1.5 lb frozen white fish fillets, lemon zest to taste, cilantro to taste, couscous to taste
 
 ### Blueprint
-# [Braised Fish in spicy tomato sauce](https://www.realsimple.com/food-recipes/browse-all-recipes/fish-tomato-sauce-recipe?print)
-
 T Paprika, 2t coriander, 1.5 t cumin, ¼ t cinnamon, ¼ t cayenne, 4 garlic  
 Sautee oil M heat, spice mix 30 sec, 4T tomato paste, 1m  
-5 oz frozen spinach, 1.5 cups water, 2t sugar, t+ kosher salt, pepper \- cover & simmer 3-4m  
+5 oz frozen spinach, 1.5 cups water, 2t sugar, t+ kosher salt, pepper - cover & simmer 3-4m  
 1.5 lb frozen white fish filets. Simmer 5-10m more until fish cooked   
 Lemon zest & cilantro
 
@@ -1014,17 +874,15 @@ Couscous
 - **Ingredients:** 4 eggplants, 2 tbsp tahini, 2 tbsp lemon juice, 7 cloves garlic, water to taste, salt to taste, black pepper to taste, olive oil to taste, 1 onion, 1/2 tsp chili flakes, 1/2 tsp ground cinnamon, 1/2 tsp ground cumin, 2 tsp tomato paste, 11 oz ground beef, 3.5 oz tomatoes, chopped, 2 tsp preserved lemon, 4 eggs, sumac to taste, parsley to taste
 
 ### Blueprint
-# [Braised eggs with beef, smoked aubergine and tomato](https://ottolenghi.co.uk/recipes/braised-eggs-with-beef-smoked-aubergine-and-tomato#)
-
 Pierce 4 eggplant in a few places, cook directly over M flame (no pan) for 20m, turning occasionally, until outside is burnt, and inside is caving in.  
 Place in colander, Cut a slit, and drain juice.  Allow to cool.  Scoop out just flesh, throw away skin.
 
 2T tahini, 2T lemon, 1 garlic, T water, salt
 
-MH Skillet, Olive oil, \-\> 1 onion, 6 garlic, ½ t chili, ½ t cinnamon, ½ t cumin, 2t tomato paste **6m**  
+MH Skillet, Olive oil, -> 1 onion, 6 garlic, ½ t chili, ½ t cinnamon, ½ t cumin, 2t tomato paste **6m**  
 H 11oz Ground beef, t salt, pepper **6m**
 
-3.5 oz tomatoes, chopped, 2t preserved lemon (lemon zest \+ salt), the eggplant flesh, **5m**  
+3.5 oz tomatoes, chopped, 2t preserved lemon (lemon zest + salt), the eggplant flesh, **5m**  
 Add water so not too thick
 
 Make 4 wells, crack eggs in.  L heat, 10m  
@@ -1042,19 +900,17 @@ Dot with tahini sauce, sumac, parsley, olive oil
 - **Ingredients:** 1 pork tenderloin, cut into 4 pieces, 3 tbsp salt, 1 tbsp sugar, 1 cup water, 1 sleeve saltine crackers, all-purpose flour, 1/2 cup milk, 1 egg, 1 tbsp black pepper, 1 tbsp paprika, 1/2 tsp cayenne pepper, 1/2 tsp MSG, frying oil (as needed), butter (to taste), 4 hamburger buns, mustard (to taste), red onion (to taste), pickle slices (to taste), lettuce (to taste), tomato (to taste), mayonnaise (to taste)
 
 ### Blueprint
-# [Breaded Tenderloin sandwich](https://www.seriouseats.com/midwestern-breaded-pork-tenderloin-sandwich-recipe-8778098)
-
 Cut pork tenderloin in 4s  
 Butterfly  
 Pound to 1/4“
 
-3T Salt, T sugar, cup water \- marinate 1-4 hours
+3T Salt, T sugar, cup water - marinate 1-4 hours
 
-sleeve saltines \-\> food process to flour  
-Dredging is flour \-\> ½ cup milk \+ egg \-\> crackers
+sleeve saltines -> food process to flour  
+Dredging is flour -> ½ cup milk + egg -> crackers
 
 Mix up T pepper, T paprika, ½ t cayenne, ½ t msg, add to all 3 dredging stations equally  
-Dry tenderloin, then dredge \- palace on wire rack and refrigerate 30-60m
+Dry tenderloin, then dredge - palace on wire rack and refrigerate 30-60m
 
 Oven 150, oil to 425, fry about 2m, keeping oil at 375\.  Pork should be 145  
 Transfer to oven if cooking in batches
@@ -1076,8 +932,6 @@ Sandwich can be mustard, red onion, pickle or lettuce, tomato, mayo
 - **Ingredients:** 1 lb broccoli, 1 tbsp sesame oil, 1/2 tsp minced garlic, salt to taste, sesame seeds to taste
 
 ### Blueprint
-## [Broccoli](https://www.koreanbapsang.com/sesame-broccoli/)
-
 Boil broccoli 2m, ice bath  
 T sesame oil, ½ t garlic, salt, sesame seeds (for 1 lb broc)
 
@@ -1092,10 +946,8 @@ T sesame oil, ½ t garlic, salt, sesame seeds (for 1 lb broc)
 - **Ingredients:** onion, to taste, butter, to taste, flour, to taste, cream, to taste, broth, to taste, salt, to taste, black pepper, to taste, nutmeg, to taste, cayenne, to taste, paprika, to taste, broccoli, to taste, carrot, to taste, cheddar cheese, to taste
 
 ### Blueprint
-# Broccoli Cheddar soup
-
-Sautee onion in butter, flour, add cream, broth, s\&p, nutmeg, cayenne, paprika  
-Broccoli, carrot \- 20 minutes or so  
+Sautee onion in butter, flour, add cream, broth, s&p, nutmeg, cayenne, paprika  
+Broccoli, carrot - 20 minutes or so  
 Blend it a little  
 Fold in Cheddar cheese
 
@@ -1112,8 +964,6 @@ Fold in Cheddar cheese
 - **Ingredients:** broccoli (to taste), squid (calamari) (to taste), spaghetti (to taste), garlic (to taste), olive oil (to taste), chili (to taste), parsley (to taste), black pepper (to taste)
 
 ### Blueprint
-# [Broccoli Squid pasta](https://www.sicilianicreativiincucina.it/pasta-con-cime-di-rapa-e-calamari/?lang=en)
-
 boil broccoli 10m, blend half w. O.o. & cooking water  
 Slice calamari, cook quickly in garlic, o.o., chili  
 Cook Spaghetti in broccoli water  
@@ -1131,10 +981,8 @@ mix w. O.o. parsley, black pepper
 - **Ingredients:** broccoli rabe, garlic, red pepper flakes to taste, salt to taste, black pepper to taste, lemon juice to taste
 
 ### Blueprint
-# Broccoli rabe
-
-Blanch 2m \-\> ice  
-M Skillet garlic 30s red pepper flakes, broccoli, 4m, s\&p, lemon
+Blanch 2m -> ice  
+M Skillet garlic 30s red pepper flakes, broccoli, 4m, s&p, lemon
 
 ---
 
@@ -1149,17 +997,15 @@ M Skillet garlic 30s red pepper flakes, broccoli, 4m, s\&p, lemon
 - **Ingredients:** 1 tbsp brown sugar, 1 tbsp soy sauce, 1 tsp onion powder, 1 tsp garlic powder, 1 tbsp molasses, 1 tsp black pepper, 1 tsp ground allspice, 1 tsp kosher salt, 1 tsp paprika, 1/2 tsp dried thyme, 8 chicken thighs (approx. 2 lb), 1 tbsp cooking oil, 1 sliced yellow onion, 1 bell pepper, 1 chopped tomato, 4 scallions, 1-2 hot peppers, 4 cloves garlic, 3 cups chicken broth, 1 tbsp dark brown sugar, 2.5 tbsp ketchup, 1 tbsp Worcestershire sauce, 2 tsp minced ginger, 1 tsp molasses, 1 tsp allspice, 6 sprigs fresh thyme, 1 bouillon cube, 3 bay leaves, black pepper to taste, cornstarch and water slurry to taste, rice (for serving)
 
 ### Blueprint
-# [Brown Stew Chicken](https://www.delish.com/cooking/recipe-ideas/a44903119/brown-stew-chicken-recipe/)
-
 T brown sugar, T soy, t onion powder, t garlic powder, T molasses, t pepper, t allspice, t kosher salt, t paprika, 1/2 t thyme
 
-rub this marinade on 8 chicken thighs (2lb) \- refrigerate 2-12 hours
+rub this marinade on 8 chicken thighs (2lb) - refrigerate 2-12 hours
 
 M heat, T oil, brown chicken 5m, flip, 5m.  (do 2 batches if necessary)  
 Remove
 
-sliced yellow onion, bell pepper \- 8m  
-chopped tomato \- 5m  
+sliced yellow onion, bell pepper - 8m  
+chopped tomato - 5m  
 4 scallions, 1-2 hot pepper, 4 garlic, 3c chicken broth, T dark brown sugar, 2.5 T ketchup, T worcestershire, 2t ginger, t molasses, t allspice, 6 sprigs thyme, bouillon cube, 3 bay leaves, black pepper
 
 MH, stirring and scraping, 5m  
@@ -1182,9 +1028,7 @@ rice
 - **Ingredients:** brussels sprouts, halved, mushrooms, onions, olive oil, bacon, salt and pepper to taste
 
 ### Blueprint
-## [Brussels](https://www.artandthekitchen.com/best-ever-brussels-sprouts/)
-
-half brussels sprouts, mushrooms, onions \- o.o., bacon, s\&p  
+half brussels sprouts, mushrooms, onions - o.o., bacon, s&p  
 350 x 30, turn in middle
 
 ---
@@ -1200,16 +1044,14 @@ half brussels sprouts, mushrooms, onions \- o.o., bacon, s\&p
 - **Ingredients:** Brussels sprouts, halved, Butternut squash, cut into 3/4-inch cubes, Olive oil (for roasting, to taste), Salt and pepper, to taste, Dried cranberries, to taste, 2 tsp Dijon mustard, 1 tbsp vinegar, 2 tbsp olive oil
 
 ### Blueprint
-## [Brussels & squash](https://www.abeautifulplate.com/roasted-brussels-sprouts-squash-dried-cranberries-dijon-vinaigrette/)
-
 Roast ½ brussels 20m , ¾” butternut squash  
-O.o., s\&p
+O.o., s&p
 
 450, 30m
 
 Dried cranberries
 
-2t dijon, T vinegar, 2T o.o. (add slowly, whisking), s\&p
+2t dijon, T vinegar, 2T o.o. (add slowly, whisking), s&p
 
 ---
 
@@ -1223,31 +1065,15 @@ Dried cranberries
 - **Ingredients:** 1.5 cups bread crumbs, olive oil, to taste, fresh thyme, to taste, butter, to taste, 2 lb whole Brussels sprouts, salt, to taste, black pepper, to taste, 6 oz bacon, chopped, 3 tbsp shallots, minced, 1 tbsp garlic, minced, 1/2 cup balsamic vinegar, 1.5 cups stock
 
 ### Blueprint
-## [Brussels / bacon](https://smittenkitchen.com/2009/12/balsamic-braised-brussels-with-pancetta/)
-
 450 for 30 would be simple version
 
-Toast 1.5 cups bred crumbs with o.o. \+ thyme (10-12m @ 350\)  
+Toast 1.5 cups bred crumbs with o.o. + thyme (10-12m @ 350\)  
 Sautee MH  
 Butter, o.o., 2lb whole sprouts, salt & pepper, 8m  
 6oz chopped bacon, 12m  
 3T shallot, T garlic, 2m  
-Braise \- High heat, ½ cup balsamic, 1.5 cups stock, 20m  
+Braise - High heat, ½ cup balsamic, 1.5 cups stock, 20m  
 Top with bread crumbs in serving dish
-
----
-
-## Bulgogi (`rec_bulgogi_cdfb03`)
-- **Type:** main (stir-fry)
-- **Cuisine:** Korean | **Effort:** Medium
-- **Seasons:** spring, summer, autumn, winter
-- **Vibe:** savory, sweet, umami, garlicky
-- **Dietary:** dairy-free
-- **Times (min):** Prep: 20, Cook: 10, Oven: 0
-- **Ingredients:** 1 lb beef ribeye or sirloin, thinly sliced, 3 tbsp soy sauce, 1.5 tbsp brown sugar, 1 tbsp toasted sesame oil, 1 tbsp mirin, 1/4 Asian pear, grated, 3 cloves garlic, minced, 1 tsp fresh ginger, grated, 2 scallions, thinly sliced, 1 tsp toasted sesame seeds, black pepper to taste
-
-### Blueprint
-# Bulgogi
 
 ---
 
@@ -1262,17 +1088,15 @@ Top with bread crumbs in serving dish
 - **Ingredients:** 1 lb thin-sliced steak, 4 lemongrass inner cores, thinly sliced, 3 cloves garlic, 3 tbsp brown sugar, 6 tbsp fish sauce, 1 inch ginger, 4 limes, juiced, 1/2 orange, juiced, 2 small red chilies, thinly sliced, 6 oz rice noodles, Cooking oil to taste, 2 carrots, shredded, 2 shallots, thinly sliced, 2 baby cucumbers, thinly sliced, Chopped roasted peanuts to taste, Fried shallots to taste, Lime wedges to taste
 
 ### Blueprint
-# [Bun Cha](https://www.delicious.com.au/recipes/vietnamese-bun-cha-lemongrass-beef/YT8gbdtT?r=recipes/collections/l5akqqov)
-
 Marinate lb thin-sliced steak in   
 4 lemongrass inner core, thin sliced, 2 garlic, T brown sugar, 2T fish sauce **30m**
 
 Dressing  
-1” Ginger, 1 garlic, 2T brown sugar \-\> grind to a paste  
+1” Ginger, 1 garlic, 2T brown sugar -> grind to a paste  
 ¼ cup fish sauce  
 Juice of 4 limes  
 Juice of ½ orange  
-1 small red chili \- no seeds, thin sliced
+1 small red chili - no seeds, thin sliced
 
 Cook 6 oz rice noodles, put in dressing
 
@@ -1288,22 +1112,6 @@ Lime wedges
 
 ---
 
-## Burnt Ends (`rec_burnt_ends_e0b96e`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** autumn, summer, spring, winter
-- **Vibe:** savory, smoky, garlicky, hearty
-- **Times (min):** Prep: 5, Cook: 12, Oven: 12
-- **Ingredients:** burnt ends to taste, baked beans to taste, Texas toast to taste, butter to taste, garlic powder to taste, salt to taste, parsley to taste
-
-### Blueprint
-# Burnt Ends
-
-Baked beans  
-Texas toast \- butter both sides, garlic powder, salt, parsley, bake 6m \+ 6m @ 400
-
----
-
 ## Cacio e Pepe (`rec_cacio_e_pepe_a200a4`)
 - **Type:** main (pasta)
 - **Cuisine:** Italian | **Effort:** Medium
@@ -1314,8 +1122,6 @@ Texas toast \- butter both sides, garlic powder, salt, parsley, bake 6m \+ 6m @ 
 - **Ingredients:** 6 oz pasta, 2 tbsp butter, 1 tsp black pepper, 1/2 cup pasta water, 3/4 cup parmesan cheese, 1/3 cup pecorino romano cheese
 
 ### Blueprint
-# Cacio e Pepe
-
 cook 6 oz pasta
 
 toast 1m: 2T butter, t black pepper, mortar & pestle it  
@@ -1337,8 +1143,6 @@ remove
 - **Ingredients:** 1 lb flank steak, 1 lime, 2 cloves garlic, crushed, 1/4 cup orange juice, 1/2 cup fresh cilantro, 1/4 tsp salt, 1/8 tsp black pepper, 2 tbsp cooking oil, 1 jalapeno, 1 tbsp white vinegar
 
 ### Blueprint
-# [Carne Asada](https://thestayathomechef.com/authentic-carne-asada/)
-
 Lb flank steak  
 Lime  
 2 crushed garlic  
@@ -1367,15 +1171,13 @@ Super high heat grill, **7-10m / side,** rest **10m**, slice
 - **Ingredients:** 3 lb flanken ribs, 1/2 cup worcestershire sauce or soy sauce, 1/4 cup oil, 1/3 cup white vinegar, 5 cloves garlic, 1/2 onion, sliced, salt and pepper to taste, 1 tsp cumin, 1 tsp coriander, 1 tsp chili powder, 1 tsp oregano, 2 tbsp lime juice, 1/4 cup water, green onions to taste
 
 ### Blueprint
-# [Carne asada flanken ribs](https://fortheloveofcooking.net/recipe/grilled-mexican-flanken-short-ribs)
-
 3 lb flanken ribs  
 ½  cup worcestershire / soy  
 ¼ cup oil   
 ⅓ cup white vinegar  
 5 garlic  
 ½ onion sliced  
-s\&p  
+s&p  
 t each Cumin, coriander, chili, oregano, 2T lime
 
 Marinate overnight  
@@ -1396,13 +1198,11 @@ Green onions
 - **Ingredients:** 2 lb pork shoulder, cubed, 2 tbsp red pepper paste, 6 cloves garlic, 1 cup white wine (plus extra for cooking), 3 bay leaves, 1 tsp paprika, black pepper to taste, clam juice to taste, 2 lb potatoes, peeled and cubed, salt to taste, oil for frying, 13 oz clams
 
 ### Blueprint
-# Carne de Porco à Alentejana
-
 Marinate 2lb CUBED pork shoulder in 2T red pepper paste, 6 garlic, cup white wine, 3 bay leaves, t paprika, pepper overnight
 
 Brown pork (about 6m).  Add marinade, white wine, clam juice, cover & simmer 40m
 
-cube 2 lb peeled potatoes \- put in salted water and boil (5m of boiling), drain and air dry  
+cube 2 lb peeled potatoes - put in salted water and boil (5m of boiling), drain and air dry  
 Fry at 350, drain and salt  (could air fry at 400 20m)
 
 Turn up heat on pork, add 13 oz clams 2m, potatoes
@@ -1420,13 +1220,11 @@ Turn up heat on pork, add 13 oz clams 2m, potatoes
 - **Ingredients:** 2 lb flank steak, cubed, salt to taste, black pepper to taste, 1 lb tomatillos, 3 serrano chiles, 8 oz bacon, chopped, pickled jalapeno to taste, 1 cup fresh cilantro, plus extra for garnish, 1/2 tsp kosher salt, 1 white onion, chopped, plus extra for garnish, 2 cloves garlic, 3 1/2 cups water, 1 tbsp bouillon, 1/2 tsp umami seasoning, 2 (15 oz) cans white beans, lime wedges to taste, charred cebollitas to taste, sliced radishes to taste
 
 ### Blueprint
-# [Carne en su Jugo](https://www.thekitchn.com/carne-en-su-jugo-23757846)
-
-s\&p 2 lb cubed flank steak  
-simmer lb tomatillos \+ 3 serrano 10m  
+s&p 2 lb cubed flank steak  
+simmer lb tomatillos + 3 serrano 10m  
 Cook 8 oz chopped bacon 10m, remove
 
-Drain & blend greens \+ pickled jalapeno \+ cup cilantro \+ ½ t kosher salt 40 sec
+Drain & blend greens + pickled jalapeno + cup cilantro + ½ t kosher salt 40 sec
 
 In bacon pan, sautee 1 white onion 4m, 2 garlic 30 sec  
 Add steak, 4m  
@@ -1435,7 +1233,7 @@ Add green sauce. Swirl ½ cup water in blender to get it all
 Simmer 30m  
 Warm 2 15 oz cans white beans
 
-Assemble \- beans, carne, bacon, onion, cilantro, lime (charred cebollitas) radishes
+Assemble - beans, carne, bacon, onion, cilantro, lime (charred cebollitas) radishes
 
 ---
 
@@ -1450,13 +1248,31 @@ Assemble \- beans, carne, bacon, onion, cilantro, lime (charred cebollitas) radi
 - **Ingredients:** cooking oil to taste, 1/2 onion, chopped, 2 cloves garlic, minced, 1 cup rice, 1 cup grated carrots, salt to taste, water as needed, fresh parsley to taste
 
 ### Blueprint
-## [Carrot Rice](https://braziliankitchenabroad.com/carrot-rice/)
-
 Oil, ½ onion, 2m  
 2 garlic, 1m  
 Cup rice, cup grated carrots, salt, 1m  
 Add water, cook as normal  
 Parsley
+
+---
+
+## Carrot Salad (`rec_shwarma_f632bb`)
+- **Type:** side (salad)
+- **Cuisine:** Middle Eastern | **Effort:** Low
+- **Seasons:** autumn, spring, summer, winter
+- **Vibe:** fresh, tangy, spiced, crunchy, herby
+- **Dietary:** vegan, vegetarian, dairy-free, gluten-free
+- **Times (min):** Prep: 10, Cook: 0, Oven: 0
+- **Ingredients:** shredded carrots, to taste, 1 tbsp olive oil, 2 tbsp lemon juice, 1/2 tsp cumin, mint, to taste, salt, to taste, pepper, to taste, pinch red pepper
+
+### Blueprint
+Carrot salad -   
+shredded carrots  
+T olive oil  
+2T lemon juice  
+½ t cumin  
+Mint  
+Salt & pepper, pinch red pepper
 
 ---
 
@@ -1470,8 +1286,6 @@ Parsley
 - **Ingredients:** cauliflower to taste, olive oil to taste, lemon to taste, salt to taste, pepper to taste, zaatar to taste, oregano to taste, garlic to taste, cumin to taste, onion to taste
 
 ### Blueprint
-## Cauliflower 
-
 marinate in o.o., lemon, salt, pepper, zaatar, oregano, garlic, cumin, onion  
 20m @ 425
 
@@ -1487,9 +1301,7 @@ marinate in o.o., lemon, salt, pepper, zaatar, oregano, garlic, cumin, onion
 - **Ingredients:** 2 heads cauliflower, broken up, olive oil, to taste, salt, to taste, black pepper, to taste, garlic, to taste, ground cumin, to taste, small potatoes, halved, to taste, onions, to taste, celery, to taste, bacon, to taste, chicken stock, to taste, heavy cream or butter, to taste
 
 ### Blueprint
-# Cauliflower Chowder
-
-Roast 2 heads cauliflower, broken up, with olive oil, s\&p, garlic, cumin  
+Roast 2 heads cauliflower, broken up, with olive oil, s&p, garlic, cumin  
 Also roast some little potatoes cut in half with that.  450 x 30 or so  
 Meanwhile sautee onions & celery in bacon
 
@@ -1510,15 +1322,13 @@ Add it all together, with some cream or butter, salt to taste
 - **Ingredients:** 1 head cauliflower, broken into florets, 1 tsp salt (for cooking liquid), 3 tbsp butter, 6 tbsp flour, 4 cups reserved cauliflower cooking liquid, 1 egg yolk, 3 tbsp cream, Salt and pepper, to taste
 
 ### Blueprint
-## [Cauliflower Soup](https://www.quick-german-recipes.com/cauliflower-soup-recipe.html)
-
-Cauliflower \-\> florets.  Cover with water \+ t salt  
-Boil \-\> simmer \-\> cover, 15m  
+Cauliflower -> florets.  Cover with water + t salt  
+Boil -> simmer -> cover, 15m  
 Drain (keep liquid)  
 Melt 3T butter, add 6T flour, stir a minute  
-Add back 4 cups cooking liquid. Boil \-\> simmer 5m \-\> remove  
-Mix Egg yolk \+ 3T cream, add a little hot liquid to temper \-\> soup  
-Add cauli, s\&p.   Immersion blender
+Add back 4 cups cooking liquid. Boil -> simmer 5m -> remove  
+Mix Egg yolk + 3T cream, add a little hot liquid to temper -> soup  
+Add cauli, s&p.   Immersion blender
 
 ---
 
@@ -1533,15 +1343,13 @@ Add cauli, s\&p.   Immersion blender
 - **Ingredients:** 1 head cauliflower, cut into 3/4-inch slices, olive oil to taste, salt and black pepper to taste, 1 stick butter, 2 cloves garlic, minced, 2 tbsp coarse mustard, 2 tbsp capers, 2 tbsp fresh parsley, chopped
 
 ### Blueprint
-# [Cauliflower steaks](https://www.fromachefskitchen.com/roasted-cauliflower-with-mustard-caper-brown-butter/)
-
 ¾” slices  
 400 oven  
-Foil on sheet, o.o., s\&p, 24m, turning once
+Foil on sheet, o.o., s&p, 24m, turning once
 
 Sauce  
-Brown stick of butter \- cook in pan MH STIRRING to light brown, get rid of solids  
-2 garlic minced, 2 T coarse mustard, 2 T capers, 2 T parsley, s\&p
+Brown stick of butter - cook in pan MH STIRRING to light brown, get rid of solids  
+2 garlic minced, 2 T coarse mustard, 2 T capers, 2 T parsley, s&p
 
 ---
 
@@ -1555,9 +1363,7 @@ Brown stick of butter \- cook in pan MH STIRRING to light brown, get rid of soli
 - **Ingredients:** chicken thighs, salt and pepper, to taste, olive oil, to taste, 1 shallot, 3 cloves garlic, 1 cup orzo, 1 can chickpeas, 1 can artichoke hearts, 2 cups broth, 2 cups kale, lemon, to taste
 
 ### Blueprint
-# Ch-ch-ch-chorzo
-
-Sear s\&p chicken thighs, o.o., remove  
+Sear s&p chicken thighs, o.o., remove  
 Shallot, 3 garlic, cup orzo 2m  
 Can chickpeas, can artichoke hearts, 2 cups broth  
 Add chicken back, cover & simmer, 10m  
@@ -1577,13 +1383,11 @@ lemon
 - **Ingredients:** steak, garlic, to taste, onion, to taste, salt and pepper, to taste, cumin, to taste, parsley, to taste, oregano, to taste, paprika, to taste, cayenne, to taste, thyme, to taste, white pepper, to taste, green beans, sandwich rolls, mayonnaise, to taste, hot sauce, to taste, tomato
 
 ### Blueprint
-# [Chacarero](https://www.oliviascuisine.com/chacarero-chilean-steak-sandwich/)
+Cook steak - garlic, onion, s&p, cumin, parsley, oregano, paprika, cayenne, thyme, white pepper
 
-Cook steak \- garlic, onion, s\&p, cumin, parsley, oregano, paprika, cayenne, thyme, white pepper
+Grill 4m + 4m, rest 5m, slice
 
-Grill 4m \+ 4m, rest 5m, slice
-
-Blanch green beans, 5m in boiling water \-\> ice
+Blanch green beans, 5m in boiling water -> ice
 
 Toast rolls, mayo, hot sauce, tomato, green beans, steak
 
@@ -1613,8 +1417,6 @@ Toast rolls, mayo, hot sauce, tomato, green beans, steak
 - **Ingredients:** 1 bulb garlic, chanterelles, to taste, 3 oz onion, crushed red pepper, to taste, 1/4 cup white wine, 1/4 cup chicken stock, 4 oz cooked spaghetti, 3 tbsp butter, fresh herbs (basil, parsley, thyme, sage), to taste, salt, to taste, pepper, to taste, pecorino cheese, to taste
 
 ### Blueprint
-## [Chanterelle pasta](https://foragerchef.com/chef-andys-chanterelle-pasta/)
-
 Roast bulb of garlic in foil (cut off stem end).  20m @ 350\. And then just leave it in the oven a while
 
 Rinse chanterelles.    
@@ -1626,13 +1428,13 @@ A little crushed red pepper
 
 Add 4 oz cooked spaghetti  
 3T butter, herbs (basil, parsley, thyme, sage)  
-s\&p
+s&p
 
 Pecorino
 
 ---
 
-## Chanukkah (`rec_chanukkah_729096`)
+## Chanukkah Brisket (`rec_chanukkah_729096`)
 - **Type:** main (standard)
 - **Cuisine:** American | **Effort:** Low
 - **Seasons:** winter, autumn
@@ -1643,14 +1445,12 @@ Pecorino
 - **Ingredients:** 3.5 lb chuck roast, salt to taste, black pepper to taste, garlic powder to taste, paprika to taste, onion powder to taste, 2 cups beef broth or beer
 
 ### Blueprint
-# [Chanukkah](https://houseofyumm.com/smoked-chuck-roast/)
-
-Room temp 3.5 lb chuck roast \- S\&P (T+T) evenly, maybe garlic & paprika & onion  
-Smoke with oak / hickory (even apple or cherry) @ 225 4 hours \-\> 165
+Room temp 3.5 lb chuck roast - S&P (T+T) evenly, maybe garlic & paprika & onion  
+Smoke with oak / hickory (even apple or cherry) @ 225 4 hours -> 165
 
 Remove to Baking tray 2 cups beef broth / beer, cover tightly with foil
 
-250 (smoker or oven) 3 more hours \-\> 200 to 203
+250 (smoker or oven) 3 more hours -> 200 to 203
 
 Rest (still covered) 30m, slice
 
@@ -1666,11 +1466,9 @@ Rest (still covered) 30m, slice
 - **Ingredients:** ribeye steak, salt, to taste, pepper, to taste, butter, as needed, bell pepper, sliced, onion, sliced, mushrooms, sliced, 2 tsp worcestershire sauce, cheese, to taste, hoagie rolls
 
 ### Blueprint
-# [Cheese Steak](https://dinnerthendessert.com/pats-philly-cheese-steak-copycat/)
-
-Freeze ribeye (hour), thin slice, s\&p  
-M heat flat grill \- butter  
-Bell pepper, onion, mushrooms, salt \-\> brown / translucent, REMOVE  
+Freeze ribeye (hour), thin slice, s&p  
+M heat flat grill - butter  
+Bell pepper, onion, mushrooms, salt -> brown / translucent, REMOVE  
 Ribeye 3m, stirring, mix in 2t worcestershire  
 LOW heat, mix it up, and add cheese, melt 1m
 
@@ -1684,10 +1482,48 @@ Put on toasted buttered hoagie rolls
 - **Seasons:** autumn
 - **Vibe:** rich, creamy, sweet
 - **Dietary:** vegetarian
-- **Times (min):** Prep: 30, Cook: 60, Oven: 60
+- **Times (min):** Prep: 30, Cook: 100, Oven: 120
+- **Ingredients:** 2.5 lb cream cheese, softened, 1/8 tsp salt, 1.5 cups sugar, 1/3 cup sour cream, 2 tsp lemon juice, 2 tsp vanilla extract, 2 large egg yolks, room temperature, 6 large eggs, room temperature, 1/2 tbsp salted butter, melted, 5 tbsp unsalted butter, melted, 8 graham crackers, 1 tbsp sugar, 1/2 tbsp salted butter, melted
 
 ### Blueprint
-# Cheesecake (test kitchen)
+# Crust
+
+5T unsalted butter, melted  
+8 graham crackers -> food processor  
+1T sugar
+
+325, brush pan with ½ T melted salted butter  
+Press mix into pan corners with ramekin/spoon, bake **13m** -> cool on wire rack
+
+# Filling
+
+Set oven to 500
+
+Beat 2.5 lb cream cheese, softened for 1m M-L in stand mixer
+
+Scrape, then add  
+⅛ t salt  
+1.5 cups / 10.5 oz sugar  
+Beat M-L 1m with half the sugar, scrape, then 1m with the rest
+
+Scrape, then add  
+⅓ cup sour cream  
+2t lemon juice  
+2t vanilla  
+Beat low 1m
+
+Scrape, then add room temp eggs  
+2 yolks M-L, 1m  
+scrape  
+6 eggs, 2 at a time, scraping, 1m
+
+Brush sides of pan with ½ T melted salted butter  
+Fill crust, put on rimmed baking sheet  
+Bake **10m**  
+Set oven to 200, bake **90m** more - test center for 150
+
+Cool on wire rack **3 hours**, run a knife around it to separate.  
+Cover in saran wrap, and refrigerate for **3-5 hours**
 
 ---
 
@@ -1702,9 +1538,7 @@ Put on toasted buttered hoagie rolls
 - **Ingredients:** 4 chicken legs, 2 acorn squashes, 4 tsp lemon zest, divided, 3 tsp salt, divided, 2 tsp black pepper, divided, olive oil to taste, thyme sprigs to taste, 2 tbsp butter, 1 tsp honey, 1 tsp sumac, divided, Aleppo pepper (or sweet paprika + cayenne) to taste
 
 ### Blueprint
-# [Chicken & Acorn Squash](https://www.foodandwine.com/recipes/roasted-chicken-and-acorn-squash-sumac-brown-butter)
-
-4 chicken legs \- 2t salt, 2t lemon zest, t black pepper.  
+4 chicken legs - 2t salt, 2t lemon zest, t black pepper.  
 Refrigerate uncovered 8-24 hours
 
 bring chicken to room temp (1 hr)
@@ -1717,14 +1551,14 @@ t salt, t black pepper, thyme sprigs
 
 35m @ 450 (meat temp 165\)
 
-chicken, squash \-\> plate  
+chicken, squash -> plate  
 reserve juices (no thyme) 
 
 2T butter, melt over medium, 3m.    
 add chicken juices, t honey, 1/2 t sumac, 2 t lemon zest
 
 drizzle over chicken & squash.    
-Sprinkle aleppo pepper (sweet paprika \+ cayenne), 1/2 t sumac, thyme
+Sprinkle aleppo pepper (sweet paprika + cayenne), 1/2 t sumac, thyme
 
 ---
 
@@ -1739,8 +1573,6 @@ Sprinkle aleppo pepper (sweet paprika \+ cayenne), 1/2 t sumac, thyme
 - **Ingredients:** chicken pieces, 1 tbsp soy sauce (divided), 2 tsp oyster sauce (divided), 1 tbsp rice wine, 1 tbsp cornstarch, 1 tsp pepper, hoisin sauce to taste, MSG to taste, cooking oil to taste, chilis to taste, broccoli, mushroom to taste, red bell pepper to taste, garlic to taste, salt to taste, water as needed
 
 ### Blueprint
-# [Chicken & Broccoli Stir Fry](https://cookingwithlei.com/chicken-broccoli/)
-
 Marinate chicken pieces in 1/2T soy, t oyster, T rice wine, T corn starch (10m)  
 Make sauce (½ T soy, t oyster, t pepper, hoisin?, MSG?)  
 Wok chicken first \~5m, (add chilis to oil first)  
@@ -1761,11 +1593,9 @@ Add sauce toward end with water as needed 1m
 - **Ingredients:** 1.5 lb zucchini, ribboned, chicken thighs, to taste, salt and black pepper, to taste, cooking oil, as needed, 1 sweet onion, sliced, 4 cloves garlic, sliced, 1 tbsp fresh thyme, quinoa or bread, for serving (optional)
 
 ### Blueprint
-# [Chicken & Melted Zucchini](https://www.foodandwine.com/recipes/crispy-chicken-thighs-over-melted-zucchini)
+1.5 lb zucc -> ribbons.  Salt and let sit in colander
 
-1.5 lb zucc \-\> ribbons.  Salt and let sit in colander
-
-s\&p dried chicken thighs.  Skillet medium oil, skin down **10m, flip, 6m**, remove
+s&p dried chicken thighs.  Skillet medium oil, skin down **10m, flip, 6m**, remove
 
 Sliced sweet Onion, 4 garlic, T fresh thyme. scrape, **5m**
 
@@ -1785,8 +1615,6 @@ Serve on quinoa or with bread
 - **Ingredients:** 1 lb ground chicken, 1 tsp cumin, 8 oz canned green chile, 1 cup cilantro leaves, salt to taste, black pepper to taste, oil to taste, burger buns, tomato, sour cream, lettuce, mustard
 
 ### Blueprint
-# [Chicken / Green Chile Burgers](https://www.marthastewart.com/1153985/green-chile-chicken-burgers)
-
 Lb ground chicken  
 t cumin  
 8 oz canned green chile  
@@ -1811,8 +1639,6 @@ Toast buns, tomato, sour cream, lettuce, mustard, cilantro
 - **Ingredients:** 1 lb chicken, 3 tbsp lemon juice, plus extra to finish to taste, 1/2 tsp turmeric, 2 tbsp red chili powder, 1 tbsp garam masala, 1 tsp salt, 1 onion, 1 tsp ginger, 3 cloves garlic, 1 tbsp butter, 4 tbsp water, oil to taste, 2 tbsp curry leaves, chilis to taste, 2 tbsp coriander, 1 tbsp cinnamon, 6 cloves, 4 green cardamom pods, 1 tsp cumin, 1 tsp fennel, 6 tbsp almond flour, 1 tsp black pepper
 
 ### Blueprint
-# Chicken Andhra (Kodi Vepudu)
-
 Marinate Lb chicken, 3 T lemon juice, ½  t turmeric, 2T red chili powder, T garam masala, t salt 30m
 
 fry 1onion t ginger, 3 garlic, T butter,   
@@ -1839,14 +1665,12 @@ Lemon juice
 - **Ingredients:** 2 onions, 4 cloves garlic, 1 inch ginger, 1 chili pepper, olive oil, to taste, 1 tsp cumin seeds, 1/4 tsp turmeric, 1 tsp salt, 1 bay leaf, 1 large can tomatoes, 1 head cauliflower, cut into florets, 1 tsp garam masala, cilantro, to taste, 2 chicken breasts
 
 ### Blueprint
-# [Chicken Cauliflower curry](https://thewanderingrd.com/instant-pot-indian-cauliflower-chicken-curry/)
-
-2 onions, 4 garlic, 1” ginger, chili pepper \-\> very fine  
+2 onions, 4 garlic, 1” ginger, chili pepper -> very fine  
 Instant pot sautee, olive oil, t cumin seeds, ¼ t turmeric 1m  
-Add onion mix \+ t salt \+ bay leave, 5m  
-Big can tomatoes, cauliflower head \-\> florets, t garam masala, cilantro,   
+Add onion mix + t salt + bay leave, 5m  
+Big can tomatoes, cauliflower head -> florets, t garam masala, cilantro,   
 2 chicken breasts on top  
-12m \+ 15m.  Shred chicken
+12m + 15m.  Shred chicken
 
 ---
 
@@ -1861,15 +1685,13 @@ Big can tomatoes, cauliflower head \-\> florets, t garam masala, cilantro,
 - **Ingredients:** 1 lb chicken, pepper, onion, tomato, 2 tbsp olive oil, 1 jalapeno, 1 clove garlic, 1/2 tsp salt, 1 lime (juice and zest), 1 tbsp seasoning
 
 ### Blueprint
-## [Chicken Fajita](https://www.wellplated.com/fajita-chicken-kebab-recipe/)
-
 lb chicken, pepper, onion, tomato
 
 2T oliveoil,   
 1 jalapeno,   
 1 garlic,   
 1/2t salt,   
-1 lime juice \+ zest,   
+1 lime juice + zest,   
 T seasoning  
 marinate **30m**
 
@@ -1888,15 +1710,13 @@ marinate **30m**
 - **Ingredients:** 1 lb boneless skinless chicken thighs, 4 tbsp soy sauce, 4 tbsp lime juice, 4 tbsp cooking oil, 2 tbsp brown sugar, 1 tsp cumin, 1 tsp black pepper, 1/2 tbsp chili powder, 2 cloves garlic, bell pepper, to taste, onion, to taste
 
 ### Blueprint
-# [Chicken Fajitas](https://www.seriouseats.com/sheet-pan-chicken-fajitas)
-
 Lb boneless skinless chicken thighs  
 4T soy, 4T lime, 4T oil, 2T brown sugar, t cumin, t pepper, 1/2T chili, 2 garlic  
 Marinate a few hours
 
 Broil 5m / side
 
-But also take some marinade to pepper & onion \-\> 450 x 25m
+But also take some marinade to pepper & onion -> 450 x 25m
 
 ---
 
@@ -1910,35 +1730,7 @@ But also take some marinade to pepper & onion \-\> 450 x 25m
 - **Ingredients:** 1 chicken breast, 1/4 white onion, 3 cloves garlic, 2 serrano peppers
 
 ### Blueprint
-## Chicken Filling
-
 Chop a chicken breast, boil with ¼ white onion, 3 garlic, 2 serrano for 30m
-
----
-
-## Chicken Francese (`rec_chicken_francese_ae11c2`)
-- **Type:** main (standard)
-- **Cuisine:** Italian-American | **Effort:** Medium
-- **Seasons:** spring, summer
-- **Vibe:** citrusy, savory, tangy
-- **Times (min):** Prep: 15, Cook: 19, Oven: 0
-- **Source:**  (https://www.tasteofhome.com/recipes/chicken-francese/)
-- **Ingredients:** 1 lb chicken breasts, 1 egg, 3/4 cup bread crumbs, 3 tbsp parmesan cheese, 1 tsp dried parsley, 1/2 tsp garlic powder, 1/2 tsp salt, 1/2 tsp pepper, olive oil (for frying), 1 cup chicken broth, 1/3 cup lemon juice
-
-### Blueprint
-# [Chicken Francese](https://www.tasteofhome.com/recipes/chicken-francese/)
-
-Pound 1lb chicken breasts to ¼”, slice 1.5” wide.  
-Egg,   
-¾ C Bread crumb, 3T parm, t dried parsley, ½ t garlic powder, ½ t salt, ½ t pepper
-
-Fry in olive oil M heat, 2-3 m/side \-\> paper towel
-
-Lemon sauce  
-Add C chicken broth, ⅓ C lemon juice to skillet, scrape & boil MH **8m**  
-Return chicken to pan to coat **5m**
-
-Green beans, pesto pasta
 
 ---
 
@@ -1952,13 +1744,11 @@ Green beans, pesto pasta
 - **Ingredients:** 1 lb chicken breasts, 1 egg, 3/4 cup bread crumbs, 3 tbsp parmesan cheese, 1 tsp dried parsley, 1/2 tsp garlic powder, 1/2 tsp salt, 1/2 tsp pepper, olive oil for frying, 1 cup chicken broth, 1/3 cup lemon juice, potatoes, pasta, green beans, pesto
 
 ### Blueprint
-# [Chicken Francese](https://www.tasteofhome.com/recipes/chicken-francese/)
-
 Pound 1lb chicken breasts to ¼”, slice 1.5” wide.  
 Egg,   
 ¾ C Bread crumb, 3T parm, t dried parsley, ½ t garlic powder, ½ t salt, ½ t pepper
 
-Fry in olive oil M heat, 2-3 m/side \-\> paper towel
+Fry in olive oil M heat, 2-3 m/side -> paper towel
 
 Lemon sauce  
 Add C chicken broth, ⅓ C lemon juice to skillet, scrape & boil MH **8m**  
@@ -1979,12 +1769,10 @@ Green beans, pesto pasta   (cook potatoes in 3/4” cube with pasta for 5 min th
 - **Ingredients:** 8 oz chicken, cut into 1/2-inch cubes, 1 tbsp soy sauce (for marinade), 1 tsp cornstarch, 1/2 tsp sesame oil (for marinade), 1 tsp vegetable oil (for marinade), vegetable oil, to taste, soy sauce, to taste, sesame oil, to taste, onion, to taste, peas, to taste, carrots, to taste, ham, to taste, 2 eggs, cooked rice, to taste, oyster sauce, to taste, sherry, to taste, green onions, to taste, bean sprouts, to taste
 
 ### Blueprint
-# [Chicken Fried Rice](https://thewoksoflife.com/classic-chicken-fried-rice/)
+Marinate 8 oz chicken, ½” cubes - T soy, t cornstarch, ½ t sesame, t veg oil
 
-Marinate 8 oz chicken, ½” cubes \- T soy, t cornstarch, ½ t sesame, t veg oil
-
-Wok H, veg oil \+ soy sauce, cook chicken, remove  
-Sesame oil, onion, peas, carrots, ham \-\> **5m**  
+Wok H, veg oil + soy sauce, cook chicken, remove  
+Sesame oil, onion, peas, carrots, ham -> **5m**  
 2 Eggs, scramble  
 Add rice and chicken back, soy sauce, oyster sauce, sherry  
 Green onions, sprouts, etc…
@@ -2001,9 +1789,7 @@ Green onions, sprouts, etc…
 - **Ingredients:** 3 tsp olive oil, divided, 6 chicken thighs, chopped, 1 onion, sliced, 8 oz mushrooms, halved, 1 red bell pepper, chopped, 2 cloves garlic, minced, 1 tbsp paprika, 2 tbsp tomato paste, 14 oz cherry tomatoes, 1 cup cold water, black pepper, to taste, fettuccine, for serving, sour cream, for serving, chives, for garnish
 
 ### Blueprint
-# [Chicken Goulash](https://www.taste.com.au/recipes/no-fuss-chicken-goulash/cbc72ec6-f630-49de-9d5d-e345bfb38ad6)
-
-2t Olive Oil, m-h, cook 6 chopped chicken thighs **3m** \-\> brown \-\> remove
+2t Olive Oil, m-h, cook 6 chopped chicken thighs **3m** -> brown -> remove
 
 M heat, t o.o., onion sliced, 8 oz mushrooms halved, red pepper chopped, 2 garlic, T paprika, **5m**
 
@@ -2015,18 +1801,34 @@ Serve on fettucine with sour cream.  Chives
 
 ---
 
-## Chicken Kabsa (`rec_chicken_kabsa_e421be`)
+## Chicken Kabsa (`rec_kabsa_spice_mix_2dede1`)
 - **Type:** main (rice)
-- **Cuisine:** Middle Eastern | **Effort:** Medium
-- **Seasons:** autumn, winter, spring, summer
-- **Vibe:** aromatic, spiced, savory, rich, comforting
-- **Dietary:** gluten-free, dairy-free
-- **Times (min):** Prep: 25, Cook: 55, Oven: 15
+- **Cuisine:** Middle Eastern | **Effort:** Medium-High
+- **Seasons:** spring, summer, autumn, winter
+- **Vibe:** fragrant, spiced, savory, hearty
+- **Dietary:** dairy-free, gluten-free
+- **Times (min):** Prep: 20, Cook: 52, Oven: None
 - **Source:** Rose Mary George (https://nishkitchen.com/chicken-kabsa-arabian-rice-video/)
-- **Ingredients:** 1 kg bone-in chicken pieces, 2 cups basmati rice, soaked and drained, 2 medium onions, finely chopped, 3 cloves garlic, minced, 1 inch ginger, minced, 2 medium tomatoes, pureed, 2 tbsp tomato paste, 2 dried black limes (loomi), pierced, 1 cinnamon stick, 4 green cardamom pods, 4 whole cloves, 2 bay leaves, 1 tsp ground cumin, 1 tsp ground coriander, 1/2 tsp ground turmeric, 1/2 tsp ground black pepper, 3 tbsp vegetable oil, 3.5 cups chicken stock or water, Salt to taste, 1/4 cup toasted slivered almonds, for garnish, 2 tbsp golden raisins, for garnish
+- **Ingredients:** 1/4 tsp ground cardamom, 1/4 tsp ground white pepper, 1/4 tsp saffron, 1/2 tsp ground cinnamon, 1/2 tsp ground allspice, 1/2 tsp dried whole lime powder, Cooking oil to taste, 3 onions, sliced, 1 tbsp ginger, minced, 1 tbsp garlic, minced, 1 green chile, 2 bay leaves, 6 whole cloves, 4 cardamom pods, 1 cinnamon stick, 2 tbsp tomato puree, Pinch ground nutmeg, 1/2 tsp ground black pepper, 1/4 tsp ground cumin, 1/2 tsp ground coriander, Salt to taste, 3 carrots, thinly sliced, 7 oz diced tomatoes, 2 chicken stock cubes, 1 whole chicken, cut into pieces, 3 cups rice, 1/4 cup raisins, 4 cups water
 
 ### Blueprint
-# [Chicken Kabsa](https://nishkitchen.com/chicken-kabsa-arabian-rice-video/)
+Spice Mix:
+* 1/4 tsp ground cardamom (cardamom powder)  
+* 1/4 tsp ground white pepper (white pepper powder)  
+* 1/4 tsp saffron  
+* 1/2 tsp ground cinnamon (cinnamon powder)  
+* 1/2 tsp ground all spice  
+* 1/2 tsp dried whole lime powder
+
+Heavy pan, oil, MH heat  
+3 sliced onions, T ginger, T garlic, 1 green chile -> brown onions (**3m**)  
+2 bay leaves, 6 cloves, 4 cardamom pods and cinnamon stick (**1m**)  
+2T tomato puree, Pinch ground nutmeg, ½ t ground black pepper, ¼ t ground cumin, ½ t ground coriander and kabsa spice + salt (**1m**)  
+3 THIN sliced Carrots, 7oz diced tomatoes (**2m**)  
+2 chicken stock cubes, cut up chicken (**30m**) turning.   REMOVE CHICKEN  
+Add 3 cups rice, ¼ cup raisins, 4 cups water, salt.  BOIL, simmer, cover (**15m**)  
+
+Meanwhile GRILL chicken 10-15m
 
 ---
 
@@ -2040,8 +1842,6 @@ Serve on fettucine with sour cream.  Chives
 - **Ingredients:** 2 chicken thighs, 1/4 cup soy sauce, 2 tbsp sake or mirin, 1 clove garlic, 2 tsp grated ginger, 1/3 cup potato starch, Cooking oil for frying, as needed, 2 brioche or challah buns, Kewpie mayo, to taste, Yuzu chili, to taste, Honey, to taste, Tomato slices, to taste, Slaw, to taste
 
 ### Blueprint
-# [Chicken Karaage sando](https://norecipes.com/japanese-chicken-sandwich/)
-
 To make 2 sandwiches
 
 2 thighs  
@@ -2054,10 +1854,10 @@ Marinate **3 hr**
 Coat in  
 ⅓ cup potato starch
 
-Fry in oil **10m** \-\>  paper towel rack 5m
+Fry in oil **10m** ->  paper towel rack 5m
 
 Brioche / challa Buns  
-Kewpie mayo \+ yuzu chili \+ honey?  
+Kewpie mayo + yuzu chili + honey?  
 Tomato slice  
 Slaw
 
@@ -2074,8 +1874,6 @@ Slaw
 - **Ingredients:** 12 oz lo mein noodles, sesame oil, to taste, 12 oz chicken thighs, sliced 1/4-inch, 1 tbsp grated ginger, 1 tbsp plus 1 tsp rice wine, 1 tsp cornstarch, 1 tbsp plus 1 tsp soy sauce, 1 tsp salt, 1/4 tsp white pepper, 2 tbsp cooking oil, 1/4 tsp red pepper flakes, 3 cups shredded nappa cabbage, 4 oz sliced shiitake mushrooms, 1/2 cup shredded scallions
 
 ### Blueprint
-# [Chicken Lo Mein](https://parade.com/259010/parade/grace-youngs-chicken-lo-mein-with-ginger-mushrooms-for-chinese-new-year/)
-
 Cook 12 oz noodles, rinse, add sesame oil 
 
 Slice 12 oz chicken thighs, 1/4“   
@@ -2088,13 +1886,13 @@ Slice 12 oz chicken thighs, 1/4“
 
 Let that sit a while
 
-Hot wok \- T oil, 1/4t red pepper flakes, **10sec**  
+Hot wok - T oil, 1/4t red pepper flakes, **10sec**  
 Add chicken mix, **1m** no stir, **30s more** (to brown)  
-3 cups shredded nappa cabbage \+ 4 oz sliced shitake, **1m**  
+3 cups shredded nappa cabbage + 4 oz sliced shitake, **1m**  
 remove
 
 T oil, add noodles **15s**   
-T soy sauce \+ T rice wine  
+T soy sauce + T rice wine  
 ½ cup shredded scallions  
 ¾ t salt  
 **2m**
@@ -2111,13 +1909,11 @@ T soy sauce \+ T rice wine
 - **Ingredients:** chicken breasts, flour, as needed, salt and black pepper, to taste, cooking oil, as needed, butter, as needed, mushrooms, 1 shallot, 2 cloves garlic, 2/3 cup broth, 2/3 cup marsala wine, 2/3 cup cream, thyme, to taste, fresh parsley, to taste
 
 ### Blueprint
-# [Chicken Marsala](https://www.onceuponachef.com/recipes/chicken-marsala.html)
-
-split & flatten breasts \- flour with s\&p  
-oil & butter, MH 3m/side \-\> plate  
+split & flatten breasts - flour with s&p  
+oil & butter, MH 3m/side -> plate  
 more butter, mushrooms 4m  
 1 shallot, 2 garlic, salt 2m  
-2/3 cup broth, 2/3 cup marsala wine (sherry, vermouth,...), 2/3 cup cream, thyme, s\&p, scrape & boil  
+2/3 cup broth, 2/3 cup marsala wine (sherry, vermouth,...), 2/3 cup cream, thyme, s&p, scrape & boil  
 M heat \~10m to thicken  
 return chicken, 3m more  
 parsley
@@ -2136,16 +1932,14 @@ Mashed potatoes, green beans
 - **Ingredients:** 3/4 cup chicken stock, 1 1/4 cup marsala wine, 1 packet gelatin, 4 chicken cutlets, salt and pepper to taste, flour for dredging, olive oil as needed, 10 oz mushrooms, 4 shallots (6 oz), 2 cloves garlic, 1 tbsp thyme, 1 tsp soy sauce, 3 tbsp butter, vinegar to taste, parsley to taste
 
 ### Blueprint
-# [Chicken Marsala](http://seriouseats.com/chicken-marsala-mushroom-pan-sauce-recipe)
+¾ cup chicken Stock + 1 ¼ cup marsala + packet gelatin
 
-¾ cup chicken Stock \+ 1 ¼ cup marsala \+ packet gelatin
-
-Season 4 cutlets s\&p, dredge in flour  
-O.o. MH 3m/side \-\> paper towels  
+Season 4 cutlets s&p, dredge in flour  
+O.o. MH 3m/side -> paper towels  
 10 oz mushrooms, 10m  
 4 Shallots (6 oz), 2 garlic, T thyme, 2m  
 Add marsala mix, boil, reduce by ¾   
-t Soy, 3T butter, s\&p, vinegar if needed  
+t Soy, 3T butter, s&p, vinegar if needed  
 parsley
 
 ---
@@ -2161,8 +1955,6 @@ parsley
 - **Ingredients:** 8 oz chicken, cut into 3-inch cubes, 1 onion, sliced, 1/2 inch fresh ginger, 6 cloves garlic, salt to taste, 1/2 tsp chili powder, 1 tsp ground coriander, 1 tsp ground cumin, 1/4 tsp turmeric, 2 tbsp cooking oil, 2 tomatoes, chopped, 7 oz green peas, 4 green chiles, 4 1/2 to 5 1/2 cups water (divided), 1/4 tbsp garam masala
 
 ### Blueprint
-# [Chicken Matar](https://www.food.com/recipe/chicken-matar-308625)
-
 8 oz chicken into 3” cubes  
 Cook with sliced onion, ½” ginger, 6 garlic, salt, ½ t chili powder, t coriander, 1 ½ cups water, t cumin, ¼ t turmeric  
 **12 minutes**
@@ -2188,9 +1980,8 @@ Cook with sliced onion, ½” ginger, 6 garlic, salt, ½ t chili powder, t coria
 - **Ingredients:** 1/2 cup chopped castelvetrano olives, 2 tbsp capers, 1 packed tsp lemon zest, 1 tbsp lemon juice, 1 tbsp Dijon mustard, 2 tsp honey, 1/4 tsp red pepper flakes, 1/4 tsp kosher salt (for dressing), 1/4 tsp black pepper (for dressing), 3 tbsp olive oil (for dressing), 4 boneless skinless chicken breasts, Kosher salt to taste (for chicken), Black pepper to taste (for chicken), Garlic powder to taste, Flour for dredging, 2 tbsp olive oil (for frying), Frisee to taste, Sliced almonds to taste
 
 ### Blueprint
-# [Chicken Paillard](https://www.thekitchn.com/chicken-paillard-recipe-23207896)
 
-dressing  
+Dressing : 
 Mix ½ cup Chopped castelvetrano olives, 2T capers, packed t lemon zest, T juice  
 T dijon, 2t honey, ¼ t red pepper, ¼ t kosher salt, ¼ t black pepper, 3T olive oil
 
@@ -2213,16 +2004,14 @@ Serve with frisee, dressing, sliced almonds.  Put dressing on chicken too.
 - **Ingredients:** chicken breasts (to taste), salt and pepper to taste, garlic (optional, to taste), buttermilk (optional, to taste), all-purpose flour (to taste), eggs (to taste), panko breadcrumbs (to taste), parmesan cheese (to taste), oil for frying (to taste), tomato sauce (to taste), mozzarella cheese (to taste), fresh parsley (optional, to taste), fresh basil (optional, to taste)
 
 ### Blueprint
-# [Chicken Parm](https://www.seriouseats.com/the-best-chicken-parmesan-recipe)
-
-Pound chicken breasts, s\&p.  Possibly brine in garlic buttermilk for 4 hours  
+Pound chicken breasts, s&p.  Possibly brine in garlic buttermilk for 4 hours  
 Seasoned Flour, egg, panko (incl. parm)  
 Fry get oil to 375, will drop to 325 when you put chicken in  2m/side  
 Drain on rack  
 Sauce, chicken, sauce, parm, mozz.  20m @ 400  
 Parsley, basil if you had it
 
-Maybe garlic green beans \- blanch then cook in garlic oil (salt & lemon)
+Maybe garlic green beans - blanch then cook in garlic oil (salt & lemon)
 
 ---
 
@@ -2235,17 +2024,15 @@ Maybe garlic green beans \- blanch then cook in garlic oil (salt & lemon)
 - **Ingredients:** 8 oz cavatappi pasta, 1 lb chicken breasts, Salt and pepper, to taste, Olive oil, to taste, 6 oz broccoli, 2 tbsp butter, divided, 1.5 tbsp flour, 1 tbsp ranch spice, 9 oz milk, 1 oz cream cheese, 2/3 cup mozzarella cheese, divided, 1/3 cup cheddar cheese, 3 tbsp panko breadcrumbs
 
 ### Blueprint
-# Chicken Pasta Casserole
-
 Cook 8oz pasta (cavatappi)  
-1lb chicken breasts \- dry, s\&p,   
-Skillet o.o. M-H, **5m/side** \-\> remove & slice  
+1lb chicken breasts - dry, s&p,   
+Skillet o.o. M-H, **5m/side** -> remove & slice  
 Steam 6 oz broccoli
 
 Melt 1T butter in chicken pan  
 Add 1.5T flour, T ranch spice  
 Whisk in 9 oz milk, stirring and scraping **3m**  
-1oz cream cheese, ⅓ cup mozz, ⅓ cup cheddar, s\&p,   
+1oz cream cheese, ⅓ cup mozz, ⅓ cup cheddar, s&p,   
 Add chicken, broccoli, pasta
 
 Cover with T melted butter, 3T panko, ⅓ cup mozz  
@@ -2263,14 +2050,12 @@ Broil **3m**
 - **Ingredients:** 2 chicken breasts, salt and pepper, to taste, flour, to dredge, butter, as needed, oil, as needed, 1/3 cup lemon juice, 1/2 cup chicken stock, 1/4 cup capers, parsley, to taste
 
 ### Blueprint
-# [Chicken Piccata](https://www.foodnetwork.com/recipes/giada-de-laurentiis/chicken-piccata-recipe2-1913809)
-
 Butterfly 2 chicken breasts  
-s\&p, flour
+s&p, flour
 
-Sautee in butter in oil, 3m \+ 3m
+Sautee in butter in oil, 3m + 3m
 
-⅓ cup lemon juice \+ ½ cup chicken stock \+ ¼ cup capers, scrape
+⅓ cup lemon juice + ½ cup chicken stock + ¼ cup capers, scrape
 
 5m more, flipping  
 More butter to the sauce  
@@ -2288,8 +2073,6 @@ parsley
 - **Ingredients:** 2 cups flour, 1 tbsp baking powder, 1 tbsp sugar, 1/2 tsp kosher salt, 6 tbsp cold salted butter, 2 3/4 cups milk, divided, 4 tbsp butter, plus extra for brushing, 2 shallots, thyme to taste, 4 carrots, 4 celery stalks, 1/4 cup flour, splash of wine, 1.5 cups chicken broth, 4 cups cooked chicken, 2 cups peas, salt to taste, black pepper to taste, squeeze of lemon juice
 
 ### Blueprint
-# [Chicken Pot Pie](https://pinchofyum.com/chicken-pot-pie-with-biscuits)
-
 425  
 Biscuits  
 2c flour, T baking powder, T sugar, ½ t kosher salt  
@@ -2305,7 +2088,7 @@ Filling
 Splash Wine  
 1.5c Chicken broth and 2c milk  
 4c Chicken and 2c peas  
-s\&p, squeeze lemon juice
+s&p, squeeze lemon juice
 
 Put biscuits on top, brush with butter, **20m**
 
@@ -2322,11 +2105,9 @@ Put biscuits on top, brush with butter, **20m**
 - **Ingredients:** 8 chicken quarters, 2 roasted red bell peppers, 1/2 cup toasted almonds, 1/2 cup chicken stock, 1/2 cup Italian parsley, 1 lemon, zested and juiced, 1 orange, zested and juiced, 2 cloves garlic, 1 chile pepper, 1/2 red onion, 1 tomato, peeled, 1 tbsp sherry vinegar, Salt, to taste, Black pepper, to taste, Paprika, to taste, Potatoes, to taste, Carrots, to taste, Cherry tomatoes, to taste
 
 ### Blueprint
-# [Chicken Quarters Romanesco](https://www.foodnetwork.com/recipes/rachael-ray/chicken-in-romanesco-sauce-recipe-2119297)
+Food processor: 2 Roasted red bell peppers, ½ cup toasted almonds, ½ cup chicken stock, ½ cup italian parsley, lemon zest + juice, orange zest + juice, 2 garlic, chile pepper, ½ red onion, tomato (no skin), T sherry vinegar
 
-Food processor: 2 Roasted red bell peppers, ½ cup toasted almonds, ½ cup chicken stock, ½ cup italian parsley, lemon zest \+ juice, orange zest \+ juice, 2 garlic, chile pepper, ½ red onion, tomato (no skin), T sherry vinegar
-
-8 chicken quarters \- dry.  s\&p, paprika, roast 45m @ 425 skin up, with potatoes  
+8 chicken quarters - dry.  s&p, paprika, roast 45m @ 425 skin up, with potatoes  
 Put some carrots in there too, cherry tomatoes last 15
 
 ---
@@ -2342,8 +2123,6 @@ Put some carrots in there too, cherry tomatoes last 15
 - **Ingredients:** 1.5 lb chicken, 3 tsp garam masala, oil to taste, 1 tsp cumin seeds, 1 onion, 1 chili pepper, 1 inch ginger, 4 cloves garlic, 1/2 cup water, 1/2 tsp turmeric, 1.5 tbsp ground coriander, 1 tsp ground cumin, 3/4 tsp chili powder or paprika, 1 1/2 tsp salt, 12 oz greens, 1/4 cup cashews or butter, rice to taste
 
 ### Blueprint
-# [Chicken Saag](https://spicecravings.com/chicken-saag-palak-chicken)
-
 Instant pot sautee, oil  
 3t Garam masala on 1.5 lb chicken, **1m**, flip, **1m**, remove  
 Oil, t cumin seeds **30s**  
@@ -2367,19 +2146,17 @@ Rice
 - **Ingredients:** 8 bone-in, skin-on chicken thighs, Salt, to taste, Black pepper, to taste, Cooking oil, as needed, 4 Italian sausages, 1 onion, sliced, 1 red bell pepper, sliced, 2 tbsp minced fresh sage, 6 cloves garlic, sliced, 8 pickled cherry peppers, thinly sliced, 1/4 cup pickled cherry pepper liquid, 1 cup white wine, 1 cup chicken stock, 2 tbsp sugar
 
 ### Blueprint
-# [Chicken Scarpariello](https://www.seriouseats.com/chicken-scarpariello-sweet-and-sour-chicken-italian-recipe)
+s&p 8 chicken thighs (bone in, skin on)  
+Oil, medium heat skillet, skin down **8m**, flip, **3m** (watch heat, no smoke) -> remove
 
-s\&p 8 chicken thighs (bone in, skin on)  
-Oil, medium heat skillet, skin down **8m**, flip, **3m** (watch heat, no smoke) \-\> remove
-
-Add 4 italian sausage, **90s** flip, **90s** \-\> remove and cut into quarters
+Add 4 italian sausage, **90s** flip, **90s** -> remove and cut into quarters
 
 Add sliced onion and red pell pepper, scrape brown bits, **4m**  
 Add 2T minced fresh sage and 6 sliced garlic, **1m**
 
 Add 8 thin sliced pickled cherry peppers and ¼ cup of liquid  
 Add cup white wine, **2m**  
-Add cup chicken stock \+ 2T sugar  
+Add cup chicken stock + 2T sugar  
 Add back sausage, mix  
 Add back chicken, nestled skin up
 
@@ -2398,8 +2175,6 @@ Add back chicken, nestled skin up
 - **Ingredients:** 3 lbs chicken, 1.5 cups yogurt, 1/4 cup olive oil, 4 cloves garlic, minced, juice of 2 lemons, 2 tbsp ketchup, 1 tbsp pomegranate molasses, 1 tsp allspice, 1 tsp salt, white pepper to taste, black pepper to taste, cinnamon to taste, cumin to taste, nutmeg to taste, cloves to taste
 
 ### Blueprint
-# [Chicken Shish Tawook](https://thematbakh.com/chicken-shish-tawook/)
-
 1.5 cups yogurt, ¼ cup o.o., 4 garlic minced, juice of 2 lemons, 2 T ketchup, T pomegranate molasses, t allspice, white pepper, black pepper, cinnamon, cumin, nutmeg, cloves, t salt
 
 Cube 3lb chicken, marinate 2 hours or overnight
@@ -2408,7 +2183,7 @@ Grill 5m / side
 
 ---
 
-## Chicken Souvalki (`rec_chicken_souvalki_622481`)
+## Chicken Souvlaki (`rec_chicken_souvalki_622481`)
 - **Type:** main (standard)
 - **Cuisine:** Greek | **Effort:** Low
 - **Seasons:** spring, summer
@@ -2419,11 +2194,9 @@ Grill 5m / side
 - **Ingredients:** 1 lb boneless skinless chicken breasts, cubed, 2 tbsp olive oil, juice of 1 lemon, 1 clove garlic, 2 tbsp oregano, salt to taste, black pepper to taste
 
 ### Blueprint
-# [Chicken Souvalki](https://www.mygreekdish.com/recipe/souvlaki-with-chicken-and-pita-breads/)
-
-Lb Boneless skinless Chicken breasts \- cubed  
+Lb Boneless skinless Chicken breasts - cubed  
 Marinade 60m in  
-2T o.o.. Juice of 1 lemon, 1 garlic, 2T oregano, s\&p
+2T o.o.. Juice of 1 lemon, 1 garlic, 2T oregano, s&p
 
 Skewer, grill 10m H, turning
 
@@ -2439,8 +2212,6 @@ Skewer, grill 10m H, turning
 - **Ingredients:** boneless skinless chicken thighs to taste, olive oil to taste, lime to taste, chili powder to taste, paprika to taste, oregano to taste, cumin to taste, salt to taste, pepper to taste, garlic to taste, jalapeno to taste
 
 ### Blueprint
-# Chicken Tacos
-
 Boneless skinless chicken thighs  
 O.o., lime, chili powder, paprika, oregano, cumin, salt, pepper, garlic, jalapeno, let sit a while
 
@@ -2459,14 +2230,12 @@ Grill high, 6m/ side, rest 5m, chop
 - **Ingredients:** 1 tsp paprika, 1 tsp cumin, 1/4 tsp cayenne pepper, 1/2 tsp ground ginger, 1/2 tsp ground coriander, 1/4 tsp ground cinnamon, 2 tbsp flour, 1 lemon, zested and juiced, 5 cloves garlic, minced, 8 chicken thighs, Salt and black pepper to taste, Cooking oil, as needed, 1 yellow onion, sliced, 1 3/4 cups chicken broth, 2 tbsp honey, 2-3 carrots, sliced, Olives to taste, Cilantro to taste, Couscous to taste
 
 ### Blueprint
-# [Chicken Tagine](https://www.onceuponachef.com/recipes/moroccan-chicken-tagine.html)
-
 Spice mix: t paprika, t cumin, 1/4t cayenne, 1/2 t ginger, ½ t coriander, 1/4t cinnamon, 2T flour  
 Zest 1 lemon  
 Mix t zest with 1 minced garlic
 
-Season 8 thighs with s\&p,  
-Heat oil, Sautee (M-H) skin down **5m**, flip, **4m** \-\> remove, de-skin  
+Season 8 thighs with s&p,  
+Heat oil, Sautee (M-H) skin down **5m**, flip, **4m** -> remove, de-skin  
 Get rid of all but T of fat  
 (M) sliced yellow onion **6m** (add water as needed)  
 4 garlic, **30s**  
@@ -2474,7 +2243,7 @@ Spice mix, **30s**
 1 ¾ C Broth, 2T honey, rest of the zest, 1/4t salt, scrape  
 Add chicken & juices (M-L) cover, **10m**  
 2-3 Carrots sliced, cover, **10m**  
-Olives, zest/garlic, cilantro, T lemon juice, s\&p  
+Olives, zest/garlic, cilantro, T lemon juice, s&p  
 
 Couscous
 
@@ -2490,7 +2259,7 @@ Couscous
 - **Ingredients:** 2 chipotle chiles, 2 cloves garlic, Kosher salt to taste, 1/2 tsp cumin, 1 tbsp oregano, 2 whole cloves, 4 whole peppercorns, 4 red tomatoes, 1/2 white onion, Cooking oil to taste, 1 lb cooked shredded chicken, 2 bay leaves, Corn tortillas to taste, Refried beans to taste, Crema to taste, Cheese to taste, Avocado to taste, Radish to taste
 
 ### Blueprint
-# Chicken Tinga
+Chop a chicken breast, boil with ¼ white onion, 3 garlic, 2 serrano for 30m
 
 Mortar & pestle
 
@@ -2504,10 +2273,10 @@ Mortar & pestle
 
 Blend 4 red tomatoes with above
 
-Fry ½ white onion in oil \-\> translucent  
+Fry ½ white onion in oil -> translucent  
 Add tomato mix, pound COOKED shredded chicken (see above), 2 bay leaves **15m**
 
-Tostada \- 10m @ 250, then fry in hot oil, 30s per side, drain on paper towel & salt  
+Tostada - 10m @ 250, then fry in hot oil, 30s per side, drain on paper towel & salt  
 Tostada / refried beans / tings / crema / cheese / avocado / radish
 
 ---
@@ -2523,10 +2292,8 @@ Tostada / refried beans / tings / crema / cheese / avocado / radish
 - **Ingredients:** 2 lb chicken wings, salt to taste, pepper to taste, thyme to taste, paprika to taste, garlic powder to taste, onion powder to taste, 1/4 stick butter, melted, 1/4 cup hot sauce
 
 ### Blueprint
-# [Chicken Wings](https://thewoksoflife.com/air-fryer-buffalo-wings/)
-
 2lb wings  
-Salt, pepper, thyme, paprika, garlic powder, onion powder \- let sit 30m  
+Salt, pepper, thyme, paprika, garlic powder, onion powder - let sit 30m  
 Air fry 400 x 24m  do not crowd
 
 Mix ¼ stick melted butter & ¼ cup hot sauce.  coat
@@ -2544,34 +2311,23 @@ Mix ¼ stick melted butter & ¼ cup hot sauce.  coat
 - **Ingredients:** 2-3 lb chicken legs or thighs, 4 scallions, 2 tsp dried thyme (or 2 tbsp fresh), 1 tbsp apple cider vinegar, 1/2 cup lime juice (divided), 7 tbsp oil (divided), 2 lb yellow onions, halved and sliced, Salt and black pepper to taste, 1 bell pepper or carrot, 4 cloves garlic, 1 chile pepper, 4 tsp fresh ginger, 3 bay leaves, 2 tsp dijon mustard, 1 cup reserved marinade, water, or stock, Rice (for serving), to taste, Olives (for serving), to taste, Lime wedges (for serving), to taste
 
 ### Blueprint
-# [Chicken Yassa](https://cooking.nytimes.com/recipes/1021053-pierre-thiams-chicken-yassa)
-
-MARINATE \- for **hours**  
+MARINATE - for **hours**  
 chicken legs / thighs (2-3 lb)  
-4 scallions  
-2t thyme (2T if fresh)  
-T apple cider vinegar  
-¼ cup lime juice  
-4T oil  
-2lb yellow onions, halved and sliced,
+4 scallions, 2t thyme (2T if fresh) , T apple cider vinegar , ¼ cup lime juice, 4T oil  
+2lb yellow onions, halved and sliced
 
-Pat chicken dry, s\&p, oil grill (m-h)  
-**7m/side** \-\> plate
+Pat chicken dry, s&p, oil grill (m-h)  
+**7m/side** -> plate
 
-3T oil, onions, s\&p  
+3T oil, onions, s&p  
 Do not stir, **4m**  
 Now stir **12m**
 
-1 bell pepper or maybe carrot  
-4 garlic  
-1 chile pepper  
-4t fresh ginger  
-3 bay leaves  
-2t dijon  
+1 bell pepper or maybe carrot, 4 garlic, 1 chile pepper, 4t fresh ginger, 3 bay leaves, 2t dijon  
 A little water if needed  
 **5m**
 
-Another ¼ cup lime juice, s\&p  
+Another ¼ cup lime juice, s&p  
 Add chicken back, under onions  
 1 cup marinade/water/stock, stir  
 M-L  
@@ -2592,17 +2348,15 @@ Serve over rice.  Olives, lime
 - **Ingredients:** 1.5 lb small boneless skinless chicken breast halves, salt and pepper to taste, flour for dusting, 3 tbsp oil, divided, 1 onion, sliced, 5 garlic cloves, 2-inch piece ginger, 1 tsp cumin, 1/2 tsp turmeric, 2 tsp sugar, 3/4 cup chicken broth, 8 oz rhubarb, cut into 2-inch pieces, cilantro to taste, flatbread for serving
 
 ### Blueprint
-# [Chicken \+ Rhubarb](https://www.marthastewart.com/1554428/pan-roasted-chicken-rhubarb)
-
 Oven 400
 
 1.5 lb small boneless skinless chicken breast halves   
-S\&P, dust with flour
+S&P, dust with flour
 
-Skillet, M-H, 2T oil, chicken **4m**, flip, **2m** \-\> plate  
-M heat, T oil, 1 onion sliced, 5 garlic, 2” ginger, S\&P, stir **3m**  
+Skillet, M-H, 2T oil, chicken **4m**, flip, **2m** -> plate  
+M heat, T oil, 1 onion sliced, 5 garlic, 2” ginger, S&P, stir **3m**  
 t Cumin, ½ t turmeric, 2t sugar **30s**  
-¾ C Chicken Broth, 8oz of 2” pieces rhubarb \-\> boil  
+¾ C Chicken Broth, 8oz of 2” pieces rhubarb -> boil  
 Add back chicken
 
 Roast **10m**  
@@ -2622,14 +2376,12 @@ Flatbread
 - **Ingredients:** 1/3 cup olive oil, 3 tbsp honey, 3 tbsp dijon mustard, 1 lemon, juiced, 2 tbsp balsamic vinegar, rosemary, to taste, oregano, to taste, basil, to taste, 1 shallot, grated, 2 cloves garlic, grated, salt and black pepper, to taste, red pepper flakes, to taste, 3/4 lb chicken, 1 bell pepper, quartered, orzo, to taste, 6 slices bacon, cheddar cheese, to taste, feta cheese, to taste, lettuce, to taste, 1 cup cherry tomatoes, halved, 1 avocado
 
 ### Blueprint
-# [Chicken bacon orzo salad](https://www.halfbakedharvest.com/lemon-herb-chicken-avocado-orzo-salad/)
-
-Dressing \- ⅓ cup o.o., 3T honey, 3T dijon, juice 1 lemon, 2T balsamic, rosemary, oregano, basil, grated shallot \+ 2 garlic, s\&p, red pepper flakes
+Dressing - ⅓ cup o.o., 3T honey, 3T dijon, juice 1 lemon, 2T balsamic, rosemary, oregano, basil, grated shallot + 2 garlic, s&p, red pepper flakes
 
 Marinate ¾ lb chicken in ⅓ the dressing (10min). Grill MH 10m.  Also grill quartered bell pepper  
 Cook orzo  
 Add 6 bacon, cheddar, feta, lettuce, cup 1/2ed cherry tomatoes, avocado  
-s\&p
+s&p
 
 ---
 
@@ -2644,9 +2396,7 @@ s\&p
 - **Ingredients:** 3 tbsp olive oil, 2 tbsp capers, 2 tsp caraway seeds, 1 tsp fennel seeds, 2 cloves garlic, 2 tbsp red wine vinegar, 1 tbsp oregano, salt and pepper to taste, 4 chicken legs, 8 figs, halved, 2 red onions, sliced
 
 ### Blueprint
-# [Chicken legs w caper vinegar](https://www.bbcgoodfood.com/premium/roasted-chicken-legs-with-figs-capers-oregano-red-wine-vinegar)
-
-3T oo, 2T capers, 2t carraway(anise,cumin,dill, celery), t fennel, 2 garlic, 2T red wine vinegar, T oregano, s\&p  
+3T oo, 2T capers, 2t carraway(anise,cumin,dill, celery), t fennel, 2 garlic, 2T red wine vinegar, T oregano, s&p  
 Slash 4 chicken legs, marinate 2-8 hrs  
 425, chicken, 8 halved figs, 2 sliced red onions. 45m
 
@@ -2662,9 +2412,7 @@ Slash 4 chicken legs, marinate 2-8 hrs
 - **Ingredients:** 2 lb chicken thighs, salt to taste, black pepper to taste, olive oil to taste, kielbasa, sliced to taste, 1 onion, 2 cloves garlic, 2 bell peppers, 2 tbsp paprika, 1 tsp pimenton, 28 oz can diced tomatoes, 1 cup chicken broth, 1/2 cup sour cream, parsley to taste, egg noodles to taste
 
 ### Blueprint
-# [Chicken sausage paprikash](https://www.finecooking.com/recipe/paprika-chicken-with-kielbasa) 
-
-Season 2lb chicken thighs s\&p  
+Season 2lb chicken thighs s&p  
 MH o.o. 4m/side 2 plate  
 Sliced kielbasa on cut ends, 1m/side 2 plate
 
@@ -2690,9 +2438,7 @@ Egg noodles
 - **Ingredients:** 8 bone-in, skin-on chicken thighs, oil, to taste, thyme, to taste, salt and pepper, to taste, 8 scallions, 2 cloves garlic, 1 oz dry sherry, 22 oz hot chicken stock, butter, to taste, baby gem lettuce, to taste, 8 oz peas, lemon juice, to taste, bread, for serving
 
 ### Blueprint
-# [Chicken w braised lettuce & peas](https://www.delicious.com.au/recipes/spring-chicken-braised-peas/64cd5df7-9c74-432a-9376-a11008692c2d)
-
-Rub 8 bone-in, skin-on chicken thighs with oil, thyme, s\&p  
+Rub 8 bone-in, skin-on chicken thighs with oil, thyme, s&p  
 Hot pan  
 Sear skin down **5m**  
 Turn, reduce heat, add 8 scallions, 2 garlic, **5m**  
@@ -2714,12 +2460,10 @@ Squirt lemon juice, serve with bread
 - **Ingredients:** 3 lb chicken thighs, kosher salt to taste, 1 tsp salt, 1 cup buttermilk (or 1 cup milk plus 1 tbsp lemon juice), 1.5 lb plums, 3 shallots, black pepper to taste, 2 tsp honey, fresh tarragon to taste, red pepper flakes to taste
 
 ### Blueprint
-# [Chicken w. Plums & shallots](https://www.purewow.com/recipes/sheet-pan-buttermilk-chicken-thighs)
-
 Dry 3 lb chicken thighs , kosher salt, sit 30m  
-Marinate in 1t salt \+ 1 cup buttermilk (cup milk \+ T lemon, sat for 5m) for **EIGHT HOURS**
+Marinate in 1t salt + 1 cup buttermilk (cup milk + T lemon, sat for 5m) for **EIGHT HOURS**
 
-425 \- sheet pan with 1.5lb plums & 3 shallots, s\&p, drizzle with 2t honey  
+425 - sheet pan with 1.5lb plums & 3 shallots, s&p, drizzle with 2t honey  
 30m. 40 if bone in.  
 Garnish with tarragon & red pepper flakes
 
@@ -2736,8 +2480,6 @@ Garnish with tarragon & red pepper flakes
 - **Ingredients:** chicken thighs, sweet potatoes, cut into wedges, zucchini, sliced lengthwise, oil to taste, pesto to taste, pine nuts to taste, fresh basil leaves to taste, fresh cilantro leaves to taste, feta cheese to taste
 
 ### Blueprint
-# [Chicken with sweet potatoes & zucchini](https://www.deliciousmagazine.co.uk/recipes/grilled-chicken-thighs-with-sweet-potato-wedges-courgettes-and-feta/)
-
 Oil chicken thighs & sweet potato wedges.   Grill for 25m?  
 Add zucchini sliced lengthwise, last couple minutes  
 Cover with pesto, pinenuts, basil & cilantro leaves, feta cheese
@@ -2755,9 +2497,7 @@ Cover with pesto, pinenuts, basil & cilantro leaves, feta cheese
 - **Ingredients:** 2 lemons (divided: zest and juice of 1, zest and slices of 1), 1/4 cup olive oil, 5 cloves garlic, salt and pepper to taste, 1/2 oz fresh tarragon (plus extra to taste for finishing), asparagus to taste, chicken breasts, 2 leeks (sliced to 1/2-inch rounds)
 
 ### Blueprint
-# [Chicken, asparagus, leeks](https://www.feastingathome.com/tarragon-chicken-with-asparagus-lemon-leeks/)
-
-Marinade \- zest \+ juice one lemon, 1/4cup olive oil, 5 garlic, s\&p, ½ oz fresh tarragon
+Marinade - zest + juice one lemon, 1/4cup olive oil, 5 garlic, s&p, ½ oz fresh tarragon
 
 cover asparagus in some marinade, spread on parchment-lined sheet pan  
 Same with Chicken breasts & 2 leeks (slice to ½” rounds)
@@ -2780,9 +2520,7 @@ More tarragon
 - **Ingredients:** chicken thighs, bite-sized, to taste, 2 cans white beans, spinach, to taste, garlic, to taste, onion, to taste, celery, to taste, broth, to taste, lemon, to taste, bay leaf, to taste, thyme, to taste, red pepper flakes, to taste, salt, to taste, black pepper, to taste
 
 ### Blueprint
-# Chicken, beans & greens
-
-Sautee garlic, onion, celery \- s\&p & red pepper, thyme,   
+Sautee garlic, onion, celery - s&p & red pepper, thyme,   
 Brown chicken thighs (bite-sized)  
 2 cans white beans  
 Cover w broth, bay leaf  
@@ -2802,13 +2540,11 @@ lemon
 - **Ingredients:** red salsa to taste, totopos to taste, crema mexicana to taste, onion to taste, cilantro to taste, avocado to taste, cotija cheese to taste, filling to taste
 
 ### Blueprint
-## Chilaquiles
-
 Red salsa, totopos, crema mexicana, onion, cilantro, avocado, cotija (hard) cheese, filling
 
 ---
 
-## Chili verde \+ sausage & pumpkin (`rec_chili_verde_sausage_pumpkin_b008fd`)
+## Chili verde + sausage & pumpkin (`rec_chili_verde_sausage_pumpkin_b008fd`)
 - **Type:** main (stew)
 - **Cuisine:** Mexican | **Effort:** Low
 - **Seasons:** autumn, winter
@@ -2819,8 +2555,6 @@ Red salsa, totopos, crema mexicana, onion, cilantro, avocado, cotija (hard) chee
 - **Ingredients:** 1 yellow onion, chopped, 1 lb sausage meat, 1.5 tsp oregano, 3 cloves garlic, green salsa, to taste, 1 can hominy, 8 oz butternut squash cubes
 
 ### Blueprint
-# [Chili verde \+ sausage & pumpkin](https://www.foodnetwork.com/recipes/aaron-sanchez/chili-verde-with-sausage-and-pumpkin-3568199)
-
 Sautee Yellow chopped onion 4m, pound sausage meat 10m  
 Remove most fat (leave T)  
 1.5 t Oregano, 3 garlic, 3m  
@@ -2841,9 +2575,7 @@ Simmer 20m
 - **Ingredients:** 1/3 cup extra-virgin olive oil, 2 tablespoons red wine vinegar, 1/2 cup finely chopped parsley, 4 cloves garlic, minced, 1/2 jalapeno pepper, seeded and finely chopped, 3/4 teaspoon dried oregano, 1/2 teaspoon coarse sea salt, 3-4 turns freshly-ground black pepper, 4 thin boneless skinless chicken breasts, asparagus, to taste, oil, to taste, salt and pepper, to taste
 
 ### Blueprint
-# [Chimichurri Chicken](https://www.nourish-and-fete.com/chimichurri-chicken-asparagus-skillet/)
-
-BLEND SAUCE \- **probably double this**  
+BLEND SAUCE - **probably double this**  
 1/3 cup extra-virgin olive oil  
 2 tablespoons red wine vinegar  
 1/2 cup finely chopped parsley  
@@ -2855,47 +2587,11 @@ BLEND SAUCE \- **probably double this**
 
 Marinate 4 THIN boneless skinless breasts in ¼ cup of it for 15m
 
-Cook asparagus in oil MH 4m, s\&p \-\> remove  
+Cook asparagus in oil MH 4m, s&p -> remove  
 Cook chicken 4m/side  
 Add asparagus back, add sauce
 
 Add more sauce
-
----
-
-## Chinese Chicken Salad (`rec_chinese_chicken_salad_e17630`)
-- **Type:** main (salad)
-- **Cuisine:** Chinese-American | **Effort:** Low
-- **Seasons:** spring, summer
-- **Vibe:** crunchy, fresh, nutty, sweet, tangy
-- **Dietary:** dairy-free
-- **Times (min):** Prep: 20, Cook: 0, Oven: None
-- **Source:**  (https://www.food.com/recipe/chinese-chicken-salad-265208)
-- **Ingredients:** 4 cups cooked chicken, 1 head green cabbage, 6 green onions, 1 can water chestnuts, 3 oz package ramen noodles, 1/2 cup cilantro, 3/4 cup sliced almonds, 2 tsp sunflower seeds, mandarin oranges to taste, 3 tbsp rice wine vinegar, 2 tbsp sesame oil, 2/3 cup canola oil, 2 tsp mustard powder, 4 tsp lemon juice, 4 tsp soy sauce, 4 tbsp sugar, 1 clove garlic, 1 tbsp ginger
-
-### Blueprint
-# [Chinese Chicken Salad](https://www.food.com/recipe/chinese-chicken-salad-265208)
-
-4 cups chicken  
-1 green cabbage  
-6 green onions  
-Can water chestnuts  
-3oz pkg ramen noodles  
-½ cup cilantro  
-¾ cup sliced almonds  
-2t Sunflower seeds  
-Mandarin oranges
-
-Dressing  
-3T rice wine vinegar  
-2T sesame oil  
-⅔ cup canola oil  
-2t mustard powder  
-4t lemon juice  
-4t soy  
-4T sugar  
-1 garlic  
-T ginger
 
 ---
 
@@ -2910,8 +2606,6 @@ T ginger
 - **Ingredients:** 4 cups cooked chicken (approx. 2 breasts), 1 head green cabbage, 6 green onions, 1 can water chestnuts, 3 oz package ramen noodles, 1/2 cup fresh cilantro, 3/4 cup sliced almonds, 2 tsp sunflower seeds, mandarin oranges to taste, 3 tbsp rice wine vinegar, 2 tbsp sesame oil, 2/3 cup canola oil, 2 tsp mustard powder, 4 tsp lemon juice, 4 tsp soy sauce, 4 tbsp sugar, 1 clove garlic, 1 tbsp ginger, salt to taste
 
 ### Blueprint
-# [Chinese Chicken Salad](https://www.food.com/recipe/chinese-chicken-salad-265208)
-
 4 cups chicken (2 breasts)  
 1 green cabbage  
 6 green onions  
@@ -2922,18 +2616,11 @@ Can water chestnuts
 2t Sunflower seeds  
 Mandarin oranges
 
-Dressing  
-3T rice wine vinegar  
-2T sesame oil  
-⅔ cup canola oil  
-2t mustard powder  
-4t lemon juice  
-4t soy  
-4T sugar  
-1 garlic  
-T ginger
+# Dressing  
+3T rice wine vinegar, 2T sesame oil, ⅔ cup canola oil,  
+2t mustard powder, 4t lemon juice, 4t soy, 4T sugar, 1 garlic, T ginger
 
-Poaching frozen chicken breast  
+Poaching frozen chicken breast  if necessary:
 Put them in heavily salted water, medium heat, bring to boil, 3m.  Remove from heat, flip chicken. Cover. 12m
 
 ---
@@ -2949,8 +2636,6 @@ Put them in heavily salted water, medium heat, bring to boil, 3m.  Remove from h
 - **Ingredients:** 1.5 lb chicken thighs, 1/3 cup onion, 2 cloves garlic, 1 tbsp ketchup, 2 chipotle peppers, 2 tsp chili powder, 1 tsp paprika, 1 tsp oregano, 1 tsp cumin, 1/2 tsp salt, 2 tbsp oil, 2 tbsp lime juice
 
 ### Blueprint
-# [Chipotle Chicken](https://getinspiredeveryday.com/food/chipotle-chicken/#recipe)
-
 1.5 lb thighs  
 ⅓ cup onion, 2 garlic, T ketchup, 2 chipotles, 2t chili powder, t paprika, t oregano, t cumin, ½ t salt, 2T oil, 2T lime  
 Marinate.   
@@ -2969,20 +2654,18 @@ chop
 - **Ingredients:** 2 lb sirloin steak, 2 tsp salt, 1 tsp pepper, 1/2 cup olive oil, 1/4 cup onion, 2 cloves garlic, 2 tbsp red wine vinegar, 2 tbsp parsley, 1 tbsp oregano, 8 slices bacon, ham to taste, butter to taste, 4 eggs, ciabatta bread, ketchup to taste, mayonnaise to taste, tomato slices to taste, mozzarella cheese to taste, lettuce to taste, olives to taste
 
 ### Blueprint
-# [Chivito](https://www.thespruceeats.com/chivito-sandwich-from-uruguay-3029718)
-
-(scale this way down \- it’s for 2lb steak)  
+(scale this way down - it’s for 2lb steak)  
 2t salt, t pepper, 1/2 cup o.o., 1/4 cup onion, 2 garlic, 2T r.w. vinegar, 2T parsley, T oregano  
 (change T to t if dried herbs)
 
 pour chimichurri over the steak
 
-s\&p sirloin, 2” strips, pound thin \- 3m/side  
-M heat cook 8 bacon crispy \- cook ham briefly in the bacon  
-M heat melt butter, fry 4 eggs sunny side up, s\&p (or hard boil & slice)  
+s&p sirloin, 2” strips, pound thin - 3m/side  
+M heat cook 8 bacon crispy - cook ham briefly in the bacon  
+M heat melt butter, fry 4 eggs sunny side up, s&p (or hard boil & slice)  
 spread ciabatta (something crusty outside and soft inside) ketchup & mayo, 2 bacon, steak, tomato, ham, mozarella  
 broil for 90 seconds or so  
-lettuce, fried egg \- olives maybe
+lettuce, fried egg - olives maybe
 
 Maybe get a crusty loaf and make one big sandwich to slice up
 
@@ -2999,22 +2682,20 @@ Maybe get a crusty loaf and make one big sandwich to slice up
 - **Ingredients:** 1 stick butter, 1 cup sugar, 1 egg, 1 tsp vanilla extract, 2 1/4 cups flour, 4 oz chocolate, 1/2 cup heavy cream, crushed candy cane, to taste
 
 ### Blueprint
-## [Chocolate dipped shortbread](https://www.tosimplyinspire.com/chocolate-dipped-cookies.html)
-
 Cream stick butter, cup sugar 2m  
 egg, t vanilla  
 add 2 1/4 cup flour 1/2 cup at a time, mix low in between
 
-1.5 \- 2T dough \-\> balls  
+1.5 - 2T dough -> balls  
 parchment paper, press to 1/2" thick
 
 chill 15m
 
-oven \-\> 350  
+oven -> 350  
 10m, cool completely on rack
 
 ganache  
-microwave 4 oz chocolate \+ 1/2 cup cream 20s, stir, 20s. NOT TOO MUCH  
+microwave 4 oz chocolate + 1/2 cup cream 20s, stir, 20s. NOT TOO MUCH  
 dip, sprinkle with crushed candy cane  
 chill 20m
 
@@ -3030,8 +2711,6 @@ chill 20m
 - **Ingredients:** 3 parts soy sauce, 3 parts water, 3 parts rice vinegar, 1 part sugar, 1 part sesame oil, 0.5 part sesame seeds, Scallions to taste, Chili flakes to taste
 
 ### Blueprint
-## Choganjang (Pancake / dumpling sauce)
-
 3 soy  
 3 water  
 3 rice vinegar  
@@ -3052,26 +2731,12 @@ Scallions, chili flakes
 - **Ingredients:** turkey to taste, salad greens to taste, almonds to taste, avocado to taste, orange slices to taste, pomegranate seeds to taste, olive oil to taste, pomegranate molasses to taste, orange juice to taste, apple cider vinegar to taste, garlic to taste, carrots to taste, honey to taste, butter to taste, balsamic vinegar to taste, mustard to taste, thyme to taste, cumin to taste, salt and black pepper to taste
 
 ### Blueprint
-# Christmas
-
 Turkey again
 
-salad \- almonds, greens, avocado, orange slices, pomegranate, s\&p  
-Dressing \- o.o. Pom molasses, oj, apple cider vinegar, s\&p, garlic
+salad - almonds, greens, avocado, orange slices, pomegranate, s&p  
+Dressing - o.o. Pom molasses, oj, apple cider vinegar, s&p, garlic
 
- roast carrots \- o.o. s\&p, honey, o.o., butter, balsamic, garlic, mustard, thyme, cumin \- 40m @ 375\.
-
----
-
-## Cinco de Mayo (`rec_cinco_de_mayo_d3fb23`)
-- **Type:** main (standard)
-- **Cuisine:** Mexican | **Effort:** Low
-- **Seasons:** spring
-- **Vibe:** festive
-- **Times (min):** Prep: None, Cook: None, Oven: None
-
-### Blueprint
-# Cinco de Mayo
+ roast carrots - o.o. s&p, honey, o.o., butter, balsamic, garlic, mustard, thyme, cumin - 40m @ 375\.
 
 ---
 
@@ -3086,19 +2751,17 @@ Dressing \- o.o. Pom molasses, oj, apple cider vinegar, s\&p, garlic
 - **Ingredients:** 3 habanero peppers, seeded, 1/2 cup white or apple cider vinegar, salt to taste, sugar, pinch, 4 6-oz salmon fillets (coho), cooking oil to taste, 1 tbsp butter, 1 onion, chopped, 1 bell pepper, chopped, 4 garlic cloves, minced, 1 tbsp thyme, 4 green onions, sliced, 3 tbsp curry powder, 2 tbsp tomato paste, 1 can coconut milk, 10 oz stock, 1 tbsp lemon juice, rice to taste
 
 ### Blueprint
-# [Coconut curry salmon](https://www.foodandwine.com/coconut-curry-salmon-7508750)
-
-3 habanero (seeded) \+ 1/2 cup white or apple cider vinegar, pinch of salt & sugar, puree  
+3 habanero (seeded) + 1/2 cup white or apple cider vinegar, pinch of salt & sugar, puree  
 salt 4 6oz salmon (coho)
 
 H heat skillet, oil, skin down 3m/ flip/ T butter / 2m
 
 M heat, oil, onion, bell pepper 7m  
-4 garlic, T thyme, 4 green onion, 3T curry powder \- 2m  
-2T tomato paste \- 2m  
+4 garlic, T thyme, 4 green onion, 3T curry powder - 2m  
+2T tomato paste - 2m  
 can coconut milk, 10 oz stock  
 salt & T lemon juice  
-boil, \- ML simmer 10-15m
+boil, - ML simmer 10-15m
 
 add salmon, 3m
 
@@ -3117,8 +2780,6 @@ rice w. green onion & pepper sauce
 - **Ingredients:** olive oil, to taste, 3 garlic cloves, 2 lb carrots, sliced diagonally 1/2-inch, sugar, to taste, 1/2 tsp salt, divided, black pepper, to taste, dried marjoram, to taste, 1.5 tbsp olive oil, 1 tsp lemon juice
 
 ### Blueprint
-# [Cody Carrots](https://www.foodandwine.com/recipes/sauteed-carrots-lemon-and-marjoram)
-
 ML heat skillet, o.o.  
 3 garlic  
 2 lb carrot sliced diagonal ½”  
@@ -3128,7 +2789,7 @@ Pepper
 Dried marjoram  
 COVER and cook 5m, stir occasionally
 
-UNCOVER \- MH 8m longer, stirring \-\> brown
+UNCOVER - MH 8m longer, stirring -> brown
 
 Remove from heat  
 1.5 T o.o., ¼ t salt, t lemon juice
@@ -3146,8 +2807,6 @@ Remove from heat
 - **Ingredients:** olive oil, as needed, 3 cloves garlic, 2 lbs carrots, sliced diagonally 1/2-inch thick, sugar, to taste, 1/2 tsp salt, black pepper, to taste, dried marjoram, to taste, 1.5 tbsp extra virgin olive oil, 1 tsp lemon juice
 
 ### Blueprint
-## [Cody Carrots](https://www.foodandwine.com/recipes/sauteed-carrots-lemon-and-marjoram)
-
 ML heat skillet, o.o.  
 3 garlic  
 2 lb carrot sliced diagonal ½”  
@@ -3157,7 +2816,7 @@ Pepper
 Dried marjoram  
 COVER and cook 5m, stir occasionally
 
-UNCOVER \- MH 8m longer, stirring \-\> brown
+UNCOVER - MH 8m longer, stirring -> brown
 
 Remove from heat  
 1.5 T o.o., ¼ t salt, t lemon juice
@@ -3175,9 +2834,7 @@ Remove from heat
 - **Ingredients:** 1 cabbage, 1 carrot, 1 red onion, 1/4 cup parsley, 1 cup sugar (for purging), 1/2 cup salt, 3/4 cup mayonnaise, 1/4 cup apple cider vinegar, 2 tbsp Dijon mustard, 1 tbsp black pepper, 3 tbsp sugar
 
 ### Blueprint
-# [Cole Slaw](https://www.seriouseats.com/creamy-cole-slaw)
-
-1 Cabbage, 1 carrot, 1 red onion, ¼ cup parsley \- cup sugar, ½ cup salt.  Let sit 5 minutes, then rinse & spin dry, and pat with paper towels
+1 Cabbage, 1 carrot, 1 red onion, ¼ cup parsley - cup sugar, ½ cup salt.  Let sit 5 minutes, then rinse & spin dry, and pat with paper towels
 
 ¾ cup Mayo, ¼ cup apple cider vinegar, 2T dijon mustard, T pepper, 3T sugar
 
@@ -3194,11 +2851,23 @@ Remove from heat
 - **Ingredients:** 1 head cabbage, 1 carrot, 1 red onion, 1/4 cup chopped fresh parsley, 1 cup sugar (for wilting), 1/2 cup kosher salt (for wilting), 3/4 cup mayonnaise, 1/4 cup apple cider vinegar, 2 tablespoons dijon mustard, 1 tablespoon freshly ground black pepper, 3 tablespoons sugar
 
 ### Blueprint
-## [Cole Slaw](https://www.seriouseats.com/creamy-cole-slaw)
-
-1 Cabbage, 1 carrot, 1 red onion, ¼ cup parsley \- cup sugar, ½ cup salt.  Let sit 5 minutes, then rinse & spin dry, and pat with paper towels
+1 Cabbage, 1 carrot, 1 red onion, ¼ cup parsley - cup sugar, ½ cup salt.  Let sit 5 minutes, then rinse & spin dry, and pat with paper towels
 
 ¾ cup Mayo, ¼ cup apple cider vinegar, 2T dijon mustard, T pepper, 3T sugar
+
+---
+
+## Cole slaw (`rec_cole_slaw_04702b`)
+- **Type:** side (salad)
+- **Cuisine:** American | **Effort:** Low
+- **Seasons:** spring, summer, autumn, winter
+- **Vibe:** creamy, tangy, crunchy
+- **Dietary:** vegetarian, gluten-free, dairy-free
+- **Times (min):** Prep: 15, Cook: 0, Oven: 0
+- **Ingredients:** cabbage to taste, carrots to taste, mayonnaise to taste, vinegar to taste, mustard to taste, sugar to taste, salt and pepper to taste
+
+### Blueprint
+carrots, cabbage, mayonnaise, vinegar, mustard, s&p, sugar.
 
 ---
 
@@ -3213,27 +2882,9 @@ Remove from heat
 - **Ingredients:** 1 head cabbage, 1 carrot, 1 red onion, 1/4 cup parsley, 1 cup sugar (for purging), 1/2 cup salt (for purging), 3/4 cup mayonnaise, 1/4 cup apple cider vinegar, 2 tbsp Dijon mustard, 1 tbsp black pepper, 3 tbsp sugar
 
 ### Blueprint
-## [Cole slaw](https://www.seriouseats.com/creamy-cole-slaw)
-
-1 Cabbage, 1 carrot, 1 red onion, ¼ cup parsley \- cup sugar, ½ cup salt.  Let sit 5 minutes, then rinse & spin dry, and pat with paper towels
+1 Cabbage, 1 carrot, 1 red onion, ¼ cup parsley - cup sugar, ½ cup salt.  Let sit 5 minutes, then rinse & spin dry, and pat with paper towels
 
 ¾ cup Mayo, ¼ cup apple cider vinegar, 2T dijon mustard, T pepper, 3T sugar
-
----
-
-## Cole slaw \- (`rec_cole_slaw_04702b`)
-- **Type:** side (salad)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** spring, summer, autumn, winter
-- **Vibe:** creamy, tangy, crunchy
-- **Dietary:** vegetarian, gluten-free, dairy-free
-- **Times (min):** Prep: 15, Cook: 0, Oven: 0
-- **Ingredients:** cabbage to taste, carrots to taste, mayonnaise to taste, vinegar to taste, mustard to taste, sugar to taste, salt and pepper to taste
-
-### Blueprint
-## Cole slaw \- 
-
-carrots, cabbage, mayonnaise, vinegar, mustard, s\&p, sugar.
 
 ---
 
@@ -3248,11 +2899,9 @@ carrots, cabbage, mayonnaise, vinegar, mustard, s\&p, sugar.
 - **Ingredients:** 1/2 lb bacon, 1 onion, 4 garlic cloves, 1 lb collard greens, salt and pepper to taste, chili to taste
 
 ### Blueprint
-# [Collard Greens](https://www.bonappetit.com/recipe/instant-pot-collard-greens)
-
-½ lb bacon \-\> crispy   
+½ lb bacon -> crispy   
 Cook 1 onion, 4 garlic **5m**  
-1lb collard greens, washed & chopped, s\&p, chili **3m**
+1lb collard greens, washed & chopped, s&p, chili **3m**
 
 Instant pot **12m**.  Sautee liquid away if too much.
 
@@ -3269,12 +2918,10 @@ Instant pot **12m**.  Sautee liquid away if too much.
 - **Ingredients:** 1 lb chicken thighs, cut into 2-inch cubes, 1/2 tsp Shaoxing wine, 1/2 tsp cornstarch, 1 tsp ground white pepper, divided, 2 tbsp cooking oil, dried chiles, to taste, 3/4 tbsp Sichuan peppercorns, 3 star anise, 3 tsp broad bean paste (doubanjiang), 2 scallions, cut into 2-inch pieces, 1 inch fresh ginger, sliced, 1 red bell pepper, cubed, 1 tsp soy sauce, 1 potato, peeled and cubed, 1/8 tsp sugar, 3 cloves garlic, red onion, chopped, to taste, noodles, for serving, to taste
 
 ### Blueprint
-## [Concubine Chicken](https://www.vice.com/en/article/y3gvek/concubines-chicken-recipe)
-
 Chop lb chicken thighs into 2” cubes  
 Add to chicken ½  t shaoxing wine, ½  t cornstarch, ½  t white pepper, mix and sit
 
-Fry H heat 2T oil \- chile \+ ¾  T szechuan pepper corns, 3 star anise (sub \= 5 spice, cloves, allspice, fennel) in oil 30 sec and remove
+Fry H heat 2T oil - chile + ¾  T szechuan pepper corns, 3 star anise (sub \= 5 spice, cloves, allspice, fennel) in oil 30 sec and remove
 
 3t broadbean sauce, 2 scallion (2”) , 1” ginger, mix then   
 Add chicken, chile, red bell pepper cubed  
@@ -3282,7 +2929,7 @@ Add chicken, chile, red bell pepper cubed
 t Soy sauce, **10m more**  
 Add  peeled and cubed potato, **5m more**  
 ⅛ t Sugar, ½ t white pepper, 3 garlic, **2 m more**  
-Mix in chopped Red onion \- serve with noodles
+Mix in chopped Red onion - serve with noodles
 
 ---
 
@@ -3309,12 +2956,10 @@ Mix in chopped Red onion \- serve with noodles
 - **Ingredients:** 4 strips bacon, 8 bone-in, skin-on chicken thighs, salt to taste, black pepper to taste, flour as needed, 10 oz pearl onions, 8 oz cremini mushrooms, 2 tbsp tomato paste, 2 cups white wine, 1 3/4 cups broth, egg noodles as needed, butter to taste, parsley to taste
 
 ### Blueprint
-# [Coq au Vin Blanc](https://www.marthastewart.com/1099359/quick-coq-au-vin-blanc)
-
 350  
-Skillet MH 4 strips bacon **5m** \-\> plate  
-8 chicken thighs (skin & bones) s\&p, flour  
-Skin side down **4m / side** \-\> plate  
+Skillet MH 4 strips bacon **5m** -> plate  
+8 chicken thighs (skin & bones) s&p, flour  
+Skin side down **4m / side** -> plate  
 Remove all but 2T fat  
 M heat  
 10 oz pearl Onions and 8 oz cremini mushrooms, salt, **10m**  
@@ -3324,20 +2969,6 @@ M heat
 Return chicken & juice, top with bacon, **20m** in oven (to 165\)
 
 Egg noodles, butter, parsley
-
----
-
-## Corn \- 2m/side (4 sides) (`rec_corn_2m_side_4_sides_3fd2df`)
-- **Type:** side (vegetable)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** summer
-- **Vibe:** sweet, smoky, charred
-- **Dietary:** gluten-free, dairy-free, vegan, vegetarian
-- **Times (min):** Prep: 5, Cook: 8, Oven: 0
-- **Ingredients:** corn on the cob
-
-### Blueprint
-## Corn \- 2m/side (4 sides)
 
 ---
 
@@ -3352,13 +2983,11 @@ Egg noodles, butter, parsley
 - **Ingredients:** corned beef brisket, 1 onion, quartered, 4 cups water or beef broth, 4 cloves garlic, pickling spices, to taste, 1.5 lbs red potatoes, quartered, 3 cups baby carrots, 1 head cabbage, cut into 1/8 wedges, mustard, to taste, parsley, to taste, soda bread, to taste, Guinness, to taste
 
 ### Blueprint
-# [Corned Beef](https://www.pressurecookrecipes.com/instant-pot-corned-beef/)
-
 Rinse beef  
-Beef \+ Quartered onion, 4C water / beef broth, 4 garlic, pickling spices on top,   
-Instant pot 70M \+ 15M  
-Remove beef \+ 3C liquid  
-1.5lb Red potatoes 1/4ed , 3 cups baby carrots , cabbage (⅛ wedges) \- 4m
+Beef + Quartered onion, 4C water / beef broth, 4 garlic, pickling spices on top,   
+Instant pot 70M + 15M  
+Remove beef + 3C liquid  
+1.5lb Red potatoes 1/4ed , 3 cups baby carrots , cabbage (⅛ wedges) - 4m
 
 Mustard, parsley, soda bread, guiness
 
@@ -3375,10 +3004,8 @@ Mustard, parsley, soda bread, guiness
 - **Ingredients:** Cornish hen, Garlic, to taste, Lemon, to taste, Rosemary, to taste, Thyme, to taste, Paprika, to taste, Salt and pepper, to taste, Olive oil, to taste, Vegetables (for roasting alongside), to taste
 
 ### Blueprint
-# [Cornish Hen](https://www.billyparisi.com/cornish-hen-recipe/)
-
 Dry  
-Coat inside and out with garlic, lemon, rosemary, thyme, paprika, s\&p, o.o.  
+Coat inside and out with garlic, lemon, rosemary, thyme, paprika, s&p, o.o.  
 Tie up legs  
 425 for an hour
 
@@ -3397,8 +3024,6 @@ Roast some vegetables at the same time
 - **Ingredients:** 1 cotechino sausage, 1 cup lentils, 1 carrot, 1 rib celery, 1 shallot, 1/2 onion, Olive oil to taste, 1 bay leaf, Garlic to taste, 1 tbsp tomato paste, 1/2 glass red wine, Salt to taste
 
 ### Blueprint
-# [Cotechino & Lentils](https://www.lacucinaitaliana.com/recipe/main-course/cotechino-and-lentils)
-
 Rinse sausage in cold water, 30m, dry & poke holes in it.  
 Boil 2 hours\!\! Wrapped in cloth
 
@@ -3407,22 +3032,6 @@ Soak cup of lentils 2 hours
 carrot , celery, shallot, ½ onion, o.o., bayleaf, garlic 3m, toast lentils 2m high heat  
 T Tomato paste, ½ glass of red wine, low heat 30m, stirring and adding boiling water from sausage as needed  
 Salt lentils, remove skin from sausage, slice (fry them a bit?) and serve on lentils
-
----
-
-## Crab (`rec_crab_58b1bb`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** winter
-- **Vibe:** savory, sweet, fresh
-- **Dietary:** dairy-free, gluten-free, pescatarian
-- **Times (min):** Prep: 2, Cook: 10, Oven: None
-- **Ingredients:** 1 crab, cleaned
-
-### Blueprint
-# Crab
-
-Buy a crab, cleaned.  Steam it a little.
 
 ---
 
@@ -3437,8 +3046,6 @@ Buy a crab, cleaned.  Steam it a little.
 - **Ingredients:** 12 oz bucatini, olive oil, to taste, plus 1/2 cup, 1.5 cups pasta water, reserved, 2 cloves garlic, 1/4 cup capers, 1 tsp black pepper, 6 egg yolks, 3 oz cheese, plus extra to taste, 1/2 cup fresh chives, 8 oz lump crab meat, 1 tbsp lemon zest, 1 tbsp lemon juice, salt to taste
 
 ### Blueprint
-# [Crab Carbonara](https://www.foodandwine.com/recipes/summer-crab-carbonara-lemons-and-capers)
-
 12 oz bucatini, 2 minutes shy, a little o.o.
 
 1.5 c pasta water, 
@@ -3465,16 +3072,14 @@ Salt, pasta water as needed, cheese
 - **Ingredients:** 8 oz mushrooms, 6 tbsp butter, 1/2 shallot, 3 cloves garlic, 2 tsp tarragon, 1/2 cup wine, 1/2 cup heavy cream, 8 oz pasta, 6 oz crab meat, fresh parsley to taste, salt and pepper to taste, garlic bread
 
 ### Blueprint
-# New Year’s
-
 sautee 8oz mushrooms,  
 6T butter, 1/2 shallot, 3 garlic, 2t tarragon  
 1/2 cup wine, 1/2 cup cream, simmer
 
-8oz pasta \+ 6 oz crab, parsley, 1m  
-s\&p
+8oz pasta + 6 oz crab, parsley, 1m  
+s&p
 
-garlic bread \- 425 x 10m
+garlic bread - 425 x 10m
 
 ---
 
@@ -3489,8 +3094,6 @@ garlic bread \- 425 x 10m
 - **Ingredients:** 1 lb cranberries, Zest of 1 orange, 1/2 cup orange juice concentrate, thawed, 1 tsp cinnamon, 2 tbsp maple syrup, Orange juice (as needed)
 
 ### Blueprint
-## [Cranberry sauce](https://amindfullmom.com/homemade-citrus-spiked-cranberry-sauce-naturally-sweetened/)
-
 lb cranberries  
 zest an orange, 1/2 cup oj concentrate, thawed, t cinammon, 2T maple syrup  
 boil, simmer 30m, stirring.  add oj as needed so it doesn't burn  
@@ -3509,13 +3112,11 @@ cool, then refrigerate 12 hours
 - **Ingredients:** 10 oz spinach, garlic, to taste, 1/4 cup olive oil, 2 tbsp flour, 2.5 cups soy milk, 1/4 cup small dice white onion, pinch nutmeg, salt, to taste, pepper, to taste
 
 ### Blueprint
-## [Creamed Spinach](https://www.thespruceeats.com/dairy-free-creamed-spinach-1001612)
-
 Cook 10 oz spinach 3m w. garlic
 
-M heat \- 1/4 cup o.o, 2T flour 2m stirring.  
-2.5 cups soy milk (this is way too much), 1/4 cup small dice white onion, simmer 5m, Pinch nutmeg, s\&p  
-blend it all together (not too smooth) \- add liquid a little at a time until consistency is right
+M heat - 1/4 cup o.o, 2T flour 2m stirring.  
+2.5 cups soy milk (this is way too much), 1/4 cup small dice white onion, simmer 5m, Pinch nutmeg, s&p  
+blend it all together (not too smooth) - add liquid a little at a time until consistency is right
 
 ---
 
@@ -3529,9 +3130,7 @@ blend it all together (not too smooth) \- add liquid a little at a time until co
 - **Ingredients:** 4 chicken thighs, salt to taste, black pepper to taste, olive oil to taste, shallot to taste, 1.5 cups arborio rice, 1/2 cup wine, 4 cups warm broth, 1 bunch asparagus, 1 cup peas, butter to taste, parmesan cheese to taste, lemon zest to taste
 
 ### Blueprint
-# Crispy Chicken thighs \+ spring risotto
-
-Dry, s\&p 4 thighs  
+Dry, s&p 4 thighs  
 Sear MH o.o., skin down 10-12m (DONT TOUCH)  
 Flip, 5m (165), remove
 
@@ -3554,12 +3153,10 @@ Add butter, parm, lemon zest
 - **Ingredients:** chicken drumsticks, olive oil to taste, salt to taste, pepper to taste, garlic powder to taste, chili powder to taste, oregano to taste, paprika to taste, carrots to taste, broccoli to taste, potatoes to taste
 
 ### Blueprint
-# [Crispy Drumsticks](https://rachaelsgoodeats.com/seasoned-crispy-chicken-drumsticks/)
-
 420 oven  
 Pat dry  
-O.o. \+ seasonings (salt, pepper, garlic powder, chili powder, oregano, paprika)  
-Rack on baking sheets, 30, flip, 15 (want high internal temp \- like 190 even)
+O.o. + seasonings (salt, pepper, garlic powder, chili powder, oregano, paprika)  
+Rack on baking sheets, 30, flip, 15 (want high internal temp - like 190 even)
 
 Roast carrots & broccoli & potatoes \~20m
 
@@ -3575,19 +3172,17 @@ Roast carrots & broccoli & potatoes \~20m
 - **Ingredients:** 2 tbsp butter, 3 tbsp flour, 2 cups hot milk, 1 tsp kosher salt, 1/2 tsp pepper, 1 pinch nutmeg, 8 oz grated gruyere, plus extra for topping, 8 oz grated parmesan, bread slices, mustard to taste, ham slices
 
 ### Blueprint
-# [Croque Monsieur](https://www.foodnetwork.com/recipes/ina-garten/croque-monsieur-recipe-1916523)
-
-Oven \-\> 400
+Oven -> 400
 
 Note: emmental or gruyere
 
 sauce  
 Melt 2T butter / 3T flour 2m  
-Add 2 cups hot milk slowly, stir constantly \-\> thick  
+Add 2 cups hot milk slowly, stir constantly -> thick  
 Remove from heat  
 Add t kosher salt, 1/2t pepper, pinch nutmeg, 8oz grated gruyere, 8oz parmesan
 
-Toast bread (oven 5m \+ 2m)
+Toast bread (oven 5m + 2m)
 
 Brush with mustard  
 sauce  
@@ -3598,53 +3193,6 @@ Grated gruyere
 
 Bake 5m  
 Broil 3m
-
----
-
-## Crust (`rec_crust_0859c0`)
-- **Type:** side (dessert)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** autumn, spring, summer, winter
-- **Vibe:** sweet, buttery, toasty
-- **Dietary:** vegetarian
-- **Times (min):** Prep: 10, Cook: 13, Oven: 13
-- **Ingredients:** 5 tbsp unsalted butter, melted, 8 graham crackers, 1 tbsp sugar, 1/2 tbsp salted butter, melted
-
-### Blueprint
-## Crust
-
-5T unsalted butter, melted  
-8 graham crackers \-\> food processor  
-1T sugar
-
-325, brush pan with ½ T melted salted butter  
-Press mix into pan corners with ramekin/spoon, bake **13m** \-\> cool on wire rack
-
----
-
-## Crybaby Noodles (`rec_crybaby_noodles_01985a`)
-- **Type:** main (stir-fry)
-- **Cuisine:** Thai | **Effort:** Medium
-- **Seasons:** spring, summer, autumn, winter
-- **Vibe:** savory, umami, smoky
-- **Dietary:** dairy-free
-- **Times (min):** Prep: 15, Cook: 8, Oven: None
-- **Source:**  (https://www.cookedbymike.com/recipes/blog-post-two-gmfjc-49ngw-j2p3y-gb5ds-mstxb-kh4xs-amy6z-pf83t-ythbg-djx2m)
-- **Ingredients:** 1/2 cup lap cheong, diced, 1/4 cup fish cake tofu, diced, oil, as needed, 1/4 cup dried shrimp, 2 cloves garlic, ginger to taste, 2 eggs, cooked rice noodles, as needed, 2 tbsp xo or miso paste, 3 tbsp soy sauce, 2 tbsp fish sauce, 1 tsp msg, 2 tbsp oyster sauce, 1 tsp salt, scallion to taste
-
-### Blueprint
-# [Crybaby Noodles](https://www.cookedbymike.com/recipes/blog-post-two-gmfjc-49ngw-j2p3y-gb5ds-mstxb-kh4xs-amy6z-pf83t-ythbg-djx2m)
-
-Instructions:  
-\-Dice 1/2 cup lap cheong and 1/4 cup fish cake tofu into small bits  
-\-in a wok heat up oil and fry your 1/4 cup dried shrimp for 60 seconds (usually you have to soak your shrimp first, go by package instructions)  
-\-remove shrimp and fry lap cheong for 2 minutes.  
-\-add 2 garlic and ginger fry for 30 seconds  
-\-add your 2 eggs and mix well  
-\-add your cooked rice noodles and stir for 2-3 minutes. This part is important to get the char on the noodles  
-\-add your 2T xo/miso paste with 3T soy, 2T fish sauce, t msg,2T oyster, t salt and stir  
-\-add your shrimp, lap cheong and fish cake tofu with your scallion and mix for another 60 seconds  
-\-serve immediately and enjoy :)
 
 ---
 
@@ -3659,18 +3207,16 @@ Instructions:
 - **Ingredients:** 1/2 cup lap cheong, diced, 1/4 cup fish cake tofu, diced, 1/4 cup dried shrimp, soaked, Cooking oil, to taste, 2 cloves garlic, minced, Fresh ginger, to taste, 2 eggs, Cooked rice noodles, to taste, 2 tbsp XO sauce or miso paste, 3 tbsp soy sauce, 2 tbsp fish sauce, 1 tsp MSG, 2 tbsp oyster sauce, 1 tsp salt, Scallions, to taste
 
 ### Blueprint
-## [Crybaby Noodles](https://www.cookedbymike.com/recipes/blog-post-two-gmfjc-49ngw-j2p3y-gb5ds-mstxb-kh4xs-amy6z-pf83t-ythbg-djx2m)
-
 Instructions:  
-\-Dice 1/2 cup lap cheong and 1/4 cup fish cake tofu into small bits  
-\-in a wok heat up oil and fry your 1/4 cup dried shrimp for 60 seconds (usually you have to soak your shrimp first, go by package instructions)  
-\-remove shrimp and fry lap cheong for 2 minutes.  
-\-add 2 garlic and ginger fry for 30 seconds  
-\-add your 2 eggs and mix well  
-\-add your cooked rice noodles and stir for 2-3 minutes. This part is important to get the char on the noodles  
-\-add your 2T xo/miso paste with 3T soy, 2T fish sauce, t msg,2T oyster, t salt and stir  
-\-add your shrimp, lap cheong and fish cake tofu with your scallion and mix for another 60 seconds  
-\-serve immediately and enjoy :)
+-Dice 1/2 cup lap cheong and 1/4 cup fish cake tofu into small bits  
+-in a wok heat up oil and fry your 1/4 cup dried shrimp for 60 seconds (usually you have to soak your shrimp first, go by package instructions)  
+-remove shrimp and fry lap cheong for 2 minutes.  
+-add 2 garlic and ginger fry for 30 seconds  
+-add your 2 eggs and mix well  
+-add your cooked rice noodles and stir for 2-3 minutes. This part is important to get the char on the noodles  
+-add your 2T xo/miso paste with 3T soy, 2T fish sauce, t msg,2T oyster, t salt and stir  
+-add your shrimp, lap cheong and fish cake tofu with your scallion and mix for another 60 seconds  
+-serve immediately and enjoy :)
 
 ---
 
@@ -3685,12 +3231,10 @@ Instructions:
 - **Ingredients:** pork tenderloin to taste, 1 orange, 2 limes, 1/4 cup olive oil, 1/3 cup cilantro, 1.5 tbsp mint, 3 cloves garlic, 1/2 tsp oregano, 3/4 tsp cumin, 1/2 tsp salt, 1/2 tsp pepper
 
 ### Blueprint
-# [Cuban Mojo Pork Tenderloin](https://www.savingdessert.com/grilled-cuban-mojo-marinated-pork-tenderloin/?fbclid=IwAR0sG19jQz_-HaPO-MXQquJiJtc7CGR4V5csfAkSp3QIt72fdtQMflcrglI)
-
 Marinate in 1 orange, 2 limes, ¼ cup o.o., ⅓ cup cilantro, 1.5T mint, 3 garlic, ½ t oregano, ¾ t cumin, ½ t salt, ½ t pepper  
 **OVERNIGHT**
 
-Grill HOT, turning every 5 m (**20m total**) \+ **5m** lower heat, cover no heat **10m** (145) rest **15m**
+Grill HOT, turning every 5 m (**20m total**) + **5m** lower heat, cover no heat **10m** (145) rest **15m**
 
 ---
 
@@ -3705,19 +3249,17 @@ Grill HOT, turning every 5 m (**20m total**) \+ **5m** lower heat, cover no heat
 - **Ingredients:** 1 lb dried black beans, 1 green bell pepper, quartered, 1 bay leaf, 1 whole head garlic, 4 slices bacon, diced, 1 onion, chopped, 4 cloves garlic, minced, 1/2 tsp salt, 1/2 tsp black pepper, 1 tsp cumin, 1 tsp oregano, sour cream (optional, to taste), 2 tbsp white wine vinegar
 
 ### Blueprint
-## [Cuban beans](http://www.sweetandsabroso.com/2017/08/cuban-black-beans-bacon-wine-pairing/)
-
-Lb dried beans, quartered green pepper, 1 bay leaf, 1 whole garlic, cover with water \+ 2.5”  BOIL  
+Lb dried beans, quartered green pepper, 1 bay leaf, 1 whole garlic, cover with water + 2.5”  BOIL  
 Skim foam, cover, cook low **1-2 hr.**  
 Remove pepper & garlic
 
-4 bacon diced \-\> crispy  
+4 bacon diced -> crispy  
 Onion 3m  
 4 Garlic, ½ t salt, ½ t pepper, t cumin, t oregano, 2m  
 Add pepper & garlic from beans.  Maybe sour cream  
 Blend half of it with 1.5 cups beans
 
-Add everything together, boil then simmer uncovered \-\> gravy, stirring  
+Add everything together, boil then simmer uncovered -> gravy, stirring  
 2T white wine vinegar
 
 ---
@@ -3733,8 +3275,6 @@ Add everything together, boil then simmer uncovered \-\> gravy, stirring
 - **Ingredients:** 1 clove garlic, 2 tbsp olive oil, 2.5 cups water, 1.5 cups jasmine rice
 
 ### Blueprint
-## [Cuban rice](https://www.foodandwine.com/recipes/arroz-blanco-white-rice)
-
 Heat 1 garlic in 2T o.o., 2m  
 2.5 cups water, boil  
 1.5 cup jasmine rice, cover & simmer **20m**, let stand **5m**
@@ -3752,8 +3292,6 @@ Heat 1 garlic in 2T o.o., 2m
 - **Ingredients:** 1 clove garlic, 2 tbsp olive oil, 2.5 cups water, 1.5 cups jasmine rice
 
 ### Blueprint
-## [Cuban rice](https://www.foodandwine.com/recipes/arroz-blanco-white-rice) 
-
 Heat 1 garlic in 2T o.o., 2m  
 2.5 cups water, boil  
 1.5 cup jasmine rice, cover & simmer **20m**, let stand **5m**
@@ -3771,16 +3309,14 @@ Heat 1 garlic in 2T o.o., 2m
 - **Ingredients:** 8 cloves garlic, minced, 2 tsp ground cumin, 2 tsp black pepper, 7 tsp dried oregano, divided, 1/2 cup orange juice, 1/4 cup lime juice, 1/4 cup olive oil, kosher salt to taste, 7 lb pork shoulder, 4 tsp fresh mint, lime to taste
 
 ### Blueprint
-# [Cuban roast pork](https://www.seriouseats.com/cuban-roast-pork-shoulder-mojo-recipe)
-
 8 Garlic minced, 2t cumin, 2t pepper, 4t oregano, ½ cup oj, ¼ cup lime juice, ¼ cup o.o., kosher salt  
 RESERVE HALF  
 Marinate 7lb pork shoulder in other half overnight
 
-275, Double wrap in foil with juices, loosely \-\> 3 hours  
-325, open foil \-\> 2 or 3 hours  (200 for shredding, 180 for slicing)  
+275, Double wrap in foil with juices, loosely -> 3 hours  
+325, open foil -> 2 or 3 hours  (200 for shredding, 180 for slicing)  
 Rest 15, shred  
-Get 1 cup of drippings, add to reserved mojo, add 4t mint \+ 3t oregano, salt, pour that over pork  
+Get 1 cup of drippings, add to reserved mojo, add 4t mint + 3t oregano, salt, pour that over pork  
 Lime
 
 ---
@@ -3796,8 +3332,6 @@ Lime
 - **Ingredients:** 2 persian cucumbers, salt (for drawing moisture), to taste, rehydrated seaweed (wakame), optional to taste, 4 tablespoons rice vinegar, 2 tablespoons sugar, 1/2 teaspoon salt, 1/2 teaspoon soy sauce
 
 ### Blueprint
-## [Cucumber](https://www.justonecookbook.com/sunomono-with-cucumber-and-wakame/)
-
 2 persian cucs, ½ peel, slice, salt, rest 5m, squeeze  
 Maybe also add rehydrated seaweed (wrung out and chopped)
 
@@ -3818,8 +3352,6 @@ Maybe also add rehydrated seaweed (wrung out and chopped)
 - **Ingredients:** 2 tbsp white wine vinegar, 3 tbsp olive oil, cucumber, to taste, red onion, to taste, 3 tbsp dill, salt, to taste
 
 ### Blueprint
-## Cucumber dill salad:
-
 2T white wine Vinegar, 3T o.o.  
 Cucumber, red onion, 3T dill  
 Salt
@@ -3837,8 +3369,6 @@ Salt
 - **Ingredients:** 2 tsp sesame oil, 1/2 tsp lime, 1/2 tsp sugar, 1/2 tsp soy sauce, pinch chili, 4 tbsp chopped peanuts, 1/2 English cucumber, sliced
 
 ### Blueprint
-## [Cucumber peanut salad](https://www.spicebox.co.uk/recipes/cucumber-and-peanut-salad.html)
-
 2t sesame oil  
 ½t lime  
 ½ t sugar  
@@ -3863,10 +3393,8 @@ Stir fry kale with garlic, chili, soy
 - **Ingredients:** 2 cloves garlic, 1/4 cup lemon juice, 1 tbsp ground cumin, 1/4 cup olive oil, 2 tbsp fresh parsley, salt and black pepper to taste, 1.75 lbs sirloin steak, cut into 1-inch pieces, pita bread, to taste, diced tomato, to taste
 
 ### Blueprint
-# [Cumin Beef Skewers](https://www.taste.com.au/recipes/cumin-spiced-beef-skewers-tahini-cauliflower/c821622a-658f-48cb-a8b8-a48afa22dda3?r=quickeasy/u8P65pCC)
-
-2 garlic, ¼ cup lemon, T cumin, ¼ cup o.o., 2T parsley, s\&p  
-1” pieces of 1.75lb sirloin \-\> 8 skewers. Marinate **20 m**  
+2 garlic, ¼ cup lemon, T cumin, ¼ cup o.o., 2T parsley, s&p  
+1” pieces of 1.75lb sirloin -> 8 skewers. Marinate **20 m**  
 M-h heat for **4m** turning
 
 Pita bread, diced tomato
@@ -3884,9 +3412,7 @@ Pita bread, diced tomato
 - **Ingredients:** 12 carrots, 1 head cauliflower, 1 onion, garlic to taste, olive oil to taste, salt and pepper to taste, curry powder to taste, 6 cups vegetable broth, water as needed, 2 cups coconut milk, juice of 1 lime
 
 ### Blueprint
-# [Curry Cauliflower Carrot Soup](https://www.allrecipes.com/recipe/228566/roasted-carrot-and-cauliflower-curried-soup/)
-
-Roast 12 carrots, head cauliflower, onion, garlic (o.o., s\&p) 400 x 45m, turning once  
+Roast 12 carrots, head cauliflower, onion, garlic (o.o., s&p) 400 x 45m, turning once  
 Boil in 6 cups veg broth, 10m  
 Blend, adding water as needed  
 Add 2 cups coconut milk, juice of a lime, salt 5m more
@@ -3904,9 +3430,7 @@ Add 2 cups coconut milk, juice of a lime, salt 5m more
 - **Ingredients:** 2.5 lb goat meat, salt to taste, black pepper to taste, 2.5 tbsp curry powder, divided, allspice to taste, 1 tsp ground ginger, 1 scotch bonnet pepper, 2 scallions, 1 onion, 4 cloves garlic, 3 tbsp olive oil (plus extra for sautéing), tomato paste to taste, water as needed, 1 potato, diced, thyme to taste
 
 ### Blueprint
-# [Curry Goat Rice & Peas](https://jamaicanfoodsandrecipes.com/curry-goat-recipe/)
-
-2.5 lb goat, s\&p
+2.5 lb goat, s&p
 
 Curry \= turmeric, coriander, cumin, all spice, ginger, mustard, fenugreek, pepper, clove, nutmeg, cayenne  
 1.5 T curry, 1/2 t salt, allspice. t ginger, scotch bonnet pepper, 2 scallion, 1 onion, 4 garlic, 3T o.o..   Marinate a few hours at least
@@ -3928,32 +3452,19 @@ Cover with water, cover, braise for 90-120m (tender).  Add water as needed
 - **Ingredients:** Cooking oil, to sauté, 1 tbsp cumin seeds, 1 bay leaf, 1 white onion, chopped, 1 tsp ginger, minced plus extra for tempering, 4 cloves garlic, minced plus extra for tempering, 2 tomatoes, chopped, 2 tbsp tomato paste, 1/2 tsp ground turmeric, 2 tsp red chili powder plus extra for tempering, 2 tsp ground coriander, 2 tsp fenugreek leaves (kasoori methi), divided, 1 can kidney beans, 1.5 cups black lentils (urad dal), 4 cups water, Heavy cream, to taste, Salt to taste, Ghee, for tempering, Green chili, for tempering
 
 ### Blueprint
-# [Dal Makhani](https://thebellyrulesthemind.net/instant-pot-dal-makhani-vegan-gluten-free/)
-
 Instant pot  
 Sautee oil, T cumin, bay leaf, chopped white onion 3m  
 t Ginger, 4 garlic 30s  
 2 chopped tomatoes, 2T tomato paste 2m  
 ½ t Turmeric, 2t red chili powder, 2t coriander, 2t fenugreek 1m  
 Can Kidney beans, 1.5 cups black lentils, 4 cups water  
-45 high \+ 20  
+45 high + 20  
 Remove bay leaf, smash some dal  
 Sautee 8m  
 Add cream  
 Salt as needed  
-Fry \- Ghee, garlic, ginger, red chili, green chili. Pour this over the top  
+Fry - Ghee, garlic, ginger, red chili, green chili. Pour this over the top  
 More cream, fenugreek, wait 5m
-
----
-
-## December (`rec_december_ea7778`)
-- **Type:** main (standard)
-- **Cuisine:** N/A | **Effort:** Low
-- **Seasons:** winter
-- **Times (min):** Prep: None, Cook: None, Oven: None
-
-### Blueprint
-# December
 
 ---
 
@@ -3968,8 +3479,6 @@ More cream, fenugreek, wait 5m
 - **Ingredients:** 3 tbsp mayonnaise, 1 tbsp dijon mustard, 1 tbsp lemon juice, 1/8 tsp garlic powder, cayenne pepper to taste, sugar or agave nectar to taste, salt to taste, lemon zest to taste
 
 ### Blueprint
-# [Dipping sauce](http://www.averagebetty.com/recipes/betty_artichoke_dipping_sauce_recipe.pdf)
-
 3 tbsp mayonnaise   
 1 tbsp dijon mustard   
 1 tbsp lemon juice   
@@ -3992,18 +3501,16 @@ lemon zest, to taste
 - **Ingredients:** 1 lb chicken thighs, cut into 2-inch chunks, 3/4 inch ginger, divided (1/4 inch minced, 1/2 inch for paste, plus matchsticks for garnish), 9 cloves garlic, divided (5 for marinade, 2 for paste, 2 chopped), 2 tsp chili powder, divided, 1 1/2 tsp cumin, divided, 1 tsp garam masala, divided, 1/2 tbsp lime juice, 1 tbsp vegetable oil (plus extra for sautéing and grilling), 1/4 cup yogurt, Salt to taste, 1 bay leaf, 4 cardamom pods, 1 cinnamon stick, 14 oz tomatoes, 1 tbsp butter, 1/4 tsp fenugreek, 1/4 tsp dill, Sugar to taste, Honey to taste, 1/4 cup cream, Fresh cilantro to taste, Pomegranate seeds to taste
 
 ### Blueprint
-# [Dishoom’s Chicken Ruby](https://www.theguardian.com/food/2019/sep/07/four-classic-indian-recipes-dishoom-chaat-dal-salad-jackfruit-biyani-chicken-makhani-curry)
-
 Marinate OVERNIGHT lb chicken thighs in 2” chunks  
 ¼” ginger, 5 garlic, t chili, t cumin, ½ t garam masala, ¼ lime juice (½ T), T veg oil, ¼ cup yogurt, salt
 
- 2 garlic, ½” ginger \-\> mortar & pestle to paste  
+ 2 garlic, ½” ginger -> mortar & pestle to paste  
 Chop 2 garlic and sautee in oil 2m, remove  
 Add bay leaf, 4 pods cardamom, cinnamon stick, 1m  
 Add ginger garlic paste, 5m  
-14 oz tomatoes, 30m on M heat \+ salt \+ t chili  
+14 oz tomatoes, 30m on M heat + salt + t chili  
 T Butter, (maybe another 5m)  
- ½ t garam, ½ t cumin, the removed garlic, ¼  t fenugreek, ¼ t dill \+ sugar \+ honey \-\> 15m  
+ ½ t garam, ½ t cumin, the removed garlic, ¼  t fenugreek, ¼ t dill + sugar + honey -> 15m  
 Add ¼ cup cream, 5m, remove from heat
 
 Grill high, oil, grill chicken about 10m.  Maybe even broil
@@ -4025,9 +3532,7 @@ Garnish with matchsticks of ginger, and cilantro, and pomegranate seeds
 - **Ingredients:** 3 lb chicken thighs, cut into 1-inch cubes, 2 tbsp lemon juice, plus extra to taste, 2 tbsp spiced ghee, 2 tbsp olive oil, 2 yellow onions, finely diced, 3 cloves garlic, minced, 1 tbsp ginger, minced, 3 tbsp butter, divided, 4 tbsp Ethiopian berbere spice blend (coriander, cumin, cardamom, red chili, allspice, cloves, fenugreek, pepper, paprika, cinnamon, ginger, turmeric, nutmeg, salt), 1 cup stock, 1.5 tsp salt, 1/2 cup honey wine (tej), 4 hard-boiled eggs, rice vinegar to taste (optional), rice (for serving)
 
 ### Blueprint
-# [Doro Wat](https://www.daringgourmet.com/doro-wat-spicy-ethiopian-chicken-stew/#recipe)
-
-3lb chicken thighs, 1" cube \- 2T lemon juice in bowl, room temp 30m
+3lb chicken thighs, 1" cube - 2T lemon juice in bowl, room temp 30m
 
 2T ghee with cinnamon, pepper, cardamom, cloves, garlic, ginger, fenugreek, coriander, oregano, cumin, nutmeg, turmeric, mint, basil, allspice, lemony something  
 2T o.o.
@@ -4064,14 +3569,12 @@ rice
 - **Ingredients:** 1 whole duck, 1 tbsp salt, 1.5 tsp black pepper, 1 tsp paprika, ground coriander, to taste, citrus zest, to taste, 1 orange, quartered, 1 head garlic, top trimmed, 2 stalks celery, cut into 2-inch pieces, fresh thyme, to taste, fresh rosemary, to taste
 
 ### Blueprint
-# [Duck](https://mapleleaffarms.com/recipes/roasted-whole-duck-basic-recipe-for-crispy-skin)
-
 Defrost 2-3 days
 
 Remove exces fat from cavity,  pat duck dry.  Prick skin all over, without piercing meat.  Maybe score in 1/4” diamond pattern  
 Boil for 10 minutes
 
-T Salt, 1.5 t pepper, t paprika on duck, maybe coriander \+ zest
+T Salt, 1.5 t pepper, t paprika on duck, maybe coriander + zest
 
 Roast breast up on a rack, orange quarters, head of garlic (top trimmed), 2 celery (cut in 2” pieces) in duck.  thyme/rosemary
 
@@ -4079,9 +3582,10 @@ Fold neck skin into cavity & skewer
 
 425 for 15 minutes, then 350 for 30 minutes more.  Remove fat from pan  
 Turn over, 35 minutes, remove fat  
-Turn back over, cook 15-20m  \-\> 165-180 in thigh  
+Turn back over, cook 15-20m  -> 165-180 in thigh  
 Sit 15 m, remove stuffing, carve
 
+# Pairings
 Sweet Potatoes  
 Spinach salad
 
@@ -4098,9 +3602,7 @@ Spinach salad
 - **Ingredients:** 1 lb ground beef, salt and black pepper to taste, 14 oz shredded cabbage, carrots, and onion, garlic to taste, 1 tsp ginger, 1/4 cup soy sauce, 1 egg, 1 tbsp Sriracha, 1 tbsp sesame oil, green onions to taste
 
 ### Blueprint
-# [Egg Roll in a Bowl](https://www.the-girl-who-ate-everything.com/keto-egg-roll-in-a-bowl/#recipe)
-
-Brown lb s\&p ground beef   
+Brown lb s&p ground beef   
 14 oz cabbage, carrots, onion  
 garlic  
 t ginger, ¼ cup soy  
@@ -4121,12 +3623,10 @@ Green onions
 - **Ingredients:** 2 leeks, sliced, olive oil, to taste, 1 bunch asparagus, chopped, 8 eggs, 2 tbsp sour cream, salt, to taste, black pepper, to taste, 1/2 cup (4 oz) goat cheese, 4 tbsp fresh dill
 
 ### Blueprint
-# [Eggs with leek, asparagus, cheese](https://www.feastingathome.com/scrambled-eggs-with-asparagus-leeks-chevre-and-dill/)
-
 2 Leek sliced 15m in o.o.  
-Add bunch asparagus (chopped) \- 3m
+Add bunch asparagus (chopped) - 3m
 
-8 eggs, whisked with 2 tbsp sour cream, s\&p \- 3m
+8 eggs, whisked with 2 tbsp sour cream, s&p - 3m
 
 1/2 cup / 4oz goat cheese
 
@@ -4145,8 +3645,6 @@ Add bunch asparagus (chopped) \- 3m
 - **Ingredients:** 1 tablespoon white vinegar, 2 cloves garlic, minced, 1/2 teaspoon Kosher salt, 1/2 teaspoon dried oregano, 1/4 teaspoon ground pepper, 1/4 jalapeno, seeded and minced very finely, 1 cup pineapple juice, 2 tablespoons lime juice, 1 tablespoon canola oil, 6 drops yellow food coloring, 8 bone-in, skin-on chicken thighs
 
 ### Blueprint
-# [El Pollo Loco Chicken](https://www.punchfork.com/recipe/El-Pollo-Loco-Chicken-Copycat-Dinner-then-Dessert)
-
 1 tablespoon white vinegar  
 2 cloves garlic minced  
 1/2 teaspoon Kosher salt  
@@ -4166,6 +3664,7 @@ Stove MH, spray foil on top of chicken, press lid
 Baste chicken, cook 3m  
 Flip, baste, 3m
 
+# Pairings:
 Mac & cheese  
 Pinto beans cooked with a jalapeno
 
@@ -4181,14 +3680,12 @@ Pinto beans cooked with a jalapeno
 - **Ingredients:** 1 cup onion, diced, 4 cloves garlic, minced, spices to taste, 1.5 lb chicken breasts, splash of water, 1/2 cup plus extra enchilada sauce, 1/2 cup broth, 1/2 bunch green onions, chopped, 1/4 cup sour cream, cheese to taste, tortillas, black olives to taste
 
 ### Blueprint
-# [Enchiladas](https://www.number-2-pencil.com/instant-pot-pressure-cooker-chicken-enchiladas-6/)
-
 Instant pot  
 Sautee cup onion, 4 garlic, spices  
 Sautee chicken 1.5lb breasts 2-3m / side  
 Splash water, scrape  
 ½ cup enchilada sauce, ½ cup broth?  
-10m \+ quick release  
+10m + quick release  
 Sautee liquid 5 minutes  
 Shred chicken  
 ½ bunch onions  
@@ -4208,10 +3705,10 @@ Black olives, green onions
 - **Vibe:** savory, tangy, creamy, comforting
 - **Dietary:** gluten-free
 - **Times (min):** Prep: 20, Cook: 30, Oven: 25
-- **Ingredients:** corn tortillas, oil (for frying), cooked chicken, green salsa, queso fresco, melting cheese (for top), crema, onion, cilantro
+- **Ingredients:** corn tortillas, oil (for frying), cooked chicken, green salsa, queso fresco, melting cheese (for top), crema, onion, cilantro, chuicken, serrano, garlic
 
 ### Blueprint
-## Enchiladas Suizas
+Chop a chicken breast, boil with ¼ white onion, 3 garlic, 2 serrano for 30m
 
 Fry corn tortillas in oil for 3 seconds per side  
 Roll chicken & salsa & soft cheese (queso fresco) in tortilla  
@@ -4232,8 +3729,6 @@ Crema, cheese, onion, cilantro on top
 - **Ingredients:** 1/2 cup olive oil, 5 cloves garlic, 3 tbsp lime juice, 1/2 tsp chili powder, 1 tsp paprika, 1/2 tsp onion powder, 1/2 tsp cumin, 1 tsp black pepper, 1.5 tsp kosher salt, 1 red bell pepper, 1 yellow bell pepper, 1 orange bell pepper, 1 onion, 2 lb chicken thighs, lime to taste, cilantro to taste, guacamole to taste
 
 ### Blueprint
-# [Fajitas](https://villacocina.com/chicken-fajitas-recipe/)
-
 marinade  
 1/2 cup o.o.  
 5 garlic  
@@ -4245,7 +3740,7 @@ t paprika
 t pepper  
 1.5 t kosher salt
 
-1 red, 1 yellow, 1 orange pepper, 1 onion \- 1/2" slices with 3 T of marinade  
+1 red, 1 yellow, 1 orange pepper, 1 onion - 1/2" slices with 3 T of marinade  
 2 lb chicken thigh with rest of marinade
 
 chicken M skillet 6 min per side (165)  
@@ -4253,7 +3748,7 @@ veg 5m
 
 slice, salt, 
 
-lime & cilantro over tacos \- guacamole,....
+lime & cilantro over tacos - guacamole,....
 
 ---
 
@@ -4267,10 +3762,8 @@ lime & cilantro over tacos \- guacamole,....
 - **Ingredients:** sausage, to taste, brussels sprouts, to taste, apple, to taste, hard squash, to taste, olive oil, to taste, thyme, to taste, salt and pepper, to taste
 
 ### Blueprint
-# Fall sheet pan 
-
 Sausage, brussels, apple, hard squash  
-o.o., thyme, s\&p \- 400
+o.o., thyme, s&p - 400
 
 ---
 
@@ -4284,24 +3777,11 @@ o.o., thyme, s\&p \- 400
 - **Ingredients:** farfalle, to taste, artichoke hearts, to taste, salami, to taste, ricotta, to taste, 1/2 cup olive oil, 1/4 cup balsamic vinegar, 1 tsp dijon mustard, 2 tbsp rosemary, salt and pepper, to taste
 
 ### Blueprint
-# [Farfalle](https://www.purewow.com/recipes/salami-artichoke-and-ricotta-pasta-salad-recipe)
-
 Farfalle, artichoke hearts, salami, ricotta
 
-½ cup o.o., ¼ cup balsamic, t dijon, 2T rosemary, s\&p
+½ cup o.o., ¼ cup balsamic, t dijon, 2T rosemary, s&p
 
 Med. crunch
-
----
-
-## February (`rec_february_7b4cfb`)
-- **Type:** main (standard)
-- **Cuisine:** N/A | **Effort:** Low
-- **Seasons:** winter
-- **Times (min):** Prep: None, Cook: None, Oven: None
-
-### Blueprint
-# February
 
 ---
 
@@ -4316,16 +3796,14 @@ Med. crunch
 - **Ingredients:** lamb chops (or rack of lamb), 1/3 cup pistachios, 1.5 tsp fresh rosemary, 1 tsp dried thyme (or 1 tbsp fresh thyme), 1/3 cup olive oil, divided, salt to taste, black pepper to taste, bacon (or pancetta) to wrap, 8 scallions, whites and tender greens
 
 ### Blueprint
-# [Ferran Adria Lamb Chops](https://www.foodandwine.com/recipes/pistachio-crusted-rack-lamb-pancetta)
-
 Food processor:   
  ⅓ cup pistachios  
  1.5 t fresh rosemary  
  1 t dried thyme (or 1T fresh)  
  ½ of ⅓  cup o.o.   
- s\&p
+ s&p
 
-Scrape half mix into bowl and stir in other ½ of ⅓ cup o.o. \-\> save to end
+Scrape half mix into bowl and stir in other ½ of ⅓ cup o.o. -> save to end
 
 Coat lamb with ½ of OTHER half of paste  
 Wrap bacon on chops, leaving bones exposed  
@@ -4340,48 +3818,6 @@ Lamb, sprinkled with scallions, drizzle pesto around
 
 ---
 
-## Filling (`rec_filling_acac1a`)
-- **Type:** side (dessert)
-- **Cuisine:** American | **Effort:** Medium
-- **Seasons:** autumn, winter, spring, summer
-- **Vibe:** rich, creamy, sweet, tangy
-- **Dietary:** gluten-free, vegetarian
-- **Times (min):** Prep: 15, Cook: 100, Oven: 100
-- **Ingredients:** 2.5 lb cream cheese, softened, 1/8 tsp salt, 1.5 cups sugar, 1/3 cup sour cream, 2 tsp lemon juice, 2 tsp vanilla extract, 2 large egg yolks, room temperature, 6 large eggs, room temperature, 1/2 tbsp salted butter, melted
-
-### Blueprint
-## Filling
-
-Set oven to 500
-
-Beat 2.5 lb cream cheese, softened for 1m M-L in stand mixer
-
-Scrape, then add  
-⅛ t salt  
-1.5 cups / 10.5 oz sugar  
-Beat M-L 1m with half the sugar, scrape, then 1m with the rest
-
-Scrape, then add  
-⅓ cup sour cream  
-2t lemon juice  
-2t vanilla  
-Beat low 1m
-
-Scrape, then add room temp eggs  
-2 yolks M-L, 1m  
-scrape  
-6 eggs, 2 at a time, scraping, 1m
-
-Brush sides of pan with ½ T melted salted butter  
-Fill crust, put on rimmed baking sheet  
-Bake **10m**  
-Set oven to 200, bake **90m** more \- test center for 150
-
-Cool on wire rack **3 hours**, run a knife around it to separate.  
-Cover in saran wrap, and refrigerate for **3-5 hours**
-
----
-
 ## Fish Fragrant Eggplant (`rec_fish_fragrant_eggplant_c08376`)
 - **Type:** side (stir-fry)
 - **Cuisine:** Chinese | **Effort:** Medium-High
@@ -4393,8 +3829,6 @@ Cover in saran wrap, and refrigerate for **3-5 hours**
 - **Ingredients:** 2 Chinese eggplants, cut into 3/4-inch thick by 2 3/4-inch pieces, Salt, to taste, High-heat oil for deep frying, as needed, 1.5 tbsp doubanjiang, 1 tbsp minced ginger, 5 cloves garlic, minced, Scallions (whites and greens separated, sliced), to taste, 10 tbsp hot water (or stock), 4 tsp sugar, 1 tsp soy sauce, 3/4 tsp potato starch, 1 tbsp water, 1/2 tbsp balsamic vinegar, 1/2 tbsp rice vinegar
 
 ### Blueprint
-# [Fish Fragrant Eggplant](https://www.seriouseats.com/fish-fragrant-eggplants-sichuan-braised-eggplant-with-garlic-ginger-and-chilies)
-
 2 chinese eggplants, cut into ¾” thick, 2 ¾” long.  Salt, rest 30m  
 Rinse and drain and pat dry
 
@@ -4404,7 +3838,7 @@ Reduce heat, Get rid of most of the oil, add 1.5 T doubanjiang, T ginger, 5 garl
 Add 10T hot water (or stock), 4t sugar, t soy. Boil
 
 Add eggplant, simmer a minute and separate pieces  
-Mix ¾ t potato starch w T water \- add a little at a time to thicken  
+Mix ¾ t potato starch w T water - add a little at a time to thicken  
 Add ½ T balsamic, ½ T rice vinegar, scallion greens
 
 ---
@@ -4420,13 +3854,11 @@ Add ½ T balsamic, ½ T rice vinegar, scallion greens
 - **Ingredients:** 2 tbsp butter, plus extra for baguettes, 2 carrots, cut fine, 1 stalk celery, cut fine, 4 tbsp shallots, cut fine (divided), 5 sprigs fresh thyme (divided), 1 can whole tomatoes, 16 oz clam juice, 1.5 lb white fish, cut up, Baguette slices, Salt to taste, Pepper to taste
 
 ### Blueprint
-# [Fish Stew](https://www.marthastewart.com/1099360/fish-stew-herbed-toasts)
-
-M-H 2T butter, 2 Carrots, 1 celery , 3T shallots, 3 thyme sprigs, salt \- everything cut fine, **5m**  
+M-H 2T butter, 2 Carrots, 1 celery , 3T shallots, 3 thyme sprigs, salt - everything cut fine, **5m**  
 Can whole tomatoes, **5m**  
-16 oz clam juice \+ 1.5 lb white fish cut up, return to simmer, remove from heat
+16 oz clam juice + 1.5 lb white fish cut up, return to simmer, remove from heat
 
-Butter baguettes, 1T shallot, 2 thyme, s\&p, PUT ON TOP OF STEW & BROIL **2m**
+Butter baguettes, 1T shallot, 2 thyme, s&p, PUT ON TOP OF STEW & BROIL **2m**
 
 ---
 
@@ -4440,8 +3872,6 @@ Butter baguettes, 1T shallot, 2 thyme, s\&p, PUT ON TOP OF STEW & BROIL **2m**
 - **Ingredients:** fish to taste, taco seasoning to taste, tortillas to taste, pico to taste, cabbage to taste, avocado to taste, sour cream to taste, mayo to taste, chili to taste, lime to taste, garlic to taste
 
 ### Blueprint
-# Fish tacos
-
 Cook fish, taco seasoning  
 Tortillas, pico, cabbage, avocado  
 Sour cream, mayo, chili, lime, garlic
@@ -4458,14 +3888,12 @@ Sour cream, mayo, chili, lime, garlic
 - **Ingredients:** chicken thighs, salt, to taste, black pepper, to taste, thyme, to taste, olive oil, mushrooms, shallot, butter, 4 cloves garlic, wine or stock, dijon mustard, spinach, capers, optional to taste, parmesan cheese, optional to taste, parsley, optional to taste
 
 ### Blueprint
-# French chicken
-
-dry chicken thighs, s\&p, thyme. sear o.o. 6m/side, remove  
+dry chicken thighs, s&p, thyme. sear o.o. 6m/side, remove  
 sautee mushrooms shallot, butter,   
 4 garlic, wine or stock, dijon  
 Spinach  
 slice chicken, add back for a couple minutes  
-add whatever \- capers, parm, parsley
+add whatever - capers, parm, parsley
 
 ---
 
@@ -4480,8 +3908,6 @@ add whatever \- capers, parm, parsley
 - **Ingredients:** 12 oz okra, sliced, 3 eggs, beaten, 3/4 cup almond flour, 1.5 cups parmesan cheese, 3/4 tbsp baking powder, 1.5 tsp cajun seasoning, 1.5 tsp sea salt, 3/4 tsp black pepper, oil spray, as needed
 
 ### Blueprint
-## [Fried okra](https://kicking-carbs.com/keto-fried-okra/)
-
 12 oz okra, sliced
 
 3 eggs beaten
@@ -4493,7 +3919,7 @@ add whatever \- capers, parm, parsley
 1.5t sea salt  
 ¾ t pepper
 
-Okra \-\> eggs \-\> flour \-\> oil
+Okra -> eggs -> flour -> oil
 
 Air fryer, spray with oil  
 400 for 5m, flip, 6m
@@ -4511,8 +3937,6 @@ Air fryer, spray with oil
 - **Ingredients:** green plantains, oil for frying, as needed, 2 cloves garlic, 1/2 lime, 1/2 tbsp salt, 1 cup water, salt to taste, cilantro to taste, 4 cloves garlic, 2 limes, 1/2 tsp cumin, 1 jalapeno, 1 tbsp white wine vinegar, 1/2 cup olive oil, kosher salt to taste
 
 ### Blueprint
-## [Fried plantains](https://hostthetoast.com/tostones-fried-green-plantains/)
-
 1” slice,   
 Fry as oil is warming **4m/side** over medium heat  
 Gently smash, paper towels  
@@ -4521,22 +3945,6 @@ Fry in hot oil M-H **1m/side**
 Sprinkle with salt
 
 [Sauce](https://hostthetoast.com/mojo-verde-canarian-green-mojo-sauce/): cilantro, 4 garlic, 2 limes, ½ t cumin, jalapeno, T white wine vinegar, ½ c o.o., kosher salt
-
----
-
-## Fried plantains \- (`rec_fried_plantains_761751`)
-- **Type:** side (starch)
-- **Cuisine:** Caribbean | **Effort:** Low
-- **Seasons:** autumn, winter, spring, summer
-- **Vibe:** sweet, savory, crispy
-- **Dietary:** vegan, vegetarian, gluten-free, dairy-free
-- **Times (min):** Prep: 5, Cook: 10, Oven: None
-- **Ingredients:** plantains, cooking oil for frying
-
-### Blueprint
-## Fried plantains \- 
-
-chop plantains.  Fry them.
 
 ---
 
@@ -4551,13 +3959,11 @@ chop plantains.  Fry them.
 - **Ingredients:** 8 oz eggplant, 8 oz zucchini, 1/2 tsp salt, cooking oil as needed, scallion to taste, garlic to taste, 1 tbsp soy sauce, 2 tsp sesame oil, 1 tsp sugar, 1 tsp sesame seeds, pinch black pepper, chili pepper to taste
 
 ### Blueprint
-## [Gaji Hobak Muchim](https://www.koreanbapsang.com/gaji-hobak-muchim-grilled-eggplants-and/)
-
 Slice 8oz eggplant, 8 oz zucchini, 1/2t salt for 20m
 
 Oil grill, MH, 2m/side
 
-Sauce \- scallion, garlic, T soy, 2t sesame oil, t sugar, t sesame seeds, pinch pepper, chili pepper
+Sauce - scallion, garlic, T soy, 2t sesame oil, t sugar, t sesame seeds, pinch pepper, chili pepper
 
 ---
 
@@ -4571,8 +3977,6 @@ Sauce \- scallion, garlic, T soy, 2t sesame oil, t sugar, t sesame seeds, pinch 
 - **Ingredients:** 1 pear, 8 cloves garlic, 1 onion, 1 inch ginger, ½ cup soy sauce, ⅓ cup water or wine, ¼ cup honey or sugar, 1 tsp black pepper, 2 tbsp sesame oil, 2 tbsp soy paste (doenjang), 1 tbsp hot pepper paste or flakes, green onion, to taste, garlic, to taste, 1 tsp honey, 1 tsp sesame oil, 1 tsp sesame seeds, cucumber, to taste, carrot, to taste, lettuce, to taste
 
 ### Blueprint
-# Galbi
-
 Pear, 8 garlic, 1 onion, 1” ginger  
 ½ cup soy, ⅓ cup water / wine, ¼  cup honey or sugar, t pepper, 2T sesame oil
 
@@ -4594,8 +3998,6 @@ Cucumber, carrot, lettuce
 - **Ingredients:** 1.5 lb potatoes, cut into 1-inch cubes, 3 tablespoons soy sauce, 1 tablespoon sugar, 1 tablespoon rice wine or mirin, 1 tablespoon corn syrup, 1 teaspoon minced garlic, black pepper to taste, 3/4 cup water, 1 teaspoon sesame oil, 1/2 teaspoon sesame seeds, cooking oil to taste
 
 ### Blueprint
-## [Ganja jorim](https://www.koreanbapsang.com/gamja-jorim-braised-potatoes/) (potatoes)
-
 1” cube 1.5 lb potatoes
 
 Mix  
@@ -4618,8 +4020,6 @@ Add sauce mix, boil H, cover M, 5m
 - **Ingredients:** 1 lb spaghetti, 4 tbsp butter, 20 cloves garlic, minced, shrimp (optional), 4 tsp oyster sauce, 2 tsp fish sauce, 2 tsp soy sauce, pasta water to taste, 1 oz parmesan cheese, grated, scallions to taste
 
 ### Blueprint
-# [Garlic Noodles](https://leitesculinaria.com/416811/recipes-san-francisco-style-vietnamese-garlic-noodles.html)
-
 cook lb spaghetti 2m shy  
 melt 4T butter, add 20 garlic (and maybe some shrimp) 2m  
 4t oyster sauce, 2t fish sauce, 2t soy sauce  
@@ -4638,12 +4038,10 @@ scallions
 - **Ingredients:** 1/2 lb spaghetti or lo mein noodles, 2 tbsp butter (for noodles), 1 stick butter (for crab), 9 cloves garlic, minced (divided), 1/2 tbsp oyster sauce, 1 tsp fish sauce, chicken stock to taste, pasta cooking water to taste, parmesan cheese to taste, MSG to taste, cooked crab, broken into pieces, black pepper to taste, sugar to taste
 
 ### Blueprint
-# Garlic Noodles & Crab
-
 Cook ½ lb spaghetti (or lo mein noodles) 2m shy  
 Sauce \= 2T butter, 5 garlic, ½ T oyster sauce, t fish sauce, chicken stock, pasta water, parmesan, msg
 
-Cooked crab, broken into pieces \- wok low with STICK OF BUTTER, 4 garlic, black pepper, a little sugar, chicken stock, just to get it coated  
+Cooked crab, broken into pieces - wok low with STICK OF BUTTER, 4 garlic, black pepper, a little sugar, chicken stock, just to get it coated  
 Bake350 for 15 minutes
 
 ---
@@ -4658,9 +4056,7 @@ Bake350 for 15 minutes
 - **Ingredients:** cauliflower, 2 tbsp butter, 5 cloves garlic, salt to taste, pepper to taste
 
 ### Blueprint
-## Garlic mash cauliflower
-
-Cook cauliflower, food processor with salt, 2T butter, 5 garlic, s\&p  
+Cook cauliflower, food processor with salt, 2T butter, 5 garlic, s&p  
 Maybe cook garlic in butter for 3o seconds before adding
 
 ---
@@ -4676,8 +4072,6 @@ Maybe cook garlic in butter for 3o seconds before adding
 - **Ingredients:** olive oil, 5 cloves garlic, 2 cayenne peppers, sliced mushrooms, 1/3 cup white wine, salt to taste, parsley to taste
 
 ### Blueprint
-## [Garlic mushrooms](https://spanishsabores.com/spanish-garlic-mushrooms-recipe/)
-
 o.o. M, 5 garlic, 2 cayenne  
 Sliced mushrooms, ⅓ cup white wine, salt
 
@@ -4698,9 +4092,7 @@ parsley
 - **Ingredients:** 2 lb tomatoes, 1/2 lb cucumber, 1/2 red onion, 1 green bell pepper, 2 cloves garlic, 3 tbsp olive oil (plus more for topping), 2 tbsp sherry vinegar, 1 tsp salt, 1/2 tsp black pepper, 1/2 tsp cumin, 1 slice white bread, crust removed, croutons to taste
 
 ### Blueprint
-# [Gazpacho](https://www.gimmesomeoven.com/authentic-gazpacho-recipe/)
-
-Puree 2 lb tomato, ½ lb cucumber, ½ red onion, green bell pepper, 2 garlic, 3 T o.o., 2 T sherry vinegar, t salt, ½ t pepper, ½ t cumin, slice white bread \- no crust (soak first before blending)
+Puree 2 lb tomato, ½ lb cucumber, ½ red onion, green bell pepper, 2 garlic, 3 T o.o., 2 T sherry vinegar, t salt, ½ t pepper, ½ t cumin, slice white bread - no crust (soak first before blending)
 
 Top with croutons, o.o…. Chopped veg from above
 
@@ -4716,8 +4108,6 @@ Top with croutons, o.o…. Chopped veg from above
 - **Ingredients:** broccoli, bacon, 1 tbsp mustard, 2 tsp water, 3 tbsp red wine vinegar, 1 tbsp sugar (optional), 1 tsp salt (optional)
 
 ### Blueprint
-## German Broccoli
-
 Broccoli, bacon,   
 1T mustard, 2t water, 3T red wine vinegar  (heat)  
 Maybe T sugar & t salt
@@ -4734,13 +4124,11 @@ Maybe T sugar & t salt
 - **Ingredients:** olive oil to taste, 1.5 red onions, finely chopped, 2 carrots, sliced, 1 leek, 2 lb leg of lamb, cut into chunks, salt to taste, black pepper to taste, 2 tbsp tomato paste, 1 glass red wine, 1 can tomatoes, 1 glass water (plus extra as needed), 1 bay leaf, 1 tsp sugar, allspice to taste, 9 oz orzo, grated romano cheese to taste
 
 ### Blueprint
-# [Giouvetsi](https://www.mygreekdish.com/recipe/greek-lamb-stew-with-orzo-pasta-recipe-giouvetsi-with-lamb/)
-
 Pan, o.o., ML  
 1.5 red onions (fine), 2 carrots (slice), leek **5m**  
-2 lb leg of lamb in chunks \-\> dry, s\&p, brown MH  
+2 lb leg of lamb in chunks -> dry, s&p, brown MH  
 2T Tomato paste, glass red wine, a few minutes  
-Can tomatoes, glass water, bay leaf, t sugar, s\&p, allspice  
+Can tomatoes, glass water, bay leaf, t sugar, s&p, allspice  
 Cover & Simmer **45m**
 
 Another pan o.o., toast 9 ounce orzo, mix in to stew  
@@ -4760,10 +4148,8 @@ Serve with grated romano
 - **Ingredients:** gnocchi to taste, oil to taste, garlic to taste, red pepper flakes to taste, pasta water to taste, salt to taste
 
 ### Blueprint
-# Gnocchi Aglio e Olio
-
 Medium heat  
-Oil, garlic \- DO NOT BROWN  
+Oil, garlic - DO NOT BROWN  
 Red pepper flakes
 
 Pasta water  
@@ -4783,8 +4169,6 @@ Simmer **5m**
 - **Ingredients:** 1.25 lb salmon (cut into 4 pieces), 2 tablespoons gochujang, 1 tablespoon mirin, 2 tablespoons tamari (divided), 1 tablespoon honey, 1 tablespoon plus 1/2 teaspoon sesame oil (divided), 4 cloves garlic (divided), 2 teaspoons ginger (divided), 8 cups baby spinach, Cooking spray to taste, Scallions to taste, Sesame seeds to taste
 
 ### Blueprint
-# [Gochujang Salmon](https://www.eatingwell.com/recipe/7944667/gochujang-glazed-salmon-with-garlic-spinach/)
-
 Broil high, foil sheet, cooking spray
 
 2T Gochujang, T mirin, T tamari, T honey, ½ t sesame oil,1 garlic, ½ t ginger
@@ -4813,15 +4197,13 @@ Salmon on spinach, scallions, sesame seeds
 - **Ingredients:** 1.5 cups roasted red bell peppers, 1/4 cup tahini, 1/4 cup gochujang, 1/3 cup kimchi, 4 scallions, 1 clove garlic, 1/4 cup heavy cream, 4 teaspoons olive oil, divided, 4 zucchinis, spiralized into zoodles, Salt and black pepper to taste, 4 eggs, Parmesan cheese, grated, to taste
 
 ### Blueprint
-# [Gochujang Zoodles](https://www.purewow.com/recipes/creamy-gochujang-zoodles)
-
 Food process: 1.5 c roasted red bell pepper, ¼ c tahini, ¼ c gochujang, ⅓ c kimchi, 4 scallions, 1 garlic  
 Strain, simmer **5m**, add ¼ c cream
 
-M heat, 2t o.o., skillet, 4 zucc of zoodles, s\&p  **3m**  
+M heat, 2t o.o., skillet, 4 zucc of zoodles, s&p  **3m**  
 Add sauce, warm
 
-New skillet \- 2t o.o. M heat, 4 eggs \- **4m \+ 2m covered**
+New skillet - 2t o.o. M heat, 4 eggs - **4m + 2m covered**
 
 Zoodles, egg, parm
 
@@ -4838,12 +4220,10 @@ Zoodles, egg, parm
 - **Ingredients:** 2 lb gold potatoes, cut into wedges, 1 yellow onion, cut into wedges, Salt and pepper, to taste, 3 lb chicken pieces, Kosher salt, to taste, 1/4 cup olive oil, 1/4 cup lemon juice, 10 cloves garlic, 1.5 tbsp dried oregano or rosemary, 1/2 tsp ground nutmeg, Lemon slices, to taste, 1 cup chicken broth, Olives, to taste, Fresh parsley, to taste
 
 ### Blueprint
-# [Greek Chicken](https://www.themediterraneandish.com/greek-chicken-and-potato-dinner/)
-
 350
 
-Baking dish \- Slice 2lb gold potatoes and 1 yellow onion in wedges, S\&P  
-Kosher salt 3lb dried chicken (maybe sear first 5m \+ 3m)
+Baking dish - Slice 2lb gold potatoes and 1 yellow onion in wedges, S&P  
+Kosher salt 3lb dried chicken (maybe sear first 5m + 3m)
 
 ¼ c Olive oil, ¼ c lemon juice, 10 garlic, 1.5T oregano or rosemary, ½ t nutmeg  (can use as marinade for a few hours in fridge)  
 Lemon slices  
@@ -4864,12 +4244,10 @@ Olives, parsley
 - **Ingredients:** 1 lb chicken breasts, 1/3 cup plain Greek yogurt, 1/4 cup plus 4 tbsp olive oil, 1 lemon, zested and juiced, 1 lemon, sliced, 5 cloves garlic, 2 tbsp dried oregano, plus more to taste, 1 tsp kosher salt, plus more to taste, 1/2 tsp black pepper, plus more to taste, Cooked garlic rice to taste, Bell pepper to taste, Cucumber to taste, Tomato to taste, Red onion to taste, Olives to taste, Feta cheese to taste, 3 tbsp red wine vinegar, Dijon mustard to taste, Fresh mint to taste
 
 ### Blueprint
-# [Greek Chicken](https://www.foodiecrush.com/best-greek-chicken-marinade/)
-
 Lb chicken breasts  
 ⅓ cup plain greek yogurt  
 ¼ cup olive oil  
-Juice \+ zest 1 lemon  
+Juice + zest 1 lemon  
 5 garlic  
 2T oregano  
 t kosher salt  
@@ -4883,7 +4261,7 @@ Grill, MH 20m, turning
 Rest 5m, slice
 
 Garlic rice  
-Bell pepper / Cucumber / tomato / red onion / olive / feta \- 3 red wine/4 o.o./dijon/oregano/ s & p/ mint
+Bell pepper / Cucumber / tomato / red onion / olive / feta - 3 red wine/4 o.o./dijon/oregano/ s & p/ mint
 
 ---
 
@@ -4898,17 +4276,15 @@ Bell pepper / Cucumber / tomato / red onion / olive / feta \- 3 red wine/4 o.o./
 - **Ingredients:** 1 ¾ lb potatoes, sliced into wedges, olive oil, to taste, salt and pepper, to taste, ¼ cup olive oil, 1 lemon, juiced and zested, 1 tsp oregano, 2 lb chicken thighs, cucumber, to taste, tomato, to taste, onion, to taste, red wine vinegar, to taste, olives, to taste, cheese, to taste
 
 ### Blueprint
-# [Greek Chicken & potatoes](https://scrummylane.com/greek-lemon-oregano-chicken-crispy-potatoes-worldwide-700-giveaway/)
+Slice 1 ¾ lb potatoes -> wedges  
+Olive oil, s&p, roast **20m** @ 390
 
-Slice 1 ¾ lb potatoes \-\> wedges  
-Olive oil, s\&p, roast **20m** @ 390
-
-¼ cup olive oil, juice & zest of 1 lemon, t oregano, s\&p
+¼ cup olive oil, juice & zest of 1 lemon, t oregano, s&p
 
 Add 2lb chicken thighs, pour o.o. Mix over everything, toss in the juiced lemon halves  
 **45m** more
 
-Salad of cuc & tomato (& onion) o.o., red wine vinegar, s\&p. Olive, cheese
+Salad of cuc & tomato (& onion) o.o., red wine vinegar, s&p. Olive, cheese
 
 ---
 
@@ -4922,9 +4298,7 @@ Salad of cuc & tomato (& onion) o.o., red wine vinegar, s\&p. Olive, cheese
 - **Ingredients:** 1.5 lb ground pork or chicken, 1 shallot, 2 garlic cloves, 1/2 cup parmesan cheese, 4 tsp oregano, 2 tsp paprika, 1 tbsp balsamic vinegar, Salt, to taste, Black pepper, to taste, Chili flakes, to taste, Olive oil, to taste, 1.5 cups cherry tomatoes, 1 cup white wine, 1/2 cup water, 6 tbsp butter, 6 garlic cloves, Rosemary, to taste, Thyme, to taste, 2 cups orzo, Milk, to taste, Feta cheese, to taste, Fresh basil, to taste, Fresh dill, to taste
 
 ### Blueprint
-# [Greek Meatballs & Orzo](https://www.halfbakedharvest.com/crockpot-greek-chicken-meatballs/)
-
-1.5 lb ground pork or chicken, shallot, 2 garlic, ½ cup parm, 4t oregano, 2t paprika, T balsamic, s\&p, chili flakes \-\> 16 balls, drizzle o.o.  Brown them 5 minutes  
+1.5 lb ground pork or chicken, shallot, 2 garlic, ½ cup parm, 4t oregano, 2t paprika, T balsamic, s&p, chili flakes -> 16 balls, drizzle o.o.  Brown them 5 minutes  
 1.5 cups cherry tomatoes (9 ounces maybe)  
 Cup white wine, ½ cup water, sautee some 5m more  
 6T Butter, 6 garlic cloves,rosemary, thyme, sautee 2 m more  
@@ -4944,9 +4318,7 @@ Feta cheese, basil, dill
 - **Ingredients:** 3 parts red wine vinegar, 4 parts olive oil, oregano to taste, dijon mustard to taste, salt and pepper to taste, cucumber to taste, tomato to taste, red onion to taste, feta cheese to taste, olives to taste, green pepper to taste
 
 ### Blueprint
-## Greek salad
-
-3 Red wine vinegar: 4 o.o., oregano, dijon, s\&p  
+3 Red wine vinegar: 4 o.o., oregano, dijon, s&p  
 Cucumber, tomato, red onion, feta, olives, green pepper
 
 ---
@@ -4962,8 +4334,6 @@ Cucumber, tomato, red onion, feta, olives, green pepper
 - **Ingredients:** 1/2 lb green beans, salt to taste, 3 tbsp sesame seeds, 1 tbsp soy sauce, 1 tbsp sugar
 
 ### Blueprint
-## [Green Beans](https://www.justonecookbook.com/green-bean-gomaae/)
-
 Blanch: Boil ½ lb beans **4m** salted water, ice water  
 Chop in half
 
@@ -4984,14 +4354,12 @@ T soy sauce, T sugar
 - **Ingredients:** green beans, oil, 6 cloves garlic, 2 tbsp sugar, 2 tbsp fish sauce, 1/2 cup rice wine
 
 ### Blueprint
-## [Green Beans](https://spicechronicles.com/stir-fried-green-beans-slanted-door/)
-
 Blanch green beans 1m  
 WOK HIGH   
 OIL shimmering, 
 
-* 6 garlic \- **1m**  
-* 2T sugar \- **1m**  
+* 6 garlic - **1m**  
+* 2T sugar - **1m**  
 * 2T fish sauce  
 * ½ c rice wine  
 * beans
@@ -5023,8 +4391,6 @@ OIL shimmering,
 - **Ingredients:** oil to taste, 4 cloves garlic, 1 lb string beans, 3 tbsp fish sauce
 
 ### Blueprint
-## Green Beans
-
 wok very hot, oil, 4 garlic, lb string beans.  DO NOT TOUCH, 3m  
 stir, cook 1m, 3T fish sauce, cover 1m.
 
@@ -5043,9 +4409,7 @@ RICE
 - **Ingredients:** 1 lb green beans, 2 tbsp cooking oil (plus extra to coat green beans), ½ tsp crushed red pepper flakes, ½ tsp Sichuan peppercorns, 6 whole dried red chilis, 4 cloves garlic, 1 tbsp minced ginger, 3 scallions, 3 tbsp preserved Chinese mustard greens (yacai), 2 tsp sugar, salt to taste, white pepper to taste
 
 ### Blueprint
-## [Green beans](https://www.seriouseats.com/sichuan-dry-fried-green-bean-broiled-food-lab-recipe)
-
-½ t Crushed \+ ½ t Sichuan peppercorns, 6 chilis, 2T oil, 2m  
+½ t Crushed + ½ t Sichuan peppercorns, 6 chilis, 2T oil, 2m  
 4 Garlic, T ginger, 3 scallions, 3T mustard 1m
 
 BROIL high 1 lb green beans covered in oil, salt & white pepper 4m?  
@@ -5064,12 +4428,10 @@ Add sauteed stuff, 2t sugar
 - **Ingredients:** 1 lb green beans, salt to taste, cooking oil as needed, ground pork to taste, mustard greens (or bean paste) to taste, 1/4 tsp ground Sichuan peppercorns, 3 cloves garlic, 1 tsp ginger, chili pepper to taste, 1 tbsp soy sauce, 2 tbsp Shaoxing wine, 1 tsp sugar
 
 ### Blueprint
-## [Green beans 2](https://omnivorescookbook.com/szechuan-dry-fried-green-beans/)
-
-Dry fry lb green beans MH \+ salt, a little oil, flip every 15 sec for \~8m. REMOVE  
+Dry fry lb green beans MH + salt, a little oil, flip every 15 sec for \~8m. REMOVE  
 Brown Ground pork, mustard greens (or bean paste), ¼ t ground sichuan peppercorns  
 Add 3 garlic, t ginger, chili pepper,   
-Add back beans \+ T soy, 2T shaoxing wine, t sugar, 2m
+Add back beans + T soy, 2T shaoxing wine, t sugar, 2m
 
 ---
 
@@ -5083,11 +4445,23 @@ Add back beans \+ T soy, 2T shaoxing wine, t sugar, 2m
 - **Ingredients:** 3 tomatillos, husks removed, 1/4 white onion, 1 clove garlic, 2 serrano peppers (or 1 jalapeno), 1 tbsp plus extra oil for frying, 1/2 cup water, fresh cilantro sprigs to taste, 1 tsp salt, chopped cilantro to taste
 
 ### Blueprint
-## Green salsa (fried)
-
 fry 3 tomatillos (papery skin off), ¼ white onion, 1 garlic, 2 serrano / 1 jalapeno in oil until blistered  
 Boil with ½ cup water, a few sprigs of cilantro, t salt. Blend (should be soupy)  
 Heat T oil in pot, add blended salsa, chopped cilantro, 3m & you’re done.
+
+---
+
+## Grilled Corn (`rec_corn_2m_side_4_sides_3fd2df`)
+- **Type:** side (vegetable)
+- **Cuisine:** American | **Effort:** Low
+- **Seasons:** summer
+- **Vibe:** sweet, smoky, charred
+- **Dietary:** gluten-free, dairy-free, vegan, vegetarian
+- **Times (min):** Prep: 5, Cook: 8, Oven: 0
+- **Ingredients:** corn on the cob
+
+### Blueprint
+## Corn - 2m/side (4 sides)
 
 ---
 
@@ -5101,13 +4475,11 @@ Heat T oil in pot, add blended salsa, chopped cilantro, 3m & you’re done.
 - **Ingredients:** pork chops to taste, bacon to taste, green beans to taste, butter lettuce to taste, tomato to taste, onion to taste, radish to taste, garlic to taste, red wine vinegar to taste, honey to taste, olive oil to taste, salt to taste, black pepper to taste
 
 ### Blueprint
-# Grilled Pork Salad
-
 Blister green beans  
 Tomato & onion, radish  
 Salt, Pan fry pork chops, slice  
 Bacon, garlic  
-Deglaze with red wine vinegar and honey \- make into dressing w. O.o. s\&p  
+Deglaze with red wine vinegar and honey - make into dressing w. O.o. s&p  
 Butter lettuce
 
 ---
@@ -5123,8 +4495,6 @@ Butter lettuce
 - **Ingredients:** 1.25 lb rack of lamb, 3 tbsp olive oil, 1.5 tbsp parsley, chopped, 2 tbsp rosemary, chopped (or 2 tsp dried), 0.5 tbsp Dijon mustard, 0.5 tbsp lemon juice, 1 tbsp thyme, chopped (or 1 tsp dried), 4 cloves garlic, minced
 
 ### Blueprint
-# [Grilled Rack of Lamb](https://www.saveur.com/grilled-rack-lamb-with-garlic-and-herbs-recipe/)
-
 For 1.25 lb
 
 marinate 3T o.o. 3/2T  parsley, 2T (t if dried)rosemary, 1/2 T dijon, 1/2 T lemon, T (t if dried)thyme, 4 garlic, 3 hours
@@ -5147,8 +4517,6 @@ rest covered 10m
 - **Ingredients:** whole trout, cleaned, cooking oil, to taste, salt, to taste, lemon, to taste, onion, to taste, fresh herbs, to taste
 
 ### Blueprint
-# [Grilled Trout](https://www.allrecipes.com/recipe/228043/whole-grilled-trout/)
-
 Grill H, oiled  
 Oil & salt trout inside and out.  Stuff trout with lemon, onion, herbs, twine it.  
 Turn Grill to L, 6m/side
@@ -5159,7 +4527,7 @@ quinoa/mushrooms/spinach
 
 ---
 
-## Grilled artichokes \- (`rec_grilled_artichokes_7dfb8a`)
+## Grilled artichokes (`rec_grilled_artichokes_7dfb8a`)
 - **Type:** side (vegetable)
 - **Cuisine:** American | **Effort:** Medium
 - **Seasons:** spring, summer
@@ -5169,10 +4537,8 @@ quinoa/mushrooms/spinach
 - **Ingredients:** artichokes, lemon to taste, oil to taste, salt to taste, pepper to taste, truffle oil to taste, 3 parts mayonnaise, 1 part mustard, 1 part lemon juice, garlic to taste, cayenne to taste, agave to taste
 
 ### Blueprint
-## Grilled artichokes \- 
-
 clean, quarter, remove choke, lemon.  boil/steam 12m  
-Oil (+s\&p) grill 10m, turning  
+Oil (+s&p) grill 10m, turning  
 Truffle 3 mayonnaise/1 mustard/1 lemon,garlic, cayenne, agave, salt
 
 ---
@@ -5188,9 +4554,7 @@ Truffle 3 mayonnaise/1 mustard/1 lemon,garlic, cayenne, agave, salt
 - **Ingredients:** 2 quarts water, 1/2 cup plus 1/2 tbsp kosher salt, 3 tbsp light brown sugar, 2 cloves garlic, 1 bay leaf, 1 tsp peppercorns, 3 lbs chicken wings, 2 tbsp dark brown sugar, 2 tbsp granulated sugar, 2 tbsp sweet paprika, 1/2 tbsp granulated onion, 3/8 tbsp black pepper, 1/4 tbsp dry sage, 1/4 tbsp dry mustard, 1/4 tbsp ground ginger, 1/4 tbsp cayenne pepper, oil for grill (as needed)
 
 ### Blueprint
-# [Grilled chicken wings](https://www.foodandwine.com/recipes/grilled-chicken-wings-9-spice-dry-rub)
-
-Make brine \- boil 3m, cool  
+Make brine - boil 3m, cool  
 2 qts water  
 ½ cup kosher salt  
 3 T light brown sugar  
@@ -5229,9 +4593,7 @@ Oil grill, medium heat, **15m** turning
 - **Ingredients:** 1 lb ground beef, 3 tbsp fish sauce (divided), 3 tbsp lime juice (divided), 2 tsp sugar (divided), 1/2 tsp MSG, 2 tbsp toasted rice powder, 1 tsp chili flakes (to taste), cilantro, to taste, mint, to taste, 2 stalks green onions, chopped, shallots, finely sliced, to taste
 
 ### Blueprint
-# [Ground Beef Larb](https://www.simplysuwanee.com/beef-larb/)
-
-2T fish sauce, 2T lime, t sugar, 1/2 tsp MSG \- whisk and marinate lb beef  
+2T fish sauce, 2T lime, t sugar, 1/2 tsp MSG - whisk and marinate lb beef  
 Cook beef
 
 Mix with 
@@ -5249,21 +4611,19 @@ shallots, finely sliced
 
 ## Gumbo (`rec_gumbo_f893d5`)
 - **Type:** main (stew)
-- **Cuisine:** Cajun / Creole | **Effort:** Medium-High
+- **Cuisine:** Cajun / Creole | **Effort:** High
 - **Seasons:** autumn, winter
 - **Vibe:** savory, spicy, rich, smoky, hearty
 - **Dietary:** dairy-free
-- **Times (min):** Prep: 20, Cook: 40, Oven: None
+- **Times (min):** Prep: 20, Cook: 90, Oven: None
 - **Source:** Neena Panicker (https://www.paintthekitchenred.com/best-instant-pot-gumbo/)
 - **Ingredients:** 1/2 lb shrimp, creole seasoning to taste, 1 lb chicken, 1/2 lb sausage, cooking oil as needed, 1/2 cup all-purpose flour, garlic to taste, 1 cup diced onion, 1 cup diced bell pepper, 1 cup diced celery, 1 tsp white pepper, 1 tsp black pepper, 1 tsp cayenne pepper, 1 tsp dried thyme, 1 tsp salt, 1 tsp brown sugar, 1 tsp Worcestershire sauce, 2 tsp lemon juice, 1 bay leaf, 2 cups okra, 4 cups broth, 1 can tomatoes, cooked rice for serving
 
 ### Blueprint
-# [Gumbo](https://www.paintthekitchenred.com/best-instant-pot-gumbo/)
-
 season 1/2 lb shrimp w. creole seasoning  
 sautee lb chicken & 1/2 lb sausage in oil 10m, remove  
-roux \- add 1/2 cup flour & oil, saute & stir 10m  
-sautee garlic \+ cup each: onion, bell pepper, celery , 5m   
+roux - add 1/2 cup flour & oil, saute & stir 60m  
+sautee garlic + cup each: onion, bell pepper, celery , 5m   
 t each: white pepper, black pepper, cayenne pepper, thyme, salt, brown sugar, worcestershire, (2)lemon juice, bay leaf,   
 2 cups OKRA, 4 cups broth  
 chicken & sausage.  can tomatoes on top   
@@ -5271,19 +4631,6 @@ cook 4m
 add shrimp, close lid, let sit 10m, 
 
 RICE
-
----
-
-## Gumbo (`rec_gumbo_cb0de0`)
-- **Type:** main (stew)
-- **Cuisine:** Cajun | **Effort:** High
-- **Seasons:** autumn, winter
-- **Vibe:** savory, smoky, hearty, rich
-- **Times (min):** Prep: 30, Cook: 120, Oven: None
-- **Source:**  (https://docs.google.com/document/d/1q1wF9Q3slxXkbUbOuqeX5PMlQsrnzP0fLJU23ZWzo20/edit?tab=t.0#heading=h.rgmvfdxtbkkv)
-
-### Blueprint
-# [Gumbo](https://docs.google.com/document/d/1q1wF9Q3slxXkbUbOuqeX5PMlQsrnzP0fLJU23ZWzo20/edit?tab=t.0#heading=h.rgmvfdxtbkkv)
 
 ---
 
@@ -5298,8 +4645,6 @@ RICE
 - **Ingredients:** 1/4 c. maple syrup, 2 tbsp. packed brown sugar, 1 tbsp. apple cider vinegar, 1 tsp. Dijon mustard, olive oil, to taste, 6 oz. Tuscan kale, stems removed, leaves torn into 2-inch pieces, 3/4 c. cooked black eyed peas, 1 lb. ham steak
 
 ### Blueprint
-# [Ham Steak](https://www.delish.com/cooking/recipe-ideas/a25361409/easy-ham-steak-recipe/)
-
 whisk  
 1/4 c. maple syrup   
 2 tbsp. packed brown sugar   
@@ -5313,7 +4658,7 @@ Remove
 
 O.o. skillet MH, cooked 1 lb ham steak **4m/side**  
 Add glaze, turn a few times  
-Add kale \+ beans, mix
+Add kale + beans, mix
 
 ---
 
@@ -5328,14 +4673,12 @@ Add kale \+ beans, mix
 - **Ingredients:** 3 lb bone-in skin-on chicken thighs, salt and pepper to taste, 3 tbsp harissa, 1/2 lemon, juiced, 2 cloves garlic, minced, 3 sweet potatoes, cut into 1/4-inch half moons, 1 red onion, cut into 1/2-inch slices, cooking oil to taste, ground cumin to taste, fresh cilantro to taste, lemon wedges to taste
 
 ### Blueprint
-# [Harissa chicken](https://www.delish.com/cooking/recipe-ideas/a41734144/sheet-pan-harissa-chicken-and-sweet-potatoes-recipe/)
-
-3lb chicken thighs (+skin & bones) s\&p  
-mix 3T harissa, 1/2 lemon juice, 2 garlic minced \- rub that on  
+3lb chicken thighs (+skin & bones) s&p  
+mix 3T harissa, 1/2 lemon juice, 2 garlic minced - rub that on  
 sit 30m, room temp
 
 3 sweet potatoes, 1/4" half moons, red onion 1/2" slices  
-oil, cumin, s\&p
+oil, cumin, s&p
 
 425, for 35m  (chicken 165\)  
 cilantro, lemon wedges
@@ -5353,11 +4696,9 @@ cilantro, lemon wedges
 - **Ingredients:** 2 lb flanken-cut beef short ribs, 1/2 cup soy sauce, 2 tablespoons mirin, 1/4 cup brown sugar, 1 tablespoon sesame oil, 1 tablespoon sesame seeds, 1 yellow onion, grated, 2 green onions, 4 cloves garlic, 2 inches ginger, 1.5 teaspoons salt and pepper
 
 ### Blueprint
-# [Hawaiian BBQ short ribs](https://playswellwithbutter.com/kalbi-short-ribs/)
-
 2 lb flanken  
 ½ cup soy, 2 T mirin, ¼ cup brown sugar, T sesame oil, T sesame seeds  
-Grated Yellow onion, 2 green onion, 4 garlic, 2” ginger, 1.5 t s\&p  
+Grated Yellow onion, 2 green onion, 4 garlic, 2” ginger, 1.5 t s&p  
 Refrigerate at least overnight
 
 Grill high 3m/side
@@ -5377,9 +4718,7 @@ Rice, mac salad, cabbage
 - **Ingredients:** 2 cloves garlic, 2 tsp ginger, 1/3 cup hoisin sauce, 2 tbsp rice vinegar, 2 tbsp water, 2 lb pork chops, Salt to taste, Sesame oil as needed
 
 ### Blueprint
-# [Hoisin Pork Chops](https://themodernproper.com/hoisin-glazed-pork-chops)
-
-2 garlic, 2t ginger, ⅓ cup hoisin, 2T rice vinegar, 2T water \-\> m heat simmer 4m
+2 garlic, 2t ginger, ⅓ cup hoisin, 2T rice vinegar, 2T water -> m heat simmer 4m
 
 Salt 2lb pork chop  
 Heat sesame oil HIGH skillet  
@@ -5400,8 +4739,6 @@ Apply sauce
 - **Ingredients:** 1 1/8 cups flour, 1 tsp baking powder, 1/4 tsp baking soda, 1/4 tsp salt, 1/3 cup oil, 1/4 cup honey, 1/2 cup sugar, 2.5 tbsp brown sugar, 1 egg, 1/2 tsp vanilla, 1/3 cup brewed tea or coffee, 2.5 tbsp orange juice, 1.5 tbsp honey
 
 ### Blueprint
-## [Honey Cake](https://allwaysdelicious.com/rosh-hashanah-honey-cake/)
-
 350  
 9x5 pan, greased
 
@@ -5437,8 +4774,6 @@ Cool 15m, remove.  Eat next day.
 - **Ingredients:** pork butt cubes, to taste, salt and pepper, to taste, 1/4 cup soy sauce, 1 tbsp Worcestershire sauce, 1/4 cup honey, 1 tbsp lime juice, 1 clove garlic, 1 cup broth or vinegar, 3 tbsp yogurt, 1 tbsp cider vinegar, 2 tbsp lime juice, 1 tbsp honey, 2 scallions, 1/4 cabbage, pineapple, to taste, cilantro, to taste, rice, to taste
 
 ### Blueprint
-# [Honey Lime Pork](https://www.womansday.com/food-recipes/food-drinks/a19155734/honey-lime-pork-with-pineapple-slaw-recipe/)
-
 Instant pot:
 
 ¼ c soy  
@@ -5448,12 +4783,12 @@ T lime
 1 garlic  
 Cup broth / vinegar / whatever
 
-Season pork butt cubes w s\&p, mix in  
+Season pork butt cubes w s&p, mix in  
 sautee  
-Cook 60m \+ 15m.  Fork it.
+Cook 60m + 15m.  Fork it.
 
 Topping  
-Whisk 3T yogurt, T cider vinegar, 2T lime, T honey, s\&p  
+Whisk 3T yogurt, T cider vinegar, 2T lime, T honey, s&p  
 2 Scallions, ¼ cabbage, pineapple, cilantro
 
 rice
@@ -5471,10 +4806,8 @@ rice
 - **Ingredients:** pork chops, salt and pepper to taste, olive oil, 1 lime, 4 tbsp honey, 3 tbsp balsamic vinegar
 
 ### Blueprint
-# [Honey Lime Pork Chops](https://juliasalbum.com/pan-fried-pork-chops-honey-lime-glaze/)
-
-Dry  & s\&p pork chops  
-O.o. skillet MH, **4m/side** \-\> remove  
+Dry  & s&p pork chops  
+O.o. skillet MH, **4m/side** -> remove  
 Squeeze 1 lime, 4T honey, 3T balsamic into pan, boil, 2m  
 Add pork back, to glaze
 
@@ -5491,14 +4824,12 @@ Add pork back, to glaze
 - **Ingredients:** 1/4 cup plus 2 tbsp olive oil, 2 tbsp lemon juice, 1 tbsp Dijon mustard, 1 tbsp whole grain mustard, 1 tbsp honey, 3 cloves garlic, salt and pepper, to taste, 2 lb chicken thighs, 1.5 lb Brussels sprouts, halved, 1/4 red onion, sliced
 
 ### Blueprint
-# [Honey Mustard Chicken with Brussels Sprouts](https://www.purewow.com/recipes/honey-mustard-sheet-pan-chicken-brussels-sprouts)
-
 425
 
-Mix ¼ cup olive oil, 1T lemon, T dijon, T whole grain, T honey, 3 garlic, s\&p  
+Mix ¼ cup olive oil, 1T lemon, T dijon, T whole grain, T honey, 3 garlic, s&p  
 Dip 2lb chicken thighs in sauce, place on sheet
 
-1.5 Brussels sprouts (halved), ¼ red onion sliced, 2T o.o., T lemon juice, s\&p spread around chicken, 
+1.5 Brussels sprouts (halved), ¼ red onion sliced, 2T o.o., T lemon juice, s&p spread around chicken, 
 
 **35m** (to 165\)
 
@@ -5514,16 +4845,14 @@ Dip 2lb chicken thighs in sauce, place on sheet
 - **Ingredients:** 1/2 cup sour cream, 2 tablespoons horseradish, 2 tablespoons mayonnaise, 1 teaspoon apple cider vinegar, 1 tablespoon chives, salt and pepper to taste, potatoes, oil to taste, mushrooms, garlic to taste
 
 ### Blueprint
-## Horseradish sauce
-
 1/2 cup sour cream, 2T horseradish, 2T mayo  
 t apple cider vinegar  
 T chives  
-s\&p
+s&p
 
-baked Potatoes  \- oil, salt, 450 for 45m   
+baked Potatoes  - oil, salt, 450 for 45m   
 Caesar Salad  
-Mushrooms \- garlic, etc…
+Mushrooms - garlic, etc…
 
 ---
 
@@ -5537,8 +4866,6 @@ Mushrooms \- garlic, etc…
 - **Ingredients:** 2 lb small yellow new potatoes, water (to taste / as needed), kosher salt (for boiling water and to taste), 2 tsp Sichuan peppercorns, 1 star anise pod, 1 tsp fennel seeds, 1/2 tsp ground white pepper, 2 tsp cumin seeds, 1 tbsp red chili flakes or powder, 1.5 tsp kosher salt, 1 tsp sugar, 1/4 tsp MSG, 2 tbsp sesame seeds, 4 tbsp cooking oil, divided, 4 cloves garlic, minced, 2 scallions, sliced
 
 ### Blueprint
-# Hot and numbing stir fried potatoes
-
 2lb small yellow new potatoes, whole  
 Very salty water, boil until soft (10 min boiling), frain and air-dry
 
@@ -5555,20 +4882,6 @@ Maybe with Mapo tofu or shrimp and egg, cucumber salad, dry-fried green beans
 
 ---
 
-## Hot dogs (`rec_hot_dogs_24a98c`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** spring, summer
-- **Vibe:** savory, smoky, casual
-- **Dietary:** dairy-free
-- **Times (min):** Prep: 5, Cook: 10, Oven: None
-- **Ingredients:** hot dogs, hot dog buns, condiments to taste
-
-### Blueprint
-## Hot dogs
-
----
-
 ## Huevos Rancheros (`rec_huevos_rancheros_46daef`)
 - **Type:** main (standard)
 - **Cuisine:** Mexican | **Effort:** Low
@@ -5580,13 +4893,11 @@ Maybe with Mapo tofu or shrimp and egg, cucumber salad, dry-fried green beans
 - **Ingredients:** 4 tortillas, quartered, oil (to taste), 6 oz chorizo crumbles, 2 cloves garlic, 1 red bell pepper, 1 yellow bell pepper, green onions, 2 red chilis, 1 can tomatoes, 1 can beans (with liquid), 3 oz baby spinach, 4 eggs, lime juice (to taste), avocado
 
 ### Blueprint
-# [Huevos Rancheros](https://www.delicious.com.au/recipes/huevos-rancheros-beans/7WDKzQe3?r=recipes/collections/l5akqqov)
-
 350  
 bake 4 tortillas, quartered 8 min
 
 high heat, oil skillet, 6 oz chorizo crumbles, 2m  
-2 garlic, 1 red, 1 yellow bell pepper, green onions, 2 red chili \-\> 10m
+2 garlic, 1 red, 1 yellow bell pepper, green onions, 2 red chili -> 10m
 
 can tomatoes, can beans (don't drain)  10m
 
@@ -5609,36 +4920,20 @@ lime juice, avocado
 - **Ingredients:** 4 tbsp lemon juice (1-2 lemons), 1-2 cloves garlic, 1 tsp salt, 16 oz tahini, 2 ice cubes (or 2 tbsp chickpea water), 2 cans chickpeas, 1 tsp baking soda, 1/2 tsp cumin, paprika to taste, 2 tbsp olive oil, za'atar to taste
 
 ### Blueprint
-# [Hummus](https://www.themediterraneandish.com/how-to-make-hummus/)
-
 blend 4T lemon (1 or 2 lemons),  1-2 garlic,  t salt, let sit 10m first  
-Add 16 oz tahini \+ 2 ice cubes / 2T chickpea water \- blend 2m
+Add 16 oz tahini + 2 ice cubes / 2T chickpea water - blend 2m
 
-2 can chickpeas \- boil 20m w t baking soda, then rub in cold water to cool & remove skins  
+2 can chickpeas - boil 20m w t baking soda, then rub in cold water to cool & remove skins  
 (skim for surface of water, or roll between some towels)  
 ½ t cumin, paprika (more)
 
 Blend 8 minutes, scraping
 
-2 T o.o. on top \+ paprika / cumin / za’atar
+2 T o.o. on top + paprika / cumin / za’atar
 
 ---
 
-## Ice cream sandwich (`rec_ice_cream_sandwich_a037ae`)
-- **Type:** side (dessert)
-- **Cuisine:** American | **Effort:** Medium
-- **Seasons:** spring, summer
-- **Vibe:** sweet, creamy, chilled, rich
-- **Dietary:** vegetarian
-- **Times (min):** Prep: 20, Cook: 12, Oven: 12
-- **Ingredients:** cookies or chocolate cookie wafers, vanilla ice cream
-
-### Blueprint
-## Ice cream sandwich
-
----
-
-## Indian ribs (`rec_indian_ribs_f986db`)
+## Indian flanken ribs (`rec_indian_ribs_f986db`)
 - **Type:** main (standard)
 - **Cuisine:** Indian | **Effort:** Low
 - **Seasons:** spring, summer, autumn
@@ -5648,8 +4943,6 @@ Blend 8 minutes, scraping
 - **Ingredients:** 3 lb ribs, salt to taste, ginger to taste, garlic to taste, mustard to taste, black pepper to taste, cumin to taste, chili to taste, oil to taste
 
 ### Blueprint
-# Indian ribs
-
 3 lb ribs, salted  
 Ginger, garlic, mustard, black pepper, cumin, chili, oil  
 Grill a few minutes a side
@@ -5667,8 +4960,6 @@ Grill a few minutes a side
 - **Ingredients:** 1 lb ground beef, 1/2 onion, 2 cloves garlic, 14 oz canned tomatoes, 12 oz tomato sauce, 6 tbsp beef broth, 1 tbsp chili powder, 1 tsp cumin, 1 tsp paprika, 1 tsp cocoa powder, 1/2 tsp sugar, 3/4 tsp salt, 3/8 tsp black pepper, 15 oz canned beans
 
 ### Blueprint
-# [Instant Pot Chili](https://www.dinneratthezoo.com/instant-pot-chili/)
-
 Lb ground beef, browned  
 ½ onion, 3m  
 2 garlic, 14 oz can tomatoes, 12 oz tomato sauce, 6T cup beef broth  
@@ -5688,8 +4979,6 @@ Chili setting 20m, natural release
 - **Ingredients:** 1 lb ground beef, 1/2 onion, green pepper, to taste, 2 cloves garlic, 1 serrano pepper, to taste, 14 oz can tomatoes, 12 oz tomato sauce, 3/4 cup beef broth, 1 tbsp chili powder, 1 tsp cumin, 1 tsp paprika, 1 tsp cocoa powder, 1/2 tsp sugar, 3/4 tsp salt, 3/8 tsp pepper, 15 oz canned beans
 
 ### Blueprint
-# [Instant Pot Chili](https://www.dinneratthezoo.com/instant-pot-chili/)
-
 Lb ground beef, browned  
 ½ onion, 3m, maybe some green pepper  
 2 garlic, maybe a serrano, 30sec  
@@ -5709,8 +4998,6 @@ Chili setting 20m, natural release
 - **Ingredients:** 1.5 lb potatoes, 12 oz sliced sausage, 1/2 chopped onion, 4 tsp Old Bay seasoning (divided), 1 tbsp hot sauce, 6 half-ears of corn, 1 bottle beer, shrimp to taste, 3 cloves garlic, 4 tbsp butter, parsley to taste, lemon to taste
 
 ### Blueprint
-# [Instant Pot Shrimp Boil](https://damndelicious.net/2018/06/05/instant-pot-shrimp-boil/)
-
 1.5 lb potatoes  
 12 oz sliced sausage  
 ½ chopped onion  
@@ -5723,7 +5010,7 @@ High, **5m,** quick release
 
 Cook shrimp in 3 garlic & 4T butter & 1t old bay
 
-Mix & serve \- parsley & lemon
+Mix & serve - parsley & lemon
 
 ---
 
@@ -5738,13 +5025,11 @@ Mix & serve \- parsley & lemon
 - **Ingredients:** bacon (a few strips), 1 green bell pepper, diced fine, 1 yellow onion, diced fine, salt to taste, olive oil as needed, 4 cloves garlic, minced, 1 lb black beans, 5.5 cups water, sazon to taste, 1 tbsp granulated sugar, 1 tsp salt, 1 tbsp brown sugar, 0.5 tsp vinegar, 0.5 tbsp adobo seasoning (chili, onion, oregano, cumin, paprika)
 
 ### Blueprint
-## [Instant pot black beans](https://lanaunderpressure.org/black-beans/)
-
 Sautee a few bacon, remove  
 Green pepper, yellow onion, diced fine, salt  .  o.o. If needed  
 4 Garlic 30 seconds.   
 Lb black beans, 5.5 cups water, sazon, T sugar, t salt, o.o  
-45min \+ natural release  
+45min + natural release  
 Return bacon, T brown sugar, ½ t vinegar, ½ T adobo (chili, onion, oregano, cumin, paprika), salt  
 Maybe mash a bit of beans with water, then return that.
 
@@ -5761,8 +5046,6 @@ Maybe mash a bit of beans with water, then return that.
 - **Ingredients:** 3 tbsp ghee, 1 onion, 1/2 tsp turmeric, 1 1/2 tsp cumin, 1 tbsp tomato puree, coriander, to taste, tarragon, to taste, dill, to taste, 2 lb waxy potatoes, chopped, 1 2/3 lb butternut squash, 1 green chili, slit, 2 dried limes, pierced, 1.5 tsp salt, 4 cups water, 4 tomatoes, 5 oz spinach, 1/2 oz dried cranberries, yogurt, for serving
 
 ### Blueprint
-# [Iranian Vegetable Stew](https://thehappyfoodie.co.uk/recipes/yotam-ottolenghis-iranian-vegetable-stew-with-dried-limes/)
-
 Sautee 3T ghee, 1 onion, ½ t turmeric, 1 ½ t cumin **10m**  
 T Tomato puree, **2m**  
 Add coriander, tarragon, dill , 2 lb chopped waxy potatoes, 1 ⅔ lb butternut squash, 1 green chili slit, 2 pierced dried limes, 1.5t salt, 4 cups water, BOIL, simmer **15m**  
@@ -5782,15 +5065,13 @@ BAKE **20m** @ 400, sit 5m, serve with yogurt
 - **Ingredients:** 1 lb ground lamb, cooking oil to taste, 1 yellow onion, minced, 3 tbsp parsley, chopped (plus more for garnish), 1 tsp yellow curry powder, 2 tomatoes, chopped, salt to taste, black pepper to taste, 4 eggs, chile flakes to taste, pita bread for serving
 
 ### Blueprint
-# [Iraqi Lamb & Eggs](https://www.saveur.com/article/recipes/makhlama-lahm-iraqi-eggs-with-lamb-and-tomatoes/)
-
 400  
 MH skillet, oil, brown lb of ground lamb **4m**  
 Minced yellow onion, **5m**  
-3T parsley, t yellow curry, 2 chopped tomatoes, S\&P 4  
+3T parsley, t yellow curry, 2 chopped tomatoes, S&P 4  
 Make 4 wells, crack eggs in  
 BAKE **6m**  
-Parsley, chile flakes  \-\> pita
+Parsley, chile flakes  -> pita
 
 ---
 
@@ -5805,9 +5086,7 @@ Parsley, chile flakes  \-\> pita
 - **Ingredients:** 1 stick butter, 1/2 cup sugar, 2 tsp lemon zest, 3 eggs (separated into yolks and whites), 2.5 cups flour, colored sugar to taste, food coloring to taste
 
 ### Blueprint
-## [Italian Lemon Cookies](https://www.tasteofhome.com/recipes/italian-lemon-cookies/)
-
-Stick butter, ½ cup sugar \-\> cream it  
+Stick butter, ½ cup sugar -> cream it  
 2 t lemon zest, 3 egg yolks, 2.5 cups flour  
 Dough will be dry, pack it with your hands.  
 Refrigerate 1 hour
@@ -5831,12 +5110,10 @@ Refrigerate 1 hour
 - **Ingredients:** red onion slices, to taste, red wine vinegar, to taste, 1.5 tbsp lemon juice, 1 tbsp Dijon mustard, 1 tsp honey, salt to taste, black pepper to taste, 5 tbsp olive oil, divided, 20 oz jarred tuna in water, 7 oz chopped Castelvetrano olives, 9 oz chopped sun-dried tomatoes, 3 ribs celery, chopped, 1.5 oz fresh basil, chopped
 
 ### Blueprint
-# [Italian Tuna Salad](https://www.foodandwine.com/italian-tuna-salad-7113152)
-
 6 servings  
 pickle red onion slices in red wine vinegar
 
-1.5 T lemon juice, T dijon, t honey, s\&p, 3T o.o.  
+1.5 T lemon juice, T dijon, t honey, s&p, 3T o.o.  
 20 oz jarred tuna in water, 7 oz chopped castelvetrano olives, 9 oz chopped sun dried tomatoes, 3 celery, 1.5 oz basil  
 2T o.o.
 
@@ -5853,18 +5130,16 @@ pickle red onion slices in red wine vinegar
 - **Ingredients:** 1.25 lbs boneless skinless chicken breasts, cut into 1-inch pieces, salt, to taste, cooking oil, as needed, 1 yellow onion, finely chopped, 1 red bell pepper, finely chopped, 2 jalapenos, finely chopped, 3 cloves garlic, finely chopped, 1 tsp ginger, finely chopped, 3.5 tbsp curry powder, 1 tsp ground turmeric, 3/4 tsp ground allspice, 1/4 tsp cayenne pepper, 2 Yukon Gold potatoes, peeled and diced, 15 oz canned coconut milk, 1 tbsp Worcestershire sauce, 1 1/2 tsp white wine vinegar, 1 tsp hot sauce, cooked rice, for serving, fresh cilantro, to taste
 
 ### Blueprint
-# [Jamaican Curry Chicken](https://www.wellplated.com/jamaican-curry-chicken/)
-
 1" pieces of 1.25 lb boneless skinless chicken breasts  
 salt them and rest
 
-deep pot \- heat oil medium  
+deep pot - heat oil medium  
 chop everything fine  
 yellow onion, 8m  
-1 red bell pepper, 2 jalapeno, 3 garlic, t ginger \- 2m  
-3.5 T curry, t turmeric, 3/4 t allspice, 1/4 t cayenne \- 1m  
-chicken \- 5m  
-2 yukon gold potatoes, peeled & diced \- 3m
+1 red bell pepper, 2 jalapeno, 3 garlic, t ginger - 2m  
+3.5 T curry, t turmeric, 3/4 t allspice, 1/4 t cayenne - 1m  
+chicken - 5m  
+2 yukon gold potatoes, peeled & diced - 3m
 
 15 oz coconut milk can, T worcestershire, 1 1/2 t white wine vinegar, t hot sauce  
 simmer 20m, stirring
@@ -5887,8 +5162,6 @@ can use habanero and no hot sauce
 - **Ingredients:** 2 onions, chopped, oil, to taste, pork shoulder, diced, 5 sprigs thyme (leaves picked), 1/4 tsp black pepper, 1 tbsp ground coriander, 1 tbsp paprika, 2 tbsp ground allspice, 1 tbsp celery salt, 1 tbsp dried garlic, 3 tbsp Jamaican curry powder, 6 cloves garlic, sliced, 2 whole hot chilis, pierced, 3 green onions, sliced, 4 plum tomatoes, 1 liter cold water, 1 onion, chopped (for rice), 4 cloves garlic, sliced (for rice), 1.5 cups long-grain rice, 2 tbsp butter, 4 sprigs fresh thyme (for rice), 1 can kidney beans, 10 oz coconut milk, 6 oz water, green onion, to taste (for garnish)
 
 ### Blueprint
-# [Jamaican Curry Pork](https://www.olivemagazine.com/recipes/meat-and-poultry/jamaican-curry-pork/) 
-
 Chop 2 onions, cook in MH skillet & oil, **15m**  
 Diced pork shoulder  
 Stir with Leaves of 5 thyme sprigs, ¼ t pepper, T coriander, T paprika, 2T allspice, T celery salt, T dried garlic, 3T jamaican curry powder (curry, cumin, allspice, ginger, clove, nutmeg, turmeric, coriander,mustard, fenugreek, black pepper, heat)
@@ -5896,7 +5169,7 @@ Stir with Leaves of 5 thyme sprigs, ¼ t pepper, T coriander, T paprika, 2T alls
 Mix with 6 sliced garlic, 2 hot chilis whole but pierced, 3 green onions sliced, 4 plum tomatoes (8 cocktail)
 
 Liter cold water, boil, simmer **3 hours**.  Add water as needed  
-Or you could instant pot **30m  \+10m**  ???
+Or you could instant pot **30m  +10m**  ???
 
 Rice  
 1 chopped onion in oil, **10m**, M heat  
@@ -5912,17 +5185,6 @@ Green onion
 
 ---
 
-## January (`rec_january_00a280`)
-- **Type:** main (standard)
-- **Cuisine:** N/A | **Effort:** Low
-- **Seasons:** winter
-- **Times (min):** Prep: None, Cook: None, Oven: None
-
-### Blueprint
-# January
-
----
-
 ## Japanese Beef & Cabbage with Mentsuyu (`rec_japanese_beef_cabbage_with_men_f102ec`)
 - **Type:** main (stir-fry)
 - **Cuisine:** Japanese | **Effort:** Medium
@@ -5934,19 +5196,17 @@ Green onion
 - **Ingredients:** 1 part soy sauce, 1 part mirin, 4 parts dashi, 1/4 part sugar, 1 part sake, 4 tsp cornstarch, 1 tbsp oyster sauce, 2 tsp white miso, 2 tsp sesame oil, 24 oz top sirloin, sliced crosswise into 1/8-inch strips, 1 head green cabbage, cut into bite-size pieces, 1 inch fresh ginger, grated or minced, 1.5 tsp kosher salt, Cooking oil, to taste, 1 yellow onion, sliced into 1/4-inch slices, Cooked rice or noodles (optional, for serving), Red chili pepper, to taste, Sesame seeds, to taste, Orange zest, to taste, Nori, to taste
 
 ### Blueprint
-# [Japanese Beef & Cabbage with Mentsuyu](https://www.foodandwine.com/japanese-beef-and-cabbage-with-mentsuyu-11942319)
-
-(mentsuyu \= 1 soy sauce, 1 mirin, 4 dashi, ¼ sugar, 1 sake \- boil and cool)  
+(mentsuyu \= 1 soy sauce, 1 mirin, 4 dashi, ¼ sugar, 1 sake - boil and cool)  
 Btw t dried dashi in cup hot water makes above  
 Make at least a cup (for cooking and dipping)
 
 Whisk 4t cornstarch, T oyster sauce, 2t white miso, 2t sesame oil, 2T mentsuyu  
 Add 24 oz top sirloin, sliced crosswise into ⅛” strips\!
 
-Head of green cabbage, cut into bite size pieces, 1” ginger, 1.5 t kosher salt \- let stand 5m
+Head of green cabbage, cut into bite size pieces, 1” ginger, 1.5 t kosher salt - let stand 5m
 
 Oil skillet MH, cook steak 4m  
-Yellow onion in 1/4 “ slice \+ cabbage \+ ½ cup mentsuyu  
+Yellow onion in 1/4 “ slice + cabbage + ½ cup mentsuyu  
 Cover and cook 9m  
 Uncover and cook & stir 2m
 
@@ -5967,8 +5227,6 @@ Add a little red chili pepper, sesame seeds, orange zest, ginger, nori
 - **Ingredients:** 14 dried shiitake mushrooms, 1 L water, Seaweed to taste, 3 tsp dashi powder, divided, 1 tbsp coconut oil, 1 lb beef tenderloin, cubed, 1/3 cup soy sauce, 1/3 cup mirin, 2 tsp sugar, 2 leeks, cut into 1.5-inch diagonal pieces, 1 lb fresh mushrooms, 2 oz watercress, Rice to taste
 
 ### Blueprint
-# [Japanese Beef & Mushroom Stew](https://www.japancentre.com/en/recipes/1473-beef-and-mushroom-dashi-stew)
-
 14 shiitake, soak in L water with seaweed, t dashi for a day  
 T coconut oil, brown 1lb beef tenderloin, cubed, **15m**  
 Mix 1/3 cup soy, ⅓ cup mirin, 2t sugar, t dashi  
@@ -5989,10 +5247,8 @@ Add lb mushrooms, cook **2m**,
 - **Ingredients:** pineapple to taste, brown sugar to taste, cooking oil to taste, 2 cups rice, 1.5 cups water, 14 oz coconut milk, 1 tsp sugar, 1 tsp salt
 
 ### Blueprint
-# Jerk Chicken
-
-Grilled pineapple \- sprinkle brown sugar, sit 10m, oil grill, 5m \+ 5m on medium  
-Coconut rice \- cook 2 cups rice with 1.5 cup water, 14 oz coconut milk, t sugar, t salt
+Grilled pineapple - sprinkle brown sugar, sit 10m, oil grill, 5m + 5m on medium  
+Coconut rice - cook 2 cups rice with 1.5 cup water, 14 oz coconut milk, t sugar, t salt
 
 ---
 
@@ -6007,9 +5263,7 @@ Coconut rice \- cook 2 cups rice with 1.5 cup water, 14 oz coconut milk, t sugar
 - **Ingredients:** 1 tbsp soft butter, 1/4 cup peach preserves, 1 tbsp jerk seasoning, 4 thin cut pork chops, 2 tbsp butter, divided, 1.5 bell peppers, sliced into thin strips, rice (for serving, to taste)
 
 ### Blueprint
-# [Jerk Pork Chops](https://www.tasteofhome.com/recipes/jamaican-jerk-pork-chops/)
-
-1T soft butter \+ ¼ cup peach preserves  
+1T soft butter + ¼ cup peach preserves  
 Sprinkle T jerk on 4 thin cut pork chops  
 Skillet MH, T butter, chops 2-3m / side, remove  
 Thin strips 1.5 bell peppers, T butter, 5m  
@@ -6030,59 +5284,16 @@ Rice
 - **Ingredients:** 1 tomato, 1 red pepper, 1 onion (for blending), 1 hot pepper, onion, diced (for sauteing), to taste, vegetable oil, to taste, 2 tbsp tomato puree, 1 tbsp curry powder with turmeric, 1 tbsp thyme, 1 tsp white pepper, 3 cups broth, 2 cups rice, rinsed, 1 tomato, sliced, 1 bay leaf, salt to taste, 2 stock cubes, 1 tbsp butter, liquid smoke to taste
 
 ### Blueprint
-# [Jollof Rice](https://www.recipevibes.com/instant-pot-jollof-rice/)
-
-Blend 1 tomato, 1 red pepper, 1 onion, 1 hot pepper \- measure out 1 cup
+Blend 1 tomato, 1 red pepper, 1 onion, 1 hot pepper - measure out 1 cup
 
 Instant pot  
 Sautee onion in veg oil & 2 T tomato puree, **2m**  
 Add cup of pepper mix, T curry with turmeric, T thyme, t white pepper **2m**  
 3 cups broth, 2 cups rice (rinced), sliced tomato, bayleaf, salt, 2 stock cubes
 
-8m \+ 10m
+8m + 10m
 
 T butter, let it burn a little, liquid smoke
-
----
-
-## July (`rec_july_b95352`)
-- **Type:** main (standard)
-- **Cuisine:** N/A | **Effort:** Low
-- **Seasons:** summer
-- **Times (min):** Prep: None, Cook: None, Oven: None
-
-### Blueprint
-# July
-
----
-
-## KABSA SPICE MIX: (`rec_kabsa_spice_mix_2dede1`)
-- **Type:** main (rice)
-- **Cuisine:** Middle Eastern | **Effort:** Medium-High
-- **Seasons:** spring, summer, autumn, winter
-- **Vibe:** fragrant, spiced, savory, hearty
-- **Dietary:** dairy-free, gluten-free
-- **Times (min):** Prep: 20, Cook: 52, Oven: None
-- **Ingredients:** 1/4 tsp ground cardamom, 1/4 tsp ground white pepper, 1/4 tsp saffron, 1/2 tsp ground cinnamon, 1/2 tsp ground allspice, 1/2 tsp dried whole lime powder, Cooking oil to taste, 3 onions, sliced, 1 tbsp ginger, minced, 1 tbsp garlic, minced, 1 green chile, 2 bay leaves, 6 whole cloves, 4 cardamom pods, 1 cinnamon stick, 2 tbsp tomato puree, Pinch ground nutmeg, 1/2 tsp ground black pepper, 1/4 tsp ground cumin, 1/2 tsp ground coriander, Salt to taste, 3 carrots, thinly sliced, 7 oz diced tomatoes, 2 chicken stock cubes, 1 whole chicken, cut into pieces, 3 cups rice, 1/4 cup raisins, 4 cups water
-
-### Blueprint
-#### KABSA SPICE MIX:
-
-* 1/4 tsp ground cardamom (cardamom powder)  
-* 1/4 tsp ground white pepper (white pepper powder)  
-* 1/4 tsp saffron  
-* 1/2 tsp ground cinnamon (cinnamon powder)  
-* 1/2 tsp ground all spice  
-* 1/2 tsp dried whole lime powder
-
-Heavy pan, oil, MH heat  
-3 sliced onions, T ginger, T garlic, 1 green chile \-\> brown onions (**3m**)  
-2 bay leaves, 6 cloves, 4 cardamom pods and cinnamon stick (**1m**)  
-2T tomato puree, Pinch ground nutmeg, ½ t ground black pepper, ¼ t ground cumin, ½ t ground coriander and kabsa spice \+ salt (**1m**)  
-3 THIN sliced Carrots, 7oz diced tomatoes (**2m**)  
-2 chicken stock cubes, cut up chicken (**30m**) turning.   REMOVE CHICKEN  
-Add 3 cups rice, ¼ cup raisins, 4 cups water, salt.  BOIL, simmer, cover (**15m**)  
-Meanwhile GRILL chicken 10-15m
 
 ---
 
@@ -6097,14 +5308,12 @@ Meanwhile GRILL chicken 10-15m
 - **Ingredients:** ½ lb ground beef, ½ lb ground pork, ⅓ cup panko, 1 egg, 1 chile, 9 tbsp soy sauce, 4 cloves garlic, 2 inches ginger, 1 tbsp sesame oil, salt to taste, 3 scallions, plus extra for garnish, neutral oil for browning, ⅓ cup brown sugar, 2 tbsp gochujang, 1 tbsp rice vinegar, 1 tsp cornstarch, ¼ cup water, cooked rice to taste, pickled cucumbers to taste, fried eggs to taste, sriracha mayo to taste, kimchi to taste
 
 ### Blueprint
-# [KBBQ meatball bowl](https://www.foodandwine.com/korean-barbecue-meatball-bowls-12066757)
-
-½ lb beef, ½ lb pork, ⅓ cup panko, egg, chile, T soy, 2 garlic, 1” ginger, t sesame oil, salt, 3 scallions \-\> 20 meatballs
+½ lb beef, ½ lb pork, ⅓ cup panko, egg, chile, T soy, 2 garlic, 1” ginger, t sesame oil, salt, 3 scallions -> 20 meatballs
 
 Brown meatballs in oil, 10minutes turning, remove
 
-Add ⅓ cup  Brown sugar, 2T gochujang, T rice vinegar, ½ cup soy, 2 garlic, 1” ginger, 2t sesame oil \-\> 2m  
-t Cornstarch \+¼ cup water \-\> slurry. add.
+Add ⅓ cup  Brown sugar, 2T gochujang, T rice vinegar, ½ cup soy, 2 garlic, 1” ginger, 2t sesame oil -> 2m  
+t Cornstarch +¼ cup water -> slurry. add.
 
 Return meatballs to coat, 2m
 
@@ -6122,8 +5331,6 @@ Rice, meatballs, sauce, pickled cucumber, fried egg, scallions, sriracha mayo, k
 - **Ingredients:** chicken to taste, buttermilk to taste, egg to taste, 2 cups flour, 2 tsp salt, 1/2 tbsp thyme, 1/2 tbsp basil, 1 tsp oregano, 1 tbsp celery salt, 1 tbsp black pepper, 1 tbsp dried mustard, 4 tbsp paprika, 2 tbsp garlic salt (3 parts salt to 1 part garlic), 1 tbsp ground ginger, 3 tbsp white pepper, frying oil to taste, MSG to taste
 
 ### Blueprint
-# [KFC](https://www.mashed.com/162131/the-best-kfc-chicken-copycat-recipe/)
-
 2 cups flour  
 2t salt  
 ½ T Thyme  
@@ -6137,42 +5344,13 @@ T Dried mustard
 T Ground ginger  
 3T White pepper
 
-Brine chicken in buttermilk \+ egg 30m  
-Heat 3” oil to 350 \- use laser thermometer  
+Brine chicken in buttermilk + egg 30m  
+Heat 3” oil to 350 - use laser thermometer  
 Dip chicken in flour, immediately fry.  Don’t crowd oil.    
 12m (turn halfway through)  
 Return to 350, fry more chicken.  
 Oven 175 for 20m on wire rack on foil-lined baking sheet  
 touch of MSG
-
----
-
-## Kalua Pork (`rec_kalua_pork_9b3254`)
-- **Type:** main (standard)
-- **Cuisine:** Hawaiian | **Effort:** Low
-- **Seasons:** winter, spring, summer, autumn
-- **Vibe:** smoky, savory, rich, succulent
-- **Dietary:** gluten-free, dairy-free
-- **Times (min):** Prep: 10, Cook: 480, Oven: None
-- **Ingredients:** pork shoulder to taste, Hawaiian sea salt to taste, liquid smoke to taste
-
-### Blueprint
-# Kalua Pork
-
-Mac salad, rice, stir fry, hawaiian rolls
-
----
-
-## Kebabs (`rec_kebabs_d0ab38`)
-- **Type:** main (standard)
-- **Cuisine:** Middle Eastern | **Effort:** Medium
-- **Seasons:** summer
-- **Vibe:** smoky, savory, charred
-- **Dietary:** dairy-free, gluten-free
-- **Times (min):** Prep: 25, Cook: 15, Oven: 0
-
-### Blueprint
-# Kebabs
 
 ---
 
@@ -6187,11 +5365,9 @@ Mac salad, rice, stir fry, hawaiian rolls
 - **Ingredients:** oil to taste, 1 onion, 2 cloves garlic, 1/2 inch ginger, 1 lb ground meat, tomatoes to taste, 1/2 tsp turmeric, 1 1/2 tsp chili powder, 1 tsp cumin, 1/2 tsp pepper, 2 tsp salt, 1/2 tsp garam masala, 1 bay leaf, 1 tsp fenugreek, 1/2 tsp coriander, 1 can chickpeas, spinach to taste, lime to taste, bread to taste
 
 ### Blueprint
-# [Keema Chole](https://www.mamtaskitchen.com/recipe_display.php?id=10131)
-
 Skillet MH, oil  
-Onion, 2 garlic, ½” ginger \-\> brown  
-Lb meat \-\> brown, salt  
+Onion, 2 garlic, ½” ginger -> brown  
+Lb meat -> brown, salt  
 tomatoes?  
 ½ t turmeric, 1 ½ t chili, t cumin, ½ t pepper, 2t salt, ½ t garam masala, bay leaf, t fenugreek, ½ t coriander  
 Can Chick peas  
@@ -6199,24 +5375,6 @@ Cover, LM heat 20+ m
 Spinach
 
 Lime, bread
-
----
-
-## Kefta kabab (`rec_kefta_kabab_0df3b7`)
-- **Type:** main (standard)
-- **Cuisine:** Middle Eastern | **Effort:** Low
-- **Seasons:** spring, summer
-- **Vibe:** savory, spiced, fresh, quick
-- **Dietary:** dairy-free
-- **Times (min):** Prep: 5, Cook: 10, Oven: None
-- **Ingredients:** Costco kefta kababs, Hummus, Pita bread, Tomatoes
-
-### Blueprint
-# Kefta kabab
-
-Costco kababs  
-Hummus, pita  
-Tomatoes
 
 ---
 
@@ -6230,14 +5388,12 @@ Tomatoes
 - **Ingredients:** 1 lb lamb meat, 1 onion, 3 cloves garlic, 2 tsp turmeric, 1 can tomatoes, 1 cup water, 2 tsp tomato paste, dried lime, to taste, salt and black pepper, to taste, cinnamon, to taste, cumin, to taste, coriander, to taste, nutmeg, to taste, cardamom, to taste, 2 lb zucchini, oil, for frying, cherry tomatoes, to taste, green grapes, to taste, rice, for serving
 
 ### Blueprint
-# Khoresh Kadoo (lamb/zucc stew)
-
 brown lb lamb meat & remove  
 sautee onion, 3 garlic, 2t turmeric,   
 return meat  
 can tomatoes, cup water  
 2t tomato paste  
-dried lime, s\&p
+dried lime, s&p
 
 a LITTLE cinnamon, cumin, coriander, nutmeg, cardamom
 
@@ -6261,10 +5417,8 @@ rice
 - **Ingredients:** kielbasa, butter to taste, onions, apples, beer to taste, clove to taste, cardamom to taste, bay leaf to taste, pepper to taste, mustard to taste, sauerkraut, brown sugar to taste, potatoes (for serving), green beans (for serving)
 
 ### Blueprint
-# Kielbasa
-
 Slice then Brown kielbasa and remove  
-butter , Onions, apples, beer, clove, cardamom, bay leaf, pepper , mustard, sauerkraut, brown sugar \- 5m  
+butter , Onions, apples, beer, clove, cardamom, bay leaf, pepper , mustard, sauerkraut, brown sugar - 5m  
 Serve w Potatoes & green beans
 
 ---
@@ -6280,8 +5434,6 @@ Serve w Potatoes & green beans
 - **Ingredients:** kielbasa, onion, salt to taste, 4 tsp curry powder, 1/2 cup lentils, 2 1/2 cups water, 1/2 cup rice, 15 oz crushed tomatoes, 2 tbsp apple cider vinegar, salt and pepper to taste, 8 oz spinach
 
 ### Blueprint
-# [Kielbasa & Lentils](https://www.marthastewart.com/1553124/kielbasa-and-lentil-rice-spinach)
-
 Prick kielbasa with fork a bit  
 Brown kielbasa **3m/side** MH.  Remove  
 Onion, salt, **5m**  
@@ -6289,7 +5441,7 @@ Onion, salt, **5m**
 ½ cup Lentils, 2 ½ cups water  
 Boil, simmer, covered, **10m**
 
-½ cup Rice, 15 oz crushed tomatoes, 2T apple cider vinegar, s\&p  
+½ cup Rice, 15 oz crushed tomatoes, 2T apple cider vinegar, s&p  
 Return kielbasa, cover & simmer **15m**  
 8 oz Spinach, **3m**
 
@@ -6306,10 +5458,8 @@ Return kielbasa, cover & simmer **15m**
 - **Ingredients:** 1 lb kimchi, 1/4 cup kimchi brine, 1/2 lb pork belly, rice wine to taste, black pepper to taste, 1 onion, shiitake mushrooms to taste, 1 tsp salt, 2 tsp sugar, 2 tsp hot pepper flakes, 1 tbsp gochujang, 1 tsp sesame oil, 2 cups dashi stock, tofu to taste, green onion to taste, 2 eggs, rice to taste
 
 ### Blueprint
-# [Kimchi Jjigae](https://mykoreankitchen.com/kimchi-jjigae/)
-
 Lb kimchi, ¼ cup brine  
-½ lb pork belly, marinate in rice wine, black pepper \- cook  
+½ lb pork belly, marinate in rice wine, black pepper - cook  
 1 onion, shitake  
 t Salt, 2t sugar, 2t hot pepper flakes, T gochujang, t sesame oil  
 2 cups stock, dashi  
@@ -6332,17 +5482,15 @@ rice
 - **Ingredients:** 1 lb ground chicken, 1/2 cup panko, 2 tbsp gochujang, garlic to taste, kosher salt to taste, gouda cheese to taste, 6 slices bacon, 1.5 cups chopped kimchi, 2 tbsp brown sugar, burger buns to taste, mayonnaise to taste, greens to taste, cucumber slices to taste, red sweet potato with yellow flesh to taste, butter to taste, miso to taste, scallion to taste
 
 ### Blueprint
-# [Kimchi bacon chicken burgers](https://pinchofyum.com/gochujang-chicken-burgers-with-kimchi-bacon-jam)
-
 Mix 1 lb ground chicken, ½ cup panko, 2T gochujang, garlic, kosher salt  
-4 patties \- cook to 165, flipping.  Maybe add gouda cheese
+4 patties - cook to 165, flipping.  Maybe add gouda cheese
 
 Chop 6 bacon, fry to crispy, drain some fat  
-Add 1.5 cups chopped kimchi \+ 2T brown sugar, 4m
+Add 1.5 cups chopped kimchi + 2T brown sugar, 4m
 
 Toast Buns, mayo, greens, cucumber slices, kimchi jam
 
-Roast red sweet potato w yellow flesh, mix in butter \+ miso \+ scallion.  325 x 90m in foil, rest 15
+Roast red sweet potato w yellow flesh, mix in butter + miso + scallion.  325 x 90m in foil, rest 15
 
 ---
 
@@ -6356,8 +5504,6 @@ Roast red sweet potato w yellow flesh, mix in butter \+ miso \+ scallion.  325 x
 - **Ingredients:** 2 lb ground beef and/or lamb, 1 yellow onion, grated and squeezed, 5 cloves garlic (4 minced for meat, 1 for rice), fresh parsley to taste, 1 1/2 tsp turmeric (divided), 1 tsp sumac, 1 tsp salt (plus more to taste for rice), 1/2 tsp black pepper, optional spices (cardamom, allspice, cumin, paprika, cinnamon, cayenne, coriander, shallot, mint, nutmeg) to taste, cooking oil to taste, tomatoes to taste, peppers to taste, 1 cup rice, chicken broth as needed, butter to taste, red onion to taste, fresh mint to taste
 
 ### Blueprint
-# Kofteh Kabab
-
 2 Lb ground beef and/or lamb, grated and squeezed yellow onion, 4 minced garlic, parsley, t turmeric, t **sumac**, t **salt**, ½ t **pepper**.  Maybe cardamom, **allspice**, **cumin**, **paprika**, **cinnamon**, cayenne, coriander, shallot, mint, nutmeg.   But not all those things.  
 Food processor that.
 
@@ -6384,8 +5530,6 @@ Sautee in butter first before cooking
 - **Ingredients:** 1/3 cup brown sugar, 1/3 cup soy sauce, 1 tbsp ginger, 1 tbsp sesame oil, 1 tsp sriracha, cooking oil, to taste, 3 cloves garlic, 1 lb ground beef, 4 medium zucchini, spiralized, 2 green onions, sliced, sesame seeds, to taste, eggs (for frying), to taste
 
 ### Blueprint
-# [Korean Beef Zoodles](https://damndelicious.net/2017/10/08/korean-beef-zucchini-noodles/)
-
 sauce  
 ⅓ cup brown sugar  
 ⅓ cup soy sauce  
@@ -6415,8 +5559,6 @@ Fried eggs
 - **Ingredients:** 3 Tbsp tomato sauce or ketchup, 2 to 2.5 Tbsp gochujang, 1/4 cup honey, 1/4 cup brown sugar, 2 Tbsp soy sauce, 2 Tbsp minced garlic, 1 Tbsp sesame oil, 1 whole chicken (cut into pieces), 2 Tbsp rice wine, 2 tsp ginger, 1 tsp salt, 1/2 tsp pepper, 1 cup potato starch or cornstarch, Cooking oil for frying (as needed), Sesame seeds (to taste)
 
 ### Blueprint
-# [Korean Fried Chicken](https://mykoreankitchen.com/korean-fried-chicken/)
-
 Sauce  
 3 Tbsp tomato sauce / ketchup  
 2 Tbsp gochujang (Korean chilli paste), add 1/2 Tbsp more to make it spicier  
@@ -6432,7 +5574,7 @@ Cut up a chicken
 Mix in 2T rice wine, 2t ginger, t salt, ½ t pepper  
 Coat in Cup potato/corn starch
 
-Boil some oil, fry 3-5m uncrowded, splatter screen \-\> remove to paper towel plate  
+Boil some oil, fry 3-5m uncrowded, splatter screen -> remove to paper towel plate  
 Remove debris   
 2-3m for 2nd batch 
 
@@ -6450,21 +5592,7 @@ Coat chicken in sauce, sesame seeds
 - **Ingredients:** 4 shiitake mushrooms, sliced, sesame oil, to taste, 1 clove garlic, 1/2 scallion, salt and pepper, to taste
 
 ### Blueprint
-## Korean Mushrooms
-
-Sautee 4 shitake (sliced) in sesame oil, 1 garlic, ½ scallion **3m** s\&p
-
----
-
-## Korean Sauces (`rec_korean_sauces_feb116`)
-- **Type:** side (standard)
-- **Cuisine:** Korean | **Effort:** Low
-- **Seasons:** spring, summer, autumn, winter
-- **Vibe:** savory, umami, spicy
-- **Times (min):** Prep: 10, Cook: 0, Oven: None
-
-### Blueprint
-# Korean Sauces
+Sautee 4 shitake (sliced) in sesame oil, 1 garlic, ½ scallion **3m** s&p
 
 ---
 
@@ -6479,8 +5607,6 @@ Sautee 4 shitake (sliced) in sesame oil, 1 garlic, ½ scallion **3m** s\&p
 - **Ingredients:** 1/2 cup all-purpose flour, 1/2 cup potato starch, 3/4 tsp salt, 1/2 tsp baking powder, 3/4 cup ice water, 1 egg, 1/4 cup chopped kimchi, 3 scallions, chopped, 4 cups shredded mixed vegetables, cooking oil for frying, as needed, salt to taste, 3 tbsp soy sauce, 2 tsp rice wine vinegar, 1 tsp minced ginger or garlic, 1/2 tsp sesame oil, pinch of sugar
 
 ### Blueprint
-# [Korean Scallion Pancake](https://cooking.nytimes.com/recipes/1020550-vegetable-pajeon-korean-scallion-pancakes-with-vegetables)
-
 1. ½ cup flour, ½ cup potato starch, ¾ t salt, ½ t baking powder
 
 2. ¾ cup ice water, egg, ¼ cup chopped kimchi 
@@ -6513,13 +5639,11 @@ Pinch of sugar
 - **Ingredients:** 2 tbsp gochujang, 1 tbsp red pepper flakes, 1.5 tbsp soy sauce, 1 tbsp plus 1 tsp sugar, 1 tbsp minced garlic, 1 tsp grated ginger, 1 tsp sesame seeds, pinch black pepper, squid, cleaned and cut to 3/4-inch rings and 2-inch tentacles, 1/2 onion, sliced, 1/2 zucchini, sliced, 1/2 carrot, sliced, 2 scallions, cut into 2-inch pieces, vegetable oil, as needed, 1 tbsp sesame oil, cooked rice, to taste (for serving)
 
 ### Blueprint
-# [Korean Squid](https://www.koreanbapsang.com/ojingeo-bokkeum-korean-spicy-stir-fried/)
-
 Marinade  
 2T gochujang  
 T red pepper flakes  
 1.5 T soy  
-T \+ t sugar  
+T + t sugar  
 T garlic  
 t ginger  
 t sesame seeds  
@@ -6527,7 +5651,7 @@ Pinch black pepper
 
 Cut squid to ¾” rings and 2” tentacles and marinate
 
-Slice ½ onion, ½ zucchini, ½ carrot, 2 scallions \- 2”
+Slice ½ onion, ½ zucchini, ½ carrot, 2 scallions - 2”
 
 Wok, HIGH veg.oil  
 Carrots then onions, then zucc, then scallions (2 minutes)  
@@ -6550,14 +5674,12 @@ Serve over rice
 - **Ingredients:** 1.5 lb boneless skinless chicken thighs, 3 tbsp soy sauce, 2 tbsp brown sugar, 2 tbsp sesame oil, 1 tbsp chili garlic sauce, 2 cloves garlic, 1 tsp ginger, 1.5 cups jasmine rice, 1.5 cups coconut milk, 1.2 cups coconut water, 0.25 tsp salt, 1.5 tbsp coconut oil, 2 tbsp coconut, avocado to taste, cabbage to taste, carrots to taste, green onions to taste, sesame seeds to taste, lime to taste
 
 ### Blueprint
-# [Korean chicken bowl](https://www.howsweeteats.com/2019/03/korean-chicken-with-coconut-rice/)
-
-Marinate 1.5 lb boneless skinless chicken thighs 30m \- 24hr in  
+Marinate 1.5 lb boneless skinless chicken thighs 30m - 24hr in  
 3T soy, 2T brown sugar, 2T sesame oil, T chili garlic sauce, 2 garlic, t ginger
 
 Broil **7m** flip **7m** or **30m@425**
 
-Coconut rice \-   
+Coconut rice -   
 1.5 cups jasmine rice  
 1.5 cups coconut milk  
 1.2 cup coconut water  
@@ -6582,8 +5704,6 @@ Bowl \= rice, avo, cabbage, carrots, green onions, sesame seeds, lime
 - **Ingredients:** 1 cucumber (about 1 1/2 cups sliced), 1 Tbsp soy sauce, 2 Tbsp rice vinegar, 1 Tbsp sugar, 1/2 tsp Korean red chili powder, 1/4 tsp sesame seeds, 2 green onions, chopped
 
 ### Blueprint
-## [Korean cucumber](https://kimchimari.com/korean-cucumber-salad/)
-
 1 cucumber (Japanese, English, Persian, Pickling are all good) – about 1 1/2 cup sliced for 1 cucumber  
 1 Tbsp soy sauce (Jin Ganjang)  
 2 Tbsp rice vinegar  
@@ -6605,8 +5725,6 @@ Bowl \= rice, avo, cabbage, carrots, green onions, sesame seeds, lime
 - **Ingredients:** eggplant, cut into 2-inch pieces, 1 scallion, 1 clove garlic, 1.5 tbsp soy sauce, 2 tsp sesame oil, 0.25 tsp sugar, 0.5 tsp chili flakes, 1 tsp sesame seeds, black pepper to taste
 
 ### Blueprint
-## [Korean eggplant](https://www.koreanbapsang.com/gaji-namul-steamed-eggplant-side-dish/)
-
 2” pieces  
 Steam 3m  
 Mix with 1 Scallion, 1 garlic, 1.5T soy, 2t sesame, ¼ t sugar, ½ t chili flakes, t sesame seeds, black pepper
@@ -6624,15 +5742,13 @@ Mix with 1 Scallion, 1 garlic, 1.5T soy, 2t sesame, ¼ t sugar, ½ t chili flake
 - **Ingredients:** 3 lb short ribs, 1/2 cup water, 1 Asian pear, 1/2 onion, 6 tbsp soy sauce, 2 tbsp brown sugar, 2 tbsp honey, 2 tbsp mirin, 1 tbsp garlic, 1 tsp sesame oil, 5 whole peppercorns, 8 oz carrots, 7 oz daikon, 18 oz baby potatoes, Sesame seeds to taste, Rice to taste
 
 ### Blueprint
-# [Korean short ribs](https://mykoreankitchen.com/instant-pot-short-ribs/)
-
 Rinse 3lb ribs   
 Boil for 7m, rinse
 
 Blend sauce  
 ½ cup water, asian pear, ½ onion. 6T soy, 2T brown sugar, 2T honey, 2T mirin, T garlic, t sesame oil, 5 whole peppercorns
 
-Instant pot ribs & sauce 35m \+ 15m
+Instant pot ribs & sauce 35m + 15m
 
 Remove ribs, cover   
 Sautee 8 oz carrots, 7oz daikon, 18 oz baby potatoes 20m in the sauce  
@@ -6642,7 +5758,7 @@ rice
 
 ---
 
-## Lamb Chop \+ Root veg (`rec_lamb_chop_root_veg_f58ad6`)
+## Lamb Chop + Root veg (`rec_lamb_chop_root_veg_f58ad6`)
 - **Type:** main (standard)
 - **Cuisine:** Mediterranean | **Effort:** Medium
 - **Seasons:** autumn, winter
@@ -6653,8 +5769,6 @@ rice
 - **Ingredients:** 8 lamb loin chops, salt to taste, 1 acorn squash, 1 head garlic, 1/3 cup olive oil, 1 tbsp ground allspice, 2 tsp black pepper, 1/2 tbsp paprika, 1 tsp ground nutmeg, 3 tbsp white wine vinegar, sweet potato to taste, red onion to taste, carrots to taste, honey to taste
 
 ### Blueprint
-# [Lamb Chop \+ Root veg](https://www.themediterraneandish.com/mediterranean-baked-lamb-chops-root-vegetables/)
-
 Oven to 400, salt 8 lamb loin chops  
 Microwave squash 1m, so you can cut it  
 Head Garlic, ⅓ cup o.o., T allspice, 2t pepper, ½ T paprika, t nutmeg, 3T white wine vinegar  
@@ -6677,8 +5791,6 @@ Drizzle honey, wait 10m
 - **Ingredients:** 1 yellow onion, 5 cloves garlic, 1 tsp allspice, 1/2 tsp nutmeg, 1/2 tsp cardamom, 1 cup parsley, 1/2 cup olive oil, Juice and zest of 1 lemon, 1.5 lb lamb leg, cut into 1-inch cubes, Salt, to taste, Black pepper, to taste
 
 ### Blueprint
-# [Lamb Kebab](https://www.themediterraneandish.com/lamb-kabobs/)
-
 Food processor:  
 yellow onion  
 5 garlic  
@@ -6687,9 +5799,9 @@ t allspice
 1/2 t cardamom  
 cup parsley  
 1/2 cup o.o.  
-juice \+ zest 1 lemon
+juice + zest 1 lemon
 
-s\&p 1.5 lb lamb leg into 1" cube, s\&p
+s&p 1.5 lb lamb leg into 1" cube, s&p
 
 marinade room temp 30m
 
@@ -6710,14 +5822,12 @@ grill high (7m)
 - **Ingredients:** 1/4 red onion, sliced, 1/2 cup boiling water, 2 tbsp white vinegar, Cooking oil, to taste, 1/2 red onion, diced, 3 cloves garlic, minced, 4 tbsp lemongrass, minced, 1 tsp chili flakes, 1 lb ground lamb, Salt and pepper, to taste, 2 cups cucumber, sliced, 3 radishes, sliced, 3 scallions, sliced, 1/2 cup fresh cilantro, chopped, 1 fresh chili, sliced, 1/2 cup fresh basil, chopped, 1/2 cup fresh mint, chopped, 2 tbsp fish sauce, 4 tbsp lime juice, 1 tbsp sugar, Lettuce leaves, for wraps
 
 ### Blueprint
-# [Lamb Larb](https://www.feastingathome.com/larb/) salad
-
-Slice ¼ red onion, add ½ cup boiling water \+ 2T white vinegar \-\> fridge
+Slice ¼ red onion, add ½ cup boiling water + 2T white vinegar -> fridge
 
 Skillet M heat, oil,   
 ½ red diced onion **4m**  
 3 Garlic, 4T lemongrass,  t chili flakes, **2m**  
-Lb ground lamb, s\&p, **10m**, strain fat
+Lb ground lamb, s&p, **10m**, strain fat
 
 2 cups Cucumber, 3 radish, 3 scallion, ½ cup cilantro, 1 chili, ½ cup basil, ½ cup mint,   
 Meat, pickled onions  
@@ -6738,9 +5848,7 @@ Lettuce wraps
 - **Ingredients:** lamb loin chops, thyme to taste, 5 cloves garlic, salt and pepper to taste, cooking oil to taste, 1.5 tbsp water, 1 tbsp lemon juice, fresh parsley to taste, red pepper flakes to taste
 
 ### Blueprint
-# [Lamb Loin Chops](https://www.foodandwine.com/recipes/lamb-chops-sizzled-garlic)
-
-Skillet MH, thyme, 5 garlic, s\&p, oil, pound chops, **3m** flip, **2m**, remove  
+Skillet MH, thyme, 5 garlic, s&p, oil, pound chops, **3m** flip, **2m**, remove  
 1.5T water, T lemon, parsley, red pepper, **1m**
 
 Potatoes, spinach
@@ -6758,11 +5866,9 @@ Potatoes, spinach
 - **Ingredients:** 1/2 cup greek yogurt, 2 tbsp tahini, 2 tbsp lemon juice, 3 cloves garlic, 1 3/4 tsp kosher salt, 3/4 tsp black pepper, 1.5 lb ground lamb, 3/4 cup chopped toasted pine nuts, 2 tbsp za'atar, 2 tbsp pomegranate molasses, 1 head romaine lettuce, 2 persian cucumbers, 1/3 cup red onion, 1.5 tbsp olive oil
 
 ### Blueprint
-# [Lamb Sliders](https://www.foodandwine.com/recipes/lamb-sliders-with-yogurt-tahini-sauce)
-
 Sauce: ½ cup greek yogurt, 2T tahini, T lemon juice, 1 garlic, and ¼ t kosher salt
 
-patties : 1.5 lb ground lamb, ¾ cup chopped toasted pine nuts, 2T za’atar, 2 garlic, t kosher salt, ½ t pepper \-\> 8 ½” thick patties
+patties : 1.5 lb ground lamb, ¾ cup chopped toasted pine nuts, 2T za’atar, 2 garlic, t kosher salt, ½ t pepper -> 8 ½” thick patties
 
 Grill MH, covered to 125 (3-4m / side).  Brush with 2T pomegranate molasses last 2 minutes
 
@@ -6780,8 +5886,6 @@ Salad: romaine lettuce head, 2 persian cucumber, ⅓ cup red onion, 1.5T o.o, T 
 - **Ingredients:** cooking oil, 1 chopped onion, 1/2 lb ground lamb, 2/3 cup bulgur, 3/4 tsp red pepper flakes, 1.5 tsp salt, 1/2 tsp black pepper, 2 tsp paprika, 28 oz canned tomatoes, 2 cups water, 14.5 oz can cannellini beans, 5 oz baby spinach, oregano to taste, 3.5 oz feta cheese, plus extra for garnish
 
 ### Blueprint
-# [Lamb and Bulgur Stew w. White Beans](https://www.marthastewart.com/971876/lamb-and-bulgur-stew-white-beans)
-
 MH pot, oil  
 Chopped Onion, ½ lb ground lamb, ⅔ cup bulgur, ¾ t red pepper flakes, 1.5 t salt, ½ t pepper **5m**  
 2t Paprika, **30s**  
@@ -6802,17 +5906,15 @@ Fresh feta and oregano
 - **Ingredients:** 1 onion, diced, cooking oil, to taste, 5 cloves garlic, crushed, 1 handful cilantro, 1/2 lb ground beef, 2 tsp Lebanese spice mix (sumac, allspice, cinnamon, ginger, nutmeg, cloves, fennel, cardamom, bay leaf), 1/2 tsp black pepper, 2 tsp salt, 1.5 lb spinach, 1 cup chicken broth, lemon juice, to taste, 1/4 cup pine nuts
 
 ### Blueprint
-# [Lebanese Spinach Stew](https://zaatarandzaytoun.com/spinach-stew/)
-
-saute onion in oil \- golden  
-5 garlic \- crushed \- **1m**  
-handful cilantro \- **2m**
+saute onion in oil - golden  
+5 garlic - crushed - **1m**  
+handful cilantro - **2m**
 
 brown 1/2 lb ground beef   
-2t spices (sumac, allspice, cinammon, ginger, nutmeg, cloves, fennel/cardamom/bay leaf), 1/2t pepper, t salt \- **7m**  
-1.5 lb lb spinach \- **5m**
+2t spices (sumac, allspice, cinammon, ginger, nutmeg, cloves, fennel/cardamom/bay leaf), 1/2t pepper, t salt - **7m**  
+1.5 lb lb spinach - **5m**
 
-1c chicken broth, boil, t salt, ML heat, cover \- **10m**  
+1c chicken broth, boil, t salt, ML heat, cover - **10m**  
 lemon
 
 toast 1/4 cup pine nuts,
@@ -6830,8 +5932,6 @@ toast 1/4 cup pine nuts,
 - **Ingredients:** 5 lb leg of lamb, 15 garlic cloves, peeled, 2 tbsp dried oregano, 2 tbsp dried mint flakes, 1 tbsp paprika, ½ tbsp ground nutmeg, ½ cup olive oil, 2 lemons, juice of, 8 gold potatoes, wedged, 1 yellow onion, wedged, 1 tsp paprika, 1 tsp garlic powder, 2 cups water, salt to taste, black pepper to taste
 
 ### Blueprint
-# [Leg of Lamb](https://www.themediterraneandish.com/mediterranean-style-leg-of-lamb-recipe-with-potatoes/)
-
 20m per pound @ 325, 130-135, rest 15m
 
 Trim fat
@@ -6846,7 +5946,7 @@ Rub for 5lb
 * ½ cup olive oil (I used Private Reserve Greek extra virgin olive oil)  
 * 2 lemons, juice of
 
-S\&P on lamb, SLITs  
+S&P on lamb, SLITs  
 Sear (broil) 5m per side  
 Insert 5 garlic  
 Apply rub  
@@ -6876,14 +5976,12 @@ Potatoes are going to need an hour, so put those in first if half leg
 - **Ingredients:** 1 lb split chicken breast, flour, for dusting, salt and black pepper, to taste, 1/2 yellow onion, diced, 3 cloves garlic, olive oil, as needed, 1 cup orzo, 2 cups chicken stock, oregano, to taste, mushrooms, optional, to taste, spinach, to taste, lemon zest, to taste
 
 ### Blueprint
-# [Lemon chicken & orzo](https://firstandfull.com/one-pot-lemon-chicken-and-orzo/)
-
 [Also though](https://www.simplyrecipes.com/recipes/one_pot_chicken_and_orzo/)  
-Chop lb of split chicken breast, s\&p, flour, skin down 8m, flip, 6m, remove 
+Chop lb of split chicken breast, s&p, flour, skin down 8m, flip, 6m, remove 
 
-Add diced ½ yellow onion \+ 3garlic \+ o.o.  
+Add diced ½ yellow onion + 3garlic + o.o.  
 Cup of orzo, toast 3m  
-2 cup chicken stock, stirring, s\&p, oregano, maybe mushrooms  
+2 cup chicken stock, stirring, s&p, oregano, maybe mushrooms  
 Add back chicken skin up, cover, simmer 15m?   
 add spinach, lemon zest
 
@@ -6900,11 +5998,9 @@ add spinach, lemon zest
 - **Ingredients:** juice of 1 lemon, 1/4 cup olive oil, 5 cloves garlic, 1/4 cup parsley (plus extra for garnish), oregano to taste, red pepper flakes to taste, basil to taste, rosemary to taste, marjoram to taste, thyme to taste, 4 chicken breasts, salt and pepper to taste, oil for skillet to taste
 
 ### Blueprint
-# [Lemon garlic Chicken](https://www.themediterraneandish.com/lemon-garlic-chicken/)
+juice one lemon + 1/4 cup olive oil + 5 garlic + 1/4 cup parsley + oregano, red pepper flakes, basil, rosemary, marjoram, thyme...
 
-juice one lemon \+ 1/4 cup olive oil \+ 5 garlic \+ 1/4 cup parsley \+ oregano, red pepper flakes, basil, rosemary, marjoram, thyme...
-
-butterfly 4 chicken breasts, s\&p.  marinate an hour
+butterfly 4 chicken breasts, s&p.  marinate an hour
 
 oil skillet M heat, 4m/side, tent & rest 5m  
 parsley
@@ -6921,8 +6017,6 @@ parsley
 - **Ingredients:** pork belly, sliced, green beans, lemongrass basil simmer sauce, rice, eggs, lime
 
 ### Blueprint
-# Lemongrass Basil Pork Belly
-
 cook green beans  
 Brown the pork belly  
 Add simmer sauce
@@ -6945,15 +6039,13 @@ lime
 - **Ingredients:** 4 butterflied chicken breasts, salt to taste, pepper to taste, olive oil as needed, 4 cloves garlic, 1 shallot, juice of 1 lemon, 1 cup chicken broth, 2 tbsp butter, 1/3 cup cream, parsley to taste, couscous for serving, mushrooms for serving, spinach for serving
 
 ### Blueprint
-# [Lemony Chicken](https://seasonandthyme.com/chicken-in-lemon-shallot-sauce/)
-
-Season 4 butterflied chicken breasts S\&P  
+Season 4 butterflied chicken breasts S&P  
 O.O. M-H **5m/side** remove (won’t be cooked)  
 4 garlic, 1 shallot, **3m**  
 Juice of 1 lemon, deglaze  
 Cup chicken broth  
 2T Butter & ⅓ cup cream, **1m**   (¼ cup milk, 3T butter)  
-Return chicken & Oven \- **20m @ 350**  
+Return chicken & Oven - **20m @ 350**  
 Serve on top of couscous with mushrooms & spinach  
 Add parsley
 
@@ -6970,60 +6062,18 @@ Add parsley
 - **Ingredients:** 8 oz linguini, 2 tbsp olive oil, 3 cloves garlic, 1/4 tsp red pepper flakes, 1/4 tsp oregano, 1/4 cup dry vermouth, 10 oz can clams with juice, salt to taste, pepper to taste, 1 tbsp butter, 1 tsp lemon zest, 1/4 cup parsley, pasta water as needed
 
 ### Blueprint
-# [Linguini & Clams](https://cooking.nytimes.com/recipes/1020498-linguine-with-clam-sauce)
-
 cook 8 oz linguini
 
-2T o.o. \- medium  
+2T o.o. - medium  
 3 Garlic  
 ¼  t Red pepper flakes  
 ¼  t Oregano  
 **2m**
 
 ¼ cup dry vermouth **4m**  
-10 oz can clams \+ juice **2m** s\&p
+10 oz can clams + juice **2m** s&p
 
-Add linguini \+ T butter \+ t lemon zest \+ ¼ cup parsley \+ pasta water as needed
-
----
-
-## Lion’s Head Meatballs (`rec_lion_s_head_meatballs_63e524`)
-- **Type:** main (standard)
-- **Cuisine:** Chinese | **Effort:** Medium-High
-- **Seasons:** winter, autumn
-- **Vibe:** savory, umami, rich, comforting
-- **Dietary:** dairy-free
-- **Times (min):** Prep: 25, Cook: 20, Oven: None
-- **Source:** Judy (https://thewoksoflife.com/lions-head-meatballs/)
-- **Ingredients:** 1 lb fatty ground pork, 3 inches fresh ginger, divided, 3 scallions, divided, 1 egg, 3 tbsp breadcrumbs, 2 tbsp Shaoxing wine, divided, 2 1/2 tbsp light soy sauce, divided, 2 tbsp oyster sauce, divided, 1/2 tsp white pepper, 1/4 tsp five-spice powder, 2 1/2 tsp cornstarch, divided, 1 3/4 cups plus 1 tbsp water, divided, 3.5 oz water chestnuts, 1 tbsp brown sugar, 1/4 tsp dark soy sauce, Baby bok choy, to taste, 1/4 tsp sesame oil, Cooking oil for frying and blanching, as needed
-
-### Blueprint
-## [Lion’s Head Meatballs](https://thewoksoflife.com/lions-head-meatballs/)
-
-Lb fatty ground pork, 1” ginger, 1 scallion, 1 egg, 3T breadcrumbs, T shaoxing wine, T lt soy sauce, T oyster sauce, ½ t white pepper, ¼ t 5 spice, 1 ½ t cornstarch, ¼ cup water
-
-Whip for 10 minutes in same direction \-\> paste
-
-Smash & mince 3.5 oz water chestnuts, add in, mix 5 more minutes
-
-Make 8 (wealth) or 9 (longevity) meatballs, deep fry in oil **2m**
-
-Sauce  
-T oil wok low  
-2” Ginger, 2 white scallion 1m  
-T brown Sugar \-\> dissolve  
-T shaoxing wine, 1 ½ T ly soy, ¼ t dark soy, T oyster sauce, 1 ½ cup water  
-Stir to boil
-
-Add fried meatballs, cover and cook **12-15m** ML heat, flipping halfway through
-
-Remove balls
-
-Blanch baby bok choy 30 sec with a little oil in the water, arrange plate of meatballs on bok choy
-
-Mix slurry of t cornstarch, T water \-\> add to sauce, thicken until it coats a spoon  
-Add ¼ t sesame oil, green parts of the 2 scallions, wilt slightly  
-Drizzle over meatballs
+Add linguini + T butter + t lemon zest + ¼ cup parsley + pasta water as needed
 
 ---
 
@@ -7038,11 +6088,9 @@ Drizzle over meatballs
 - **Ingredients:** 1 lb fatty ground pork, 3 inches fresh ginger, divided, 3 scallions, divided, 1 egg, 3 tbsp breadcrumbs, 3.5 oz water chestnuts, 2 tbsp Shaoxing wine, divided, 2 1/2 tbsp light soy sauce, divided, 1/4 tsp dark soy sauce, 2 tbsp oyster sauce, divided, 1/2 tsp white pepper, 1/4 tsp Chinese five-spice powder, 2 1/2 tsp cornstarch, divided, 1 tbsp brown sugar, 1/4 tsp sesame oil, Cooking oil for deep-frying and sauteing, 1 3/4 cups plus 1 tbsp water, divided
 
 ### Blueprint
-## [Lion’s Head Meatballs](https://thewoksoflife.com/lions-head-meatballs/)
-
 Lb fatty ground pork, 1” ginger, 1 scallion, 1 egg, 3T breadcrumbs, T shaoxing wine, T lt soy sauce, T oyster sauce, ½ t white pepper, ¼ t 5 spice, 1 ½ t cornstarch, ¼ cup water
 
-Whip for 10 minutes in same direction \-\> paste
+Whip for 10 minutes in same direction -> paste
 
 Smash & mince 3.5 oz water chestnuts, add in, mix 5 more minutes
 
@@ -7051,7 +6099,7 @@ Make 8 (wealth) or 9 (longevity) meatballs, deep fry in oil **2m**
 Sauce  
 T oil wok low  
 2” Ginger, 2 white scallion 1m  
-T brown Sugar \-\> dissolve  
+T brown Sugar -> dissolve  
 T shaoxing wine, 1 ½ T ly soy, ¼ t dark soy, T oyster sauce, 1 ½ cup water  
 Stir to boil
 
@@ -7061,7 +6109,7 @@ Remove balls
 
 ~~Blanch baby bok choy 30 sec with a little oil in the water, arrange plate of meatballs on bok choy~~
 
-Mix slurry of t cornstarch, T water \-\> add to sauce, thicken until it coats a spoon  
+Mix slurry of t cornstarch, T water -> add to sauce, thicken until it coats a spoon  
 Add ¼ t sesame oil, green parts of the 2 scallions, wilt slightly  
 Drizzle over meatballs
 
@@ -7077,9 +6125,7 @@ Drizzle over meatballs
 - **Ingredients:** 1 lb cooked lobster meat, 1/2 cup mayonnaise, 2 tbsp lemon juice, 1 tbsp fresh tarragon, 1 tbsp fresh chives, 1/2 tsp salt, 1/4 tsp black pepper, 6 slices bacon, 4 potato rolls, butter lettuce, to taste, tomatoes, to taste
 
 ### Blueprint
-# [Lobster BLT](https://www.foodandwine.com/recipes/lobster-blts-potato-rolls)
-
-Lb lobster \+ ½ cup Mayo \+ 2T lemon juice \+T fresh tarragon \+ T fresh chives  \+ ½ t S & ¼ t P  
+Lb lobster + ½ cup Mayo + 2T lemon juice +T fresh tarragon + T fresh chives  + ½ t S & ¼ t P  
 CHILL **30m-4 hours**
 
 Crisp 6 bacon, 12-15m, brush 4 potato rolls with bacon grease and toast 2m
@@ -7099,13 +6145,11 @@ Butter lettuce, tomatoes
 - **Ingredients:** 1 onion, chopped, 1 lb ground lamb, 1 tsp curry powder, 1/2 tsp ground cinnamon, 1 tsp salt (plus more for boiling water), 1/2 tsp cayenne pepper, 2 tbsp tomato paste, 1 lb green beans, cut into 1/2-inch pieces, 2.5 cups rice, 6 tbsp vegetable oil, divided, potato slices (1/2-inch thick), as needed, bloomed saffron (or safflower/turmeric/paprika), to taste, water, as needed
 
 ### Blueprint
-# [Lubia Polo](https://www.unicornsinthekitchen.com/lubia-polo-persian-green-bean-rice/)
-
 Saute onion  
 Add Lb ground lamb & brown  
 Add t curry, ½ t cinnamon, t salt, ½ t cayenne, 5m  
 Add 2T tomato paste, ½ cup water, lb green beans cut ½”.  Mix well  
-Simmer, cover, 20m \- watch if need to add water
+Simmer, cover, 20m - watch if need to add water
 
 (prepare salad and refrigerate now)
 
@@ -7133,15 +6177,13 @@ Flip\!
 - **Ingredients:** 16 oz elbow macaroni, Chicken broth (to cook pasta), Butter (for dish and pasta coating, to taste), 1 cup half and half (or evaporated milk), 1 cup heavy cream, 2 eggs, 8 oz sharp cheddar cheese, shredded (divided), 8 oz Monterey Jack cheese, shredded (divided), 8 oz mozzarella cheese, shredded, 8 oz American cheese or Velveeta, 4 oz cream cheese or mascarpone, 1 tsp garlic powder, 1 tsp onion powder, 1/2 tsp mustard powder, 1 tsp paprika (plus extra for topping), Cayenne pepper, to taste, 1 tsp Cajun seasoning, 1/4 tsp ground nutmeg, Salt, to taste, Black pepper (plus extra for topping, to taste)
 
 ### Blueprint
-## [Mac](https://www.sweetteaandthyme.com/southern-baked-macaroni-cheese-soul-food/#mv-creation-212-jtr) & [Cheese](https://cheneetoday.com/soul-food-baked-mac-and-cheese/)
-
 375  
 Butter a baking dish
 
 cook 16 oz elbow macaroni short of al dente (or 2 minutes past done?)- in chicken broth. coat in butter  
 cup half and half (or evaporated milk), cup heavy cream, 2 eggs  
 shred 4 oz sharp cheddar, 4 oz jack, 8 oz mozz, 8 oz american/velveeta, 4 oz cream cheese / mascarpone  
-t garlic pwder, t onion powder, 1/2 t mustard powder, t paprika, cayenne, (t cajun), 1/4 t nutmeg, s(not much)\&p  
+t garlic pwder, t onion powder, 1/2 t mustard powder, t paprika, cayenne, (t cajun), 1/4 t nutmeg, s(not much)&p  
 mix together 
 
 top with 4 more oz cheddar, 4 more oz jack, paprika, pepper
@@ -7161,8 +6203,6 @@ bake 35 m, broil 2m, cool 10m
 - **Ingredients:** ½ lb elbow macaroni, ½ cup grated carrots, ½ cup grated sweet onion, 2 tbsp apple cider vinegar, 2 scallions, ½ cup milk, plus more before serving, 1 cup mayonnaise, 2 tsp sugar, ½ tsp salt, ½ tsp black pepper
 
 ### Blueprint
-## [Mac salad](https://nutfreewok.com/macaroni-salad/)
-
 Boil ½ lb elbow mac like 2x the time  
 Grate ½ cup carrots, ½ cup sweet onion  
 Drain pasta, add 2T apple cider vinegar  
@@ -7173,74 +6213,6 @@ Add milk right before serving
 
 ---
 
-## Magic Green Beans (`rec_magic_green_beans_53effe`)
-- **Type:** side (vegetable)
-- **Cuisine:** Asian-American | **Effort:** Low
-- **Seasons:** spring, summer
-- **Vibe:** savory, umami, tangy, spicy, nutty
-- **Dietary:** dairy-free, gluten-free
-- **Times (min):** Prep: 10, Cook: 8, Oven: None
-- **Source:**  (https://stephanieizard.com/recipes/magic_beans/?fbclid=IwAR1ZfQQKVXNxW2NJq5NTHeem9lRQykdHI4IDdI2NIo4sDIS_LmAa-_W0VrE)
-- **Ingredients:** 2 Tbsp fresh lemon juice, 2 ½ Tbsp fish sauce, 1 Tbsp tamari soy sauce, 1 ½ tsp Dijon mustard, 1 ½ tsp sriracha hot sauce, 1 clove garlic, rough chopped, 2 Tbsp rice bran oil, 1 cup mayonnaise, cooking oil, to taste, ½ cup shallot, green beans, to taste, ½ cup cashews, salt, to taste
-
-### Blueprint
-## [Magic Green Beans](https://stephanieizard.com/recipes/magic_beans/?fbclid=IwAR1ZfQQKVXNxW2NJq5NTHeem9lRQykdHI4IDdI2NIo4sDIS_LmAa-_W0VrE)
-
-green bean dressing  
-2 Tbsp Fresh Lemon Juice     
-2 ½ Tbsp Fish Sauce       
-1 Tbsp Tamari Soy  
-1 ½ tsp Dijon  
-1 ½ tsp Sriracha Hot Sauce  
-1 clove Garlic, rough chopped  
-2 Tbsp Rice Bran Oil
-
-aioli:  
-⅓ cup dressing  
-1 cup mayo
-
-Oil, ½ cup shallot, green beans, the rest of the dressing, let steam  
-Add ½ cup cashews, salt  
-Serve with aoli
-
----
-
-## Magic Green Beans (`rec_magic_green_beans_baaa12`)
-- **Type:** side (vegetable)
-- **Cuisine:** Fusion | **Effort:** Medium
-- **Seasons:** autumn, summer, spring
-- **Vibe:** savory, umami, tangy, spicy, crunchy
-- **Dietary:** dairy-free, gluten-free
-- **Times (min):** Prep: 15, Cook: 10, Oven: None
-- **Source:**  (https://stephanieizard.com/recipes/magic_beans/?fbclid=IwAR1ZfQQKVXNxW2NJq5NTHeem9lRQykdHI4IDdI2NIo4sDIS_LmAa-_W0VrE)
-- **Ingredients:** 2 Tbsp fresh lemon juice, 2 1/2 Tbsp fish sauce, 1 Tbsp tamari soy sauce, 1 1/2 tsp Dijon mustard, 1 1/2 tsp sriracha hot sauce, 1 clove garlic, rough chopped, 2 Tbsp rice bran oil (plus extra for skillet), 1 cup mayonnaise, 1 lb green beans, 1/2 cup shallot, 1/2 cup cashews, salt to taste
-
-### Blueprint
-## [Magic Green Beans](https://stephanieizard.com/recipes/magic_beans/?fbclid=IwAR1ZfQQKVXNxW2NJq5NTHeem9lRQykdHI4IDdI2NIo4sDIS_LmAa-_W0VrE)
-
-green bean dressing
-
-* 2 Tbsp Fresh Lemon Juice     
-* 2 ½ Tbsp Fish Sauce       
-* 1 Tbsp Tamari Soy  
-* 1 ½ tsp Dijon  
-* 1 ½ tsp Sriracha Hot Sauce  
-* 1 clove Garlic, rough chopped  
-* 2 Tbsp Rice Bran Oil
-
-aioli:
-
-* ⅓ cup dressing  
-* 1 cup mayo
-
-Blanch lb green beans  
-Oil, skillet, ½ cup shallot, green beans,  
-Add the rest of the dressing, let steam  
-Add ½ cup cashews, salt  
-Serve with aoli
-
----
-
 ## Magic Green Beans (`rec_magic_green_beans_74b835`)
 - **Type:** side (vegetable)
 - **Cuisine:** Asian Fusion | **Effort:** Medium
@@ -7248,12 +6220,10 @@ Serve with aoli
 - **Vibe:** umami, savory, tangy, spicy, nutty
 - **Dietary:** dairy-free
 - **Times (min):** Prep: 15, Cook: 8, Oven: None
-- **Source:**  (https://stephanieizard.com/recipes/magic_beans/?fbclid=IwAR1ZfQQKVXNxW2NJq5NTHeem9lRQykdHI4IDdI2NIo4sDIS_LmAa-_W0VrE)
+- **Source:** Stephanie Izard (https://stephanieizard.com/recipes/magic_beans/?fbclid=IwAR1ZfQQKVXNxW2NJq5NTHeem9lRQykdHI4IDdI2NIo4sDIS_LmAa-_W0VrE)
 - **Ingredients:** 2 Tbsp fresh lemon juice, 2 ½ Tbsp fish sauce, 1 Tbsp tamari soy sauce, 1 ½ tsp Dijon mustard, 1 ½ tsp Sriracha hot sauce, 1 clove garlic, rough chopped, 2 Tbsp rice bran oil, 1 cup mayonnaise, 1 lb green beans, cooking oil, to taste, ½ cup shallot, sliced, ½ cup cashews, salt to taste
 
 ### Blueprint
-## [Magic Green Beans](https://stephanieizard.com/recipes/magic_beans/?fbclid=IwAR1ZfQQKVXNxW2NJq5NTHeem9lRQykdHI4IDdI2NIo4sDIS_LmAa-_W0VrE)
-
 green bean dressing 
 
 * 2 Tbsp Fresh Lemon Juice     
@@ -7288,8 +6258,6 @@ Serve with aoli
 - **Ingredients:** 1 lb pork tenderloin, cut into 1/2-inch slices, 1 tbsp ground cumin, 1 tbsp kosher salt, 1 lime, zested and juiced, 1 garlic clove, minced, 1 tsp black pepper, 2 tsp minced ginger, divided, 2 tbsp coconut oil, divided, 1/4 tsp mustard seeds, 1 cup red onion slices, 1 chile pepper, sliced, 2 mangos, sliced, 1 cup hot water, 8 oz vermicelli noodles, scallions, to taste
 
 ### Blueprint
-# [Mango Pork](https://www.foodandwine.com/recipes/spicy-mango-pork-noodles)
-
 Lb Pork tenderloin, 1/2” slices  
 T Cumin  
 T kosher Salt  
@@ -7300,13 +6268,13 @@ t ginger
 Cover and chill **30m**
 
 Heat T coconut oil on H  
-Brown pork, **4-5m/side** \-\> plate
+Brown pork, **4-5m/side** -> plate
 
 Wipe skillet  
 M heat  
-¼ t mustard seeds  \+ T coconut oil @ **30 s**econds (no stir)  
-Cup Red onion slices \+ chile pepper slices @ **5m**  
-2 Mangos, sliced \+ t ginger @ **6m** \-\> plate
+¼ t mustard seeds  + T coconut oil @ **30 s**econds (no stir)  
+Cup Red onion slices + chile pepper slices @ **5m**  
+2 Mangos, sliced + t ginger @ **6m** -> plate
 
 Add 1 cup mango mix, 1 cup hot water, simmer & smash **3m**  
 Return remaining mango & pork to coat and heat
@@ -7327,14 +6295,12 @@ scallions
 - **Ingredients:** 1/2 red onion, sliced, 1 tbsp red wine vinegar, 1/2 cup vinegar (optional for pickling brine), 1/2 cup water (optional for pickling brine), 1 1/3 tbsp sugar (optional for pickling brine), 1 1/2 tbsp salt (optional for pickling brine), peppercorns to taste (optional for pickling brine), 1 tbsp red wine vinegar (for dressing), 1 tbsp lime juice, 2 tbsp oil, 2 mangoes, diced, 2 avocados, diced, 1 cucumber, diced, salt and pepper to taste
 
 ### Blueprint
-# [Mango Salad](https://thegoodheartedwoman.com/caribbean-mango-salad/)
-
 Pickle, ½ sliced red onion in T red wine vinegar for **an hour**  
-Maybe boil ½ cup vinegar with ½ cup water with  4/3 T sugar & 3/2 T salt \+ peppercorns
+Maybe boil ½ cup vinegar with ½ cup water with  4/3 T sugar & 3/2 T salt + peppercorns
 
 T red wine vinegar, T lime juice, whisk in 2T oil  
 2 mangoes, 2 avocado, 1 cucumber diced  
-S\&P
+S&P
 
 ---
 
@@ -7349,16 +6315,14 @@ S\&P
 - **Ingredients:** 4 (7 oz) pork chops, salt to taste, olive oil to taste, 8 oz mushrooms, 1/4 cup maple syrup, 1.5 tbsp wholegrain dijon mustard, 1/4 cup cream, 2 tbsp water, 1 apple, matchsticked, 1/2 lb green beans, 1/2 bunch fresh parsley, juice of 1/2 lemon
 
 ### Blueprint
-# [Maple Mustard Pork Chops](https://www.delicious.com.au/recipes/maple-mustard-pork-cutlets-apple-salad/4a952d33-7bd9-4978-914e-4259b81303bb?current_section=recipes)
-
 Salt 4 7oz pork chops   
 Skillet olive oil MH  
 **2m / side**  
-M \- add 8 oz mushrooms  
-pour 1/4 cup maple syrup on pork, turn, **4m** \-\> plate  
-1.5 T wholegrain dijon, ¼ cup cream, 2T water \-\> just heated through
+M - add 8 oz mushrooms  
+pour 1/4 cup maple syrup on pork, turn, **4m** -> plate  
+1.5 T wholegrain dijon, ¼ cup cream, 2T water -> just heated through
 
-Salad \-   
+Salad -   
 1 apple, matchsticked  
 ½ lb green beans, blanched  
 ½ bunch parsley  
@@ -7377,8 +6341,6 @@ Juice of ½ lemon, olive oil
 - **Ingredients:** 12 chicken drumsticks, 1/2 cup maple syrup, 4 tbsp sherry vinegar, 5.5 tbsp olive oil, 1/2 red onion, thinly sliced, 1/2 tsp salt, 1 tbsp Dijon mustard, 2 tsp paprika, 1 can lentils, 1 cup peas, 1/4 head cabbage, sliced, mint to taste, parsley to taste
 
 ### Blueprint
-# [Maple Sherry drumsticks](https://www.delicious.com.au/recipes/maple-sherry-vinegar-chicken-drumsticks-lentil-cabbage-salad/vxe1h4xd)
-
 Make 3 2” cuts on each of 12 drumsticks  
 Marinate **15m** in ½ cup maple syrup, 2T sherry vinegar, 2T o.o.
 
@@ -7386,7 +6348,7 @@ Roast **50m** @ 430, basting every 10m
 Boil juices for 3m, set aside  
 Cover chicken to rest **10m**
 
-Thin sliced red onion, 2T sherry vinegar, ½ t salt \-\> **5m**  
+Thin sliced red onion, 2T sherry vinegar, ½ t salt -> **5m**  
 Dressing: Drain vinegar, mix with T dijon, 3.5T o.o., 2t paprika  
 Can lentils, cup peas, ¼ cabbage sliced, mint & parsley
 
@@ -7405,14 +6367,12 @@ Brush chicken with syrupy juices
 - **Ingredients:** 1 lb tofu, pressed and cut into 1-inch cubes, 1/4 cup maple syrup, 2 tsp ginger, 1/4 tsp chile powder, 3 tbsp olive oil, 2 lb butternut squash, cut into 1-inch cubes, Salt, to taste, Black pepper, to taste, Sage, to taste, 1/2 tsp sherry vinegar (plus extra to finish, to taste), 2 tsp soy sauce, Cilantro, to taste, Scallions, to taste
 
 ### Blueprint
-# [Maple Tofu & Squash](https://parade.com/842114/alisonashton/maple-roasted-tofu-with-winter-squash/)
-
 425  
 1lb 1” tofu, pressed
 
-¼ cup maple syrup. 2t ginger, 1/4t chile powder \-\> simmer **3m**, add 3T olive oil  
+¼ cup maple syrup. 2t ginger, 1/4t chile powder -> simmer **3m**, add 3T olive oil  
 On baking tray: 2lb 1” butternut squash salt, pepper, sage, half the syrup mix   
-**45m \-** toss occasionally
+**45m -** toss occasionally
 
 Add ½ t sherry vinegar, 2t soy to syrup  
 Salt tofu, coat with ½ syrup, roast **20m,** turn, brush with other ½, **20m more**  
@@ -7430,8 +6390,6 @@ Add cilantro, scallions, sherry vinegar
 - **Ingredients:** 2 blocks soft tofu, pressed and cut into 1-inch cubes, 1/2 lb ground pork, 3 cloves garlic, 1 tbsp minced ginger, 2 scallions, whites and greens separated, 1 tbsp ground Sichuan peppercorns, Thai chili peppers, to taste, 2 tbsp doubanjiang, 1 cup chicken broth, 1 tbsp soy sauce, 1 tsp sugar, 1 tbsp cornstarch, 2 tbsp water, toasted sesame oil, to taste, cooked rice, for serving
 
 ### Blueprint
-# Mapo tofu
-
 Press and 1” cube 2 blocks soft tofu
 
 Brown ½ lb pork  
@@ -7445,17 +6403,6 @@ Rice, scallion greens
 
 ---
 
-## March (`rec_march_f54b1d`)
-- **Type:** main (standard)
-- **Cuisine:** N/A | **Effort:** Low
-- **Seasons:** spring
-- **Times (min):** Prep: None, Cook: None, Oven: None
-
-### Blueprint
-# March
-
----
-
 ## Margarita (`rec_margarita_430e8c`)
 - **Type:** side (appetizer)
 - **Cuisine:** Mexican | **Effort:** Low
@@ -7466,13 +6413,11 @@ Rice, scallion greens
 - **Ingredients:** 2 parts tequila, 1 part lime juice, 1 part orange juice or orange liqueur, ice, chili pepper to taste, salt to taste, lime slice for garnish, agave (optional, to taste), 1 part red juice (optional), chili powder (optional, to taste)
 
 ### Blueprint
-## Margarita
-
-2 tequila, 1 lime, 1 orange juice (liqueur) \- shake with ice  
+2 tequila, 1 lime, 1 orange juice (liqueur) - shake with ice  
 Rub rim with chili pepper & salt  
 Garnish with lime slice and chili pepper slice
 
-Optional \- agave, 1 red juice, chili powder
+Optional - agave, 1 red juice, chili powder
 
 ---
 
@@ -7487,10 +6432,8 @@ Optional \- agave, 1 red juice, chili powder
 - **Ingredients:** 1 lb baby potatoes, oil as needed, 1 tsp cumin, 1.5 tbsp coriander, 1 tsp chili powder, 1 tsp turmeric, salt to taste
 
 ### Blueprint
-## [Masalay Potato Fry](https://www.yellowthyme.com/masala-baby-potato-fry/) 
-
 boil salt water, peel lb baby potatoes (or dont), until fork tender.  Dry (or just microwave 4m)  
-stir fry with a little oil \+ spices (t cumin, 1.5T coriander, t chili, t turmeric, salt) 10m
+stir fry with a little oil + spices (t cumin, 1.5T coriander, t chili, t turmeric, salt) 10m
 
 ---
 
@@ -7505,8 +6448,6 @@ stir fry with a little oil \+ spices (t cumin, 1.5T coriander, t chili, t turmer
 - **Ingredients:** 1 tbsp garam masala, 1 tsp brown sugar, 2 tbsp red curry paste, 1 lb steak, jasmine rice, scallions, cooking oil, 3/4 cup water, 8 oz snap peas, trimmed and cut in half, salt to taste
 
 ### Blueprint
-# [Massaman Steak](https://www.marthastewart.com/1528574/curried-steak-scallion-rice-and-peas)
-
 Add T garam masala, t brown sugar to 2T red curry  
 Rub 1lb steak with 1T curry mix
 
@@ -7522,16 +6463,6 @@ Slice steak, serve over rice with peas, green scallions, curry sauce
 
 ---
 
-## May (`rec_may_958bde`)
-- **Type:** main (standard)
-- **Cuisine:** N/A | **Effort:** Low
-- **Times (min):** Prep: None, Cook: None, Oven: None
-
-### Blueprint
-# May
-
----
-
 ## Mayak Gyeran (`rec_mayak_gyeran_746c01`)
 - **Type:** side (appetizer)
 - **Cuisine:** Korean | **Effort:** Medium
@@ -7542,9 +6473,7 @@ Slice steak, serve over rice with peas, green scallions, curry sauce
 - **Ingredients:** 10 eggs, 1 cup soy sauce, 1 cup kelp / radish stock, 1/2 cup sugar or honey, 2 scallions, 1/2 onion, 2 jalapenos, 3 cloves garlic, 1 tbsp sesame seeds, sesame oil to taste, green pepper to taste (optional), vinegar to taste (optional)
 
 ### Blueprint
-# Mayak Gyeran
-
-10 SOFT BOILED EGGS \- low pressure 1m \+ 1m. or high pressure 1m \+ 30sec
+10 SOFT BOILED EGGS - low pressure 1m + 1m. or high pressure 1m + 30sec
 
 cup soy  
 cup kelp / radish stock \!\!\!\!  (boil kelp/radish 20m, cool)  
@@ -7556,7 +6485,7 @@ cup kelp / radish stock \!\!\!\!  (boil kelp/radish 20m, cool)
 T sesame seeds  
 sesame oil
 
-optional \- green pepper, vinegar
+optional - green pepper, vinegar
 
 marinate 2+ hours.  serve with rice
 
@@ -7572,17 +6501,15 @@ marinate 2+ hours.  serve with rice
 - **Ingredients:** olive oil to taste, onion to taste, salt to taste, 8 cloves garlic, crushed red pepper to taste, anchovy paste to taste, 1 lb ground beef, mushrooms to taste, 2 bay leaves, 2 tbsp oregano, 3/4 cup wine, 2 large cans crushed tomatoes, 1/3 cup tomato paste, fresh basil to taste, water or sweetener to taste
 
 ### Blueprint
-# Meat Sauce
-
-Olive oil, onion, salt \- carmelize a bit  
+Olive oil, onion, salt - carmelize a bit  
 8 garlic, crushed red pepper, anchovy paste  
-Lb ground beef \+ salt \-\> brown to crisp  
+Lb ground beef + salt -> brown to crisp  
 mushrooms  
 2 Bay leaves, 2T Oregano  
 Wine (¾ cup?)  
 Boil & scrape  
 2 big cans crushed tomatoes, ⅓ cup tomato paste,  fresh basil, salt  
-Simmer uncovered for many hours \- add water or sweet as needed
+Simmer uncovered for many hours - add water or sweet as needed
 
 ---
 
@@ -7596,11 +6523,9 @@ Simmer uncovered for many hours \- add water or sweet as needed
 - **Ingredients:** 1 lb 73% ground beef, mushrooms, to taste, onion, to taste, 3 cloves garlic, 1 tbsp tomato paste, 24 oz tomato sauce, oregano, to taste, basil, to taste, salt, to taste, pepper, to taste, chili flakes, to taste
 
 ### Blueprint
-# Meat Sauce
-
 Brown 1lb 73% beef  
 Drain grease mostly  
-Season oregano, basil, s\&p as necessary, chili flakes  
+Season oregano, basil, s&p as necessary, chili flakes  
 Mushrooms 5m  
 Sautee onion 5m, 3 garlic, T tomato paste, 1m  
 24 oz tomato sauce  
@@ -7618,8 +6543,6 @@ Cover and simmer 20m
 - **Ingredients:** 1 lb ground beef, 1 lb ground pork, 2 eggs, 1/2 cup pecorino romano, 3 tbsp italian parsley, 4 cloves minced garlic, 1 tbsp kosher salt, black pepper to taste, 1/2 tsp nutmeg, 1 tsp oregano, 1 tsp fennel, 1 shallot, grated, 1 cup bread crumbs, 1/2 cup buttermilk
 
 ### Blueprint
-# [Meatballs](https://food52.com/recipes/22467-rao-s-meatballs)
-
 Lb beef  
 Lb pork  
 2 eggs  
@@ -7631,16 +6554,16 @@ Pepper
 ½ t Nutmeg  
 t Oregano  
 t fennel  
-Shallot \- grated
+Shallot - grated
 
-Careful with breadcrumbs and milk \- to get texture right
+Careful with breadcrumbs and milk - to get texture right
 
 Mix in 1 cups bread crumbs  
 Add buttermilk, 1/2 cup
 
 3” balls
 
-Fry \-\> brown, flip, fry-\> brown  
+Fry -> brown, flip, fry-> brown  
 Cook in sauce 15m
 
 ---
@@ -7655,12 +6578,10 @@ Cook in sauce 15m
 - **Ingredients:** 1/2 cup couscous or quinoa, 2 yellow onions, divided, 1/4 cup parmesan cheese, plus more for serving, 1 large egg, 4 cloves garlic, divided, 2 1/4 tsp salt, divided, 3/4 tsp black pepper, divided, 1 lb 80% ground beef, 1/4 cup plus 2 tsp cooking oil, divided, 1 bay leaf, 28 oz canned tomatoes, 1 1/2 cups broth, divided, 1 sweet potato, peeled and cut into 1-inch pieces
 
 ### Blueprint
-# [Meatballs & Sweet Potato](https://www.foodandwine.com/recipes/beef-and-fonio-meatballs-with-sweet-potato-stew)
-
 Food processor 30s  
 ½ cup couscous/quinoa, cup onion, oz(¼ c) parmesan, egg, 2 garlic, 1 ½ t salt, ½ t pepper  
 Add to bowl with 1 lb 80% ground beef, cup onions  
-Make 16 meatballs \-\> parchment paper, cover, **8 hrs** in fridge
+Make 16 meatballs -> parchment paper, cover, **8 hrs** in fridge
 
 Skillet M, ¼ cup oil, bay leaf, 2 garlic, rest of 2 yellow onions **15-20m**  
 28 oz Tomatoes, cup broth, ¾ t salt, ¼ t pepper, **15-20m**  
@@ -7671,7 +6592,7 @@ Peeled 1” cut Sweet potato, ½ c broth ML cover, **20m**
 2t oil, skillet MH, meatballs **10m**, turning to brown
 
 —  
-Add meatballs to stew, uncovered ML, **5-10m**, s\&p, parm
+Add meatballs to stew, uncovered ML, **5-10m**, s&p, parm
 
 ---
 
@@ -7684,8 +6605,6 @@ Add meatballs to stew, uncovered ML, **5-10m**, s\&p, parm
 - **Ingredients:** 1 lb ground chuck, 1/2 lb ground pork, 1/2 lb ground veal, 2 eggs, 1/2 tsp thyme, 1 tsp salt, 1/2 tsp pepper, 2 tsp Dijon mustard, 2 tsp Worcestershire sauce, 1/4 tsp hot sauce, 1/2 cup milk, 1 1/3 cups breadcrumbs or 2/3 cup crushed saltines, 1/3 cup chopped parsley, 2 cloves garlic, 1 onion, 2 tsp oil, 1/2 cup ketchup, 1/4 cup brown sugar, 4 tsp cider or white vinegar, bacon to taste
 
 ### Blueprint
-# Meatloaf
-
 Lb chuck, ½ lb pork, ½ lb veal  
 2 eggs  
 ½ t thyme, t salt, ½ t pepper, 2 t dijon, 2 t worcestershire, ¼ t hot sauce, ½ cup milk, 1 ⅓ cup bread crumbs or ⅔ cup saltines, ⅓ cup parsley, 2 garlic, 1 onion, 2 t oil
@@ -7694,7 +6613,7 @@ glaze : ½ cup ketchup, ¼ cup brown sugar, 4 t cider/white vinegar
 
 Loaf, ½ glaze, bacon, 
 
-350 for 1 hour \-\> 160, rest 20m
+350 for 1 hour -> 160, rest 20m
 
 ---
 
@@ -7709,8 +6628,6 @@ Loaf, ½ glaze, bacon,
 - **Ingredients:** 2 lb Yukon Gold potatoes, peeled and sliced into 1-inch coins, 4 tbsp butter, 2 tsp fresh thyme or rosemary, 1 tsp kosher salt, 1/2 tsp black pepper, 1 cup stock, 4 cloves garlic, smashed
 
 ### Blueprint
-# [Melting Potatoes](https://www.realsimple.com/food-recipes/cooking-tips-techniques/melting-potatoes)
-
 2lb yukon golds, peeled and sliced to 1” coins  
 4T butter, 2t fresh thyme or rosemary, t kosher salt, ½ t pepper  
 Bake at 500 for 15, flip, 15 more  
@@ -7730,8 +6647,6 @@ Add cup stock, 4 smashed garlic cloves
 - **Ingredients:** 2 lbs stew meat, 1 onion, 6 cloves garlic, 1 tsp chili powder, 1 tbsp cumin, 2 tsp salt, 2 tsp oregano, 1/2 cup beef stock, 1/4 cup apple cider vinegar, 2 tbsp honey, 2 tbsp worcestershire sauce, 3 chipotle peppers in adobo, 1 lime
 
 ### Blueprint
-# [Mexican Instant Pot Shredded Beef](https://biteswithbri.com/instant-pot-shredded-beef/)
-
 Brown 2 lbs stew meat  
 Onion, 6 garlic, t chili, T cumin, 2t salt, 2t oregano,   
 Deglaze with ½ cup beef stock, scrape  
@@ -7752,12 +6667,27 @@ Shred
 - **Ingredients:** 1.5 cups rice, 1/4 onion, 1 clove garlic, 1/4 cup tomato sauce, salt to taste, 2 tsp tomato bouillon, carrot to taste, 1.5 cups water, peas to taste
 
 ### Blueprint
-## [Mexican Rice](https://tastesbetterfromscratch.com/instant-pot-mexican-rice/)
-
 Toast 1.5c rice 5m  
 Sautee ¼ onion, 1 garlic, ¼ c tomato sauce, salt, 2t tomato bouillon, carrot  
-Add 1.5c water, 4m \+ 10m  
+Add 1.5c water, 4m + 10m  
 Peas
+
+---
+
+## Mexican Sides (`rec_sides_c09746`)
+- **Type:** side (standard)
+- **Cuisine:** Mexican | **Effort:** Medium
+- **Seasons:** spring, summer
+- **Vibe:** tangy, bright, smoky, zesty, fresh
+- **Dietary:** vegetarian, gluten-free
+- **Times (min):** Prep: 30, Cook: 25, Oven: 7
+- **Ingredients:** Corn, to taste, Black beans, to taste, Red onion, to taste, Cilantro, to taste, Lime, to taste, Cotija cheese, to taste, Jalapenos, to taste, 1/2 cup lime juice, 1/4 cup white vinegar, 1 tsp salt, 1/2 tsp oregano, 1 habanero, Tomatillos, to taste, Garlic, to taste, 2 tbsp lime juice, Rice, to taste, Saffron, to taste, Butter, to taste, Pine nuts, to taste, Pomegranate seeds, to taste, Salt, to taste
+
+### Blueprint
+Charred corn & black bean salad, red onion, cilantro, lime, cotija, jalapeno  
+Pickled red onion - ½ cup lime, ¼ cup white vinegar, t salt, ½ t oregano, 1 habanero  
+Salsa verde - tomatillos, jalapenos, onion, garlic. Broil 4m flip 3m. Blend w. 2T lime, cilantro, salt  
+Rice -  Saffron, onion, butter, salt. Pine nuts & pomegranates
 
 ---
 
@@ -7771,8 +6701,6 @@ Peas
 - **Ingredients:** olive oil to taste, 1 onion, 2 carrots, 3 celery ribs, garlic to taste, pancetta to taste, 1 potato, 1.5 cups butternut squash, 1 tomato, bay leaf to taste, rosemary to taste, salt to taste, broth to taste, 1 can beans, spinach to taste, pasta to taste, parmesan cheese to taste
 
 ### Blueprint
-# [Minestrone](https://www.italianrecipebook.com/minestrone-soup/)
-
 Sautee O.o., onion, 2 carrots, 3 celery, garlic, pancetta  
 1 Potato, 1.5 cup butternut squash, 1 tomato  
 Bay leaf, rosemary, salt  
@@ -7780,7 +6708,7 @@ Broth, simmer **40m**
 
 1 can beans, **15m**
 
-Spinach, Pasta \- **10m**
+Spinach, Pasta - **10m**
 
 parm
 
@@ -7797,8 +6725,6 @@ parm
 - **Ingredients:** 3/4 lb salmon filets, 2 tbsp miso, 1 tbsp sake, 1 tbsp mirin, 1 tbsp soy sauce, 1/4 tsp sesame oil
 
 ### Blueprint
-# [Miso Salmon](https://www.justonecookbook.com/miso-salmon/)
-
 2T miso  
 T sake  
 T mirin  
@@ -7822,15 +6748,13 @@ if fat, bake 425 for 18m (then broil 3m)
 - **Ingredients:** 3 lb beef chuck roast, salt, to taste, black pepper, to taste, cooking oil, to taste, 1.5 cups beef broth, 1 packet ranch dressing mix, 1/2 cup sliced pepperoncini, 2 tablespoons butter
 
 ### Blueprint
-# [Mississippi Pot Roast](https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-mississippi-pot-roast-8352003)
-
-3lb chuck, dry, s\&p  
+3lb chuck, dry, s&p  
 Instant pot, hot oil, sautee, **6m** / side  
 1.5 c beef broth, scrape  
 Ranch dressing packet  
 ½ cup sliced pepperoncini on top  
 2T butter at least  
-**55m \+ 10m**  
+**55m + 10m**  
 shred
 
 Mashed potatoes
@@ -7848,8 +6772,6 @@ Mashed potatoes
 - **Ingredients:** 1 lb chicken thighs, cut into bite-sized pieces, 1 carrot, chopped, 8 oz mushrooms, sliced, 2 cups snow peas, 1 can bamboo shoots, 1 can water chestnuts, 2 cloves garlic, minced, 1 inch fresh ginger, minced, cooking oil, as needed, 3/4 cup chicken stock, divided, 1.5 tbsp soy sauce, 1 tbsp sherry, 1 tbsp cornstarch, cooked rice, to taste for serving
 
 ### Blueprint
-# [Moo Goo Gai Pan](https://www.noshtastic.com/pressure-cooker-moo-goo-gai-pan/)
-
 Cut up 1lb chicken thighs  
 Chop 1 carrot, 8 oz mushrooms, 2cup snow peas,   
 Can bamboo shoots, can water chestnuts  
@@ -7857,7 +6779,7 @@ Can bamboo shoots, can water chestnuts
 
 Instant pot medium sautee, oil, cut up 1lb chicken thighs chicken 1m  
 ½ cup chicken stock  
-Cook 1m on high \+ 7m  
+Cook 1m on high + 7m  
 Add 2 garlic, 1” ginger **1m** sautee  
 add ¼ cup chicken broth, 1.5 T soy sauce, T sherry, T cornstarch  
 Add 8oz mushrooms, 1 carrot, **2m** sautee  
@@ -7878,9 +6800,7 @@ rice
 - **Ingredients:** 1 red onion, thinly sliced, 3 carrots, halved crosswise and quartered lengthwise, olive oil, to taste, 2 tsp pumpkin pie spice, ground cumin, to taste, ground turmeric, to taste, 1 inch fresh ginger, chopped, 1/2 tsp salt, 3 cups water, 1 can chickpeas, optional, 1 cup couscous, 3 cups cooked chicken breast, 1/3 cup golden raisins, 1 tbsp honey, 2 tbsp sliced almonds
 
 ### Blueprint
-# [Moroccan Chicken](https://www.foodnetwork.com/recipes/food-network-kitchen/moroccan-chicken-with-couscous-3364833)
-
-Sautee red onion thin sliced \+ 3 carrots halved crosswise and quartered lengthwise, 4m  
+Sautee red onion thin sliced + 3 carrots halved crosswise and quartered lengthwise, 4m  
 2t Pumpkin pie spice, cumin, turmeric, 1” ginger chopped, ½ t salt  
 3 cups water, simmer, (can chickpeas?) cover 8m
 
@@ -7900,8 +6820,6 @@ Make cup couscous
 - **Ingredients:** 1.5 lb chicken thighs, 1/2 lb carrots, sliced, 1/2 lb brussels sprouts, halved, 1 onion, cut into wedges, 3 tbsp olive oil, 1 1/2 tsp ground cumin, 1 tsp salt, 1 tsp ground turmeric, 1 tsp ground ginger, 1 tsp paprika, 1/2 tsp black pepper, 1/4 tsp ground cinnamon, 1/4 tsp ground nutmeg
 
 ### Blueprint
-# [Moroccan Chicken & veg](https://wholeandheavenlyoven.com/2017/12/20/moroccan-chicken-thighs-carrots-brussels-sprouts/)
-
 Spice rub
 
 * 1/2 teaspoon black pepper  
@@ -7931,12 +6849,10 @@ Spice rub
 - **Ingredients:** 2.5 tbsp pine nuts, olive oil to taste, 7 oz sliced mushrooms, 1/2 onion, chopped, 2 cloves garlic, 5 oz spinach, salt and pepper to taste, 7 oz pasta, parmesan to taste, paprika to taste
 
 ### Blueprint
-# [Mushroom Pasta](https://biancazapatka.com/en/vegan-mushroom-pasta-with-spinach/)
-
 Toat 2.5T pine nuts, set aside  
 O.o. 7 oz sliced mushrooms, ½ chopped onion, **3m**  
 2 garlic, **30s**  
-5 oz spinach, **3m,** s\&p  
+5 oz spinach, **3m,** s&p  
 7 oz pasta, a little of the water maybe  
 Pine nuts, parmesan, paprika
 
@@ -7952,16 +6868,14 @@ Pine nuts, parmesan, paprika
 - **Ingredients:** 4-6 cups stock, 1 lb chanterelle mushrooms, 2 sliced leeks, salt and pepper to taste, thyme to taste, 2 cloves garlic, 1.5 cups risotto rice, 1/2 cup white wine, butter to taste, parmesan to taste
 
 ### Blueprint
-# Mushroom leek Risotto
-
 warm 4-6 cups stock, (water down the fake stuff)
 
-sautee lb chanterelle, 2 sliced leeks, s\&p, thyme, 2 garlic. Remove. reserve some mushrooms for topping  
+sautee lb chanterelle, 2 sliced leeks, s&p, thyme, 2 garlic. Remove. reserve some mushrooms for topping  
 Toast 1.5 cups risotto in there  
 Deglaze 1/2 cup white wine  
 add stock, 1/2 cup at a time, and absorb (takes 20 minutes\!)  
 cook to al dente. Return veg.  
-butter & parm, s\&p
+butter & parm, s&p
 
 ---
 
@@ -7976,15 +6890,13 @@ butter & parm, s\&p
 - **Ingredients:** 1.5 lb pork tenderloin, Dijon mustard, to taste, 1/2 cup panko breadcrumbs, 2 tsp thyme, 3 tbsp olive oil, divided, 1 lb brussels sprouts, halved, salt and pepper, to taste
 
 ### Blueprint
-# [Mustard Pork Tenderloin](https://www.delish.com/cooking/recipe-ideas/recipes/a44548/roasted-pork-tenderloin-dijon-herb-breadcrumbs-brussels-sprouts-recipe/)
-
 Baking sheet  
-s\&p 1.5 lb pork tenderloin, rub with dijon  
-Cover in ½ c panko, 2t thyme, s\&p  
+s&p 1.5 lb pork tenderloin, rub with dijon  
+Cover in ½ c panko, 2t thyme, s&p  
 Drizzle 1T o.o.
 
 Baking sheet,   
-Lb halved brussels, 2T o.o., s\&p
+Lb halved brussels, 2T o.o., s&p
 
 20m @ 400
 
@@ -8001,9 +6913,7 @@ Rest 5m, slice, dijon
 - **Ingredients:** tortilla chips, to taste, cheese, to taste, ground beef, to taste, taco seasoning, to taste, refried beans, to taste, sour cream, to taste, guacamole, to taste, salsa, to taste, jalapenos, to taste, red onion, to taste
 
 ### Blueprint
-## Nachos
-
-Toast chips / melt cheese \-\> 350 x 5 minutes  
+Toast chips / melt cheese -> 350 x 5 minutes  
 Ground beef (taco seasoning)  
 Refried beans  
 Sour cream  
@@ -8025,45 +6935,21 @@ Red onion
 - **Ingredients:** 3 red bell peppers, 1 can tomatoes, 2 red onions, 3 hot peppers, garlic, to taste, ginger, to taste, water, as needed, 2 lb beef, 1 tsp oregano, 2 tsp chicken bouillon, cooking oil, as needed for frying, 1/2 tsp curry powder, 1/2 tsp thyme, 1 tsp salt, plantains, as needed, salt, to taste
 
 ### Blueprint
-# [Nigerian Beef Stew](https://www.myactivekitchen.com/nigerian-beef-stew-african-stew/)
-
 Ata Lilo (pepper sauce)  
-3 red bell peppers \- cut in half roast pocket down 450 for 20m, peel  
+3 red bell peppers - cut in half roast pocket down 450 for 20m, peel  
 can tomatoes  
 1 red onion  
 3 hot pepper  
 garlic, ginger  
 blend with water
 
-boil 2lb beef with red onion, t oregano, 2t chicken bouillon \- 20m.  remove beef  
+boil 2lb beef with red onion, t oregano, 2t chicken bouillon - 20m.  remove beef  
 fry beef in oil, medium heat, remove  
 fry pepper mix in that oil, 10m covered.    
 1/2 t curry, 1/2 t thyme, t salt  
 Return beef, cook low 15m
 
 fry plantains, 5m/side, salt
-
----
-
-## November (`rec_november_cf673b`)
-- **Type:** main (standard)
-- **Cuisine:** N/A | **Effort:** Low
-- **Seasons:** autumn
-- **Times (min):** Prep: None, Cook: None, Oven: None
-
-### Blueprint
-# November
-
----
-
-## October (`rec_october_9e5fe8`)
-- **Type:** main (standard)
-- **Cuisine:** N/A | **Effort:** Low
-- **Seasons:** autumn
-- **Times (min):** Prep: None, Cook: None, Oven: None
-
-### Blueprint
-# October
 
 ---
 
@@ -8078,10 +6964,8 @@ fry plantains, 5m/side, salt
 - **Ingredients:** 1 lb sliced okra, bacon fat, as needed, 1 cup chopped tomatoes, 1/3 cup green onion, chopped, 1/4 cup green pepper, chopped, parsley, to taste, garlic, to taste, 1/4 tsp sugar, salt and pepper, to taste
 
 ### Blueprint
-## [Okra & Tomatoes](https://grandbaby-cakes.com/okra-and-tomatoes/)
-
 Sautee lb sliced okra in bacon fat 5m  
-Cup chopped tomatoes, ⅓ cup green onion, ¼ cup green pepper, parsley, garlic, ¼ t sugar, s\&p  
+Cup chopped tomatoes, ⅓ cup green onion, ¼ cup green pepper, parsley, garlic, ¼ t sugar, s&p  
 Cover and simmer 20m
 
 ---
@@ -8097,19 +6981,17 @@ Cover and simmer 20m
 - **Ingredients:** 3 slices bacon, 1/2 cup chopped ham, 1/2 onion, chopped, spices, to taste, 2 cups frozen okra, 4 cloves garlic, 1 quart chicken stock, 2 cups parboiled rice, salt and pepper, to taste
 
 ### Blueprint
-# [Okra Purloo](https://www.foodandwine.com/okra-purloo-with-bacon-8694469)
-
 cook 10m Med  
 3 slices bacon  
 1/2 cup chopped ham
 
-add 1/2 chopped onion \+ SPICES, 5m   
-add 2 cups frozen okra \- 5m  
+add 1/2 chopped onion + SPICES, 5m   
+add 2 cups frozen okra - 5m  
 4 garlic, 1m  
 remove 
 
 quart chicken stock, boil, scrape  
-2 cups PARBOILED rice, s\&p  
+2 cups PARBOILED rice, s&p  
 boil, cover & simmer 20m
 
 add back okra.ham, 1m
@@ -8127,15 +7009,13 @@ add back okra.ham, 1m
 - **Ingredients:** cauliflower rice, 1/2 tbsp coconut oil, lime (to taste), cilantro (to taste), scallions / green onion (to taste), salt and black pepper (to taste), 1 lb chicken breast, cut into bite-sized chunks, 4 tbsp water, 6 tbsp soy sauce, divided, 2 tbsp cornstarch, divided, 1+ tsp cooking oil, 3/4 cup orange juice, 2 tbsp honey, 1/2 tbsp ginger, 1/2 tsp red pepper flakes, zest of 1 orange, sesame oil (to taste), 1/2 white onion, 3 cloves garlic, 1 red bell pepper, 8 oz green beans, 1/2 cup cashews, sesame seeds (to taste)
 
 ### Blueprint
-# [Orange Chicken](https://www.ambitiouskitchen.com/healthy-orange-chicken-stir-fry/)
-
-Cauliflower rice \- ½ T coconut oil, lime, cilantro, scallions, S\&P
+Cauliflower rice - ½ T coconut oil, lime, cilantro, scallions, S&P
 
 Velvet chicken: cut into chunks, 4T water, 3T soy, 10m.  T Cornstarch, t+ oil, 15m
 
 Sauce: whisk ¾ cup orange juice, 2T honey, 3T soy, ½ T ginger, 1T cornstarch, ½ t red pepper flakes, 1 orange zest
 
-M-H Wok: sesame oil, lb chicken breast \- bite sized, S\&P 5m \-\> REMOVE  
+M-H Wok: sesame oil, lb chicken breast - bite sized, S&P 5m -> REMOVE  
 More sesame oil, ½ white onion 2m  
 3 Garlic, 1 red bell pepper, 8pz green beans, ½ cup cashews 5m  
 Add sauce, STIR  
@@ -8156,13 +7036,11 @@ Serve on rice, sesame seeds, green onion, cilantro
 - **Ingredients:** 2 tbsp butter, 2 tbsp honey, Zest of 1 orange, 3 tbsp orange juice, 1/4 tsp pepper, 2 tsp apple cider vinegar, 1/8 tsp cinnamon, 1/2 tsp thyme, Olive oil to taste, 3 cups butternut squash, 1/2-inch diced, Salt to taste, 1 lb Brussels sprouts, halved, Black pepper to taste, 1/2 cup cranberries, 1/2 cup toasted pecans
 
 ### Blueprint
-## [Orange Honey Brussels](https://www.yummly.com/recipe/Honey-Orange-Glazed-Brussels-Sprouts-with-Butternut-Squash-2531498)
-
 Glaze: 2T butter, 2T honey, sezt one orange, 3T oj, ¼ t pepper, 2t apple cider vinegar, ⅛ t cinnamon, ½ t thyme
 
-Sautee o.o. Medium, 3 cups butternut squash( ½“ dice), salt, 5m no stir, Stir, 5m, stir, 5m (15m total) \-\> bowl  
+Sautee o.o. Medium, 3 cups butternut squash( ½“ dice), salt, 5m no stir, Stir, 5m, stir, 5m (15m total) -> bowl  
 Blanch lb halved brussels, sautee cut down in o.o. 3m, flip & salt, 3m  
-Add back squash, glaze, s\&p  
+Add back squash, glaze, s&p  
 ½ cup Cranberries & ½ cup toasted pecans
 
 ---
@@ -8177,15 +7055,13 @@ Add back squash, glaze, s\&p
 - **Ingredients:** broccoli rabe to taste, 1/2 lb orecchiette pasta, 1/2 lb sausage, 2 cloves garlic, 1/4 cup pasta water, salt and pepper to taste, cheese to taste, red pepper flakes to taste
 
 ### Blueprint
-# [Orechiette](https://www.foodnetwork.com/recipes/food-network-kitchen/orecchiette-with-broccoli-rabe-and-sausage-recipe-2084512)
-
 Blanch broccoli rabe, chill  
 Cook ½ lb pasta  
-Cook ½ lb sausage whole \- 10m  
-Fry 2 garlic in the sausage fat \-\> gold  
-Cook chopped broccoli in the sausage fat / garlic \- 5m  
+Cook ½ lb sausage whole - 10m  
+Fry 2 garlic in the sausage fat -> gold  
+Cook chopped broccoli in the sausage fat / garlic - 5m  
 Slice sausage, throw it in there for 5m  
-mix , with ¼ cup pasta water, s\&p, cheese, red pepper flakes
+mix , with ¼ cup pasta water, s&p, cheese, red pepper flakes
 
 ---
 
@@ -8200,13 +7076,11 @@ mix , with ¼ cup pasta water, s\&p, cheese, red pepper flakes
 - **Ingredients:** orecchiette pasta to taste, capers to taste, oil to taste, garlic to taste, tuna to taste, lemon juice to taste, lemon zest to taste
 
 ### Blueprint
-# [Orechiette & Tuna](https://www.delicious.com.au/recipes/orecchiette-tuna-capers-rocket/1f55adc6-a4e9-4d52-8f03-576c5594ec80?r=recipes/collections/ubw3632e)
-
 Cook pasta  
 Fry capers in oil 2m, remove  
 oil,garlic, tuna  
 Add lemon juice & capers  
-Pasta \+ pasta water  
+Pasta + pasta water  
 Lemon zest
 
 ---
@@ -8222,8 +7096,6 @@ Lemon zest
 - **Ingredients:** chicken thighs to taste, bbq sauce to taste, corn to taste
 
 ### Blueprint
-# [Oven BBQ Chicken](https://www.theendlessmeal.com/baked-bbq-chicken/)
-
 bbq sauce on thighs to marinate a little,   
   skin down, 425 x25m. flip, resauce, 25m.   
   more sauce, broil 3m 
@@ -8243,11 +7115,9 @@ corn
 - **Ingredients:** 7 cubes extra firm tofu, cooking oil, as needed, 2 tbsp red curry paste, 7 kaffir lime leaves, stems removed and thinly sliced, 2 tbsp sugar, 1 tbsp fish sauce, 1/2 cup chicken stock, 1 lb green beans, cut into 1.5-inch pieces, cooked rice, for serving, egg (for frying)
 
 ### Blueprint
-# [Pad Prik King](https://howdoyoufood.com/tofu-pad-prik-king/)
-
 Press 7 cube extra firm tofu  
-Wok, oil, tofu \-\> brown, remove  
-Wok 2T red curry \+ oil \+ 5 kaffir leaves (sliced THIN and no stem), stirring to thicken 1m  
+Wok, oil, tofu -> brown, remove  
+Wok 2T red curry + oil + 5 kaffir leaves (sliced THIN and no stem), stirring to thicken 1m  
 Add 2T sugar, 1T fish sauce, ½ cup chicken stock  
 Add 1 lb 1.5” green beans, cook 5 minutes?  
 Add back tofu and a 2 more lime leaves
@@ -8269,8 +7139,6 @@ Fried egg
 - **Ingredients:** 3 cups (approx. 2 lbs) papaya, mashed, 2 tsp lime juice, 1/2 tsp lime zest, 1/4 tsp ground cinnamon, 1/4 tsp ground allspice, 1/4 tsp ground nutmeg, 1/8 tsp orange extract, 4 tbsp all-purpose flour, 4 tbsp sugar, 4 egg whites, 3-4 tbsp cornstarch, 1 unbaked pie shell
 
 ### Blueprint
-# [Papaya Pie](https://tastetheislandstv.com/antiguan-papaya-pie/)
-
 Mash 3 cups / 2lb papayas
 
 2t lime juice  
@@ -8295,8 +7163,6 @@ Put in shell
 - **Ingredients:** 2 chicken breasts, 8 tbsp butter (divided), 1/2 cup Italian bread crumbs, 1/2 cup plus 1 tbsp parmesan cheese, 1/4 cup flour, 2 cloves garlic, 2 zucchini, salt and pepper to taste
 
 ### Blueprint
-# [Parm Chicken & Zucc](https://therecipecritic.com/crispy-parmesan-garlic-chicken-zucchini/)
-
 Skillet M 2T butter
 
 Slice 2 chicken breasts in half
@@ -8305,9 +7171,9 @@ Dip in:
 Melt 4T butter in bowl  
 ½ cup italian Bread crumbs, ½ cup parm, ¼ cup flour
 
-**4m/side** \-\> plate
+**4m/side** -> plate
 
-2T butter, 2garlic 1m, 2 zucc \-\> tender, s\&p, 1T parm  
+2T butter, 2garlic 1m, 2 zucc -> tender, s&p, 1T parm  
 Reheat chicken 1m
 
 ---
@@ -8323,19 +7189,17 @@ Reheat chicken 1m
 - **Ingredients:** 1/4 onion per 2 people, olive oil to taste, peas, 3 oz per person, hot water as needed, black pepper to taste, ditalini pasta, 1 egg per 2 people, parmesan and pecorino cheese mix, 1 oz per person
 
 ### Blueprint
-# [Pasta Queen pasta & peas](https://www.youtube.com/watch?v=Da96yxNwAO4&t=618s)
-
 Cook ¼ onion in o.o to transparent, not brown  
-Add peas & hot water, pepper \- 15m  
+Add peas & hot water, pepper - 15m  
 Blend (save some whole peas)  
-Cook ditalini in the pea sauce STIRRING \- add hot water as needed  
-Mix 1 egg with parmesan & pecorino \- add to pasta for last minute  
+Cook ditalini in the pea sauce STIRRING - add hot water as needed  
+Mix 1 egg with parmesan & pecorino - add to pasta for last minute  
 pepper
 
-Peas \- 3 oz per person  
-Onion \- ¼ per 2 people  
-Cheese \- 1 oz per person  
-Egg \- 1 egg per 2 people
+Peas - 3 oz per person  
+Onion - ¼ per 2 people  
+Cheese - 1 oz per person  
+Egg - 1 egg per 2 people
 
 ---
 
@@ -8350,19 +7214,17 @@ Egg \- 1 egg per 2 people
 - **Ingredients:** potatoes, cut to bite size, olive oil for deep frying, salt to taste, 1/3 cup olive oil, 1/2 tbsp spicy smoked paprika, 1.5 tbsp sweet paprika, 1.5 tbsp flour, 1 cup chicken broth, 4 cloves garlic, mashed, mayonnaise to taste, lemon juice to taste
 
 ### Blueprint
-# [Patatas Bravas](https://spanishsabores.com/patatas-bravas-recipe-spanish-fried-potatoes-with-spicy-sauce/)
-
 peel potatoes, cut to bite size
 
 deep fry in olive oil, low heat for a few minutes  
 remove & cool in fridge for a few minutes  
-fry HIGH \-\> crispy & golden  
+fry HIGH -> crispy & golden  
 remove to paper towel, salt
 
 Bravas sauce
 
 heat 1/3 cup o.o. M heat  
-stir in 1/2 T smoked paprika (spicy)  \+ 1.5 T sweet paprika \+ 1.5T flour  
+stir in 1/2 T smoked paprika (spicy)  + 1.5 T sweet paprika + 1.5T flour  
 toast for a minute  
 add cup chicken broth GRADUALLY, ML heat  
 reduce to low, 4m  
@@ -8372,6 +7234,24 @@ also aji
 
 4 cloves garlic, mashed  
 mayonnaise, lemon
+
+---
+
+## Peanut Butter Ramen (`rec_peanut_butter_ramen_faab1a`)
+- **Type:** main (pasta)
+- **Cuisine:** Fusion | **Effort:** Low
+- **Seasons:** winter, spring, summer, autumn
+- **Vibe:** nutty, spicy, savory, umami, quick
+- **Dietary:** dairy-free, vegetarian, vegan
+- **Times (min):** Prep: 5, Cook: 5, Oven: None
+- **Source:**  (https://thebbqbuddha.com/how-to-smoke-a-boston-butt-on-the-big-green-egg/)
+- **Ingredients:** 3 tbsp peanut butter, 2 tsp soy sauce, 1.5 tbsp gochujang or sriracha, 1 tbsp toasted sesame oil, 1 pack ramen noodles, 1/3 cup noodle cooking water, peanuts, to taste, scallions, to taste, cilantro, to taste, lime, to taste
+
+### Blueprint
+3T pb, 2t soy, 1.5T gochujang or sriracha, T toasted sesame oil  
+Cook noodles, drain, add ⅓ cup cooking water to sauce  
+Add noodles to sauce - add more water as needed  
+Top with Peanuts, scallions, cilantro, lime
 
 ---
 
@@ -8386,14 +7266,12 @@ mayonnaise, lemon
 - **Ingredients:** 1 lb green beans, 1/2 cup flour, 6 oz beer, 1 egg, salt to taste, nutmeg to taste, oil for frying, pepper to taste, mayo to taste, lemon to taste, garlic to taste
 
 ### Blueprint
-## [Peixinhos de horta](https://wetravelportugal.com/peixinhos-da-horta/)
-
-lb green beans \- blanch  
+lb green beans - blanch  
 batter \= \<1/2 cup flour, 6 oz beer, egg, salt, nutmeg  
 fry beans in oil. 375, a few at a time  
 pepper
 
-mayo \+ lemon \+ garlic
+mayo + lemon + garlic
 
 ---
 
@@ -8407,8 +7285,6 @@ mayo \+ lemon \+ garlic
 - **Ingredients:** 6 oz pancetta, olive oil to taste, 1/2 onion, 1 carrot, 1 celery rib, 1 lb ground beef, kosher salt to taste, 1/2 cup red wine, 1 tbsp tomato paste, 28 oz canned tomatoes, 1 bay leaf, 1 pinch nutmeg, 1 cup boiling stock, 1/2 cup milk
 
 ### Blueprint
-# [Penne Bolognese](https://www.accademiaitalianadellacucina.it/sites/default/files/Rag%C3%B9%20alla%20bolognese%20-%20updated%20recipe_20%20April%202023.pdf)
-
 Sautee 6 oz pancetta in o.o. 7m  
 ½ onion, 1 carrot, 1 celery chopped small 7m  
 lb ground beef, with kosher salt 10m, smashing  
@@ -8429,8 +7305,6 @@ Cup boiling stock, cover, simmer 2 hours   (add ½ cup milk halfway through)
 - **Ingredients:** chicken drumsticks, peri peri sauce
 
 ### Blueprint
-## Peri Peri Chicken
-
 Marinate drumsticks in peri peri sauce **30-60m**  
 grill **35m** or until 165
 
@@ -8446,8 +7320,6 @@ grill **35m** or until 165
 - **Ingredients:** chicken wings, to taste, peri peri marinade, to taste, oil (for grill), to taste
 
 ### Blueprint
-# Peri Peri chicken wings
-
 Marinate at least 30m  
 Oiled Gril 15m, turning on medium
 
@@ -8463,8 +7335,6 @@ Oiled Gril 15m, turning on medium
 - **Ingredients:** chicken quarters, to taste, paprika, to taste, salt, to taste, garlic powder, to taste, cayenne, to taste, oregano, to taste, black pepper, to taste, peas, to taste, mint, to taste, chili, to taste, white onion, to taste, tomatoes, to taste, cucumber, to taste, 3 parts olive oil, 1 part white wine vinegar, fries, to taste
 
 ### Blueprint
-# Peri-Peri Chicken
-
 Marinate chicken quarters. 400 for 50 minutes (to 180 or so), spice (similar to fries)
 
 Peas with mint and chili
@@ -8488,8 +7358,6 @@ Toss fries in paprika, salt, garlic, cayenne, oregano
 - **Ingredients:** 11 lb pork arm picnic roast, 2 heads garlic, 1 yellow onion, 1/4 cup olive oil, 2 tbsp white wine vinegar, 1 tbsp oregano, 2 tsp black pepper, 1 tsp cumin, coriander to taste, 1 tbsp kosher salt
 
 ### Blueprint
-# Pernil
-
 6.5 hour roast for 11 lb
 
 Pork arm picnic roast  
@@ -8517,8 +7385,6 @@ Rice, pigeon peas, plantains,...
 - **Ingredients:** 1 whole chicken, cut into pieces, 3 yukon gold potatoes, quartered, 1 sweet potato, cut into 1-inch pieces, 3 cloves garlic, smashed, 1 onion, quartered, juice and spent halves of 1 lemon, 1/4 cup olive oil, 1 tbsp sumac, 1.2 tsp cumin, 1/2 tsp thyme, 1/4 tsp cinnamon, 1/4 tsp cardamom, 1/2 tsp salt, black pepper, to taste, 2 cups baby spinach, 1/2 cup yogurt, 1/2 cup pomegranate seeds
 
 ### Blueprint
-# [Persian Lemon Chicken](https://www.purewow.com/recipes/sheet-pan-persian-lemon-chicken-recipe)
-
 45m @ 400  
 Sheet pan
 
@@ -8550,16 +7416,14 @@ Throw on 2 cups baby spinach, ½ cup yogurt, ½ cup pomegranate seeds
 - **Ingredients:** 4 chicken leg quarters, 2 tablespoons soy sauce, 2 tablespoons lime juice, 1 tablespoon olive oil, 4 cloves garlic, 1 tablespoon ground cumin, 1 tablespoon paprika, 1 teaspoon dried oregano, 1 teaspoon black pepper, 1 tablespoon kosher salt, 1 teaspoon ground coriander, 1 cup cilantro, 2 jalapenos, 2 cloves garlic, 1/2 cup mayonnaise, 1/4 cup feta cheese, 1 tablespoon lime juice, salt and pepper to taste, green plantains (sliced 1-inch), cooking oil to taste, salt to taste, 1 red onion (sliced), 2 limes (4 tablespoons juice), 1/4 cup cilantro (for onions), 1 tablespoon aji verde or jalapeno, 1/2 teaspoon kosher salt, 1 tablespoon olive oil (for onions), 3 eggs, 1 tablespoon minced ginger, 3 cloves garlic (for rice), scallions (whites and greens separated), 1 red bell pepper, 4 cups cold cooked rice, 4 tablespoons soy sauce (for rice), 1 tablespoon sesame oil, pinch of sugar
 
 ### Blueprint
-# Peruvian Pollo a la Brasa with Aji Verde
-
 Marinade: 2T soy, 2T lime, T o.o., 4 garlic, T cumin, T paprika, t oregano, t pepper, T kosher salt, t coriander  
 4 chicken leg quarters (pierce skin, get it under there).  A few hours to overnight
 
 Wire rack, 425, 50m (looking for 175\)
 
-Sauce: Food processor \- cup cilantro, 2 jalapenos, 2 garlic, ½ cup mayo, ¼ cup feta, T lime, s\&p
+Sauce: Food processor - cup cilantro, 2 jalapenos, 2 garlic, ½ cup mayo, ¼ cup feta, T lime, s&p
 
-Side \- air fried tostones, pickled red onions, fried rice (arroz chaufa)
+Side - air fried tostones, pickled red onions, fried rice (arroz chaufa)
 
 Slice tostones 1”  soak slat water 20m  
 Dry.  oil, salt.  4m/side air fry 350\.  
@@ -8590,10 +7454,8 @@ Return eggs, green scallions, 30 sec
 - **Ingredients:** potatoes (to taste), green beans (to taste), pasta (to taste), pesto (to taste), reserved pasta water (as needed)
 
 ### Blueprint
-# Pesto Pasta
-
 Cube potatoes, chop green beans, boil together with pasta  
-Add pesto \+ pasta water
+Add pesto + pasta water
 
 ---
 
@@ -8608,14 +7470,12 @@ Add pesto \+ pasta water
 - **Ingredients:** 1 lb cherry tomatoes, 3 cloves garlic, minced, green beans, to taste, salmon fillets, to taste, olive oil, to taste, salt and pepper, to taste, pesto, to taste, bread, for serving
 
 ### Blueprint
-# [Pesto Salmon](https://www.purewow.com/recipes/salmon-pesto-blistered-tomatoes)
-
 425, 
 
 parchment paper  
-Lb cherry tomatoes, 3 minced garlic, s\&p, bake 15m  (roast green beans with them)
+Lb cherry tomatoes, 3 minced garlic, s&p, bake 15m  (roast green beans with them)
 
-Parchment paper, salmon, o.o., s\&p 10m, add pesto, 3m more
+Parchment paper, salmon, o.o., s&p 10m, add pesto, 3m more
 
 bread
 
@@ -8631,10 +7491,8 @@ bread
 - **Ingredients:** salmon, pesto to taste, orzo, zucchini, olive oil to taste, salt and black pepper to taste, cherry tomatoes
 
 ### Blueprint
-# Pesto Salmon & Orzo
-
-MH Grill, oiled, Cook salmon 5m, put some pesto on it, 15m more \- covered?, put some more pesto on it  
-Orzo, grill zucchini w o.o. s\&p (3m/side, covered), more pesto, cherry tomatoes
+MH Grill, oiled, Cook salmon 5m, put some pesto on it, 15m more - covered?, put some more pesto on it  
+Orzo, grill zucchini w o.o. s&p (3m/side, covered), more pesto, cherry tomatoes
 
 ---
 
@@ -8648,9 +7506,7 @@ Orzo, grill zucchini w o.o. s\&p (3m/side, covered), more pesto, cherry tomatoes
 - **Ingredients:** zucchini, olive oil to taste, salt to taste, pepper to taste, pesto to taste
 
 ### Blueprint
-## Pesto Zucchini
-
-Slice longways, o.o., s\&p  
+Slice longways, o.o., s&p  
 Grill direct medium heat 4m / flip / 3m  
 pesto
 
@@ -8667,16 +7523,14 @@ pesto
 - **Ingredients:** picanha roast to taste, salt and pepper to taste, 1 bay leaf, 4 cloves garlic, smashed, fresh thyme to taste, fresh rosemary to taste, 1/3 cup olive oil, 1 tbsp white wine vinegar, 2 cloves garlic, 1 tsp salt, 1/2 tsp oregano, 1/2 tsp red pepper flakes, 1 bunch parsley
 
 ### Blueprint
-# [Picanha](https://braziliankitchenabroad.com/picanha-roast/)
-
-Dry, s\&p  
+Dry, s&p  
 Fat down cold skillet, turn to M heat, 9m  
 Add bay leaf, 4 smashed garlic, thyme & rosemary, baste with its own fat, 5m  
 Flip and sear meat side 3m.  
 Fat up in oven dish (without all the rendered fat) 10m at 400 (to 120\)  
 Rest 10m.  Slice & serve
 
-Chimichurri \- ⅓ cup o.o, T white wine vin, 2 garlic,  t salt, ½  t oregano, ½  t red pepper flakes, bunch parsley
+Chimichurri - ⅓ cup o.o, T white wine vin, 2 garlic,  t salt, ½  t oregano, ½  t red pepper flakes, bunch parsley
 
 ---
 
@@ -8691,8 +7545,6 @@ Chimichurri \- ⅓ cup o.o, T white wine vin, 2 garlic,  t salt, ½  t oregano, 
 - **Ingredients:** Sliced cucumber, 1 tbsp chili powder, 1/2 tsp turmeric, 1/4 tbsp sugar, Juice of 1/2 lemon, 1/4 tsp garlic powder, 1/4 tsp onion powder, 1/2 tsp mustard seeds
 
 ### Blueprint
-## [Pickled cucumber](https://www.archanaskitchen.com/instant-cucumber-pickle-recipe) 
-
 Sliced cucumber  
 T chili powder  
 1/2t  turmeric  
@@ -8715,8 +7567,6 @@ Rest **one hour**
 - **Ingredients:** 1 English cucumber, sliced, 1/2 tsp kosher salt, 1/4 tsp sugar, 1/2 cup rice vinegar, 1 clove garlic, fresh ginger, very little / to taste, 1 green onion, chile, a little / to taste
 
 ### Blueprint
-## [Pickled cucumber](https://www.christinascucina.com/okes-korean-cucumber-pickles/)
-
 Also spicy versions of this but…
 
 1 english cuc, sliced  
@@ -8739,10 +7589,8 @@ Refrigerate an hour
 - **Ingredients:** 1 red onion, sliced, garlic, sliced, to taste, 1/2 tsp peppercorns, 1 cup white vinegar, 1 cup water, 1 tbsp salt, 2.5 tbsp sugar
 
 ### Blueprint
-## Pickled onion
-
 slice red onion,  garlic, 1/2 t peppercorns  
-heat M 1m to dissolve \- cup white vinegar, cup water, T salt, 2.5T sugar  
+heat M 1m to dissolve - cup white vinegar, cup water, T salt, 2.5T sugar  
 cool and pour over onions.  **1 HOUR**
 
 ---
@@ -8758,8 +7606,6 @@ cool and pour over onions.  **1 HOUR**
 - **Ingredients:** 1 cup white vinegar, 1 cup sugar, 1 cup water, pinch salt, 1 lb sliced radish
 
 ### Blueprint
-## [Pickled radish](https://mykoreankitchen.com/korean-style-pink-radish-pickles/)
-
 Boil for 3m:  
 Cup white vinegar  
 Cup sugar  
@@ -8780,8 +7626,6 @@ Add pound sliced radish and seal in jar for a few hours, then refrigerate a coup
 - **Ingredients:** 1 red onion, 1 cup white vinegar, 1 cup water, 1/3 cup sugar, salt to taste, peppercorns to taste
 
 ### Blueprint
-## Pickled red onion
-
 Thin slice (mandoline an onion)  
 Heat cup white Vinegar, cup water, ⅓ cup sugar, salt   
 1m  
@@ -8800,8 +7644,6 @@ Cool with peppercorns, An hour or so
 - **Ingredients:** 10 oz pineapple, 2 tsp chili, 2 tbsp lime juice (from 1 lime), 1 tsp brown sugar, pinch of salt
 
 ### Blueprint
-## [Pineapple pickle](https://www.spicebox.co.uk/recipes/instant-pineapple-pickle.html)
-
 10 oz Pineapple  
 2t chili  
 1 lime (2T)  
@@ -8821,9 +7663,7 @@ Rest 30m
 - **Ingredients:** pinto beans, garlic, to taste, onion, to taste, white wine vinegar, to taste, ground cumin, to taste, tomato, to taste, bell pepper, to taste, salt and pepper, to taste, paprika, to taste
 
 ### Blueprint
-### Pinto beans- 
-
-add garlic, onion, w.wine vinegar, cumin, tomato, bell pepper, s\&p, paprika
+add garlic, onion, w.wine vinegar, cumin, tomato, bell pepper, s&p, paprika
 
 ---
 
@@ -8838,8 +7678,6 @@ add garlic, onion, w.wine vinegar, cumin, tomato, bell pepper, s\&p, paprika
 - **Ingredients:** 1 ball pizza dough (for 12-inch pizza), flour for dusting, cornmeal for dusting, pizza sauce to taste, pulled pork to taste, red onion to taste, jalapeños to taste, fresh arugula to taste
 
 ### Blueprint
-## [Pizza](https://www.vindulge.com/grilled-pizza/)
-
 500, indirect (conveggtor, pizza stone)  
 Flour, lay out dough 12”, dust with corn meal  
 Sauce,pulled pork, red onion (jalapenos)  
@@ -8859,18 +7697,16 @@ Slide off, arugula
 - **Ingredients:** 4 cups bread flour (plus extra as needed), 1 tsp sugar, 1 envelope instant dry yeast, 2 tsp kosher salt, 1.5 cups water (110°F), 2 tbsp olive oil (plus extra for greasing)
 
 ### Blueprint
-## [Dough](https://www.foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe-1921714)
-
 4 cups bread flour  
 t sugar  
 envelope instant dry yeast  
 2t kosher salt
 
-mix, then add 1.5 cups water at 110 degrees \+ 2 T olive oil
+mix, then add 1.5 cups water at 110 degrees + 2 T olive oil
 
 add flour if sticky, to get solid ball
 
-flour surface \-\> ball  
+flour surface -> ball  
 oil a bowl, add dough ball, cover with plastic wrap, let sit 1 hr
 
 dump out, divide in 2, cover each with towel, rest 10 m
@@ -8890,8 +7726,6 @@ Roll out to 14” pizzas
 - **Ingredients:** 3-4 lb pork loin roast, 1 tbsp ground cumin, 1 tsp ground cinnamon, 1/2 tsp salt, 1/2 tsp ground allspice, 1/4 tsp pepper, 1/4 tsp ground cloves, 1 onion, chopped, 2 tbsp sugar, 1/2 cup cranberry juice, 1 cup chicken broth, 4 plums, sliced, sugar snap peas, to taste, olive oil, to taste, salt and pepper, to taste, macaroni salad, to taste
 
 ### Blueprint
-# [Plum Pork Loin](https://www.tasteofhome.com/recipes/spiced-pork-loin-with-plums/)
-
 For 3-4 lb roast, rub mix on roast
 
 1 tablespoon ground cumin  
@@ -8901,14 +7735,14 @@ For 3-4 lb roast, rub mix on roast
 1/4 teaspoon pepper  
 1/4 teaspoon ground cloves
 
-Brown roast on all sides \-\> remove  
-Chopped onion \-\> tender  
+Brown roast on all sides -> remove  
+Chopped onion -> tender  
 2T Sugar **3m** more  
-½ cup cranberry juice \-\> boil, reduce by half  
+½ cup cranberry juice -> boil, reduce by half  
 Return roast, add cup chicken broth, boil, cover, M-L simmer **70m**  
 Add 4 plums, sliced, **35m** more  (looking for 145, don’t overcook)
 
-Sauteed sugar snap peas \- o.o., s\&p, **4m**  
+Sauteed sugar snap peas - o.o., s&p, **4m**  
 Macaroni salad
 
 ---
@@ -8924,15 +7758,13 @@ Macaroni salad
 - **Ingredients:** chicken breasts, olive oil, to taste, parsnip, broccoli, nutmeg, to taste, salt and pepper, to taste, mushrooms, broth, cornstarch
 
 ### Blueprint
-# [Poached Chicken breasts](https://www.thekitchn.com/how-to-cook-moist-tender-chicken-breasts-every-time-cooking-lessons-from-the-kitchn-36891)
-
 Flatten  
 Sear just 1m each side in o.o.  
-Cover and cook low 10m \+10m with heat off.  Check temp.
+Cover and cook low 10m +10m with heat off.  Check temp.
 
-Meanwhile, boil parsnip \+ broccoli 10m.  Purée \+ oil, maybe some of the cooking water. Nutmeg s\&p.  
+Meanwhile, boil parsnip + broccoli 10m.  Purée + oil, maybe some of the cooking water. Nutmeg s&p.  
 
-Sautee mushrooms. Add broth \+ cornstarch, season
+Sautee mushrooms. Add broth + cornstarch, season
 
 ---
 
@@ -8946,8 +7778,6 @@ Sautee mushrooms. Add broth \+ cornstarch, season
 - **Ingredients:** 1 cup polenta, 4 cups broth, 1 tsp salt, sausage, to taste, tomato sauce, to taste, salad greens and dressing, to taste
 
 ### Blueprint
-# Polenta
-
 Cup polenta, 4 cups broth, t salt. Instant pot 10m+ 15m  
 Sausage, tomato sauce
 
@@ -8966,16 +7796,14 @@ A salad
 - **Ingredients:** 1 cup polenta, 4 cups broth, 1 tsp salt, 1 lb shrimp, oil, to taste, 2 cloves garlic (plus extra for shrimp coating), to taste, 1 lb tomatoes, red pepper flakes, to taste, salt and black pepper, to taste, fresh basil, to taste
 
 ### Blueprint
-# [Polenta & Shrimp](https://www.177milkstreet.com/recipes/polenta-shrimp-tomatoes?allow_token=c297f7df-3dff-42ed-9118-886f8f394db0&utm_source=Free%20Recipes%20-%20Non-Members&utm_medium=email&utm_campaign=Free%20This%20Week%20-%20NonMembers%20-%20Shrimp%20Polenta%20%282022-05-23%29&_kx=Rn5Sob1E1jd8_ggG1A4kE6pbjnZWu12dcBLZkX2u0Wk%3D.Vdqjt7)
-
 Cook polenta (Cup polenta, 4 cups broth, t salt. Instant pot 10m+ 15m)
 
 Coat lb shrimp in oil/garlic/salt  
 MH skillet, 2m (no flip), remove
 
 2 garlic 2m  
-Lb Tomatoes, red pepper flakes, s\&p, 3m  
-Add Shrimp, 2 more minutes, remove from heat, add basil, s\&p
+Lb Tomatoes, red pepper flakes, s&p, 3m  
+Add Shrimp, 2 more minutes, remove from heat, add basil, s&p
 
 Shrimp on polenta
 
@@ -8992,9 +7820,7 @@ Shrimp on polenta
 - **Ingredients:** 4 skinless chicken thighs, salt and pepper to taste, potato to taste, 5/8 lb tomatillos, 1/4 onion, cilantro to taste, 1 clove garlic, 1 chipotle pepper in adobo, oil to taste, 1/2 cup chicken broth, 1/2 cup water, 1/4 tsp oregano, 1/2 tsp salt
 
 ### Blueprint
-# [Pollo Entomatado](https://mexicanfoodjournal.com/tomatillo-chicken/)
-
-s\&p 4 skinless chicken thighs
+s&p 4 skinless chicken thighs
 
 Dice  potato, ⅝ lb tomatillo, slice ¼  onion  
 Chop 1 cilantro, 1 garlic, 1 chipotle en adobo
@@ -9019,13 +7845,11 @@ Boil, add chicken, ML covered **20m**
 - **Ingredients:** 1/2 cup sweet thai chili sauce (or 1/4 cup rice vinegar, 1/4 cup sugar, 1/4 cup water, 1 tbsp sambal oelek, 1/2 tbsp cornstarch), 1/4 cup pomegranate juice, 1/4 cup soy sauce, 1 inch fresh ginger, 1 clove garlic, 2 lb boneless skinless chicken, 1 acorn squash, sliced, 1 tbsp olive oil, 1 tbsp honey, Salt to taste, Black pepper to taste, Pomegranate seeds to taste, Cooked rice to taste
 
 ### Blueprint
-# [Pomegranate Chicken](https://www.halfbakedharvest.com/sheet-pan-sticky-pomegranate-chicken-and-honey-roasted-squash/)
-
 425
 
 sauce  
 ½ cup sweet thai chili sauce   
-	¼ cup rice vinegar, ¼ cup sugar, ¼ cup water, T sambal oelek \- heat to dissolve sugar  
+	¼ cup rice vinegar, ¼ cup sugar, ¼ cup water, T sambal oelek - heat to dissolve sugar  
   	Add ½ T cornstarch dissolved in T water, bring to simmer and see it clear.  
 ¼ cup pom juice  
 ¼ cup soy sauce  
@@ -9033,7 +7857,7 @@ sauce
 1 garlic
 
 Toss 2lb boneless skinless chicken with half of sauce  
-Toss acorn squash slices with T olive oil, T honey, s\&p
+Toss acorn squash slices with T olive oil, T honey, s&p
 
 **25m** basting halfway through  
 Sprinkle with pomegranate seeds  
@@ -9051,9 +7875,7 @@ Rice with the rest of the sauce
 - **Ingredients:** lamb loin chops to taste, salt and pepper to taste, 2 tbsp olive oil, 2 tbsp pomegranate molasses, 2 tbsp brown sugar, 1 clove garlic, 1 1/2 tsp Dijon mustard, pomegranate seeds to taste, fresh mint to taste
 
 ### Blueprint
-# Pomegranate Lamb Chops
-
-s\&p lamb loin chops, apply glaze  
+s&p lamb loin chops, apply glaze  
 Grill high 3-4m, flip, glaze again, 3-4m  
 Sprinkle with pomegranate, mint
 
@@ -9075,8 +7897,6 @@ Low heat
 - **Ingredients:** 1 boneless pork butt, 1/2 cup extra-virgin olive oil, 1/4 cup chopped garlic, 1/4 cup chopped fresh parsley, 1/4 cup chopped fresh rosemary, 1/4 cup chopped fresh sage, 2 tablespoons fresh ground fennel seed, 2 tablespoons fresh lemon and orange zest, 6 tablespoons kosher salt, divided, 3 tablespoons fresh cracked black pepper, divided, Bread (for serving, to taste)
 
 ### Blueprint
-# [Porchetta](https://www.foodnetwork.com/recipes/roasted-porchetta-recipe-2109840) [(recipe)](https://www.christinascucina.com/porchetta-authentic-italian-pork-roast/)
-
 Boneless Pork butt, slice it open, roll it flat, use 2T salt and T pepper & rub it in.
 
 Herb mix 
@@ -9087,7 +7907,7 @@ Herb mix
 * 1/4 cup chopped fresh rosemary  
 * 1/4 cup chopped fresh sage (4t dried sage)  
 * 2 tablespoons fresh ground fennel seed  (anise / cumin / dill)  
-* 2 tablespoons fresh zest of lemon and orange \- important to get closer to fennel pollen  
+* 2 tablespoons fresh zest of lemon and orange - important to get closer to fennel pollen  
 * 2T kosher salt  
 * T fresh cracked black pepper
 
@@ -9114,8 +7934,6 @@ Rest 10 minutes, slice and serve as sandwich (nothing else on the bread)
 - **Ingredients:** 1.25 lb ground pork, 1 bunch asparagus, cut into 1-inch pieces, 2 tbsp soy sauce, 1/4 cup soy sauce, 2 tbsp rice wine, 4 tsp cornstarch, 2 tbsp sesame oil, divided, 2 tbsp fresh ginger, minced, 1 tbsp chili garlic sauce, 1/3 cup oyster sauce, 1.5 tbsp honey, Scallions, to taste, Rice, for serving
 
 ### Blueprint
-# [Pork / Asparagus Stir Fry](https://bellyfull.net/spicy-pork-asparagus-stir-fry/)
-
 Mix 2T soy, 2T rice wine, 4t cornstarch  
 Add 1.25 lb ground pork
 
@@ -9145,12 +7963,10 @@ Scallions, rice
 - **Ingredients:** 1 pork tenderloin, 1/2 cup Italian dressing, 1.5 cups halved strawberries, 2 tbsp balsamic vinegar, 2 tsp sugar, salt and pepper to taste, 1/4 cup chicken broth, salad greens to taste, goat cheese to taste
 
 ### Blueprint
-# [Pork / Strawberry salad](https://www.tasteofhome.com/recipes/pork-and-balsamic-strawberry-salad/)
-
 Marinate pork tenderloin in ½ cup italian dressing, 8hr  
 Marinate 1.5 C (12 oz or so) halved strawberries in 2T balsamic & 2t sugar
 
-Skillet MH, Dry pork, s\&p, brown all sides.  
+Skillet MH, Dry pork, s&p, brown all sides.  
 425 **20m** (145) rest 5m, slice
 
 Add ¼ cup chicken broth to skillet, boil & scrape  
@@ -9170,8 +7986,6 @@ Serve over salad greens & add goat cheese.
 - **Ingredients:** pre-cooked pork belly, Kevin's Korean simmer sauce
 
 ### Blueprint
-# Pork Belly
-
 Sautee (pre-cooked) pork belly, add kevin’s korean simmer sauce.
 
 ---
@@ -9186,10 +8000,8 @@ Sautee (pre-cooked) pork belly, add kevin’s korean simmer sauce.
 - **Ingredients:** pork chops, thick-cut (to taste), olive oil (to taste), seasoning (to taste), salt and pepper (to taste), butter (to taste), garlic (to taste), mushrooms (to taste), Dijon mustard (to taste), flour (to taste), beef broth or wine (to taste)
 
 ### Blueprint
-# [Pork Chop](https://thebestketorecipes.com/how-to-cook-a-thick-cut-pork-chop-perfectly/)
-
-Marinate \- olive oil \+ seasoning  
-s\&p  
+Marinate - olive oil + seasoning  
+s&p  
 Preheat 400  
 High heat, oil, 2m/side  
 Oven 10m / flip / 7m (145)  
@@ -9212,16 +8024,14 @@ Beef broth or wine, 5m Medium
 - **Ingredients:** pork chops, to taste, broccoli, to taste, olive oil, to taste, garlic, to taste, salt and pepper, to taste, shallot, to taste, fresh rosemary, to taste, fresh thyme, to taste, broth, to taste, lemon juice, to taste, corn kernels, to taste, red onion, to taste, jalapeno, to taste, cilantro, to taste, apple cider vinegar, to taste, maple syrup, to taste
 
 ### Blueprint
-# Pork Chop w Broccoli puree & corn salad 
+boil broccoli 6m, blend with o.o. & garlic, 1/2 cup of the cooking water, s&p
 
-boil broccoli 6m, blend with o.o. & garlic, 1/2 cup of the cooking water, s\&p
-
-dry pork chops, s\&p, sit 15m  
+dry pork chops, s&p, sit 15m  
 sear 3m/side.  finish to 140  
 add shallot, rosemary, thyme, garlic, 1m, scrape.  add broth & lemon juice. simmer 2m
 
 sautee corn kernels (dry) 2m, toss, 1m  
-make salad \- diced red onion, jalapeno, cilantro  
+make salad - diced red onion, jalapeno, cilantro  
 dressing 3 o.o., 6 apple cider vinegar, 1 maple syrup, salt
 
 Plate \= puree, sliced pork on top, corn salad on top
@@ -9239,11 +8049,9 @@ Plate \= puree, sliced pork on top, corn salad on top
 - **Ingredients:** pork chops, 1/4 cup brown sugar, 1/4 cup kosher salt, 7 cups water, cooking oil to taste, salt and pepper to taste, 4 anchovies, 3 cloves garlic, chili to taste, rosemary to taste, water to taste, asparagus to taste, mushrooms to taste
 
 ### Blueprint
-# [Pork Chops](https://ibbeachnana.blog/pork-chops-with-anchovies-rosemary-garlic-chilies/)
+Brine pork chops - ¼ cup brown sugar, ¼ cup kosher salt, 7 cups water
 
-Brine pork chops \- ¼ cup brown sugar, ¼ cup kosher salt, 7 cups water
-
-Oil skillet M heat, s\&p chops  
+Oil skillet M heat, s&p chops  
 5m, flip  
 4 Anchovies, 3 garlic, chili, rosemary  
 5m   
@@ -9263,11 +8071,9 @@ Sauteed asparagus and mushroom on the side
 - **Ingredients:** bone-in pork chops, salt and pepper to taste, olive oil to taste, 2 tbsp butter, 1 onion, 2 to 3 apples, 1 cup beer, white wine, cider, or chicken broth
 
 ### Blueprint
-# [Pork Chops & Apples](https://www.marthastewart.com/342231/pork-chops-with-apples-and-onions)
-
-s\&p bone in pork chops, high heat, olive oil, **5m+ 5m** \-\> plate  
+s&p bone in pork chops, high heat, olive oil, **5m+ 5m** -> plate  
 2T butter, onion, 2 or 3 apples **8m**  
-Cup beer, white wine, cider or chicken broth \+ chops, **7m+7m**
+Cup beer, white wine, cider or chicken broth + chops, **7m+7m**
 
 ---
 
@@ -9282,17 +8088,15 @@ Cup beer, white wine, cider or chicken broth \+ chops, **7m+7m**
 - **Ingredients:** 6 cloves garlic, 1.5 cups buttermilk plus 1 tablespoon (or milk with lemon juice substitute), 2 tablespoons plus 1/4 teaspoon salt, 4 10-ounce, 1-inch pork chops, 1.5 teaspoons coriander seeds, 1.5 teaspoons fennel seeds, 1 teaspoon peppercorns, 2 tablespoons Champagne vinegar, 2 teaspoons honey, 2 teaspoons stone-ground mustard, 2 tablespoons olive oil, 1.5 cups snap peas, angle-sliced, 1/2 cup radishes, thinly sliced, 1 cup fennel bulb, shaved, 2 tablespoons torn fennel fronds
 
 ### Blueprint
-# [Pork Chops w. Snap Pea Slaw](https://www.foodandwine.com/pork-chops-with-snap-pea-slaw-11925991)
-
 Buttermilk: Cup milk to T lemon, wait 10m
 
-6 garlic, 1.5 cups buttermilk, 2T salt, 4 10 oz 1” pork chops \- marinate 1 hour fridge  
+6 garlic, 1.5 cups buttermilk, 2T salt, 4 10 oz 1” pork chops - marinate 1 hour fridge  
 Toast 1.5t coriander seeds, 1.5t fennel seeds, t peppercorns, 2m, grind  
 Dry pork chops, encrust  
 Sautee high, flipping every 2m for 10m (to 140\)
 
 Slaw:  
-Whisk \- 2T Champagne vinegar, 2t honey, 2t stone-ground mustard, 2T o.o, T buttermilk, ¼ t salt  
+Whisk - 2T Champagne vinegar, 2t honey, 2t stone-ground mustard, 2T o.o, T buttermilk, ¼ t salt  
 1.5 cup angle-sliced Snap peas, ½ cup thin-sliced radishes,1 cup shaved fennel bulb, 2 T torn fennel fronds
 
 ---
@@ -9308,32 +8112,15 @@ Whisk \- 2T Champagne vinegar, 2t honey, 2t stone-ground mustard, 2T o.o, T butt
 - **Ingredients:** 1 pork tenderloin, salt to taste, pepper to taste, cooking oil to taste, 1/2 cup chicken broth, butter to taste, 1 tsp thyme, 1/2 tsp paprika, 1/4 tsp garlic powder
 
 ### Blueprint
-# [Pork Medallions](https://ourtableforseven.com/pork-medallions-recipe-jamie-oliver/)
-
 Slice tenderloin into 12 “medallions”  
-Season with s\&p  
+Season with s&p  
 Skillet MH, oil  
-3m / 3m \-\> 145 (do not crowd pan (2 batches)) \-\> remove
+3m / 3m -> 145 (do not crowd pan (2 batches)) -> remove
 
 Add ½ cup chicken broth ,1m  
 Butter, Salt, pepper, t thyme, ½ t paprika, ¼ t garlic powder
 
 Broccoli maybe
-
----
-
-## Pork Schnitzel (`rec_pork_schnitzel_b46d78`)
-- **Type:** main (standard)
-- **Cuisine:** German | **Effort:** Low
-- **Seasons:** autumn, winter
-- **Vibe:** crispy, savory, rich
-- **Times (min):** Prep: 5, Cook: 10, Oven: None
-- **Ingredients:** pork schnitzel cutlets (Costco), cooking oil or butter for frying to taste, lemon wedges to taste
-
-### Blueprint
-# Pork Schnitzel
-
-(from Costco)
 
 ---
 
@@ -9347,29 +8134,13 @@ Broccoli maybe
 - **Ingredients:** pork shoulder arm picnic roast, mustard to taste, seasoning to taste, apple juice to taste, red wine vinegar to taste
 
 ### Blueprint
-# Pork Shoulder Arm Picnic
-
 Mustard, seasoning  
-Indirect 250 (hickory, cherry) \-\> 160 (maybe 6-8 hours) spritz every hour w apple juice & red wine vinegar  
+Indirect 250 (hickory, cherry) -> 160 (maybe 6-8 hours) spritz every hour w apple juice & red wine vinegar  
 Wrap in butcher paper, apple juice, continue to 200 (2-6 hours)  
 Rest in a cooler an hour  
 Pull.
 
 OR
-
----
-
-## Pork Tenderloin (`rec_pork_tenderloin_bf99fe`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** autumn, winter, spring
-- **Vibe:** savory, tender, juicy
-- **Dietary:** gluten-free, dairy-free, low-carb
-- **Times (min):** Prep: 10, Cook: 25, Oven: 20
-- **Ingredients:** 1 to 1.5 lb pork tenderloin, olive oil to taste, salt and black pepper to taste
-
-### Blueprint
-# Pork Tenderloin
 
 ---
 
@@ -9383,9 +8154,7 @@ OR
 - **Ingredients:** 2 large russet potatoes, cubed (½-inch), 4 tbsp olive oil, divided, 1 tsp smoked paprika, 2 tsp kosher salt, divided, 1 1/4 tsp black pepper, divided, pork tenderloin, cut into 1-inch cubes, 2 tbsp grain mustard, 1 tbsp honey, 1 tsp thyme, 10 oz brussels sprouts, halved, 8 oz crimini mushrooms, quartered
 
 ### Blueprint
-# Pork Tenderloin sheet
-
-2 cubed large russet potatoes (½-inch), 2 tbsp olive oil, 1 tsp smoked paprika, 1 tsp kosher salt, and ½ tsp black pepper \- 15m @ 425
+2 cubed large russet potatoes (½-inch), 2 tbsp olive oil, 1 tsp smoked paprika, 1 tsp kosher salt, and ½ tsp black pepper - 15m @ 425
 
 1" cube pork tenderloin, 2T grain mustard, 1T honey, 1T o.o., 1t thyme, 1/2 t kosher salt, 1/2 t pepper
 
@@ -9406,10 +8175,8 @@ halve 10 oz brussels, quarter 8 oz crimini, tossed with 1 tbsp olive oil, 1/2 ts
 - **Ingredients:** 1 pork tenderloin, 1 lemon, zested and juiced, 1/2 cup olive oil, divided, Fresh rosemary, to taste (plus 2 tsp minced), Fresh thyme, to taste (plus 1 tsp minced), Garlic, to taste (plus 3 cloves minced), 1 lb baby red potatoes, 1 lb carrots, 1 onion, Salt and black pepper to taste
 
 ### Blueprint
-# [Pork Tenderloin sheetpan](https://www.theseasonedmom.com/one-dish-garlic-herb-pork-tenderloin/)
-
 marinate first **overnight**  
-1 lemon zest \+ juice  
+1 lemon zest + juice  
 1/4 cup o.o., rosemary, thyme, garlic, salt
 
 lb baby red potatoes  
@@ -9419,10 +8186,28 @@ onion
 2t fresh rosemary  
 t fresh thyme  
 1/4 cup o.o.  
-s\&p
+s&p
 
 425 for **30m**, flip everything halfway through  
 **10m** rest
+
+---
+
+## Pork Tenderloin w. roast grapes (`rec_pork_tenderloin_with_roast_gra_499a75`)
+- **Type:** main (standard)
+- **Cuisine:** American | **Effort:** Low
+- **Seasons:** autumn, winter, spring
+- **Vibe:** savory, sweet, tangy, roasted
+- **Dietary:** dairy-free, gluten-free
+- **Times (min):** Prep: 15, Cook: 25, Oven: 25
+- **Source:**  (https://www.purewow.com/recipes/mustardy-pork-tenderloin-with-grapes-and-red-onions)
+- **Ingredients:** pork tenderloin, red seedless grapes, red onion, dijon mustard, olive oil, fresh rosemary or thyme to taste, salt and black pepper to taste
+
+### Blueprint
+Dry pork, s&p, dijon mustard
+Sear 4m/side, add 2 cups grapes, 1 red onion, ½ t red pepper flakes,
+Roast @ 425 - 15m (7m for chops) for pork, +10m more for grapes
+
 
 ---
 
@@ -9436,19 +8221,17 @@ s\&p
 - **Ingredients:** 1 lb pork, salt to taste, pepper to taste, 1 can tuna, 2 tbsp lemon juice, 2 tsp dijon mustard, 1.5 tsp anchovies, 2 tbsp capers, plus extra for garnish, 1/2 cup mayo, olive oil to taste, radish slices to taste, herbs to taste, onions to taste
 
 ### Blueprint
-# Pork Tonnato
-
-s\&p 1lb pork.  wait 30m   
+s&p 1lb pork.  wait 30m   
 sear 2m/side  
-400 for 10m \- don’t go past 145\.  rest, slice  
+400 for 10m - don’t go past 145\.  rest, slice  
 CHILL in fridge 1 hour
 
 sauce
 
 can tuna, 2T lemon, 2t dijon, 3/2 t anchovies, 2T capers  
-1/2 cup mayo,  s\&p. BLEND.   REFRIGERATE
+1/2 cup mayo,  s&p. BLEND.   REFRIGERATE
 
-SLICE THIN, cover with auce.  a little o.o. \+ salt
+SLICE THIN, cover with auce.  a little o.o. + salt
 
 radish slices, herbs, onions,…capers
 
@@ -9465,10 +8248,8 @@ radish slices, herbs, onions,…capers
 - **Ingredients:** pork chops, salt and pepper to taste, olive oil as needed, 3 peaches, sliced 1/4-inch, 2 tsp lemon zest, 1 tsp sugar, 1/2 tsp salt, pinch chili flakes, spinach to taste, 1 tbsp butter, 2 tbsp lemon juice, 2 oz fresh basil
 
 ### Blueprint
-# [Pork chops & peaches](https://www.seriouseats.com/pork-chops-peaches-basil-recipe)
-
-Dry, s\&p pork chops  
-High heat, o.o. Skillet \-\> smoke  
+Dry, s&p pork chops  
+High heat, o.o. Skillet -> smoke  
 5m/3m (145)  
 Remove and cover
 
@@ -9476,7 +8257,7 @@ Add 3 peaches (¼” slice), 2t lemon zest, t sugar, ½ t salt, pinch chili flak
 
 Spinach on plate, pork chops on top, 
 
-Juices back to skillet  \+ T butter & 2T lemon juice, s\&p, 2oz basil
+Juices back to skillet  + T butter & 2T lemon juice, s&p, 2oz basil
 
 Add peaches, pan juice, 2oz fresh basil
 
@@ -9493,16 +8274,14 @@ Add peaches, pan juice, 2oz fresh basil
 - **Ingredients:** 1 tbsp plus 15/16 cup red wine, 2 tsp ginger, 2 tbsp ice water, 1/4 cup cornstarch, 1 tsp salt plus more to taste, 1/2-inch thick pork loin chops, 1 orange, 1/4 cup rice vinegar, 1/3 cup honey, 8 large sprigs mint, 2 plums (cut into 1/2-inch pieces), 2 tbsp butter, cooking oil as needed
 
 ### Blueprint
-# [Pork chops w. Plum sauce](https://www.foodnetwork.com/recipes/food-network-kitchen/pork-with-plum-sauce-recipe-1973241)
-
 Mix 1T red wine, 2t ginger, 2T ice water   
 With  
 ¼ cup cornstarch, 1t salt
 
 Coat ½” thick pork loin chops in this, refrigerate.
 
-Peel an orange (potato peeler) \-\> skillet  
-Squeeze the juice \+ ¼ cup rice vinegar, ⅓ cup honey, 15/16 cup wine  
+Peel an orange (potato peeler) -> skillet  
+Squeeze the juice + ¼ cup rice vinegar, ⅓ cup honey, 15/16 cup wine  
 8 large sprigs mint
 
 M-H for **10-15m** to make syrup  
@@ -9511,20 +8290,6 @@ Remove from heat, discard mint, swirl in 2T butter, salt
 
 M-H heat, oil, pork chops **4-5m / side**  
 Drain on paper towels. Salt.  add sauce
-
----
-
-## Pork loin (`rec_pork_loin_97e9d3`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** spring, autumn, winter
-- **Vibe:** savory, hearty
-- **Dietary:** gluten-free, dairy-free
-- **Times (min):** Prep: 10, Cook: 45, Oven: 45
-- **Ingredients:** Pork loin, Salt to taste, Black pepper to taste
-
-### Blueprint
-# Pork loin
 
 ---
 
@@ -9538,14 +8303,12 @@ Drain on paper towels. Salt.  add sauce
 - **Ingredients:** pork tenderloin (sliced into 1-inch pieces), mushrooms, to taste, mustard, to taste (optional), orzo, to taste, chicken stock, to taste, garlic, to taste, thyme, to taste, salt, to taste, spinach, to taste, milk, to taste, tomatoes, to taste (optional)
 
 ### Blueprint
-# [Pork orzo](https://www.ricardocuisine.com/en/recipes/9766-pork-chops-with-creamy-mushroom-orzo)
-
 Slice tenderloin into 1”.  Season.  Sautee 4m/side. remove  
 Cook (seasoned maybe w mustard) mushrooms 4m, remove   
 Add orzo, chicken stock, garlic, thyme, salt.  Boil, simmer 5-10m  
 Add spinach  
 Add milk, salt  
-Return  mushrooms \+ pork. Maybe some tomatoes  Cook another 4m on M heat
+Return  mushrooms + pork. Maybe some tomatoes  Cook another 4m on M heat
 
 ---
 
@@ -9560,34 +8323,15 @@ Return  mushrooms \+ pork. Maybe some tomatoes  Cook another 4m on M heat
 - **Ingredients:** 1 pork tenderloin, 3 tbsp brown sugar, 1 tsp dried sage, 2 cloves garlic, 3/4 tsp salt, black pepper, to taste, 2 sweet potatoes, 1 red onion, cayenne pepper, to taste, olive oil, to taste, 1 cup broth, 2 tsp Dijon mustard
 
 ### Blueprint
-# [Pork tenderloin \+ sweet potatoes](https://www.foodnetwork.com/recipes/food-network-kitchen/roast-pork-and-sweet-potatoes-3363155)
-
 3T brown sugar, t sage, 2 garlic, ¾ t salt, pepper
 
 ½ “ wedge 2 sweet potatoes, red onion  
-Cayenne & o.o. \+ S\&P on that  
+Cayenne & o.o. + S&P on that  
 450 x 20m
 
 Sautee tenderloin 5m, turning, add to backing sheet, 12 more minutes
 
 Sauce: Cup broth to pan, simmer & scrape, 2t dijon
-
----
-
-## Pork tenderloin with roast grapes (`rec_pork_tenderloin_with_roast_gra_499a75`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** autumn, winter, spring
-- **Vibe:** savory, sweet, tangy, roasted
-- **Dietary:** dairy-free, gluten-free
-- **Times (min):** Prep: 15, Cook: 25, Oven: 25
-- **Source:**  (https://www.purewow.com/recipes/mustardy-pork-tenderloin-with-grapes-and-red-onions)
-- **Ingredients:** pork tenderloin, red seedless grapes, red onion, dijon mustard, olive oil, fresh rosemary or thyme to taste, salt and black pepper to taste
-
-### Blueprint
-# [Pork tenderloin with roast grapes](https://www.purewow.com/recipes/mustardy-pork-tenderloin-with-grapes-and-red-onions)
-
-425
 
 ---
 
@@ -9601,8 +8345,6 @@ Sauce: Cup broth to pan, simmer & scrape, 2t dijon
 - **Ingredients:** potatoes, cut in wedges, green beans, oil, to taste, white wine vinegar, to taste, rosemary, to taste, salt, to taste, pepper, to taste, garlic, grated, to taste, fish sauce, to taste, dijon mustard, to taste, basil, to taste, olives, to taste
 
 ### Blueprint
-## Potato / green bean salad
-
 Cut potatoes in wedges, boil **8m**, remove. add green beans for **3m**  
 Blanch green beans
 
@@ -9623,8 +8365,6 @@ olives
 - **Ingredients:** potatoes, ice water, oil spray to taste, salt to taste, parsley to taste
 
 ### Blueprint
-## [Potato chips](https://www.tasteofhome.com/recipes/air-fryer-potato-chips/)
-
 Slice thin  
 Soak potatoes ice water 15m, change water, 15 more m  
 Pat dry, spritz with oil, sprinkle salt  
@@ -9644,8 +8384,6 @@ Parsley
 - **Ingredients:** 3 tbsp soy sauce, 3 tbsp water, 2 tbsp sugar, 1 tsp fish sauce, 1 clove garlic, grated, 1 tbsp rice wine, 10 oz yukon gold potatoes, halved, sesame oil, to taste, sesame seeds, to taste
 
 ### Blueprint
-## [Potatoes \- **Gamja Bokkeum**](https://www.seriouseats.com/recipes/2020/02/korean-soy-glazed-potatoes-gamja-bokkeum-recipe.html)
-
 Mix 3T soy, 3T water, 2T sugar, 1t fish sauce, 1 garlic (grated), T rice wine  
 Halve 10 oz yukon gold potatoes  
 M-H Sautee cut side down 6m  
@@ -9666,11 +8404,9 @@ Serve with sesame oil & seeds drizzled on
 - **Ingredients:** 1 prime rib roast, salt to taste, black pepper to taste
 
 ### Blueprint
-# [Prime Rib](https://www.seriouseats.com/perfect-prime-rib-beef-recipe)
-
 Air dry overnight, salted  
 Preheat oven to lowest temp  
-s\&p meat  
+s&p meat  
 Fat cap up, on rack in roasting pan  
 Roast to 130 degrees (**6 hours** @ 150 or **4 hours** @ 250\)  
 Remove and tent with foil, rest 30-90m  
@@ -9689,20 +8425,18 @@ Heat oven to highest temp, remove foil, **\~8m**.  Carve and serve immediately
 - **Ingredients:** Prime rib roast, to taste, Salt, to taste, Beef bones, to taste, 1 carrot, 2 celery ribs, 1 onion, 1 bottle red wine, 2 bay leaves, 4 sprigs parsley, 4 sprigs thyme, 1 quart stock, Gelatin packets, to taste, Black pepper, to taste, 4 tbsp butter
 
 ### Blueprint
-# [Prime Rib](https://www.seriouseats.com/perfect-prime-rib-with-red-wine-jus-recipe)
-
 salt roast, leave uncovered in fridge a day or two
 
 brown some bones, set aside  
 carrot, 2 celery, onion, brown  
 BOTTLE OF RED WINE  
-2 bay leaves, 4 parsley, 4thyme \- reduce by half  
+2 bay leaves, 4 parsley, 4thyme - reduce by half  
 quart stock, gelatin packets
 
 put bones and sauce IN PAN  
 rack, roast fat up 150 for 6 hours or so or 4 hours at 250 (to 120-130).  tent roast with foil at least 30m
 
-strain liquid, simmer 20m, s\&p, 4T butter off heat
+strain liquid, simmer 20m, s&p, 4T butter off heat
 
 high heat finish the roast (525 for 8 minutes)  
 rest 10m  
@@ -9721,8 +8455,6 @@ slice
 - **Ingredients:** tri-tip to taste, garlic to taste, oil to taste, mustard to taste, vinegar to taste, salt to taste, lettuce to taste, tomato to taste, hot fritos to taste, soft french roll to taste
 
 ### Blueprint
-# Prunedale tri-tip sandwich
-
 Tri-tip  
 garlic vinaigrette (garlic, oil, mustard, vinegar, salt)  
 lettuce, tomato  
@@ -9742,9 +8474,7 @@ soft french roll
 - **Ingredients:** 1 lb pork butt, 1 lb pork ribs, chopped, Salt and black pepper to taste, Cooking oil to taste, 1 bay leaf, 1 cup water, 1 lb tomatillos, 4 serrano peppers, 1/2 onion, 3 cloves garlic, 1/4 tsp cinnamon, 1/2 tsp cloves, 1/2 tsp oregano, Mexican rice for serving, Corn tortillas for serving, Cilantro to taste, Crema to taste
 
 ### Blueprint
-# [Puerco Entomatado](https://www.mexicoinmykitchen.com/pork-in-tomatillo-sauce/)
-
-lb pork butt, , lb pork ribs, chopped, s\&p  
+lb pork butt, , lb pork ribs, chopped, s&p  
 oil, bay leaf, brown all sides (7m)  
 add cup water, simmer covered 20m
 
@@ -9752,7 +8482,7 @@ roast lb tomatillos, 4 serrano peppers, 1/2 onion, 3 garlic to soft & black (12m
 remove & cover 5m  
 blend with 1/4 t cinnamon, 1/2 t cloves, 1/2 t oregano
 
-add to pork, boil \-\> simmer, s\&p, cover 45m (stir once in a while)
+add to pork, boil -> simmer, s&p, cover 45m (stir once in a while)
 
 mexican rice, corn tortillas, cilantro, crema
 
@@ -9768,8 +8498,6 @@ mexican rice, corn tortillas, cilantro, crema
 - **Ingredients:** 4 king oyster mushrooms, oil, to taste, paprika, to taste, salt, to taste, aji panca mayo, to taste, tostadas, to taste, guacamole, to taste, lime, to taste, cilantro, to taste, cotija cheese, to taste
 
 ### Blueprint
-# Pulled Mushroom Tostadas
-
 Shred 4 king oyster mushrooms with a fork  
 Oil, paprika, salt  
 **20m** @ 400  
@@ -9790,19 +8518,17 @@ Tostada, guacamole, lime, cilantro, cotija?
 - **Ingredients:** 2 lb boneless skinless chicken thighs, 3 tbsp paprika paste or harissa, 2 tbsp chopped bread & butter pickles, 2 tbsp bread & butter pickle juice, 5 tbsp olive oil, divided, 2 tsp salt, 1/2 tsp pepper, 3 peaches, cut into 3/4-inch wedges, 4 plums, quartered, 1 fennel bulb, thinly sliced, 4 oz goat cheese, 2 tbsp lemon juice, 1/4 tsp paprika, 1/8 tsp salt, salt to taste
 
 ### Blueprint
-# [Pörkölt Chicken](https://www.foodandwine.com/poerkoelt-style-grilled-chicken-thighs-with-stone-fruit-7499504)
-
-2 lb boneless skinless Chicken thighs, 3T paprika paste or harissa, 2T chopped bread & butter pickles \+2T  juice, 2T olive oil, 2t salt & ½ t pepper  
+2 lb boneless skinless Chicken thighs, 3T paprika paste or harissa, 2T chopped bread & butter pickles +2T  juice, 2T olive oil, 2t salt & ½ t pepper  
 Room temp for **1 hour**
 
-To make spice into paste \- equal parts spice, oil, water, let sit 5m
+To make spice into paste - equal parts spice, oil, water, let sit 5m
 
 Salad:  
 3 peaches in ¾” wedges, 4 plums, quartered, 1 fennel bulb, thin slice  
 4 oz goat cheese  
 3T olive oil, 2T lemon juice, ¼ t paprika, 1/8 t salt
 
-Grill MH, 6-8m/side \-\> 165, salt
+Grill MH, 6-8m/side -> 165, salt
 
 ---
 
@@ -9816,39 +8542,9 @@ Grill MH, 6-8m/side \-\> 165, salt
 - **Ingredients:** 2 frozen chicken breasts, 1 cup liquid (hot water, orange juice, lime juice), garlic, to taste, oregano, to taste, cumin, to taste, onion, to taste
 
 ### Blueprint
-## Add leftovers to quick chicken
-
 2 frozen Chicken breasts, cup liquid (hot water, OJ, lime), garlic, oregano, cumin, onion.  15m instant pot
 ### Notes
 Include leftovers.
-
----
-
-## Rack of Lamb (`rec_rack_of_lamb_ec1899`)
-- **Type:** main (standard)
-- **Cuisine:** French | **Effort:** Medium
-- **Seasons:** spring, summer
-- **Vibe:** herby, savory, nutty, rich
-- **Times (min):** Prep: 20, Cook: 28, Oven: 25
-- **Source:** Jamie Oliver (https://www.jamieoliver.com/recipes/lamb-recipes/rack-of-lamb/)
-- **Ingredients:** 1 rack of lamb, olive oil to taste, salt to taste, black pepper to taste, butter to taste, 2 cloves garlic, 2 oz pistachios, 1/2 bunch parsley, 2 oz bread, 1/2 tsp nutmeg, dijon mustard to taste, green beans to taste, 1 tsp mustard, 1 tbsp white wine vinegar, 2 tbsp olive oil, juice of 1/2 lemon, 3 sprigs tarragon
-
-### Blueprint
-# [Rack of Lamb](https://www.jamieoliver.com/recipes/lamb-recipes/rack-of-lamb/)
-
-Room temp lamb  
-Preheat oven to 350
-
-O.o., s\&p the lamb.  
-SEAR in hot skillet, o.o. \+ butter, **3m** \-\> cool
-
-Food processor 1 garlic, 2 oz pistachios, ½ bunch parsley, 2 oz bread, ½, t nutmeg
-
-Brush lamb with dijon, then the mix  
-Roast **25m**, rest **10m**
-
-Boil green beans in salted water **6m**  
-Dressing for beans \- Mix garlic, t mustard, , T white wine vinegar, 2T o.o., juice of ½ lemon, 3 tarragon
 
 ---
 
@@ -9862,13 +8558,11 @@ Dressing for beans \- Mix garlic, t mustard, , T white wine vinegar, 2T o.o., ju
 - **Ingredients:** rack of lamb, olive oil to taste, salt and pepper to taste, butter to taste, 1 clove garlic, 2 oz pistachios, 1/2 bunch parsley, 2 oz bread, 1/2 tsp nutmeg, dijon mustard to taste
 
 ### Blueprint
-# [Rack of Lamb](https://www.jamieoliver.com/recipes/lamb-recipes/rack-of-lamb/)
-
 Room temp lamb  
 Preheat oven to 350
 
-O.o., s\&p the lamb.  
-SEAR in hot skillet, o.o. \+ butter, **3m** \-\> cool
+O.o., s&p the lamb.  
+SEAR in hot skillet, o.o. + butter, **3m** -> cool
 
 Food processor 1 garlic, 2 oz pistachios, ½ bunch parsley, 2 oz bread, ½, t nutmeg
 
@@ -9887,10 +8581,8 @@ Roast **25m**, rest **10m**
 - **Ingredients:** pork chops, sliced thin, soy sauce to taste, white pepper to taste, 1 can coconut milk, 2 tbsp red curry paste, 1 cup chicken broth, 1 tbsp fish sauce, 1 tbsp sugar, butternut squash to taste, broccoli to taste, cooked rice for serving
 
 ### Blueprint
-# Red Curry Pork & Squash
-
 Slice pork chops thin, toss w soy & white pepper  
-Coconut cream from can of coconut milk \- sautee MH 3m  
+Coconut cream from can of coconut milk - sautee MH 3m  
 Add 2T red curry paste, 2m  
 Add coconut milk from can, cup chicken broth, T fish sauce, T sugar, simmer  
 Add butternut squash & thick Broccoli, med heat  
@@ -9911,8 +8603,6 @@ Serve over rice
 - **Ingredients:** 2 tomatoes, 1/4 white onion, 1 clove garlic, 2 serrano peppers or 1 jalapeno pepper, 1/2 cup reserved cooking water, fresh cilantro (a few sprigs plus extra chopped) to taste, 1 tsp salt, 1 tbsp oil
 
 ### Blueprint
-## Red salsa (boiled)
-
 Boil 2 tomatoes, ¼ white onion, 1 garlic, 2 serrano / 1 jalapeno until tomato skin bursts  
 Peel skin of tomato & discard, add veg to blender with ½ cup of the water, a few sprigs of cilantro, t salt.  Blend (should be soupy)  
 Heat T oil in pot, add blended salsa, chopped cilantro, 3m & you’re done.
@@ -9930,14 +8620,12 @@ Heat T oil in pot, add blended salsa, chopped cilantro, 3m & you’re done.
 - **Ingredients:** 4 cloves garlic, peeled, 2 onions or 5-6 small shallots, peeled, 1 inch piece fresh galangal, peeled, 1 long red chili, seeded, 1/2 tsp red chili flakes or 2-4 Thai red chilis, seeded, 1 tsp ground coriander, 1/2 tsp ground cumin or curry powder, 2 tbsp oil, 1 inch piece fresh ginger, peeled and lightly smashed, 2 stalks lemongrass, smashed, 4 kaffir lime leaves, 2 lb beef chuck, cut into 1.5-inch cubes, Salt and black pepper to taste, 1/2 cup water, 1.5 tbsp brown sugar, 14 oz coconut milk, 1 tbsp fish sauce, Lime juice to taste, Rice to taste
 
 ### Blueprint
-# [Rendang](https://www.manilaspoon.com/2020/03/easy-instant-pot-beef-rendang.html)
-
 Food processor
 
 > > * 4 cloves garlic, peeled  
 > > * 2 onions or 5-6 small shallots, peeled  
-> > * 1 inch piece fresh galangal peeled (ginger \+ 1/4t lemon)  
-> > * 1 long red chili, (like Anaheim pepper or Italian Long Sweet Red chile peppers \- mild variety), seeded  
+> > * 1 inch piece fresh galangal peeled (ginger + 1/4t lemon)  
+> > * 1 long red chili, (like Anaheim pepper or Italian Long Sweet Red chile peppers - mild variety), seeded  
 > > * 1/2 tsp red chili flakes or 2-4 Thai (finger) red chilis, seeded (adjust to desired heat level)  
 > > * 1 tsp ground coriander  
 > > * 1/2 tsp ground cumin or curry powder  
@@ -9948,11 +8636,11 @@ saute 2 lemongrass (smashed), and 4 kaffir lime leaves until aromatic about 1-2 
 
 Add the spice paste and cook for another 5-6 minutes, stirring occasionally
 
-Add 2 lb chuck (1.5”cubes, s\&p) and coat with the spices. Brown
+Add 2 lb chuck (1.5”cubes, s&p) and coat with the spices. Brown
 
 Add ½ C water and 1.5T brown sugar then deglaze
 
-35m \+ 10m release
+35m + 10m release
 
 Add 14oz coconut milk, sautee stirring 15m
 
@@ -9972,8 +8660,6 @@ Serve over rice
 - **Ingredients:** Ribs (to taste), Mustard (to taste), Dry rub (to taste), BBQ sauce (to taste)
 
 ### Blueprint
-# Ribs
-
 Indirect, 250, oak & cherry?, blue smoke  
 Remove membrane (bone side)  
 Mustard, dry rub, wait 15m
@@ -9995,8 +8681,6 @@ Rest 10m
 - **Ingredients:** kidney beans, to taste, allspice, to taste, ginger, to taste, salt, to taste, thyme, to taste, scallion, to taste, 1/2 red onion, 2 cloves garlic, 1.25 cups rice, coconut milk, to taste, water, to taste
 
 ### Blueprint
-## Rice & peas
-
 Kidney beans, allspice, ginger, salt  
 Thyme, scallion, ½ red onion, 2 garlic  
 1.25 cup rice  
@@ -10016,8 +8700,6 @@ Cook in mix of coconut milk & water
 - **Ingredients:** 1 whole chicken, 6 tbsp olive oil, divided (1/4 cup + 2 tbsp), 3 tbsp honey, divided (1 tbsp + 2 tbsp), 1 tbsp lemon juice, Kosher salt to taste, Black pepper to taste, Fresh rosemary sprigs and leaves, Fresh thyme sprigs and leaves, Lemon peel to taste, 2 cloves garlic, Sliced onions to taste, 1/2 cup white wine, 1/4 cup chicken broth
 
 ### Blueprint
-# [Roast Chicken](https://toriavey.com/toris-kitchen/honey-herb-roasted-chicken/)
-
 400  
 Basting Mix: ¼ cup olive oil, T honey, T lemon juice   
 Pat chicken dry
@@ -10041,10 +8723,10 @@ Remove foil, 375 , **25m**
 remove , rest covered **15m**
 
 Make sauce  
-Strain pan drippings \-\> sauce pan.    
+Strain pan drippings -> sauce pan.    
 Skim ½ of fat  
 ½ cup white wine, ¼ cup chicken broth, 2 T honey  
-Medium heat \-\> boil, simmer 2m, whisking, s\&p
+Medium heat -> boil, simmer 2m, whisking, s&p
 
 ---
 
@@ -10058,9 +8740,7 @@ Medium heat \-\> boil, simmer 2m, whisking, s\&p
 - **Ingredients:** split chicken breast with rib, to taste, olive oil, to taste, rosemary, to taste, thyme, to taste, paprika, to taste, garlic, to taste, onion, to taste, salt, to taste, black pepper, to taste, carrots, to taste, brussels sprouts, to taste, broccoli, to taste, delicata squash, to taste
 
 ### Blueprint
-# Roast Chicken & Veg
-
-O.o. \+ season split chicken breast \+ rib, 425 for 40m \- rosemary, thyme, paprika, garlic, onion, s\&p  
+O.o. + season split chicken breast + rib, 425 for 40m - rosemary, thyme, paprika, garlic, onion, s&p  
 Carrots (20m), brussels (25), broccoli (15), delicata (22)  
 Turn veg halfway
 
@@ -10076,8 +8756,6 @@ Turn veg halfway
 - **Ingredients:** 3 lb pork butt, 1 cup kosher salt, 1/2 cup sugar, 2 tbsp fresh rosemary, divided, 1 tbsp fresh thyme, 1 tbsp fennel seeds, 1 tbsp red pepper flakes, divided, 2 heads garlic, 3 cloves garlic, 2 tbsp honey, 1.5 lb broccoli rabe, olive oil to taste, 1 tbsp lemon juice, salt to taste, 4 sesame rolls, provolone cheese to taste, pepperoncini to taste, long hot peppers to taste, roasted bell peppers to taste
 
 ### Blueprint
-# [Roast Pork Sandwich](https://www.tastingtable.com/686337/roast-pork-sandwich-recipe-philadelphia/)
-
 3lb Pork butt  
 Cup kosher Salt / ½ cup sugar/ T fresh rosemary / T fresh thyme / T fennel seeds / ½ T red pepper
 
@@ -10085,45 +8763,15 @@ Mix that up, rub it on the butt, cover and refrigerate over night
 
 450 oven  
 Rinse and dry pork, wire rack, 2 garlic heads in foil, 15m  
-275 \- 1 hour (to 140\)  
-450 \- squeeze roasted garlic out, mix with T rosemary \+ 2T honey  
+275 - 1 hour (to 140\)  
+450 - squeeze roasted garlic out, mix with T rosemary + 2T honey  
 Rub that on pork and roast 15m more  
 LET COOL COMPLETELY (cover for 30m).  Slice super thin
 
-Broccoli Rabe \- o.o. MH, 3 garlic 1m, ½ T red pepper, 30 sec.  1.5 lb Broccoli 6m, T lemon juice, salt
+Broccoli Rabe - o.o. MH, 3 garlic 1m, ½ T red pepper, 30 sec.  1.5 lb Broccoli 6m, T lemon juice, salt
 
-4 Sesame rolls \- broil provolone (or 450 5m \+ warm the pork next to it)  
-Add pepperoncini, long hots \- even roast bell peppers
-
----
-
-## Roast Potatoes (`rec_roast_potatoes_b0369c`)
-- **Type:** side (starch)
-- **Cuisine:** Middle Eastern | **Effort:** Medium
-- **Seasons:** autumn, winter, spring
-- **Vibe:** herby, tangy, earthy, savory
-- **Dietary:** vegan, vegetarian, dairy-free, gluten-free
-- **Times (min):** Prep: 20, Cook: 45, Oven: 45
-- **Source:**  (https://food52.com/recipes/7952-a-medley-of-roasted-potatoes-with-homemade-za-atar-aleppo-pepper)
-- **Ingredients:** 2 lb fingerling potatoes, cut into bite-size pieces, 3 tbsp za'atar, 1.5 tbsp paprika, 1/4 tsp cayenne pepper, Juice of 1.5 lemons, 3 tbsp olive oil, plus extra for sauteing, 1 lb brussels sprouts, sliced, 2 cloves garlic, 1 tbsp poppy seeds, 1/4 cup white wine, salt and pepper to taste
-
-### Blueprint
-## [Roast Potatoes](https://food52.com/recipes/7952-a-medley-of-roasted-potatoes-with-homemade-za-atar-aleppo-pepper) 
-
-2 lb fingerling potatoes \-\> bite size  
-3T za’atar  
-1.5T paprika \+ 1/4t cayenne  
-Juice of 1 Lemon   
-3T olive oil
-
-400 x 45
-
-[Brussels Sprouts](https://food52.com/recipes/25786-union-square-cafe-s-hashed-brussels-sprouts-with-poppy-seeds-lemon)
-
-Slice lb sprouts, toss with ½ lemon of juice  
-O.o. HIGH heat, sautee sprouts with 2 garlic & T poppy seeds (chia?)  
-Add ¼ c white wine, 3m  
-Reduce to low, s\&p, 1m.
+4 Sesame rolls - broil provolone (or 450 5m + warm the pork next to it)  
+Add pepperoncini, long hots - even roast bell peppers
 
 ---
 
@@ -10138,20 +8786,46 @@ Reduce to low, s\&p, 1m.
 - **Ingredients:** Russet or Yukon Gold potatoes, 1/2 tsp baking soda, 2 tbsp salt, oil or beef fat to taste, rosemary to taste, garlic to taste, black pepper to taste, parsley to taste, salt and black pepper to taste
 
 ### Blueprint
-# [Roast Potatoes](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
-
 Russet or yukon gold into 2-3” chunks  probably quarter yukons and ⅛ russets  
 450 or 400 convection  
 Boil water with ½ t baking soda and 2T salt  
 Add potatoes, 10m (until easily pierceable)
 
-Saucepan \- oil, beef fat, rosemary, garlic, pepper. 3m, strain oil into bowl, keep solids in other bowl
+Saucepan - oil, beef fat, rosemary, garlic, pepper. 3m, strain oil into bowl, keep solids in other bowl
 
-Drain potatoes, give them 30sec to dry, mix with oil, more s\&p, shake roughly (you want to roughen them up)
+Drain potatoes, give them 30sec to dry, mix with oil, more s&p, shake roughly (you want to roughen them up)
 
 Baking sheet 20m, turn, 30-40m longer (until right color). 
 
-Add aromatic solids \+ parsley, more s\&p, serve
+Add aromatic solids + parsley, more s&p, serve
+
+---
+
+## Roast Potatoes & Brussels (`rec_roast_potatoes_b0369c`)
+- **Type:** side (starch)
+- **Cuisine:** Middle Eastern | **Effort:** Medium
+- **Seasons:** autumn, winter, spring
+- **Vibe:** herby, tangy, earthy, savory
+- **Dietary:** vegan, vegetarian, dairy-free, gluten-free
+- **Times (min):** Prep: 20, Cook: 45, Oven: 45
+- **Source:**  (https://food52.com/recipes/7952-a-medley-of-roasted-potatoes-with-homemade-za-atar-aleppo-pepper)
+- **Ingredients:** 2 lb fingerling potatoes, cut into bite-size pieces, 3 tbsp za'atar, 1.5 tbsp paprika, 1/4 tsp cayenne pepper, Juice of 1.5 lemons, 3 tbsp olive oil, plus extra for sauteing, 1 lb brussels sprouts, sliced, 2 cloves garlic, 1 tbsp poppy seeds, 1/4 cup white wine, salt and pepper to taste
+
+### Blueprint
+2 lb fingerling potatoes -> bite size  
+3T za’atar  
+1.5T paprika + 1/4t cayenne  
+Juice of 1 Lemon   
+3T olive oil
+
+400 x 45
+
+[Brussels Sprouts](https://food52.com/recipes/25786-union-square-cafe-s-hashed-brussels-sprouts-with-poppy-seeds-lemon)
+
+Slice lb sprouts, toss with ½ lemon of juice  
+O.o. HIGH heat, sautee sprouts with 2 garlic & T poppy seeds (chia?)  
+Add ¼ c white wine, 3m  
+Reduce to low, s&p, 1m.
 
 ---
 
@@ -10166,9 +8840,7 @@ Add aromatic solids \+ parsley, more s\&p, serve
 - **Ingredients:** carrots to taste, brussels sprouts to taste, butternut squash to taste, cauliflower to taste, parsnips to taste, olive oil to taste, salt and pepper to taste, sage to taste, thyme to taste, rosemary to taste, chicken legs to taste, mustard to taste, red pepper flakes to taste, 1 cup chicken broth
 
 ### Blueprint
-## [Roast Veg](https://www.foodandwine.com/recipes/roasted-vegetables-fresh-herbs)
-
-Carrots, brussels, butternut squash, cauliflower, parsnips, o.o., s\&p  
+Carrots, brussels, butternut squash, cauliflower, parsnips, o.o., s&p  
 Sage, thyme, rosemary, put some chicken legs on top, just for the juice\! mustard/thyme/red pepper  
 425 for 30min, turn halfway through  
 Cup chicken broth, 20m more
@@ -10186,8 +8858,6 @@ Cup chicken broth, 20m more
 - **Ingredients:** carrots to taste, zucchini to taste, mushroom to taste, potato to taste, sage to taste, thyme to taste, rosemary to taste, garlic to taste
 
 ### Blueprint
-## [Roast Veg](https://www.foodandwine.com/recipes/roasted-vegetables-fresh-herbs)
-
 Carrots, zucchini, mushroom, potato  
 Sage, thyme, rosemary, garlic, 425 for 30min, turn halfway through
 
@@ -10203,13 +8873,11 @@ Sage, thyme, rosemary, garlic, 425 for 30min, turn halfway through
 - **Ingredients:** pepper to taste, garlic bread to taste
 
 ### Blueprint
-## Roast a pepper
-
 Cut in half, clean  
 450, **20m**  
 Cool, covered, **10m**, remove skin, slice
 
-Garlic bread \- broil **2m**
+Garlic bread - broil **2m**
 
 ---
 
@@ -10223,9 +8891,7 @@ Garlic bread \- broil **2m**
 - **Ingredients:** carrots to taste, olive oil to taste, s&p to taste, oregano to taste, thyme to taste, parsley to taste
 
 ### Blueprint
-## Roast carrots
-
-Olive oil, s\&p, oregano, thyme  
+Olive oil, s&p, oregano, thyme  
 **30m** @ 400, covered.  
 parsley
 
@@ -10242,9 +8908,7 @@ parsley
 - **Ingredients:** cauliflower to taste, 2 tbsp olive oil, 2 tsp cumin, salt and pepper to taste, 1/4 cup tahini, 2 cloves garlic, juice of 1/2 lemon, 1/4 cup water, salt to taste
 
 ### Blueprint
-## [Roasted Cauliflower](https://www.saveur.com/article/Recipes/Roasted-Cauliflower-with-Tahini-Sauce/) 
-
-2T o.o., 2t cumin, S\&P, cauliflower  
+2T o.o., 2t cumin, S&P, cauliflower  
 25-30m @ 500  
 Sauce: ¼ cup tahini, 2 garlic, juice of ½ lemon, ¼ cup water, salt
 
@@ -10261,12 +8925,10 @@ Sauce: ¼ cup tahini, 2 garlic, juice of ½ lemon, ¼ cup water, salt
 - **Ingredients:** 1 lb sweet potatoes, sliced 1/8-inch thick, 3 cloves garlic, 1/2 cup shallots, 5 tbsp olive oil (plus more to taste), salt and pepper, to taste, 6 oz spinach, 24 oz fish filets, 2 tbsp parsley, 2 tbsp capers, 1 tbsp white wine vinegar
 
 ### Blueprint
-# [Roasted Fish & Sweet potatoes](https://www.marthastewart.com/1532523/roasted-sea-bass-sweet-potatoes-spinach-and-salsa-rustica)
-
 425  
-1lb Sweet potatoes ⅛” thick, 3 garlic, ½ cup shallot, 2T o.o. , s\&p  
+1lb Sweet potatoes ⅛” thick, 3 garlic, ½ cup shallot, 2T o.o. , s&p  
 **25-30m**  
-6 oz spinach, oil, s\&p on top  
+6 oz spinach, oil, s&p on top  
 24 oz Fish filets on top, patted dry  
 **12m**  
 dressing (2T Parsley, 2T capers, T white wine vinegar, 3T o.o.)
@@ -10283,8 +8945,6 @@ dressing (2T Parsley, 2T capers, T white wine vinegar, 3T o.o.)
 - **Ingredients:** potatoes, to taste, zucchini, to taste, onion, to taste, olive oil, to taste, salt, to taste, oregano, to taste, rosemary, to taste, garlic, to taste
 
 ### Blueprint
-## Roasted Potatoes & Zucchini
-
 cut potatoes & zucc into wedges, slice onion  
 o.o. salt, oregano, rosemary, garlic
 
@@ -10303,10 +8963,8 @@ o.o. salt, oregano, rosemary, garlic
 - **Ingredients:** salmon to taste, olive oil to taste, 1 tsp cumin, 1 tsp chile powder, lime zest to taste, 1.5 tsp salt, lime juice to taste, asparagus to taste, tortillas to taste, pineapple to taste, jalapeno to taste, 1/2 onion, juice of 1 lime, cilantro to taste, sour cream or mayo to taste, cabbage to taste, avocado to taste
 
 ### Blueprint
-# [Roasted Salmon Tacos](https://www.purewow.com/recipes/roasted-salmon-tacos)
-
 Salmon, o.o., t cumin, t chile, lime zest, 1.5 t salt, lime juice  
-425 12-15m \-\> bite size strips
+425 12-15m -> bite size strips
 
 Also roast asparagus, lime, o.o., seasoning mix at same time
 
@@ -10331,50 +8989,10 @@ Sour cream / mayo, lime juice, chile
 - **Ingredients:** brussels sprouts, halved, bacon, cut into 1-inch pieces, olive oil to taste, salt to taste, black pepper to taste
 
 ### Blueprint
-## Roasted brussels w bacon \- 
-
-Halve the sprouts, 1” bacon, o.o., s\&p  
+Halve the sprouts, 1” bacon, o.o., s&p  
 30m @ 400, flip in the middle
 
 Potato salad
-
----
-
-## Ropa Vieja (`rec_ropa_vieja_f1a80d`)
-- **Type:** main (stew)
-- **Cuisine:** Cuban | **Effort:** Medium
-- **Seasons:** autumn, winter
-- **Vibe:** savory, rich, comforting, tangy, aromatic
-- **Dietary:** dairy-free, gluten-free
-- **Times (min):** Prep: 20, Cook: 115, Oven: 90
-- **Source:**  (https://www.seriouseats.com/ropa-vieja-cuban-latin-american-beef-stew-recipe)
-- **Ingredients:** 2.5 lb flank steak, salt to taste, black pepper to taste, oil as needed, 1 yellow onion, 3 bell peppers, 8 cloves garlic, 1 tbsp tomato paste, 1 tsp cumin, 1 tsp oregano, 1/2 tsp allspice, 1/2 cup white wine, 14 oz canned peeled tomatoes, 1 cup chicken stock (plus extra to cover), 2 bay leaves, 1 carrot, 1 celery stalk, 1/2 cup pimento-stuffed olives, sliced, cilantro to taste
-
-### Blueprint
-# [Ropa Vieja](https://www.seriouseats.com/ropa-vieja-cuban-latin-american-beef-stew-recipe)
-
-cut 2.5 lb flank steak into big pieces (cover bottom of pan)  
-S\&P steak, MH oil, brown steak 6m, set aside
-
-add yellow onion & 3 bell pepper, scrape, 8m  
-8 garlic, 1m don't burn
-
-T tomato paste, t cumin, t oregano, 1/2 t allspice, 1m
-
-1/2 cup white wine, simmer & scrape, 2m  
-14 oz canned peeled tomatoes \+ cup chicken stock  
-return beef \+ juices to pot & nestle in.
-
-2 bay leaves, 1 carrot cut down the middle, 1 celery cut down the middle, cover with stock
-
-COVER, 350, 1.5 hr
-
-remove bay leaf, carrot, celery   
-shred beef & return
-
-add 1/2 cup pimento olives sliced, simmer to reduce sauce to glaze, s\&p cilantro
-
-[rice](#cuban-rice) & [beans](#cuban-beans)
 
 ---
 
@@ -10389,10 +9007,8 @@ add 1/2 cup pimento olives sliced, simmer to reduce sauce to glaze, s\&p cilantr
 - **Ingredients:** 2.5 lb flank steak, salt to taste, pepper to taste, cooking oil to taste, 1 yellow onion, 3 bell peppers, 8 cloves garlic, 1 tbsp tomato paste, 1 tsp cumin, 1 tsp oregano, 1/2 tsp allspice, 1/2 cup white wine, 14 oz canned peeled tomatoes, 1 cup plus extra to cover chicken stock, 2 bay leaves, 1 carrot, 1 rib celery, 1/2 cup pimento olives, sliced, cilantro to taste
 
 ### Blueprint
-# [Ropa Vieja](https://www.seriouseats.com/ropa-vieja-cuban-latin-american-beef-stew-recipe)
-
 cut 2.5 lb flank steak into big pieces (cover bottom of pan)  
-S\&P steak, MH oil, brown steak 6m, set aside
+S&P steak, MH oil, brown steak 6m, set aside
 
 add yellow onion & 3 bell pepper, scrape, 8m  
 8 garlic, 1m don't burn
@@ -10400,8 +9016,8 @@ add yellow onion & 3 bell pepper, scrape, 8m
 T tomato paste, t cumin, t oregano, 1/2 t allspice, 1m
 
 1/2 cup white wine, simmer & scrape, 2m  
-14 oz canned peeled tomatoes \+ cup chicken stock  
-return beef \+ juices to pot & nestle in.
+14 oz canned peeled tomatoes + cup chicken stock  
+return beef + juices to pot & nestle in.
 
 2 bay leaves, 1 carrot cut down the middle, 1 celery cut down the middle, cover with stock
 
@@ -10410,7 +9026,7 @@ COVER, 350, 1.5 hr
 remove bay leaf, carrot, celery   
 shred beef & return
 
-add 1/2 cup pimento olives sliced, simmer to reduce sauce to glaze, s\&p cilantro
+add 1/2 cup pimento olives sliced, simmer to reduce sauce to glaze, s&p cilantro
 
 ---
 
@@ -10425,16 +9041,14 @@ add 1/2 cup pimento olives sliced, simmer to reduce sauce to glaze, s\&p cilantr
 - **Ingredients:** 3/4 lb red potatoes, halved, Rosemary to taste, Garlic to taste, Salt to taste, Red pepper to taste, 2 lemons (juiced, halves reserved), 2 tbsp olive oil, 4 bone-in chicken breasts (1/2 lb each), 10 oz crimini mushrooms, halved
 
 ### Blueprint
-# [Rosemary Chicken](https://www.foodnetwork.com/recipes/food-network-kitchen/skillet-rosemary-chicken-recipe-2104751)
-
 450 oven  
-¾ lb red potatoes, halved in cold salted water \- bring to boil MH and cook 8 more minutes. Drain
+¾ lb red potatoes, halved in cold salted water - bring to boil MH and cook 8 more minutes. Drain
 
-Rosemary, garlic, salt, red pepper \-\> paste \+ juice of 1 lemon \+ 2T o.o.     
+Rosemary, garlic, salt, red pepper -> paste + juice of 1 lemon + 2T o.o.     
 Coat 4 bone-in chicken breasts (½ lb each)
 
 MH skillet, skin down chicken cover, 5 m.  Turn chicken  
-10 oz crimini mushrooms, halved \+ potatoes \+ juice of a lemon \+ rosemary & juiced lemon halves
+10 oz crimini mushrooms, halved + potatoes + juice of a lemon + rosemary & juiced lemon halves
 
 Oven uncovered 20-25m
 
@@ -10451,17 +9065,15 @@ Oven uncovered 20-25m
 - **Ingredients:** salmon fillets, olive oil, to taste, 1 tbsp paprika, 1 tbsp brown sugar, kosher salt, to taste, black pepper, to taste, sandwich rolls, mayonnaise, to taste, fresh dill, to taste, fresh chives, to taste, lettuce, to taste, tomato, to taste, cucumber, to taste, flaky sea salt, to taste, lemon, to taste, kale, to taste
 
 ### Blueprint
-# [Salmon Sandwich](https://www.marthastewart.com/1151543/grilled-salmon-sandwiches-herbed-mayonnaise)
-
 rub salmon with o.o. Both sides  
-T Paprika, T brown sugar, kosher salt, pepper \-\> rub on  
+T Paprika, T brown sugar, kosher salt, pepper -> rub on  
 Grill M-H, **2-3m/side**
 
 Grill rolls, **1m**  
-Mayo \+ herbs (dill, chives,...)  
-Lettuce, tomato, cucumber, flaky S\&P, lemon
+Mayo + herbs (dill, chives,...)  
+Lettuce, tomato, cucumber, flaky S&P, lemon
 
-Kale chips \-o.o. \+ salt  275 for **20m**
+Kale chips -o.o. + salt  275 for **20m**
 
 ---
 
@@ -10476,11 +9088,9 @@ Kale chips \-o.o. \+ salt  275 for **20m**
 - **Ingredients:** salmon, kosher salt to taste, black pepper to taste, shallot, sliced, 1 orange (zest divided, juiced), 1 lemon (zest divided, juiced), olive oil (1 tbsp plus 1/2 cup), 1/2 cup cilantro, chopped, 1/2 cup parsley, chopped, 1 garlic clove, 1/2 tsp paprika
 
 ### Blueprint
-# [Salmon w citrus salsa verde](https://www.bonappetit.com/recipe/roasted-salmon-salsa-verde)
+Season salmon with kosher s&p
 
-Season salmon with kosher s\&p
-
-Mix Sliced shallot, ½ orange zest, ½ lemon zest, T olive oil \-\> coat salmon
+Mix Sliced shallot, ½ orange zest, ½ lemon zest, T olive oil -> coat salmon
 
 250 x 32m
 
@@ -10501,18 +9111,16 @@ Salt just before spooning on top of fish
 - **Ingredients:** 14 oz sweet potatoes, 1/2" cubed, 2 zucchini, 1/2" cubed, oil, to taste, salt and pepper, to taste, salmon filets, paprika, to taste, allspice, to taste, 3 oz olives, 1/2 bunch mint, 4 tbsp olive oil, divided, 1 lemon, halved and juiced, 1 clove garlic, 1/2 avocado
 
 ### Blueprint
-# [Salmon w sweet potato & Zucchini](https://www.taste.com.au/recipes/salmon-sweet-potatoes-zucchini/5cbfb467-499f-47e0-8541-2710d5f4dc35)
-
 425  
-14 oz sweet potatoes, ½”cube, oil, s\&p,. Roast **10m**  
-Add 2 zucchini, ½” cubed, o.o. s\&p, **10m more** 
+14 oz sweet potatoes, ½”cube, oil, s&p,. Roast **10m**  
+Add 2 zucchini, ½” cubed, o.o. s&p, **10m more** 
 
-Skillet H oil, Salmon filets, s\&p, paprika, allspice, **3m/side**, turn off heat and leave in pan for **5m**
+Skillet H oil, Salmon filets, s&p, paprika, allspice, **3m/side**, turn off heat and leave in pan for **5m**
 
-Salsa \- 3 oz olive, ½ bunch mint, 2T o.o. \-\> food processor  
+Salsa - 3 oz olive, ½ bunch mint, 2T o.o. -> food processor  
 Juice of half lemon, T oil, 1 garlic, process more
 
-Take half of it to bowl, other half lemon juice, T o.o., ½ avocado, s\&p  
+Take half of it to bowl, other half lemon juice, T o.o., ½ avocado, s&p  
 Put other half over vegetables
 
 Veg, salmon, salsa
@@ -10530,10 +9138,8 @@ Veg, salmon, salsa
 - **Ingredients:** oil as needed, 4 shallots, 2 cloves garlic, 2 red chiles, 1 inch galangal (or 1 inch ginger + 1/8 tsp lemon juice), 2 bay leaves, 1 lb green beans, cut into 1-inch pieces, tomato wedges, to taste, 5 oz water, 5 oz coconut milk, 1 tsp brown sugar, 1/2 tsp salt, plus more to taste, 1 cup rice, 1/2 cup water, 1/2 cup coconut milk
 
 ### Blueprint
-## [Sambal goreng buncis](http://www.belindo.com/indonesia/indonesian-recipes/vegetables-and-salads/sambal-goreng-buncis/191)
-
 Skillet ML, oil  
-4 shallots, 2 garlic, 2 red chiles, 1” galangal (ginger \+ ⅛ t lemon juice), 2 bay leaves **5m**
+4 shallots, 2 garlic, 2 red chiles, 1” galangal (ginger + ⅛ t lemon juice), 2 bay leaves **5m**
 
 M heat, lb green beans cut 1”, tomato wedges, **2m**  
 5 oz water, 5 oz coconut milk, t brown sugar, ½ t salt, boil, ML heat, cover and simmer **15-20m**  
@@ -10555,16 +9161,14 @@ Add ½ c water, ½ cup coconut milk boil, stir, low heat, cover, **20m**
 - **Ingredients:** Chicken wings, separated into flats and drumettes (tips discarded), Salt and black pepper to taste, Cornstarch (or baking powder), as needed, Cooking oil for deep-frying, as needed, 6 cloves garlic, minced, 1 tbsp ginger, minced, 6 Thai chilis, sliced, 1/2 cup honey, 1/4 cup soy sauce, 1 tbsp rice vinegar, Green onions, sliced to taste
 
 ### Blueprint
-# San tung wings
-
 Separate to drums and flats, discard tips  
-Dry wings, s\&p. Cornstarch (or baking powder)  put on a rack and refrigerate for hours  
-Wok oil \-\> 325, 8m, moving around  
+Dry wings, s&p. Cornstarch (or baking powder)  put on a rack and refrigerate for hours  
+Wok oil -> 325, 8m, moving around  
 Rack and cool  
-Oil to 400, 2m \-\> rack
+Oil to 400, 2m -> rack
 
 Sauce\!  Sautee 6 Garlic, 1T ginger, 6 thai chili,  
-½ cup honey, ¼ cup soy, T rice vinegar \-\> syrupy
+½ cup honey, ¼ cup soy, T rice vinegar -> syrupy
 
 Green onions
 
@@ -10580,18 +9184,16 @@ Green onions
 - **Ingredients:** ciabatta rolls, provolone cheese, tri-tip steak, red onion, olive oil to taste, salt to taste, black pepper to taste, 2 tsp brown sugar, 1 tsp balsamic vinegar, 1/2 cup sour cream, 2 tbsp prepared horseradish, 2 tbsp mayonnaise, 1 tsp apple cider vinegar, 1 tbsp fresh chives, minced
 
 ### Blueprint
-# [Santa Barbara tri-tip sandwich](https://www.spoonforkbacon.com/grilled-tri-tip-sandwiches/)
-
 broil provolone on ciabatta  
 steak, caramelized red onion, horseradish suace
 
-red onion \- low heat o.o., salt, onion, 40m  
+red onion - low heat o.o., salt, onion, 40m  
 add 2t brown sugar, 1t balsamic, 5m more, stirring
 
-sauce \- 1/2 cup sour cream, 2T horseradish, 2T mayo  
+sauce - 1/2 cup sour cream, 2T horseradish, 2T mayo  
 t apple cider vinegar  
 T chives  
-s\&p
+s&p
 
 ---
 
@@ -10605,12 +9207,10 @@ s\&p
 - **Ingredients:** sausages to taste, 1 1/2 cups white wine, cooking oil to taste, 1 onion, roasted red pepper to taste, oregano to taste, 1 can cannellini beans, salad greens to taste, Parmesan cheese to taste, lemon to taste
 
 ### Blueprint
-# [Sausage & Beans](https://www.delicious.com.au/recipes/chicken-sausages-white-wine-beans/b5de7b45-0a77-448f-9bb0-5393396edcb6?current_section=recipes)
-
 fork sausages, cook with ½ cup  white wine,   
 M heat, covered, **5m**  
 MH heat, uncovered, **3m**  
-Halve them, cook cut side down **1m** \-\> remove
+Halve them, cook cut side down **1m** -> remove
 
 Oil, onion, **5m**  
 Roasted Red pepper, cup wine, oregano, can of cannellini **5m**  
@@ -10631,30 +9231,14 @@ Parmesan, lemon
 - **Ingredients:** 3 tbsp olive oil, divided, 1 lb red potatoes, halved, salt to taste, pepper to taste, 2 tsp thyme, 4 chicken sausages, 1 onion, sliced, 3 cloves garlic, 1 bunch kale leaves, chopped, 1 lemon
 
 ### Blueprint
-# [Sausage Kale & Potato](https://themodernproper.com/sausage-kale-and-potato-skillet-dinner)
-
 2T o.o., M-H skillet  
-1 lb red potato halves (cut side down) \- no stir until golden.  Stir, get all sides crispy (**7m**?)  
-s\&p, 2t thyme  
+1 lb red potato halves (cut side down) - no stir until golden.  Stir, get all sides crispy (**7m**?)  
+s&p, 2t thyme  
 Add T o.o., 4 chicken sausage, **5m**  
 Add sliced onion, **5m**  
 Add 3 garlic, **1m**  
 Add bunch kale leaves, chopped **3m**  
 Squeeze lemon, & serve
-
----
-
-## Sausage \- grill 5m \+ 5m (`rec_sausage_grill_5m_5m_af3389`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Low
-- **Seasons:** summer
-- **Vibe:** savory, smoky, meaty
-- **Dietary:** dairy-free, gluten-free
-- **Times (min):** Prep: 2, Cook: 10, Oven: 0
-- **Ingredients:** sausages
-
-### Blueprint
-## Sausage \- grill 5m \+ 5m
 
 ---
 
@@ -10668,10 +9252,8 @@ Squeeze lemon, & serve
 - **Ingredients:** fennel to taste, 2 sweet potatoes, olive oil to taste, salt and pepper to taste, sausage to taste, red onion to taste, balsamic vinegar to taste
 
 ### Blueprint
-# Sausage tray
-
 Cut up fennel, 2 sweet potatoes  
-O.o. s\&p  
+O.o. s&p  
 20m @ 400  
 Add cut up sausage, red onion, balsamic.  20m more
 
@@ -10688,11 +9270,9 @@ Add cut up sausage, red onion, balsamic.  20m more
 - **Ingredients:** 1 cup milk, 1 tbsp lemon juice, 2 oz chorizo, olive oil, 12 scallions (white and pale green parts), sliced, 4 cloves garlic, 1 chile, 1 tbsp olive oil, 3/4 tsp salt, kernels from 3 ears corn (12 oz), 1/3 cup cilantro, salt to taste, scallops, 2 tbsp butter, lime
 
 ### Blueprint
-# [Scallops with Corn & Chorizo](https://www.bonappetit.com/recipe/pan-seared-scallops-with-chorizo-and-corn) 
+Make buttermilk - 1 cup milk, 1 T lemon, wait 5 minutes.
 
-Make buttermilk \- 1 cup milk, 1 T lemon, wait 5 minutes.
-
-Chop 2 oz chorizo, cook **2m** in oil on M heat \-\> reserve oil put keep chorizo in there.  
+Chop 2 oz chorizo, cook **2m** in oil on M heat -> reserve oil put keep chorizo in there.  
 12 scallions sliced (white & pale green parts), 4 garlic, 1 chile, 1 Tbsp. olive oil, and ¾ tsp. Salt **2m**  
 Add Kernels from 3 ears corn (12 oz) **6m**  
 Remove from heat, cool in pan **5m**  
@@ -10702,20 +9282,6 @@ New pan: Salt scallops, add T olive oil to chorizo oil, M-H heat **3m**
 M-L, turn, add 2T butter, 30s, basteing?
 
 Put scallops on top of corn mix.  Lime.
-
----
-
-## Schnitzel (`rec_schnitzel_3319c2`)
-- **Type:** main (standard)
-- **Cuisine:** Austrian | **Effort:** Medium
-- **Seasons:** autumn, winter, spring, summer
-- **Vibe:** crispy, savory, rich, comforting
-- **Dietary:** nut-free
-- **Times (min):** Prep: 20, Cook: 10, Oven: None
-- **Ingredients:** 4 veal or pork cutlets (about 5-6 oz each), 1/2 cup all-purpose flour, 2 large eggs, 1 cup fine dry breadcrumbs, Salt to taste, Freshly ground black pepper to taste, Neutral oil or clarified butter for frying, Lemon wedges for serving
-
-### Blueprint
-# Schnitzel
 
 ---
 
@@ -10730,8 +9296,6 @@ Put scallops on top of corn mix.  Lime.
 - **Ingredients:** 2 tbsp soy sauce, 1 tbsp white vinegar, 1/2 tsp red pepper flakes, 13 green onions, 1 tsp sesame seeds, 2 tbsp cooking oil (plus more for flipping), 5 oz seafood, salt and pepper to taste, 1/2 cup all-purpose flour, 1 tbsp potato starch, 1/2 tsp kosher salt, 3/4 cup stock or water, 1 red pepper, sliced, 1 egg, beaten, mushrooms to taste, spinach to taste, sesame oil to taste, garlic to taste, sugar to taste
 
 ### Blueprint
-# [Seafood Pancake](https://www.maangchi.com/recipe/haemul-pajeon)
-
 To go with costco spareribs
 
 Dipping sauce  
@@ -10739,14 +9303,14 @@ Dipping sauce
 
 heat 2T oil, MH
 
-seafood, pinch of s\&p  
+seafood, pinch of s&p  
 whisk: 1/2 cup flour, T potato starch, 1/2 t kosher salt, 3/4 cup stock/water   
 add 12 trimmed green onions, add 5 oz seafood, add sliced red pepper,   
 throw in skillet, pour beaten egg on top  
 M heat, 6m.  Flip with big spatula, a little more oil under it, 3m  
 flip again, MH, 1m
 
-Side dish: just sautee mushrooms & spinach in sesame / garlic / s\&p / soy / sugar
+Side dish: just sautee mushrooms & spinach in sesame / garlic / s&p / soy / sugar
 
 ---
 
@@ -10761,19 +9325,17 @@ Side dish: just sautee mushrooms & spinach in sesame / garlic / s\&p / soy / sug
 - **Ingredients:** tuna steaks, cooking oil to taste, salt and pepper to taste, salad greens, lime juice to taste, avocado, cucumber, scallions, toasted sesame seeds, 1 tsp rice wine vinegar, 2 tsp sesame oil, 1/2 tsp ginger, 1/2 tsp wasabi, 1 tbsp rice wine vinegar, 1 tbsp soy sauce, 3 tbsp olive oil
 
 ### Blueprint
-# [Seared Yellowfin Tuna salad](https://www.yummly.com/recipe/Grilled-Tuna-Steak-Salad-With-Wasabi-Vinaigrette-_yellowfin-Tuna-Recipe_-9097791#directions)
-
 oil grill HIGH heat
 
-s\&p tuna steaks  
+s&p tuna steaks  
 sear 90 sec / side
 
 salad greens, work lime juice in
 
-avocado, cucumber, scallions, toasted sesame seeds \- dress with  
+avocado, cucumber, scallions, toasted sesame seeds - dress with  
 t rice wine vinegar, 2t sesame oil, 1/2 t ginger
 
-dressing \- 1/2 t wasabi, T rice wine vinegar, T soy sauce, 3 T o.o.
+dressing - 1/2 t wasabi, T rice wine vinegar, T soy sauce, 3 T o.o.
 
 ---
 
@@ -10787,14 +9349,12 @@ dressing \- 1/2 t wasabi, T rice wine vinegar, T soy sauce, 3 T o.o.
 - **Ingredients:** 1/2 cup plus 2 tbsp soy sauce, 1/2 cup plus 2 tbsp sugar, 1/4 cup mirin, 2.5 lb chicken thighs, white rice, cooked (for serving), iceberg lettuce (for serving), 4 parts tahini, 2 parts rice vinegar, 4 parts oil, 1 part mayo, msg to taste, water as needed
 
 ### Blueprint
-# Seattle Teriyaki Chicken
-
-½ Cup soy sauce, ½ cup sugar, ¼ cup mirin \- simmer to dissolve sugar  
-Marinate 2.5lb chicken thighs 2 hours or less \- reserve 1cup for later  
-Grill, brushing with sauce and flipping \- don’t let sugar burn  
+½ Cup soy sauce, ½ cup sugar, ¼ cup mirin - simmer to dissolve sugar  
+Marinate 2.5lb chicken thighs 2 hours or less - reserve 1cup for later  
+Grill, brushing with sauce and flipping - don’t let sugar burn  
 Chop, serve with more sauce, white rice  
-Iceberg lettuce \+ sesame dressing  
-(4 Tahini, 2 soy, 2 rice vinegar, 2 sugar, 4 oil, 1 mayo \+ msg \+ water as needed)
+Iceberg lettuce + sesame dressing  
+(4 Tahini, 2 soy, 2 rice vinegar, 2 sugar, 4 oil, 1 mayo + msg + water as needed)
 
 ---
 
@@ -10809,8 +9369,6 @@ Iceberg lettuce \+ sesame dressing
 - **Ingredients:** 6 tbsp sesame seeds, 1/4 cup neutral oil, 1 tbsp toasted sesame oil, 3 tbsp soy sauce, 3 tbsp rice vinegar, 2 tbsp mirin, 1.5 tbsp fresh ginger, 2 tbsp water, 10 oz ramen noodles, 1.5 cups cooked shredded chicken, 1 bunch scallions, sliced, chili oil, to taste, julienned cucumber or carrots, to taste
 
 ### Blueprint
-# [Sesame Noodles](https://www.177milkstreet.com/recipes/chicken-scallion-sesame-noodles?allow_token=dedb7956-c0ad-45ec-96c9-245789230cdb&utm_source=Klaviyo&utm_medium=email&utm_campaign=Free%20This%20Week%20-%20NonMembers%20-%20Sesame%20Noodles%20%28XFjeEM%29&triplesource=klaviyo&_kx=Rn5Sob1E1jd8_ggG1A4kE6pbjnZWu12dcBLZkX2u0Wk%3D.Vdqjt7)
-
 toast 6T sesame seeds (3-4 m)  
 blend 5 of these T with 1/4 cup oil, T toasted sesame oil, 3T soy, 3T rice vinegar, 2T mirin, 1.5T fresh ginger, 2T water
 
@@ -10831,12 +9389,10 @@ add 1.5 cups cooked shredded chicken, bunch sliced scallions, sesame dressing, s
 - **Ingredients:** 1/2 cup broth, 1/4 cup soy sauce, 1 tbsp honey, 2 tbsp vegetable oil, 2 tsp sesame oil, 2 tbsp water, 2 tbsp mirin, 3 tbsp rice vinegar, 1 tbsp chili sauce, 3 cloves garlic, 2 tsp ginger, 2 frozen chicken breasts, 1/2 tbsp cornstarch, 1 tbsp water, noodles to taste, scallions to taste, sesame seeds to taste, cucumber to taste, shredded carrot/cabbage to taste, broccoli to taste
 
 ### Blueprint
-## [Cook & shred chicken](https://projectmealplan.com/sesame-shredded-chicken/)
-
 ½ cup broth, ¼ cup soy, T honey, 2T veg oil, 2t sesame, 2T water, 2T mirin, 3T rice vinegar, T chili sauce, 3 garlic, 2t ginger     
 2 frozen chicken breasts   
 Instant pot 15m  
-Remove chicken to shred.   Add ½ T cornstarch \+ T water and sautee \-\> sauce (5m?)
+Remove chicken to shred.   Add ½ T cornstarch + T water and sautee -> sauce (5m?)
 
 Cook noodles  
 Mix, scallions, sesame seeds
@@ -10855,8 +9411,6 @@ Cucumber, shredded carrot/cabbage,  broccoli,...
 - **Ingredients:** 1.5-2 lb filet mignon, cut into 1-inch cubes, 2.5 tsp sugar, divided, 2 tsp salt, divided, 1.5 tsp black pepper, divided, 1 tbsp oil, plus extra for wok, 2 tbsp rice wine vinegar, 2 tbsp mirin, 3 tbsp soy sauce, 1 tsp fish sauce, salt and pepper to taste, 1 red onion, sliced, 3 scallions, chopped, 2 tbsp butter, 2 cloves garlic, chopped, 2 tbsp lime juice, watercress, for serving, to taste, steamed rice, for serving, to taste
 
 ### Blueprint
-# [Shaking Beef](https://www.sfchronicle.com/recipes/article/Recipe-Slanted-Door-s-Shaking-Beef-13750252.php)
-
 Marinate 1.5-2 lb filet mignon in 1” cubes for **2 hours** in
 
 * 1t sugar  
@@ -10871,7 +9425,7 @@ Mix
 * 1.5t  sugar  
 * 3T soy  
 * 1t fish sauce  
-* S\&P
+* S&P
 
 Slice red onion  
 Chop 3 scallions
@@ -10883,7 +9437,7 @@ HIGH heat
 (cook half at a time if needed to keep spacing)
 
 Brown meat for **3m , flip, 1m**  
-Onion \+ scallions **30s**
+Onion + scallions **30s**
 
 Add vinegar mix, SHAKE  
 Add 2T butter and 2 chopped garlic SHAKE 
@@ -10909,8 +9463,6 @@ Serve on watercress, with steamed rice
 - **Ingredients:** 3 lb split chicken legs, 2 lb potatoes, in 1/2-inch slices, 1 lb yellow onion, 1/2-inch sliced, 6 tbsp olive oil, 2 tbsp sumac, plus more for garnish, 2 tsp ground allspice, 2 tsp ground coriander, 1.5 tsp ground cinnamon, 1 tsp ground ginger, 1 tsp ground cardamom, 4 tsp dried oregano, 4 tsp kosher salt, 1 tsp black pepper, lemon, to taste, yogurt, to taste
 
 ### Blueprint
-# [Sheet Pan Musakhan](https://www.seriouseats.com/musakhan-chicken-and-potatoes-recipe-11817701) 
-
 Sheet pan 3lb split chicken legs, 2 lb potatoes in ½“ slices, 1 lb yellow onion, ½” sliced  
 Maybe cook down  the onions a bit on the stove first
 
@@ -10935,9 +9487,7 @@ Sprinkle sumac, serve w lemon and yogurt.  Typically flat bread instead of potat
 - **Ingredients:** 3 Persian cucumbers, deseeded and chopped small, 1/2 red onion, chopped small, 3 tomatoes, chopped small, 4 tbsp lemon juice, 1 tbsp dried mint, 1/2 tsp salt, 1/2 tsp black pepper
 
 ### Blueprint
-## [Shirazi Salad](https://www.unicornsinthekitchen.com/salad-shirazi-persian-cucumber-and-tomato-salad/)
-
-Chop small \- 3 persian cucumbers (deseed), ½ red onion, 3 tomatoes  
+Chop small - 3 persian cucumbers (deseed), ½ red onion, 3 tomatoes  
 4T lemon juice, T dried mint, ½ t salt, ½ t black pepper  
 Chill in fridge an hour
 
@@ -10953,18 +9503,16 @@ Chill in fridge an hour
 - **Ingredients:** 3 lb short ribs, 1 cup soy sauce or broth, 4 tbsp brown sugar or honey, 2 tbsp sesame oil, 2 tbsp rice vinegar, 2 tbsp fresh ginger, minced, 6 cloves garlic, minced, 1 tsp red pepper flakes, 1 cup broth, broccoli, to taste, 1.5 tbsp oil, 1 tsp salt, 1 tsp sugar, garlic, to taste, red pepper flakes, to taste, 1.5 tsp vinegar, black pepper, to taste, carrots, to taste, radish, to taste
 
 ### Blueprint
-# Short Ribs
-
 https\://whatscookinchicago.com/korean-style-short-ribs/  
 https\://mykoreankitchen.com/instant-pot-short-ribs/
 
-coat 3lb ribs in mix 2 hours \- cup soy / broth, 4T brown sugar / honey, 2T sesame oil, 2T rice vinegar, 2T fresh ginger, 6 garlic, t red pepper  
+coat 3lb ribs in mix 2 hours - cup soy / broth, 4T brown sugar / honey, 2T sesame oil, 2T rice vinegar, 2T fresh ginger, 6 garlic, t red pepper  
 brown ribs  
 cup broth  
-25m stew \+ 15m
+25m stew + 15m
 
-steam broccoli \- 1.5T oil, t salt, t sugar, garlic, red pepper, 1.5t vinegar, black pepper  
-saute carrot & radish \- add the cooked sauce
+steam broccoli - 1.5T oil, t salt, t sugar, garlic, red pepper, 1.5t vinegar, black pepper  
+saute carrot & radish - add the cooked sauce
 
 ---
 
@@ -10979,18 +9527,16 @@ saute carrot & radish \- add the cooked sauce
 - **Ingredients:** 8 oz orzo, cooked, olive oil, to taste, 1 onion, sliced, 3 cloves garlic, 1 bell pepper, sliced, 2 carrots, sliced, 12 oz shrimp, spinach, to taste, lemon zest and juice, to taste, salt and pepper, to taste, kalamata olives, sliced, to taste, feta cheese, to taste, parsley, to taste, tomatoes, to taste
 
 ### Blueprint
-# [Shrimp Bowl](https://anoregoncottage.com/greek-style-shrimp-and-orzo/)
-
 8 oz orzo, cooked
 
 Skillet MH, o.o.  
 onion sliced, 5m  
 3 garlic  
-1 Bell pepper, 2 carrots, sliced \-\> crisp-tender  
+1 Bell pepper, 2 carrots, sliced -> crisp-tender  
 12 oz shrimp  
 Spinach  
-Lemon zest \+ juice, s\&p,   
-kalamata sliced \+ feta \+ parsley \+ tomatoes
+Lemon zest + juice, s&p,   
+kalamata sliced + feta + parsley + tomatoes
 
 ---
 
@@ -11003,9 +9549,7 @@ kalamata sliced \+ feta \+ parsley \+ tomatoes
 - **Ingredients:** chicken thighs, to taste, lemon, to taste, olive oil, to taste, salt and pepper, to taste, oregano, to taste, garlic, to taste, 1/2 onion, shallot, to taste, bell pepper, to taste, small tomatoes, to taste, orzo, to taste, pinot grigio, to taste, chicken stock, to cover orzo, water, as needed, large shrimp, to taste, spinach, to taste, chili flakes, to taste, parmesan cheese, to taste
 
 ### Blueprint
-# Shrimp Chicken Orzo
-
-Marinate chicken thighs \- lemon, o.o., s\&p, oregano, garlic  
+Marinate chicken thighs - lemon, o.o., s&p, oregano, garlic  
 Half onion, shallot, sautee o.o., salt  
 Brown thighs, bell pepper, little tomatoes  
 Add orzo, toast 1m  
@@ -11028,8 +9572,6 @@ Finish with lemon, chili flakes, parm
 - **Ingredients:** 8 oz chinese egg noodles, 1 cup chicken broth, 1/4 cup oyster sauce, 1 tbsp rice wine vinegar, 1 tbsp toasted sesame oil, 1.5 tsp sambal oelek, 2 inch ginger, 4 cloves garlic, vegetable oil to taste, 12 oz shrimp, salt to taste, 8 oz snow peas, 8 scallions, 1 cup bean sprouts
 
 ### Blueprint
-# [Shrimp Chow Mein](https://www.marthastewart.com/1529404/shrimp-chow-mein)
-
 Soak 8 oz chinese egg noodles in hot water, **10m**  
 Add to boiling water, **4m** after returning to boil, remove, drain, cold water
 
@@ -11044,7 +9586,7 @@ T toasted sesame oil
 
 Wok M-high  
 Veg oil  
-12 oz shrimp, salt, **90 sec, flip, 90 sec** \-\> plate  
+12 oz shrimp, salt, **90 sec, flip, 90 sec** -> plate  
 8 oz Snow peas, 8 lt green & white scallions **3m**  
 Add sauce, **2m**  
 Add back shrimp, noodles, cup bean sprouts  
@@ -11063,8 +9605,6 @@ Top with scallion tops
 - **Ingredients:** 12 oz shrimp, 1.5 tsp Old Bay seasoning, 2 tsp lemon juice, 1/3 cup mayonnaise, 1/4 tsp Worcestershire sauce, 1-2 stalks celery, lettuce, to taste, tomato, to taste, salt and pepper, to taste, 1 tbsp dill, buttered toasted rolls, to taste
 
 ### Blueprint
-# [Shrimp Salad Sandwich](https://www.thespruceeats.com/recipe-shrimp-salad-sandwiches-for-two-913308)
-
 12 oz shrimp  
 1.5 t old bay  
 2t lemon  
@@ -11072,7 +9612,7 @@ Top with scallion tops
 ¼ t worcestershire  
 1-2 celery  
 Lettuce tomato  
-s\&p  
+s&p  
 T dill
 
 Buttered toasted rolls
@@ -11091,8 +9631,6 @@ Mix & chill 1 hour
 - **Ingredients:** shrimp to taste, olive oil to taste, lime juice to taste, seasoning to taste, cabbage to taste, avocado to taste, sour cream to taste, mayonnaise to taste, salt to taste, green salsa to taste
 
 ### Blueprint
-# Shrimp Tacos
-
 Season shrimp (maybe even marinate super quick in olive oil, lime juice, seasoning).   
 Cook, like 4m.  
 Cabbage, avocado, mix: sourcream/mayo/lime/salt, green salsa
@@ -11110,14 +9648,12 @@ Cabbage, avocado, mix: sourcream/mayo/lime/salt, green salsa
 - **Ingredients:** 2 tbsp butter, 1 shallot, 2 cloves garlic, 1/4 cup tequila, Lime zest and juice to taste, 1 tbsp olive oil, 1 lb shrimp, 2 zucchini, spiralized, Salt and pepper to taste, Cilantro to taste
 
 ### Blueprint
-# [Shrimp Zoodles](https://www.tasteofhome.com/recipes/tequila-lime-shrimp-zoodles/)
-
 M heat skillet  
 2T butter, shallot, 2 garlic **2m**  
-¼ c tequila \+ Lime zest and juice **2m**
+¼ c tequila + Lime zest and juice **2m**
 
 T olive oil  
-Lb shrimp, 2 zucchini, spiralized, s\&p, **4m**   
+Lb shrimp, 2 zucchini, spiralized, s&p, **4m**   
 cilantro
 
 ---
@@ -11133,39 +9669,15 @@ cilantro
 - **Ingredients:** 8 oz shrimp, 4 tbsp plus 1 tsp oil, divided, 1/4 tsp sugar, 1 1/4 tsp salt, divided, 3/8 tsp white pepper, divided, 2 1/2 tsp cornstarch, divided, 8 large eggs, 1 tsp sesame oil, 2 tsp water, scallions to taste
 
 ### Blueprint
-## [Shrimp and egg](https://thewoksoflife.com/shrimp-and-eggs/) 
-
 8 oz shrimp coated in t oil, ¼ t sugar. ¼ t salt. ⅛ t white pepper, ½ t cornstarch  
-8 eggs \+ ¼ t white pepper. t sesame oil, t salt,   
-Slurry (2t cornstarch \+ 2 t water, mixed)
+8 eggs + ¼ t white pepper. t sesame oil, t salt,   
+Slurry (2t cornstarch + 2 t water, mixed)
 
 Heat T oil in wok on M heat, cook shrimp barely, remove,   
 Add mixed slurry to eggs, H heat, 3 T oil, add eggs, when starting to set, add shrimp, fold  
 Scallions
 
 Or
-
----
-
-## Shwarma (`rec_shwarma_f632bb`)
-- **Type:** side (salad)
-- **Cuisine:** Middle Eastern | **Effort:** Low
-- **Seasons:** autumn, spring, summer, winter
-- **Vibe:** fresh, tangy, spiced, crunchy, herby
-- **Dietary:** vegan, vegetarian, dairy-free, gluten-free
-- **Times (min):** Prep: 10, Cook: 0, Oven: 0
-- **Ingredients:** shredded carrots, to taste, 1 tbsp olive oil, 2 tbsp lemon juice, 1/2 tsp cumin, mint, to taste, salt, to taste, pepper, to taste, pinch red pepper
-
-### Blueprint
-# Shwarma
-
-Carrot salad \-   
-shredded carrots  
-T olive oil  
-2T lemon juice  
-½ t cumin  
-Mint  
-Salt & pepper, pinch red pepper
 
 ---
 
@@ -11179,37 +9691,16 @@ Salt & pepper, pinch red pepper
 - **Ingredients:** Pork tenderloin, 1 tbsp Shaoxing wine, 1.5 tbsp plus 1 tsp soy sauce, 3 tbsp water, 2 tsp cornstarch, 1.5 tbsp Chinese black vinegar, 1 tsp sugar, Cooking oil to taste, 1.5 tbsp doubanjiang, 1 tbsp minced garlic, 1 tbsp minced ginger, 3 scallions, Mushrooms to taste, Bamboo shoots to taste, Bell pepper to taste
 
 ### Blueprint
-# Sichuan Pork w Garlic Sauce (Yu Xiang Rousi)
-
-Pork tenderloin \-\> 2” matchsticks. T shaoxing wine, t soy, T water, t cornstarch \- let sit  
-Prepare \- 1.5T black vinegar (balsamic), t sugar, 3/2 T soy, t cornstarch, 2T water  
+Pork tenderloin -> 2” matchsticks. T shaoxing wine, t soy, T water, t cornstarch - let sit  
+Prepare - 1.5T black vinegar (balsamic), t sugar, 3/2 T soy, t cornstarch, 2T water  
 Oil wok high. Fry pork 90 sec, remove
 
 M heat, 1.5T doubanjiang 30 sec  
 T garlic, T ginger, 3 white scallions, 15sec
 
-H heat \- mushrooms and bamboo shoots, maybe bell pepper 1m  
+H heat - mushrooms and bamboo shoots, maybe bell pepper 1m  
 Return pork, add slurry, 45 sec  
 Scallion greens
-
----
-
-## Sides (`rec_sides_c09746`)
-- **Type:** side (standard)
-- **Cuisine:** Mexican | **Effort:** Medium
-- **Seasons:** spring, summer
-- **Vibe:** tangy, bright, smoky, zesty, fresh
-- **Dietary:** vegetarian, gluten-free
-- **Times (min):** Prep: 30, Cook: 25, Oven: 7
-- **Ingredients:** Corn, to taste, Black beans, to taste, Red onion, to taste, Cilantro, to taste, Lime, to taste, Cotija cheese, to taste, Jalapenos, to taste, 1/2 cup lime juice, 1/4 cup white vinegar, 1 tsp salt, 1/2 tsp oregano, 1 habanero, Tomatillos, to taste, Garlic, to taste, 2 tbsp lime juice, Rice, to taste, Saffron, to taste, Butter, to taste, Pine nuts, to taste, Pomegranate seeds, to taste, Salt, to taste
-
-### Blueprint
-## Sides
-
-Charred corn & black bean salad, red onion, cilantro, lime, cotija, jalapeno  
-Pickled red onion \- ½ cup lime, ¼ cup white vinegar, t salt, ½ t oregano, 1 habanero  
-Salsa verde \- tomatillos, jalapenos, onion, garlic. Broil 4m flip 3m. Blend w. 2T lime, cilantro, salt  
-Rice \-  Saffron, onion, butter, salt. Pine nuts & pomegranates
 
 ---
 
@@ -11224,9 +9715,7 @@ Rice \-  Saffron, onion, butter, salt. Pine nuts & pomegranates
 - **Ingredients:** 10 oz spinach, scallion to taste, 2 tsp soy sauce, 1 tsp minced garlic, 1/2 tsp sugar, 1 tsp sesame oil, 1 tsp sesame seeds
 
 ### Blueprint
-## [Sigeumchi Namul](https://www.koreanbapsang.com/sigeumchi-namul-korean-spinach-side/) (spinach)
-
-Blanch 10 oz spinach 30 sec \-\> ice  
+Blanch 10 oz spinach 30 sec -> ice  
 Drain and squeeze, chop (3”)
 
 Mix in scallion, 2t soy, t garlic, ½ t sugar, t sesame oil, t sesame seeds
@@ -11244,14 +9733,12 @@ Mix in scallion, 2t soy, t garlic, ½ t sugar, t sesame oil, t sesame seeds
 - **Ingredients:** boneless skinless chicken breasts, oil to taste, salt to taste, black pepper to taste, oregano to taste, thyme to taste, rosemary to taste, garlic to taste, mushroom to taste, bell pepper to taste, 1/2 cup white wine
 
 ### Blueprint
-# [Skillet chicken & Veg](https://happyhealthymama.com/skillet-chicken-with-mushrooms-and-peppers.html)
-
 coat boneless skinless chicken breasts with oil.  
-s\&p, oregano, thyme, rosemary
+s&p, oregano, thyme, rosemary
 
-skillet MH heat oil, sear 4m/side \- remove to plate & cover
+skillet MH heat oil, sear 4m/side - remove to plate & cover
 
-oil, garlic, mushroom, bell pepper, s\&p 5m  
+oil, garlic, mushroom, bell pepper, s&p 5m  
 1/2 cup white wine, scrape  
 return chicken, 5-10m, turning to 165\.
 
@@ -11267,8 +9754,6 @@ return chicken, 5-10m, turning to 165\.
 - **Ingredients:** cabbage, shredded to taste, carrots, shredded to taste, green onion, sliced to taste, cilantro, to taste, rice vinegar, 4 parts, sesame oil, 1 part
 
 ### Blueprint
-## Slaw
-
 Shredded Cabbage, carrots, green onion, cilantro  
 Rice vinegar, sesame oil (4:1)
 
@@ -11284,9 +9769,7 @@ Rice vinegar, sesame oil (4:1)
 - **Ingredients:** 2 2-oz balls fatty ground beef (73/27), salt and pepper to taste, burger buns to taste, burger toppings to taste, cheese slice to taste
 
 ### Blueprint
-# [Smash Burgers](https://www.seriouseats.com/ultra-smashed-cheeseburger-recipe-food-lab)
-
-2oz balls of fatty gb (73/27), s\&p  
+2oz balls of fatty gb (73/27), s&p  
 VERY hot high wall skillet, no oil  
 Prepare buns, and toppings, have everything assembled ahead of time  
 Drop 2 balls in, smash.  30 seconds. Scarpe & Flip.    
@@ -11305,11 +9788,9 @@ IMMEDIATELY, put cheese on one, cover with the other and remove.
 - **Ingredients:** small yukon gold potatoes, salt, to taste, olive oil, to taste, black pepper, to taste
 
 ### Blueprint
-## [Smashed Potatoes](https://www.foodnetwork.com/recipes/crispy-smashed-potatoes-with-chimichurri-dressing-5344009)
-
 400  
-boil water then simmer small yukon gold potatoes with salt, 20m \-\> remove  
-smash potatoes, olive oil, s\&p  
+boil water then simmer small yukon gold potatoes with salt, 20m -> remove  
+smash potatoes, olive oil, s&p  
 bake 30m
 
 Yet more sauce\!
@@ -11326,10 +9807,8 @@ Yet more sauce\!
 - **Ingredients:** brussels sprouts, oil to taste, garlic to taste, salt and pepper to taste, parmesan cheese (optional, to taste)
 
 ### Blueprint
-## Smashed brussels
-
-Microwave brussels (8m?) \-\> ice bath.  DRY them  
-Smush.  Oil, garlic, s\&p.  Maybe parm on top  
+Microwave brussels (8m?) -> ice bath.  DRY them  
+Smush.  Oil, garlic, s&p.  Maybe parm on top  
 **25m** @ 425
 
 ---
@@ -11345,8 +9824,6 @@ Smush.  Oil, garlic, s\&p.  Maybe parm on top
 - **Ingredients:** 1 whole beef brisket (packer cut), Yellow mustard, to taste, Seasoning rub, to taste, Broth, to taste
 
 ### Blueprint
-# [Smoked Brisket](https://thebbqbuddha.com/how-to-smoke-a-brisket-on-the-big-green-egg/)
-
 Trim fat cap to ¼”  
 Remove hard fat, excess fat, silver skin,... from other side  
 Yellow mustard, seasoning rub  
@@ -11354,9 +9831,9 @@ Get egg to 250, indirect, with oak chunks
 Put brisket on oak chunk, place pan of warm water in there too
 
 After 3 hours, spritz with broth every 45  
-Get to 165 (and stall from 150-160 is broken) \- about 6-8 hours in
+Get to 165 (and stall from 150-160 is broken) - about 6-8 hours in
 
-Wrap in butcher paper (or foil) \- more spritz and seasoning  
+Wrap in butcher paper (or foil) - more spritz and seasoning  
 Put in pan with cup of broth, return to egg  
 Get the flat (bottom part) to 190-210, see if probe slides in with no resistance  another 3-6 hours?
 
@@ -11380,8 +9857,6 @@ Slice point against the grain
 - **Ingredients:** corn to taste, butter to taste
 
 ### Blueprint
-## Smoked corn
-
 Butter, 20m, butter, 20m
 
 ---
@@ -11397,9 +9872,7 @@ Butter, 20m, butter, 20m
 - **Ingredients:** 8 boneless skinless chicken thighs, 3 oz bacon, cut up, 1 red onion, chopped, 4 cloves garlic, minced, 2 tsp paprika, 1 bay leaf, 25 oz canned tomatoes, 1 tbsp red wine vinegar, 3.5 cups chicken broth, 1 can white beans, drained and rinsed, 1 bunch kale, chopped, garlic bread for serving, to taste
 
 ### Blueprint
-# [Smoky Chicken Stew](https://www.bbcgoodfood.com/recipes/smoky-chicken-bean-kale-stew)
-
-Brown 8 boneless skinless chicken thighs \-\> remove  
+Brown 8 boneless skinless chicken thighs -> remove  
 Add 3 oz bacon, cut up, **5m**  
 Add red onion, **8 m**  
 4 garlic, **1m**  
@@ -11427,23 +9900,21 @@ Garlic bread
 - **Ingredients:** 4 cups all-purpose flour, 4 tbsp sugar, 1 tsp baking soda, 1.5 tsp kosher salt, 4 tbsp unsalted butter, 1/2-inch diced, 1 3/4 cups buttermilk, 1 egg, 1 tsp orange zest, 1 cup currants
 
 ### Blueprint
-## [Soda bread](https://www.foodnetwork.com/recipes/ina-garten/irish-soda-bread-recipe-1949134)
-
 PREHEAT 375  
 Parchment paper on sheet pan
 
 kitchenaid  
-4c flour \+ 4T sugar \+ 1t b. Soda \+ 1.5t kosher salt  
+4c flour + 4T sugar + 1t b. Soda + 1.5t kosher salt  
 ½ stick (4T) butter (½” dice)  
 Mix butter into flour
 
-(Vegan buttermilk \-\> 1 3/4 cup milk : 1 ¾ T lemon or vinegar \- sit for 1 minute)
+(Vegan buttermilk -> 1 3/4 cup milk : 1 ¾ T lemon or vinegar - sit for 1 minute)
 
 Whisk 1 ¾ C buttermilk, 1 egg, 1 t orange zest  
 Add to flour mix slowly  
 1 C currants
 
-Flour workspace, knead into round loaf \-\> sheet pan   
+Flour workspace, knead into round loaf -> sheet pan   
 Cut an X into dough, prick the 4 corners
 
 50 minutes
@@ -11461,10 +9932,8 @@ Cut an X into dough, prick the 4 corners
 - **Ingredients:** Sole fillets to taste, Kosher salt to taste, Black pepper to taste, Flour to taste, Ghee to taste, Butter to taste, Fresh parsley to taste, Lemon wedges to taste, New potatoes to taste, Spinach to taste, Olive oil to taste, Garlic to taste
 
 ### Blueprint
-# [Sole meuniere](https://cooking.nytimes.com/recipes/1018509-sole-meuniere)
-
-Kosher s\&p fish, dredge in flour  
-M-H skillet \- get some ghee bubbling, 2 minutes per side  
+Kosher s&p fish, dredge in flour  
+M-H skillet - get some ghee bubbling, 2 minutes per side  
 top with parsley  
 Melt some more butter, and pour it over  
 Lemon wedges
@@ -11491,8 +9960,6 @@ Olive oil
 - **Ingredients:** 2 cups flour, 1 tsp salt, 4 eggs, 6 tbsp milk or water, butter to taste
 
 ### Blueprint
-## Spaetzle
-
 2 cups flour  
 t salt  
 4 eggs  
@@ -11520,17 +9987,15 @@ butter
 - **Ingredients:** spaghetti (to taste), 4 oz pancetta, 4 egg yolks, 2 eggs, 1.5 oz Parmesan cheese, grated (plus more for serving), black pepper (to taste), salt (to taste)
 
 ### Blueprint
-# [Spaghetti Carbonara](https://www.bonappetit.com/recipe/simple-carbonara)
-
 Cook pasta 2m short
 
 4 oz Pancetta 7m & remove
 
-Whisk 4 egg yolks \+ 2 eggs \+ 1.5oz parm cheese \+ pepper
+Whisk 4 egg yolks + 2 eggs + 1.5oz parm cheese + pepper
 
-Reserve cup \+ of pasta water
+Reserve cup + of pasta water
 
-Add pasta, cup pasta water, to bacon grease \-\> 2m
+Add pasta, cup pasta water, to bacon grease -> 2m
 
 Add 1/4cup pasta water to egg mix slowly and stir to temper eggs  
 Add egg mix slowly to pasta, salt, a little more pasta water
@@ -11552,36 +10017,11 @@ More pepper & cheese
 - **Ingredients:** 1/4 cup raisins, red wine to cover/marinate, salt to taste, 1/2 lb spaghetti, 4 cloves garlic, 6 anchovies (or 1 tbsp anchovy paste), olive oil to taste, 1/4 cup walnuts, 1/4 cup pine nuts, 1/2 tbsp oregano, red pepper flakes to taste, black pepper to taste, fresh parsley to taste
 
 ### Blueprint
-# [Spaghetti Corleonese](https://www.restaurant-hospitality.com/food-recipes/spaghetti-corleonese-pasta-nuts-raisins-and-anchovies)
-
 Marinate ¼  cup raisins in red wine, **30m**  
 Boil salt water, cook ½ lb spaghetti  
 Sautee medium 4 garlic, 6 anchovy (T paste) in o.o. **2m**  
 ¼ cup Walnuts, ¼ cup pine nuts, ½ T oregano, red pepper flakes, black pepper, raisins in their wine **5m**  
 Add pasta water as necessary, stir in pasta, parsley
-
----
-
-## Spaghetti Corleonese (`rec_spaghetti_corleonese_bc24d2`)
-- **Type:** main (pasta)
-- **Cuisine:** Italian | **Effort:** Low
-- **Seasons:** autumn, winter
-- **Vibe:** savory, umami, sweet-and-savory, nutty, briny
-- **Dietary:** dairy-free, pescatarian
-- **Times (min):** Prep: 10, Cook: 15, Oven: None
-- **Source:**  (https://www.restaurant-hospitality.com/food-recipes/spaghetti-corleonese-pasta-nuts-raisins-and-anchovies)
-- **Ingredients:** 1/4 cup raisins, red wine, to soak raisins, salt, to taste, 1/2 lb spaghetti, olive oil, to taste, 4 cloves garlic, 6 anchovy fillets (or 1 tbsp anchovy paste), 1/4 cup walnuts, 1/4 cup pine nuts, 1/2 tbsp oregano, red pepper flakes, to taste, black pepper, to taste, parsley, to taste
-
-### Blueprint
-# [Spaghetti Corleonese](https://www.restaurant-hospitality.com/food-recipes/spaghetti-corleonese-pasta-nuts-raisins-and-anchovies)
-
-Marinate ¼  cup raisins in red wine, **30m**  
-Boil salt water, cook ½ lb spaghetti  
-Sautee medium 4 garlic, 6 anchovy (T paste) in o.o. **2m**  
-¼ cup Walnuts, ¼ cup pine nuts, ½ T oregano, red pepper flakes, black pepper, raisins in their wine **5m**  
-Add pasta water as necessary, stir in pasta, parsley
-
-caesar
 
 ---
 
@@ -11596,8 +10036,6 @@ caesar
 - **Ingredients:** 3 zucchini, sliced 1/8 inch thick, oil for deep frying, olive oil, 1 clove garlic, salt to taste, 8 oz spaghetti, 2 fresh basil leaves, 2 tbsp butter, 5 tbsp grated Pecorino Romano cheese, 3 tbsp grated Parmigiano-Reggiano cheese
 
 ### Blueprint
-# [Spaghetti alla Nerano](https://www.allrecipes.com/video/10533/that-zucchini-spaghetti-stanley-tucci-loves-spaghetti-alla-nerano/)
-
 serves 2
 
 slice 3 zucchini 1/8"  
@@ -11630,15 +10068,13 @@ cheese on top
 - **Ingredients:** olive oil to taste, 5 chicken thighs, cut into 1.5-inch pieces, 1/2 onion, chopped, 1 red bell pepper, chopped, 2 cloves garlic, minced, 1 cup rice, 1/2 tbsp paprika, 1.5 cups chicken stock, 1 cup tomato sauce, saffron to taste, salt to taste, black pepper to taste, 1/2 cup pimento-stuffed olives, fresh cilantro to taste, lemon wedges to taste
 
 ### Blueprint
-# [Spanish Chicken and Rice](https://www.aheadofthyme.com/2017/02/one-pot-spanish-chicken-and-rice/)
-
-O.o., MH, 5 chicken thighs \- 1.5” pieces **6m**  
+O.o., MH, 5 chicken thighs - 1.5” pieces **6m**  
 ½ Onion, red pepper, 2 garlic **3m**  
 Cup rice **2m**  
 ½ T Paprika, 1m  
 1.5 cups Chicken stock, cup tomato sauce, boil  
 L saffron, cover, 25m  
-S\&P, ½ cup pimento olives, cilantro, lemon
+S&P, ½ cup pimento olives, cilantro, lemon
 
 ---
 
@@ -11653,8 +10089,6 @@ S\&P, ½ cup pimento olives, cilantro, lemon
 - **Ingredients:** 3 tbsp olive oil, 1 tbsp smoked paprika, 1 tsp dried oregano, 1/2 tsp sugar, 1 pork tenderloin, Kosher salt to taste, Oil for cooking to taste, Fresh oregano to taste
 
 ### Blueprint
-# [Spanish Pork Tenderloin](https://www.177milkstreet.com/recipes/smoked-paprika-oregano-seared-pork-tenderloin)
-
 Mix 3T o.o., T smoked paprika, t oregano, ½ t sugar
 
 Halve tenderloin crosswise, then lengthwise, **1/4 “ short of cutting through**  
@@ -11663,21 +10097,6 @@ Open up and pound a little bit to ¼”.  Season with kosher salt
 M skillet, oil, cook pork 3m, flip, 2m.  Brush the mix on, flip, brush the mix on  
 DO THIS AGAIN  
 Fresh oregano
-
----
-
-## Spanish Pork Tenderloin (`rec_spanish_pork_tenderloin_b0ac8d`)
-- **Type:** main (standard)
-- **Cuisine:** Spanish | **Effort:** Low
-- **Seasons:** spring, summer, autumn, winter
-- **Vibe:** savory, smoky, garlicky
-- **Dietary:** gluten-free, dairy-free
-- **Times (min):** Prep: 15, Cook: 20, Oven: 15
-- **Source:**  (https://docs.google.com/document/d/1xIHJIBwLZAUIjqqz9A8nuNZ_IhlSDXPpw-sP3NH23Ks/edit#heading=h.e5lwyjgji057)
-- **Ingredients:** 1 to 1.5 lbs pork tenderloin, 2 tbsp olive oil, 3 cloves garlic, minced, 1 tsp smoked Spanish paprika (pimentón), 1/2 tsp ground cumin, 1/2 tsp dried oregano, salt to taste, black pepper to taste
-
-### Blueprint
-# [Spanish Pork Tenderloin](https://docs.google.com/document/d/1xIHJIBwLZAUIjqqz9A8nuNZ_IhlSDXPpw-sP3NH23Ks/edit#heading=h.e5lwyjgji057)
 
 ---
 
@@ -11691,16 +10110,14 @@ Fresh oregano
 - **Ingredients:** 4 cloves garlic, 1 tbsp kosher salt, 1/4 tsp black pepper, 2 tsp Indian spice mix, 4 (12 oz, 1.25-inch thick) pork chops, 3 tbsp butter, divided, 1 shallot, sliced, 2 cups peas, 4 oz radishes, sliced, 1/4 cup water, Salt and pepper, to taste, Fresh mint, to taste, Fresh cilantro, to taste, Citrus zest, to taste, Couscous, for serving
 
 ### Blueprint
-# [Spiced Spring Pork Chops](https://www.foodandwine.com/spiced-pork-chops-with-buttery-peas-radishes-mint-7110379)
-
 4 garlic, T kosher salt, 1/4 t pepper, 2t indian spice mix
 
 rub on 4 1.25" 12oz pork chops, rest 10m
 
-melt 2T butter, sear 5m MH, flip, 5m \- remove
+melt 2T butter, sear 5m MH, flip, 5m - remove
 
 M heat T butter, sliced shallot, 3m  
-2 cups peas, 4 oz sliced radishes, s\&p, mint, stir in 1/4 cup water, scrape
+2 cups peas, 4 oz sliced radishes, s&p, mint, stir in 1/4 cup water, scrape
 
 return pork chops, 400 oven 10-15m until 135\.   remove and rest 10m to 140
 
@@ -11718,9 +10135,7 @@ couscous, herbs (cilantro/mint), zest, salt
 - **Ingredients:** oil to taste, red cabbage to taste, 2 inches ginger, 2 onions, 1 tsp allspice, 1 tbsp mustard seed, 1/4 cup sugar, 1/3 cup red wine vinegar
 
 ### Blueprint
-## Spiced red cabbage
-
-Oil, skillet: Shred cabbage, 2” ginger, 2 onions, t allspice, T mustard seed \-\> 5m  
+Oil, skillet: Shred cabbage, 2” ginger, 2 onions, t allspice, T mustard seed -> 5m  
 ¼ cup sugar, ⅓ cup red wine vinegar.  Cover, 10m low.  
 Remove cover, M heat, 20m.  Stir the last few minutes  
 (you want sticky)
@@ -11738,8 +10153,6 @@ Remove cover, M heat, 20m.  Stir the last few minutes
 - **Ingredients:** 1.5 inches ginger, 3 cloves garlic, 2 tablespoons sambal oelek, 6 tablespoons coconut milk, 2 tablespoons lime juice, 1 tablespoon brown sugar, 1/2 teaspoon salt, 1 tablespoon oil (plus extra for grilling), 1 lb skinless chicken thighs, cilantro to taste, lime wedges to taste
 
 ### Blueprint
-# [Spicy Coconut Chicken Thighs](https://www.bonappetit.com/recipe/spicy-coconut-grilled-chicken-thighs)
-
 1.5” Ginger, 3 garlic, 2T sambal oelek, 6T coconut milk, 2T lime, T brown sugar, 1/2t salt, T oil  
 Toss 1lb skinless chicken thighs in that, marinate **15m up to 4 hours**  
 remove chicken and boil marinade, then simmer **3m** m-l  
@@ -11759,8 +10172,6 @@ Cilantro & lime wedges
 - **Ingredients:** 2 lb boneless skinless chicken thighs, salt, to taste, 2 tbsp mayonnaise, 1/4 cup fresh basil, chopped (plus more for garnish), 2 cloves garlic, minced, 2 tbsp pickled jalapeño brine (plus more to taste), 4 cups corn kernels (about 4 ears), 1/3 cup chopped pickled jalapeños, 3 scallions, chopped (plus more for garnish), 3 tbsp olive oil, freshly ground black pepper, to taste, fresh jalapeño, sliced, to taste, fresh lime juice, to taste
 
 ### Blueprint
-# [Spicy Sheet Pan Chicken](https://cooking.nytimes.com/recipes/1024458-sheet-pan-chicken-thighs-with-spicy-corn)
-
 2 lb boneless skinless thighs, salt
 
 2T Mayo, ¼ cup basil, 2 garlic, 2T brine from pickled jalapeños  
@@ -11768,10 +10179,10 @@ Cover chicken in that, refrigerate for a **few hours**
 
 425  
 Roast chicken only 12 minutes  
-mix 4 cups (4 ears) corn, ⅓ cup chopped pickled jalapenos, salt, 3 scallions, 3T o.o. S\&P  
+mix 4 cups (4 ears) corn, ⅓ cup chopped pickled jalapenos, salt, 3 scallions, 3T o.o. S&P  
 Add this mix to sheet, roast 15 min more, stirring once  
 Broil high 2m  
-Add fresh basil, scallions, fresh jalapeno \- more brine & lime juice
+Add fresh basil, scallions, fresh jalapeno - more brine & lime juice
 
 ---
 
@@ -11785,11 +10196,9 @@ Add fresh basil, scallions, fresh jalapeno \- more brine & lime juice
 - **Ingredients:** firm tofu to taste, gochujang to taste, chanterelle mushrooms to taste, red bell pepper to taste, garlic to taste, ginger to taste, chili to taste, soy sauce to taste, oyster sauce to taste, white pepper to taste, rice vinegar to taste, msg to taste
 
 ### Blueprint
-# Spicy chanterelle stir fry
-
 Press, cube, marinate firm tofu (gochujang)  
 air fry tofu (400x15),   
-Stir fry mushrooms \+ red bell pepper  
+Stir fry mushrooms + red bell pepper  
 Add garlic, ginger, chili  
 near the end  
 Soy sauce, oyster sauce, white pepper, rice vinegar, msg
@@ -11807,8 +10216,6 @@ Soy sauce, oyster sauce, white pepper, rice vinegar, msg
 - **Ingredients:** 4 summer squash, 1 tsp salt, 1/3 cup honey, 1/3 cup rice vinegar, 1/4 cup soy sauce, 3 tbsp sambal oelek, 1 tbsp cooking oil (for glaze), cooking oil to taste (for brushing squash), 1/2 lime, shallot to taste, cilantro to taste
 
 ### Blueprint
-## [Spicy squash](https://www.bonappetit.com/recipe/sweet-and-spicy-grilled-summer-squash)
-
 Cut 4 summer squash lengthwise & cross hatch scoring lines  add t salt and let sit 10m to remove water
 
 ⅓ cup honey, ⅓ cup rice vinegar, ¼ cup soy sauce, 3T sambal oelek  
@@ -11834,10 +10241,8 @@ Squeeze Lime half, shallot, cilantro
 - **Ingredients:** 5 oz spinach, apple, thinly sliced, to taste, cheese, to taste, walnuts, to taste, 1 tsp dijon mustard, 1/2 tsp honey, 1/4 tsp salt, 1/8 tsp pepper, 3 tbsp olive oil, 2 tbsp cider vinegar
 
 ### Blueprint
-## [Salad](https://www.thekitchn.com/spinach-salad-267495)
-
 5 oz Spinach  
-Apple \- thin slice   
+Apple - thin slice   
 Cheese  
 Walnuts
 
@@ -11856,14 +10261,12 @@ Dressing: t dijon, ½ t honey, ¼ t salt. ⅛ t pepper 3T o.o. 2T cider vinegar
 - **Ingredients:** 3 tbsp butter, diced onion, diced celery, diced carrot, 2 cloves garlic, 1 lb split peas, 2 quarts chicken stock, 2 bay leaves, 1 smoked ham hock, salt to taste, black pepper to taste
 
 ### Blueprint
-# [Split Pea Soup](https://www.seriouseats.com/split-pea-and-ham-soup-recipe)
-
 Melt 3T butter, add diced onion, celery, (carrot), 3m  
 2 garlic, 30s  
 Lb split peas, 2 quarts chicken stock, 2 bay leaves, smoked ham hock  
 Boil, simmer, covered with lid slightly ajar **1 hour**  
 Remove meat from hock, dice, and return  
-S\&P
+S&P
 
 ---
 
@@ -11877,17 +10280,15 @@ S\&P
 - **Ingredients:** 2 tbsp butter, 2 shallots, sliced, 1/2 cup cream, 1 tbsp lemon zest, 1/4 cup (or 1/2 oz) plus extra for serving parmesan cheese, 1/2 tsp pepper, 8 oz fettuccine, 1 lb asparagus, cut into 2-inch pieces, 1 tbsp lemon juice, salt to taste, black pepper to taste, 4 oz sliced prosciutto
 
 ### Blueprint
-# [Spring Fettucine](https://www.177milkstreet.com/recipes/fettuccine-asparagus-lemon-prosciutto)
-
 Skillet, M, Melt 2T butter, 2 shallots 4m (no browning)  
-½ c Cream, T lemon zest, ¼ c or ½ ounce parm, 1/2t pepper \-\> REMOVE FROM HEAT
+½ c Cream, T lemon zest, ¼ c or ½ ounce parm, 1/2t pepper -> REMOVE FROM HEAT
 
 Boil salted water, cook 8oz fettuccine & lb asparagus (2” pieces), remove, keeping cup of water
 
 Add pasta /asparagus to skillet with ½ cup pasta water  
 Heat & toss 1-2m.  More pasta water as needed
 
-T Lemon juice, s\&p, 4 oz sliced prosciutto, parm
+T Lemon juice, s&p, 4 oz sliced prosciutto, parm
 
 ---
 
@@ -11901,13 +10302,11 @@ T Lemon juice, s\&p, 4 oz sliced prosciutto, parm
 - **Ingredients:** lamb shoulder chops to taste, salt and pepper to taste, garlic to taste, fresh rosemary to taste, cooking oil to taste, small potatoes to taste, onion to taste, 1.5 cups arborio rice, 4 cups warm stock, peas to taste, fresh mint to taste
 
 ### Blueprint
-# Spring Lamb shoulder chop
-
-S\&P, garlic, rosemary, maybe marinate an hour (w.oil).  6m/side very hot.  Render down fat directly.  
+S&P, garlic, rosemary, maybe marinate an hour (w.oil).  6m/side very hot.  Render down fat directly.  
 Cut little potatoes in half, season.  425 x 30m
 
 Garlic onion oil 3m, 1.5 cups arborio rice, 2m  
-(Cup warmstock, stir to absorb ) x 4\.  About 17m.  s\&p.  Add peas, mint toward end.
+(Cup warmstock, stir to absorb ) x 4\.  About 17m.  s&p.  Add peas, mint toward end.
 
 ---
 
@@ -11921,8 +10320,6 @@ Garlic onion oil 3m, 1.5 cups arborio rice, 2m
 - **Ingredients:** 1 lb orecchiette, 4 oz bacon, chopped, 2 cloves garlic, 1 jalapeno, 1 cup (5 oz) frozen peas, 1/2 cup pecorino cheese, black pepper to taste, 2 tbsp chives, chopped, 2 tbsp parsley, chopped, 2 tbsp mint, chopped
 
 ### Blueprint
-# [Spring Orecchiette](https://www.foodandwine.com/recipes/orecchiette-pancetta-peas-and-fresh-herbs)
-
 Cook Lb orecchiette, reserve cup water
 
 Skillet 4 oz bacon chopped, 5m  
@@ -11944,8 +10341,6 @@ cup/5 oz Frozen peas, pasta, pasta water, ½ cup pecorino cheese, pepper, 2m
 - **Ingredients:** 1.5 cups long-grain rice, 2.5 cups stock, 2 tbsp butter, 4 oz snow peas, sliced, 2 oz spinach, 2 tbsp sliced almonds, 2 tsp lemon rind, 4 radishes, sliced, yogurt / tzatziki to taste
 
 ### Blueprint
-## [Spring Rice Pilaf](https://www.taste.com.au/recipes/chicken-souvlaki-spring-pilaf/7bf84316-7916-4817-922d-4e649aaffd5c)
-
 1.5 c long-grain rice, 2.5 c stock, 2T butter  
 Simmer covered 10m  
 Add 4oz sliced snow peas. 5m more covered  
@@ -11966,19 +10361,17 @@ Yogurt / tzatsiki
 - **Ingredients:** 3 to 4 sweet potatoes (approx. 1 lb), peeled and cut into 1/2-inch dice, 2 lemons, segmented with reserved juice, 3 stalks celery, cut into 1/2-inch pieces, 1.5 tbsp kalamata olives, quartered, 2.5 tbsp capers, 6 anchovies, 6 tbsp fresh parsley, chopped, 2.5 tbsp maple syrup, 3 tbsp olive oil, salt to taste, black pepper to taste, 1 3/4 lb squid, cut into rings, salad greens to taste, chili oil to taste
 
 ### Blueprint
-# [Squid & Sweet potato](https://ottolenghi.co.uk/recipes/squid-with-sweet-potato-and-lemon-salsa#)
-
 Boiling salted water.    
 3 or 4 Sweet potatoes (lb), peeled and cut to ½” dice **6m**  
 Drain and cool
 
 Get individual clean lemon segments out of 2 lemons, with any juice you lose by accident  
 Put sweet potatoes in lemon bowl  
-Add 3 celery (½”), 1.5 T kalamata olives (quartered), 2.5T capers, 6 anchovy, 6T parsley, 2.5T maple syrup, 3T o.o., s\&p
+Add 3 celery (½”), 1.5 T kalamata olives (quartered), 2.5T capers, 6 anchovy, 6T parsley, 2.5T maple syrup, 3T o.o., s&p
 
 Let sit for **HOURS**
 
-Super hot pan \- grill 1 ¾ lb squid in rings for **1 minute per side**  
+Super hot pan - grill 1 ¾ lb squid in rings for **1 minute per side**  
 Add to salsa, with some greens and chili oil
 
 ---
@@ -11993,8 +10386,6 @@ Add to salsa, with some greens and chili oil
 - **Ingredients:** 6 parts fermented bean paste, 2 parts gochujang, 1 part sesame oil, 1 clove garlic, 2 scallions, 1 part honey, 1 part sesame seeds
 
 ### Blueprint
-## Ssamjang (korean bbq sauce)
-
 6 Fermented bean paste  
 2 Gochujang  
 1 Sesame oil  
@@ -12015,11 +10406,9 @@ Add to salsa, with some greens and chili oil
 - **Ingredients:** St. Louis style pork ribs, mustard to taste, dry rub to taste, butter to taste, honey to taste, apple cider vinegar to taste
 
 ### Blueprint
-# St Louis Ribs
-
 Mustard, dry rub  
 250 BGE, hickory apple  
-3 /1(foil \- butter, honey, apple cider vinegar) / 1
+3 /1(foil - butter, honey, apple cider vinegar) / 1
 
 ---
 
@@ -12034,15 +10423,13 @@ Mustard, dry rub
 - **Ingredients:** 1.5 lb carrots, 1 tbsp olive oil, 1 tsp coriander, 1/4 tsp salt, 1/4 tsp pepper, 1 tbsp lime juice, 1 tbsp honey, Steak, Salt to taste, 2 tbsp butter, 1 clove garlic, 2 tsp cilantro, Black pepper to taste
 
 ### Blueprint
-# [Steak & Carrots](https://www.womansday.com/food-recipes/food-drinks/recipes/a53991/seared-steak-with-honey-roasted-carrots-recipe/)
-
-1.5 lb carrots \- peel, cut thin  
+1.5 lb carrots - peel, cut thin  
 T o.o., t coriander, ¼ t salt, ¼ t pepper.  **25m** @ 425, tossing in the middle  
 T lime, T honey
 
 Cook steak (salt, 5m/side)
 
-Melt 2T butter, 1 garlic, 2t cilantro, s\&p \-\> pour on top of steak & carrots
+Melt 2T butter, 1 garlic, 2t cilantro, s&p -> pour on top of steak & carrots
 
 ---
 
@@ -12057,8 +10444,6 @@ Melt 2T butter, 1 garlic, 2t cilantro, s\&p \-\> pour on top of steak & carrots
 - **Ingredients:** 6 oz steak, zucchini, to taste, mushroom, to taste, pepper, to taste, onion, to taste, 1 tbsp olive oil, 1/2 tbsp soy sauce, 1/2 tbsp red wine vinegar, 1/2 tbsp worcestershire sauce, 1 tsp lemon juice, 1 tsp brown sugar, 1 clove garlic, 1/4 tsp paprika, 1/4 tsp onion powder, 1/8 tsp oregano, salt and pepper to taste
 
 ### Blueprint
-## [Steak Kabobs](https://www.twopeasandtheirpod.com/steak-kabobs/)
-
 steak, zucchini, mushroom, pepper, onion
 
 T olive oil  
@@ -12071,7 +10456,7 @@ t brown sugar
 1/4 t paprika  
 1/4 t onion powder  
 1/8 t oregano  
-s\&p
+s&p
 
 6 oz steak
 
@@ -12090,8 +10475,6 @@ marinate **1 hour**, grill **8m**, rest 5m
 - **Ingredients:** steak, to taste, sesame oil, to taste, salt, to taste, 1 clove garlic, minced, 3 tbsp soy sauce, 1 tbsp rice wine vinegar, 2 tsp gochujang, 1 tsp sesame oil, napa cabbage, to taste, green onions, to taste, udon noodles, to taste, peanuts, to taste, cilantro, to taste
 
 ### Blueprint
-# [Steak Noodle Bowl](https://www.foodnetwork.com/recipes/spicy-steak-noodle-bowl-with-sesame-soy-dressing-5334326)
-
 Cook steak, sesame oil & salt
 
 Whisk: 1 garlic, 3T soy, 1T rice wine vinegar, 2t gochujang, t sesame
@@ -12110,9 +10493,7 @@ Napa cabbage, green onions, udon, peanuts, steak, cilantro, dressing
 - **Ingredients:** 12 oz flank steak, salt, to taste, black pepper, to taste, tomatoes, to taste, arugula, to taste, cucumber, to taste, shaved parmesan, to taste, day-old bread, to taste, 1/2 cup olive oil, 1/4 cup red wine vinegar, 1 tablespoon Dijon mustard, 1/2 teaspoon kosher salt, 1/4 teaspoon freshly ground black pepper
 
 ### Blueprint
-# [Steak Salad](https://www.thekitchn.com/recipe-flank-steak-panzanella-244328)
-
-12 oz flank steak s\&p  
+12 oz flank steak s&p  
 Hot grill **7m / side**, slice  
 Tomatoes, arugula, cucumber, shaved parm, day old bread
 
@@ -12136,9 +10517,7 @@ dressing
 - **Ingredients:** rib eye steak, to taste, olive oil, to taste, salt and black pepper, to taste, 2 ears corn, 4 tbsp olive oil, 2 tbsp red wine vinegar, 1 tsp Dijon mustard, 1 tbsp fresh basil, radishes, to taste, spring mix, to taste, tomatoes, to taste, red onion, to taste, feta cheese, to taste
 
 ### Blueprint
-# [Steak Salad](https://www.littlebroken.com/grilled-summer-steak-salad-with-corn/)
-
-S\&P, o.o, rib eye, 5m/side, rest 5m. slice  
+S&P, o.o, rib eye, 5m/side, rest 5m. slice  
 2 Corn 8m  
 Dressing
 
@@ -12146,7 +10525,7 @@ Dressing
 * 2T RW vinegar  
 * t Dijon  
 * T Fresh basil  
-* s\&p
+* s&p
 
 Radishes  
 Spring mix  
@@ -12167,15 +10546,13 @@ feta
 - **Ingredients:** skirt steak, as needed, salt and black pepper, to taste, 1 can white beans, rinsed and drained, 1 cup sweet peppers, sliced, 1/2 cup red onion, sliced, 12 cups lettuce and arugula mix (about 2 lbs), ranch dressing, to taste
 
 ### Blueprint
-# [Steak Salad](https://www.bhg.com/recipe/steak-salad-with-white-beans-and-peppers/)
-
 Can white beans  
 Cup sweet peppers sliced  
 ½ cup sliced red onion  
-Lettuce \+ arugula (12 cups \-\> 2 lbs)  
+Lettuce + arugula (12 cups -> 2 lbs)  
 S & P
 
-s\&p skirt steak  4m \+ 4m, rest 5m  
+s&p skirt steak  4m + 4m, rest 5m  
 Slice  
 Ranch dressing
 
@@ -12193,8 +10570,6 @@ Ranch dressing
 - **Ingredients:** steak to taste, 1 onion, 1/2 tbsp butter, oil to taste, 1.5 tbsp sugar, 4 tbsp red wine vinegar, ciabatta bread, mustard to taste, watercress to taste, horseradish mayo to taste, cheddar cheese to taste
 
 ### Blueprint
-# [Steak Sandwich](https://www.jamieoliver.com/recipes/beef-recipes/next-level-steak-onion-sandwich/)
-
 Slice onion, 1”
 
 ½ T Butter, oil, 1.5T sugar in skillet M  
@@ -12219,15 +10594,13 @@ Or maybe Horseradish mayo, cheddar
 - **Ingredients:** potatoes to taste, Brussels sprouts to taste, steaks to taste, mushrooms to taste, butter to taste, soy sauce to taste, wine to taste, garlic to taste, thyme to taste, salt to taste, black pepper to taste
 
 ### Blueprint
-# Steak dinner
+potato - 450, fork, right on rack w foil under, 25m, now butter & flip, s&p, 20m
 
-potato \- 450, fork, right on rack w foil under, 25m, now butter & flip, s\&p, 20m
+sprouts - cut side down 450 for 25 min
 
-sprouts \- cut side down 450 for 25 min
+steaks - salt & sit 20m.  grill high 5m/side 
 
-steaks \- salt & sit 20m.  grill high 5m/side 
-
-mushrooms \- butter MH, mix mushrooms in a little soy, 5m no stir, wine garlic thyme 4m stir, s\&p
+mushrooms - butter MH, mix mushrooms in a little soy, 5m no stir, wine garlic thyme 4m stir, s&p
 
 ---
 
@@ -12242,8 +10615,6 @@ mushrooms \- butter MH, mix mushrooms in a little soy, 5m no stir, wine garlic t
 - **Ingredients:** 1/2 lb green beans, 9 tbsp olive oil, divided, salt, to taste, pepper, to taste, 1 cup cherry tomatoes, divided, 12 oz strip steak, 2 tsp paprika, 1 chile, 1 shallot, 1 clove garlic, 1.5 tbsp red wine vinegar, 1/2 cup basil
 
 ### Blueprint
-# [Steak tomato bean Salad](https://www.bonappetit.com/recipe/strip-steak-with-blistered-beans-and-tomatoes)
-
 Grill MH
 
 Mix ½ lb grean Beans, 2T o.o., salt  
@@ -12252,10 +10623,10 @@ Grill, turning, **7m**
 Skillet 2T o.o., ½ cup cherry tomatoes, shaking, **3m**
 
 Oil grill,   
-Dry 12 oz steaks S\&P \+ 2t paprika \+ 2T o.o.   
+Dry 12 oz steaks S&P + 2t paprika + 2T o.o.   
 Grill **4m/side** to 120, remove & rest **10m**, slice
 
-Halve another ½ cup cherry tomatoes, \+ 1 chile, shallot, 1 garlic, 1.5T red wine vinegar, the grilled tomatoes, and beans, 3T o.o., ½ cup basil, salt.  Add steak and mix.
+Halve another ½ cup cherry tomatoes, + 1 chile, shallot, 1 garlic, 1.5T red wine vinegar, the grilled tomatoes, and beans, 3T o.o., ½ cup basil, salt.  Add steak and mix.
 
 ---
 
@@ -12270,8 +10641,6 @@ Halve another ½ cup cherry tomatoes, \+ 1 chile, shallot, 1 garlic, 1.5T red wi
 - **Ingredients:** 1 cup fresh parsley, 1/2 cup olive oil (plus more for skillet), 3 tbsp oregano, 2 tbsp red wine vinegar, 1 tsp salt (plus more to taste), 2 cloves garlic, grated, 1/4 tsp crushed red pepper, Steak (to taste), Cooked potatoes (to taste), Tomatoes (to taste)
 
 ### Blueprint
-# [Steak/tomato/potato](https://www.foodandwine.com/recipes/steak-potatoes-and-tomatoes-with-quick-chimichurri)
-
 chimichurri
 
 cup parsley  
@@ -12287,20 +10656,6 @@ rest 5m.  slice, potatoes & tomatoes, drizzle
 
 ---
 
-## Steamed rice (`rec_steamed_rice_90f179`)
-- **Type:** side (rice)
-- **Cuisine:** Asian | **Effort:** Low
-- **Seasons:** spring, summer, autumn, winter
-- **Vibe:** neutral, comforting, simple
-- **Dietary:** gluten-free, dairy-free, vegan, vegetarian
-- **Times (min):** Prep: 2, Cook: 20, Oven: None
-- **Ingredients:** white rice, water
-
-### Blueprint
-## Steamed rice
-
----
-
 ## Stir Fry (`rec_stir_fry_5214ef`)
 - **Type:** main (stir-fry)
 - **Cuisine:** Chinese | **Effort:** Medium
@@ -12311,9 +10666,7 @@ rest 5m.  slice, potatoes & tomatoes, drizzle
 - **Ingredients:** pork or beef to taste, salt to taste, 1 tsp vegetable oil, 1 tbsp cornstarch, 1 tbsp water, 1 red pepper, bamboo shoots to taste, mushrooms to taste, ginger to taste, garlic to taste, scallions to taste, 1 tbsp soy sauce, 2 tbsp rice vinegar, 1 tsp sesame oil, 1 tsp sugar, 1 tbsp rice wine, chili paste to taste, rice to taste
 
 ### Blueprint
-# Stir Fry
-
-slice pork, salt, t oil, T cornstarch, T water \- 10m  
+slice pork, salt, t oil, T cornstarch, T water - 10m  
 slice red pepper, bamboo, mushroom  
 ginger, garlic, scallions
 
@@ -12339,13 +10692,11 @@ rice, scallions
 - **Ingredients:** 2 waxy potatoes, oil to taste, 1 tbsp Sichuan peppercorns, 2 thin slices ginger, 2 cloves garlic, dried chili to taste, white parts of scallions, julienned fresh chili to taste, 1 tsp soy sauce, 1/2 tsp sugar, 1 tsp white vinegar, 1/2 tsp sesame oil, 1 tbsp stock or water, salt to taste, scallion greens to taste
 
 ### Blueprint
-## [Stir-fried potatoes](https://thewoksoflife.com/sichuan-stir-fried-potatoes/)
-
 Peel & julienne (mandolin) 2 waxy potatoes, soak in water 20m. Change water a couple times  
 Oil, wok M. T szechuan peppercorns a minute, remove  
 2 thin Ginger slices, 2 garlic, dried chili, white scallions  
-Potatoes and juliened chili \- high heat 30sec  
-\*\*\* add Mix t Soy, ½ t sugar, t white vinegar, ½ t sesame oil, T stock/water, salt, 1m  
+Potatoes and juliened chili - high heat 30sec  
+*** add Mix t Soy, ½ t sugar, t white vinegar, ½ t sesame oil, T stock/water, salt, 1m  
 Cover 45sec  
 scallion
 
@@ -12362,9 +10713,7 @@ scallion
 - **Ingredients:** strip steak, salt and pepper to taste, olive oil to taste, 3 tbsp butter, rosemary to taste, 4 cloves garlic, skinny asparagus, mushrooms, fresh parsley to taste, lemon juice to taste
 
 ### Blueprint
-# [Strip Steak](https://aspenridgebeef.com/recipe/ny-strip-mushrooms-asparagus/)
-
-Pat dry steak, s\&p  
+Pat dry steak, s&p  
 400
 
 O.o., mh, 5m  
@@ -12380,7 +10729,7 @@ Remove & Rest 5m, covered
 Skillet T o.o. 2m,   
 Skinny Asparagus, salt, 3m, remove
 
-Skillet o.o., mh mushrooms s\&p, 1m  
+Skillet o.o., mh mushrooms s&p, 1m  
 T Butter, 2garlic, 1m,   
 parsley, remove  
 lemon juice & o.o.
@@ -12398,15 +10747,13 @@ lemon juice & o.o.
 - **Ingredients:** 1 cup wild rice or quinoa, 6 bell peppers, 1 lb ground beef, salt to taste, black pepper to taste, ground cumin to taste, dried oregano to taste, cooking oil to taste, 1 onion, 1 zucchini, 2 cloves garlic, 1 can diced tomatoes, cheese to taste, water as needed
 
 ### Blueprint
-# [Stuffed Peppers](https://www.foodnetwork.com/recipes/ree-drummond/stuffed-bell-peppers-3325315)
-
 Cook cup of wild rice or quinoa or something
 
 Chop off tops of 6 peppers and chop up  (& clean out peppers)  
-Brown lb of beef MH \+ s\&p, cumin, oregano, drain.  
+Brown lb of beef MH + s&p, cumin, oregano, drain.  
 Skillet oil onion, chopped peppers 4m  
-Zucchini \+ 2 garlic, 1m  
-Can tomatoes, diced, s\&p, any other seasoning, cook through  
+Zucchini + 2 garlic, 1m  
+Can tomatoes, diced, s&p, any other seasoning, cook through  
 Add beef & rice, salt to taste
 
 Fill peppers, top with cheese  
@@ -12426,14 +10773,12 @@ A little Water in baking dish, drizzle peppers with oil, cover with foil
 - **Ingredients:** oil, to taste, garlic, to taste, 1/2 lb mushrooms, 5 oz spinach, 1/2 cup pine nuts, 1 pork tenderloin, salt, to taste, black pepper, to taste
 
 ### Blueprint
-# [Stuffed Pork Tenderloin](https://www.wholefoodsmarket.com/recipes/roasted-pork-loin-stuffed-baby-spinach-mushrooms-and-pine-nuts)
-
 skillet M oil, garlic  30 sec  
 1/2 lb mushrooms, 4m  
 5 oz spinach, 3m  
-s\&p, 1/2 cup pine nuts   \-\> cool
+s&p, 1/2 cup pine nuts   -> cool
 
-s\&p pork tenderloin
+s&p pork tenderloin
 
 stuff pork tenderloin, tie up
 
@@ -12455,21 +10800,19 @@ cook by temp, looking for 150
 - **Ingredients:** 1 lb green beans, 1 medium Asian pear, 1 cup parsley leaves with tender stems, 1/4 cup olive oil, 1/4 cup raw pumpkin seeds (pepitas), 1/3 cup fresh lemon juice, 2 tsp sumac, salt to taste, black pepper to taste
 
 ### Blueprint
-# [Sumac Green bean salad](https://www.bonappetit.com/recipe/smashed-green-beans-with-lemony-sumac-dressing) 
-
 1 lb. green beans  
 1 medium Asian pear  
 1 cup (lightly packed) parsley leaves with tender stems
 
-MH skillet, ¼ cup o.oil, ¼ cup raw pumpkin seeds (pepitas) 4m, strain, s\&p (keep oil)  
-blanch 1lb green beans 2m \-\> ice  
-whisk ⅓ cup fresh lemon juice \+ 2 tsp. sumac or 1 tsp. finely grated lemon zest \+ s\&p  
+MH skillet, ¼ cup o.oil, ¼ cup raw pumpkin seeds (pepitas) 4m, strain, s&p (keep oil)  
+blanch 1lb green beans 2m -> ice  
+whisk ⅓ cup fresh lemon juice + 2 tsp. sumac or 1 tsp. finely grated lemon zest + s&p  
 slowly add oil while whisking  
 rolling pin smush green beans, cut 1"  
 dress beans and let sit an hour
 
 cut asian pear into 1/2" wedges, and halve those.  
-add seeds \+ cup parsley
+add seeds + cup parsley
 
 ---
 
@@ -12484,15 +10827,13 @@ add seeds \+ cup parsley
 - **Ingredients:** 4-5 lb boneless leg of lamb, 3 tablespoons sumac (plus extra to taste for serving), 5 tablespoons kosher salt, 1 tablespoon black pepper (plus extra to taste), 2 bulbs garlic, halved, 2 14-ounce cans unmarinated artichoke hearts, halved lengthwise, 1/2 bunch fresh oregano (plus extra leaves to taste for serving), 1 cup white wine, 1/4 cup olive oil, fresh mint leaves, to taste, 1 to 2 bunches radishes, 1 shallot, thinly sliced, 2 tablespoons white wine vinegar, sesame seeds, to taste, aioli, to serve
 
 ### Blueprint
-# [Sumac Lamb](https://www.bonappetit.com/recipe/sumac-rubbed-lamb-with-minty-artichokes)
-
 275  
 sprinkle 4-5 lb boneless leg of lamb with 3T sumac, 5T kosher salt & 1T pepper  
 place two half bulbs of garlic in a baking dish  
 truss lamb, fatty side up, on top of garlic, scatter remaining cloves around  
-add 2 14 oz cans unmarinated artichoke hearts, halved lengthwise \+ 1/2 bunch oregano  
+add 2 14 oz cans unmarinated artichoke hearts, halved lengthwise + 1/2 bunch oregano  
 add cup white wine, 1/4 cup o.oil  
-s\&p on the artichokes
+s&p on the artichokes
 
 2-2.5 hours (135)
 
@@ -12500,9 +10841,9 @@ remove lamb, and get oven to 500
 then 10-12 more minutes, then rest lamb 20 minutes
 
 scatter mint leaves on artichokes and toss   
-toss bunch or 2 radishes, thin slice shallot, 2T white wine vinegar with s\&p
+toss bunch or 2 radishes, thin slice shallot, 2T white wine vinegar with s&p
 
-thin slice lamb, serve with veg \+ sesame seeds, oregano leaves, sumac, mint
+thin slice lamb, serve with veg + sesame seeds, oregano leaves, sumac, mint
 
 aioli to serve
 
@@ -12518,8 +10859,6 @@ aioli to serve
 - **Ingredients:** red onion, sliced, parsley, chopped to taste, 1 tsp sumac, 1 tbsp red wine vinegar, 1/2 tbsp olive oil, salt to taste
 
 ### Blueprint
-## Sumac onions
-
 Red onion sliced  
 Parsley  
 t sumac  
@@ -12545,10 +10884,8 @@ Tomatoes cucumbers…
 - **Ingredients:** steak (ribeye), shrimp, asparagus, 8 tbsp butter, divided, garlic, to taste, parsley, to taste, cooking oil, to taste, salt, to taste
 
 ### Blueprint
-# [Surf & Turf](https://lenaskitchenblog.com/ribeye-steak-and-shrimp/)
-
-Garlic butter \- mix 4T butter with garlic & parsley, refrigerate  
-Steak \+ salt \- skillet oil, High.  **4m/side**  
+Garlic butter - mix 4T butter with garlic & parsley, refrigerate  
+Steak + salt - skillet oil, High.  **4m/side**  
 T of butter on tented steak while it rests **5m**
 
 Cook asparagus in 2T butter ML, **5m**
@@ -12568,13 +10905,11 @@ Shrimp, salt, T butter M heat, **3m, flip, 2m**
 - **Ingredients:** 1/2 cup peanuts, divided, 2 tsp ground ginger, 2 tsp paprika, 1 tsp onion powder, 1 tsp garlic powder, 2 tsp salt, plus more to taste, 1/2 tsp cayenne, 3 cloves garlic, 1 inch fresh ginger, 1 tbsp soy sauce, Cooking oil, as needed, 2 tbsp rice vinegar, plus more to taste, 2.5 lbs bone-in, skin-on chicken thighs, 5 nectarines, 1 bunch scallions, 1 tsp sugar, Fresh cilantro, to taste
 
 ### Blueprint
-# [Suya Chicken & Nectarines](https://cooking.nytimes.com/recipes/1027038-suya-spiced-grilled-chicken-thighs-with-nectarines)
-
 Suya (everything ground powder) \= ¼ cup peanuts, 2t ginger, 2t paprika, t onion powder, t garlic powder, t salt, ½ t cayenne 
 
-3 garlic, 1” ginger, T soy, T oil, T rice vinegar, T suya, t salt \- mariate 2.5 lb bone in skin on chicken thighs at least 30m
+3 garlic, 1” ginger, T soy, T oil, T rice vinegar, T suya, t salt - mariate 2.5 lb bone in skin on chicken thighs at least 30m
 
-Grill MH \- 
+Grill MH - 
 
 Halve & pit 5 nectarines, 1 bunch scallions, coat in oil,  grill (5m for nectarines 2m for scallions)  
 Remove & Salt, t sugar, T rice vinegar
@@ -12596,10 +10931,8 @@ Cut nectarines & scallions ½”  add cilantro, ¼ cup chopped peanuts, salt & v
 - **Ingredients:** 1 tbsp ginger, 2 cloves garlic, Cooking oil, to taste, 3 tbsp red curry paste, 1 can chickpeas, 1 lb sweet potatoes, chopped, 1 can coconut milk, 1/2 cup water, Salt and pepper, to taste, 5 oz spinach, Peanuts, to taste, Cilantro, to taste, Lime juice, to taste, Fish sauce, to taste, Rice, for serving
 
 ### Blueprint
-# [Sweet Potato Curry](https://www.thekitchn.com/sweet-potato-curry-267050)
-
 T ginger, 2 garlic in oil, **1m**  3T red curry  
-Can Chickpeas, chopped lb sweet potatoes, can coconut milk, ½ cup water, s\&p **15m**  
+Can Chickpeas, chopped lb sweet potatoes, can coconut milk, ½ cup water, s&p **15m**  
 5 oz Spinach **2m**, peanuts, cilantro, lime juice, fish sauce
 
 Rice
@@ -12617,15 +10950,13 @@ Rice
 - **Ingredients:** 2 tsp szechuan peppercorns, salt to taste, 2 tbsp cornmeal, pork tenderloin (cut into chunks), cooking oil as needed, 2 carrots, 1 leek, 1 tbsp ginger, 2 cloves garlic, 3 tbsp soy sauce, 2 tbsp honey, 3 tbsp orange juice, 3 tbsp mirin, rice (for serving, to taste), green onions (to taste)
 
 ### Blueprint
-# [Szechuan Pork Tenderloin](https://vintagekitchennotes.com/crunchy-szechuan-pork-and-carrots/)
-
-Wok low 2t szechuan peppercorns 1m \-\> bowl, add salt, mash, add 2T cornmeal  
+Wok low 2t szechuan peppercorns 1m -> bowl, add salt, mash, add 2T cornmeal  
 Dredge tenderloin chunks in it
 
 Wok high, oil, 2 carrots, 1 leeks **4m** remove  
 Cook pork **5m**, remove  
 T Ginger, 2 garlic **1m**  
-3T soy, 2T honey, 3T o.j., 3T mirin \-\> syrupy  
+3T soy, 2T honey, 3T o.j., 3T mirin -> syrupy  
 Add back meat & veg, 2m  
 Serve over rice  
 Green onions
@@ -12643,10 +10974,8 @@ Green onions
 - **Ingredients:** 3 tbsp lemon juice, 1/2 cup olive oil, 1/4 tsp salt, 1/4 tsp pepper, 1/4 cup #1 fine bulgur, 3 cups parsley, 2 tomatoes, 2 green onions, 1/4 cup mint
 
 ### Blueprint
-## [Tabbouleh](https://feelgoodfoodie.net/recipe/traditional-lebanese-tabbouleh-salad/)
-
 3T lemon juice,  
- ½ cup o.o., ¼ t salt, ¼ t pepper ¼ cup \#1 fine bulgur  
+ ½ cup o.o., ¼ t salt, ¼ t pepper ¼ cup #1 fine bulgur  
 Let that sit like 20m
 
 Mix up 3 cups parsley, 2 tomatoes, 2 green onions, ¼ cup mint
@@ -12665,11 +10994,9 @@ mix
 - **Ingredients:** 1/4 cup olive oil, 1 tsp cumin, 1 tsp salt, 1 head cauliflower, cut into florets, 1/3 cup tahini, 1/4 cup lemon juice, 1/4 cup boiling water
 
 ### Blueprint
-## Tahini Cauliflower
-
-¼ cup o.o., t cumin, t salt, head cauliflower \-\> florets,   
+¼ cup o.o., t cumin, t salt, head cauliflower -> florets,   
 **25m** @ 425   
-⅓ cup tahini, ¼ cup lemon, ¼ cup boiling water \- stir to make sauce.
+⅓ cup tahini, ¼ cup lemon, ¼ cup boiling water - stir to make sauce.
 
 ---
 
@@ -12684,8 +11011,6 @@ mix
 - **Ingredients:** 3/4 pound golden potatoes, 1 tbsp red wine vinegar, 2 tbsp tahini, 1 tbsp olive oil, 1 tbsp water, 1 clove garlic, minced to paste, 4 oz snow peas, 4 oz cherry tomatoes, 3 oz radishes, 2 chicken breasts, olive oil, to taste, salt and pepper, to taste, cheese, to taste
 
 ### Blueprint
-# [Tahini Chicken](https://www.blueapron.com/recipes/tahini-chicken-with-crispy-smashed-potatoes-snow-pea-tomato-salad)
-
 Boil ¾ pound golden potatoes **12m** (add to boiling water)  
 Remove potatoes, SMASH
 
@@ -12698,15 +11023,15 @@ T red wine Vinegar
 
 Chop 4oz snow peas and 4oz cherry tomatoes and 3oz radishes in half  
 Throw peas in boiling water **2m**, remove to ice water, pat dry  
-s\&p the tomatoes and radishes and let rest
+s&p the tomatoes and radishes and let rest
 
-Dry, s\&p 2 chicken breasts, o.o. In MH pan, **6-7m / side**  
+Dry, s&p 2 chicken breasts, o.o. In MH pan, **6-7m / side**  
 Remove to plate and cover
 
-Add oil to pan, heat, add smashed potatoes, s\&p, **4-5m / side** (crispy)  
-Drain on paper towels, s\&p,. Cheese
+Add oil to pan, heat, add smashed potatoes, s&p, **4-5m / side** (crispy)  
+Drain on paper towels, s&p,. Cheese
 
-Add ½ dressing to peas, tomatoes, radishes, s\&p  
+Add ½ dressing to peas, tomatoes, radishes, s&p  
 Serve other half of dressing over chicken & potatoes
 
 ---
@@ -12722,8 +11047,6 @@ Serve other half of dressing over chicken & potatoes
 - **Ingredients:** 3 lbs chicken leg quarters, 1/4 cup yogurt or buttermilk, 3 inches fresh ginger, minced and divided, 7 cloves garlic, minced and divided, 2.5 tsp salt, divided, 1 tsp ground cumin, divided, 2 tsp ground coriander, divided, 0.5 tsp ground turmeric, 1 tsp chili powder, 1 tbsp plus 1 tsp garam masala, divided, 2 cups onions, chopped, 2 tbsp spice mix (fennel, pepper, fenugreek, chili, curry, cumin, coriander), 12 oz canned tomatoes, 1 tbsp tomato paste (optional), 3 cups water (plus extra as needed)
 
 ### Blueprint
-# [Tariwali Curry Chicken](https://www.theloveofspice.com/indian-chicken-curry-recipe/)
-
 Marinate 3 lbs chicken leg quarters (4) in   
 ¼ cup yogurt or buttermilk, 2” ginger, 5 garlic, 1.5 t salt, ½ t cumin, t coriander, ½ t turmeric, t chili powder, t garam masala
 
@@ -12735,7 +11058,7 @@ T garam masala, t coriander, ½ t cumin
 12 oz can tomatoes, 5m  
 T Tomato paste if you want
 
-Add chicken \+ 3 cups water  
+Add chicken + 3 cups water  
 Cover and cook 30-40m
 
 ---
@@ -12751,8 +11074,6 @@ Cover and cook 30-40m
 - **Ingredients:** ladyfingers (vegan as needed), brewed tea, 3/4 cup coconut cream, 3/4 cup silken tofu, 5 tbsp powdered sugar, 1.5 tsp vanilla extract, matcha powder to taste
 
 ### Blueprint
-# [Tea-ramisu](https://fullofplants.com/vegan-matcha-tiramisu/)
-
 Tiramisu basic idea
 
 soak lady fingers in tea  
@@ -12763,7 +11084,7 @@ dust (matcha right before serving)
 refrigerate 2-4 hours
 
 vegan creamy filling  
-3/4 cup coconut cream \+ 3/4 cup silken tofu \+ 5T powdered sugar \+ 1.5 t vanilla
+3/4 cup coconut cream + 3/4 cup silken tofu + 5T powdered sugar + 1.5 t vanilla
 
 ---
 
@@ -12778,9 +11099,7 @@ vegan creamy filling
 - **Ingredients:** 2 boneless, skinless chicken breasts, salt and pepper to taste, 1 tbsp ketchup, 1/2 tbsp hoisin sauce, 1/2 tbsp light brown sugar, 1/2 tbsp lime juice, 1/2 tsp sesame oil, 1/4 tsp minced or powdered garlic, cooking oil for grill grates
 
 ### Blueprint
-# [Teriyaki Chicken](https://www.marthastewart.com/1549721/teriyaki-glazed-grilled-chicken)
-
-Pound 2 breasts to ½”, s\&p 
+Pound 2 breasts to ½”, s&p 
 
 T ketchup  
 ½ T hoisin  
@@ -12805,12 +11124,23 @@ Apply sauce, **2m,** turn**, 2m**
 - **Ingredients:** 1/2 cup mayonnaise, 1/3 cup sweet Thai chili sauce, 2 tsp lime juice, burger buns, 2 cups pineapple, diced, 3 cups cabbage, shredded, 1/2 cup cilantro, chopped, 1 lb ground chicken (or turkey), 1/2 cup panko breadcrumbs, 2 tbsp soy sauce, 2 tbsp sugar, chipotle in adobo, to taste, 1 tsp onion powder, 1 tsp garlic powder, black pepper, to taste
 
 ### Blueprint
-# Teriyaki chicken burgers
-
-Slaw \- ½ cup mayo, 1/3 cup sweet thai chili sauce, 2t lime, (save some sauce for toasted buns)  
+Slaw - ½ cup mayo, 1/3 cup sweet thai chili sauce, 2t lime, (save some sauce for toasted buns)  
 2 cups pineapple, 3 cups cabbage, ½ cup cilantro
 
-Lb ground chicken (turkey), ½ cup panko, 2T soy, 2T sugar, chipotle in adobo, t onion, t garlic, pepper  \- make burgers, cook (8m/side)
+Lb ground chicken (turkey), ½ cup panko, 2T soy, 2T sugar, chipotle in adobo, t onion, t garlic, pepper  - make burgers, cook (8m/side)
+
+---
+
+## Texas Toast (`rec_burnt_ends_e0b96e`)
+- **Type:** main (bread)
+- **Cuisine:** American | **Effort:** Low
+- **Seasons:** autumn, summer, spring, winter
+- **Vibe:** savory, smoky, garlicky, hearty
+- **Times (min):** Prep: 5, Cook: 12, Oven: 12
+- **Ingredients:** butter to taste, garlic powder to taste, salt to taste, parsley to taste
+
+### Blueprint
+Texas toast - butter both sides, garlic powder, salt, parsley, bake 6m + 6m @ 400
 
 ---
 
@@ -12825,10 +11155,8 @@ Lb ground chicken (turkey), ½ cup panko, 2T soy, 2T sugar, chipotle in adobo, t
 - **Ingredients:** 1.5 cups dry jasmine rice (cooked day before), 2 cups broccoli, 1/2 onion, sliced, 1 lb chicken, cut in pieces, cornstarch, to taste, 2 eggs, sesame oil (1/2 tsp + 1 tbsp + more as needed), soy sauce (1 tsp + more to taste), salt (1/4 tsp + more to taste), vegetable oil, to taste, 2 cloves garlic, lime, to taste, fresh basil, to taste
 
 ### Blueprint
-# [Thai Fried Rice](https://themodernproper.com/thai-fried-rice-with-basil)
-
 Cook 1.5 dry cups jasmine rice the day before.  
-Boil 2 cups broccoli and half sliced onion in salted water for **2m** \-\> remove
+Boil 2 cups broccoli and half sliced onion in salted water for **2m** -> remove
 
 Salt lb chicken, cut in pieces  
 Cornstarch that chicken  
@@ -12836,11 +11164,11 @@ Boil that chicken in the same water, **4m**
 beat two eggs with ½ tsp sesame oil, 1 tsp soy sauce and ¼ tsp salt.
 
 T veg oil, T sesame oil in wok, medium  
-2 garlic, broccoli & onion, **2m** \-\> remove  
-More oil, Fry eggs \-\> remove  
-More oil, fry chicken \-\> remove  
+2 garlic, broccoli & onion, **2m** -> remove  
+More oil, Fry eggs -> remove  
+More oil, fry chicken -> remove  
 More oil, fry rice (spread out, let sit for a minute, stir, repeat 5x)  
-Add everything together \+ soy \+ lime \+ basil
+Add everything together + soy + lime + basil
 
 ---
 
@@ -12855,8 +11183,6 @@ Add everything together \+ soy \+ lime \+ basil
 - **Ingredients:** 1/3 cup red curry paste, 1/6 cup coconut oil, 2 tsp ground turmeric, 1 tsp black pepper, 1 lb ground pork, 1 tbsp sugar, 2 tbsp fish sauce, chile to taste, lime zest to taste, cucumber to taste, rice for serving, 3 tbsp white vinegar, 2 tbsp sugar, salt to taste, red onion to taste, 1 tbsp shallot, peanuts to taste, 2 tbsp lime juice, 2 tbsp fish sauce
 
 ### Blueprint
-# [Thai Hunter’s curry](https://www.foodandwine.com/kua-kling-12062231)
-
 ⅓ cup red curry, ⅙ cup coconut oil, 2t turmeric, t pepper
 
 Wok M heat, oil, the curry paste, 2-3m
@@ -12884,13 +11210,11 @@ Maybes: Red onion, T shallot, peanut, 2T lime, 2T fish sauce. Sit 10m
 - **Ingredients:** Chilis to taste, 1 tbsp soy sauce, 2 tsp fish sauce, 2 tsp oyster sauce, 2 tbsp water, 4 cloves garlic, Japanese eggplant, sliced, Cooking oil to taste, Ground chicken (optional) to taste, Thai basil to taste, Mint to taste, Tarragon to taste
 
 ### Blueprint
-## Thai basil eggplant
-
-Mix \- Chilis, T soy, 2t fish sauce, 2t oyster sauce, 2T water, 4 garlic  
-Sliced japanese eggplant \- oil and sear skin up, flip and sear  
+Mix - Chilis, T soy, 2t fish sauce, 2t oyster sauce, 2T water, 4 garlic  
+Sliced japanese eggplant - oil and sear skin up, flip and sear  
 (usually ground chicken)  
 Add sauce, 2m  
-Basil \+ mint \+ tarragon
+Basil + mint + tarragon
 
 ---
 
@@ -12904,8 +11228,6 @@ Basil \+ mint \+ tarragon
 - **Ingredients:** curry paste, to taste, cooking oil, to taste, chili, to taste, 1 lb chicken pieces, 1 tbsp fish sauce (or more to taste), 2 tbsp sugar, 2 tbsp oyster sauce, 1/2 lb green beans, cut to 1-inch pieces, lime, to taste, basil, to taste, water, to taste
 
 ### Blueprint
-# Thai chicken green bean
-
 Cook curry paste 30 sec in oil, chili  
 Lb Chicken pieces, T+ fish sauce, 2T sugar, 2T oyster, 5m or so  
 ½ lb 1” green beans, 2m  
@@ -12925,14 +11247,12 @@ Water to make saucy
 - **Ingredients:** 1.5 lb chicken wings, 2 tsp fish sauce, white pepper to taste, ground cumin to taste, salt to taste, rice vinegar to taste, sugar to taste, water to taste, garlic to taste, chile to taste, soy sauce to taste, tofu to taste
 
 ### Blueprint
-# [Thai wings](https://iheartumami.com/thai-air-fryer-chicken-wings/)
-
 1.5 lb wings  
 Marinate in 2t fish sauce, white pepper, cumin, salt for like 10m (no more)  
 Sauce \= rice vinegar, sugar, water, garlic, chile, soy  
 Air fry 400 x 20m, flipping in middle
 
-Tofu \- press, cube, sauce, airfry 400x10
+Tofu - press, cube, sauce, airfry 400x10
 
 ---
 
@@ -12947,10 +11267,8 @@ Tofu \- press, cube, sauce, airfry 400x10
 - **Ingredients:** 1/2 cup sesame oil, 3 inches fresh ginger, sliced, 12 whole garlic cloves, 2 scallions, cut into 1-inch pieces, 2 red thai chiles, 2 lb chopped bone-in skin-on chicken, 1 cup rice wine, 1/3 cup soy sauce, 2 tbsp sugar, fresh Thai basil (or mint/basil/chile) to taste, cooked rice for serving
 
 ### Blueprint
-# [Three Cup Chicken](https://www.foodandwine.com/san-bei-ji-three-cup-chicken-7092451)
-
 1/2 cup sesame oil M heat 1m  
-ML heat \- 3" ginger sliced & 12 whole garlic 1m  
+ML heat - 3" ginger sliced & 12 whole garlic 1m  
 2 scallions cut 1", 2 red thai chiles 10sec
 
 push all that to the edge and put in 2lb chopped bone in skin on chicken, skin down  
@@ -12972,8 +11290,6 @@ thai basil (mint/basil/chile) & rice
 - **Ingredients:** tomatoes to taste, olive oil to taste, salt to taste, oregano to taste
 
 ### Blueprint
-## Tomato salad
-
 Tomatoes, o.o., salt, oregano
 
 ---
@@ -12988,8 +11304,6 @@ Tomatoes, o.o., salt, oregano
 - **Ingredients:** corn tortillas, oil for frying, salt to taste, lime to taste
 
 ### Blueprint
-## Totopos
-
 Cut corn tortillas in 1/4s, fry in oil about a minute, transfer to paper towel, salt & lime
 
 ---
@@ -13005,54 +11319,8 @@ Cut corn tortillas in 1/4s, fry in oil about a minute, transfer to paper towel, 
 - **Ingredients:** 30 cloves garlic, 1 tsp salt, 3 cups olive oil, juice of 1 lemon
 
 ### Blueprint
-## [Toum](https://thematbakh.com/the-best-lebanese-garlic-sauce-toum/)
-
 30 cloves garlic, food processor, t salt  
 Alternate adding 3 cups o.o. And juice of 1 lemon SLOWLY
-
----
-
-## Tri-tip (`rec_tri_tip_13cbae`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Medium
-- **Seasons:** autumn, winter, spring
-- **Vibe:** savory, garlicky, hearty, rich
-- **Dietary:** gluten-free
-- **Times (min):** Prep: 20, Cook: 35, Oven: 25
-- **Ingredients:** tri-tip roast, mushrooms to taste, garlic to taste, butter to taste, salad greens to taste, salt and pepper to taste
-
-### Blueprint
-# Tri-tip
-
-Garlic butter mushrooms  
-salad
-
----
-
-## Tri-tip (`rec_tri_tip_d3cc95`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Medium
-- **Seasons:** spring, summer, autumn
-- **Vibe:** smoky, savory, rich
-- **Dietary:** gluten-free, dairy-free, low-carb, keto
-- **Times (min):** Prep: 5, Cook: 100, Oven: None
-- **Source:** Kate Sumner (https://biggreenegg.com/recipes/reverse-sear-tri-tip-with-chimichurri/)
-- **Ingredients:** 1 tri-tip roast, Oak wood chunks
-
-### Blueprint
-# [Tri-tip](https://biggreenegg.com/recipes/reverse-sear-tri-tip-with-chimichurri/)
-
-big green egg indirect \-\> 275   
-OAK chunk
-
-smoke to temp of 115 (90m?)  
-remove and cover with foil (10 minutes)
-
-remove conveggtor and get egg to 500
-
-sear 3 minutes / side (get temp to 135\)
-
-rest 5 minutes more then slice thin
 
 ---
 
@@ -13067,10 +11335,8 @@ rest 5 minutes more then slice thin
 - **Ingredients:** 1 tri-tip roast, salt to taste, black pepper to taste, garlic powder to taste
 
 ### Blueprint
-# [Tri-tip](https://biggreenegg.com/recipes/reverse-sear-tri-tip-with-chimichurri/)
-
-Season tri-tip (salt, pepper, garlic, \+ whatever)  
-big green egg indirect \-\> 275   
+Season tri-tip (salt, pepper, garlic, + whatever)  
+big green egg indirect -> 275   
 OAK chunk
 
 smoke to temp of 115 (90m?)  
@@ -13080,30 +11346,6 @@ remove conveggtor and get egg to 500
 
 sear 3 minutes / side (get temp to 135\)
 
-rest 5 minutes more then slice thin
-
----
-
-## Tri-tip (`rec_tri_tip_db4cfa`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Medium
-- **Seasons:** summer, spring, autumn
-- **Vibe:** smoky, savory, meaty, rich
-- **Dietary:** gluten-free, dairy-free, keto, low-carb
-- **Times (min):** Prep: 10, Cook: 96, Oven: None
-- **Source:** Kate Sumner (https://biggreenegg.com/recipes/reverse-sear-tri-tip-with-chimichurri/)
-- **Ingredients:** 1 tri-tip roast, salt, to taste, black pepper, to taste, garlic powder, to taste
-
-### Blueprint
-## [Tri-tip](https://biggreenegg.com/recipes/reverse-sear-tri-tip-with-chimichurri/)
-
-Season meat(salt, pepper, garlic, \+ whatever)  
-big green egg indirect \-\> 275   
-OAK chunk  
-smoke to temp of 115 (90m?)  
-remove and cover with foil (10 minutes)  
-remove conveggtor and get egg to 500  
-sear 3 minutes / side (get temp to 135\)  
 rest 5 minutes more then slice thin
 
 ---
@@ -13119,20 +11361,18 @@ rest 5 minutes more then slice thin
 - **Ingredients:** 1 lb chicken thighs, yellow mustard, to taste, 1/4 onion, finely chopped and divided, 1/4 tomato, finely chopped, 2 cloves garlic, finely chopped, 1 jalapeno, finely chopped, 1/2 tbsp Trinidad curry powder, 1/2 tsp turmeric, 3/4 cup water, divided, cooking oil, as needed, salt, to taste, black pepper, to taste, cooked rice, for serving
 
 ### Blueprint
-# [Trinidad Chicken](https://www.thepioneerwoman.com/food-cooking/recipes/a8910/toms-trinidadian-chicken-curry/)
-
 Trinidad curry  
 Cardamom, coriander, cumin, mustard, pepper, cloves, turmeric, (fenugreek) (curry)
 
-1 lb Chicken thighs \-\> salt & yellow mustard,   
-Chop very fine \- ⅛  onion, ¼ tomato, 2 garlic, jalapeno ,add to chicken \- marinate **2 hours**
+1 lb Chicken thighs -> salt & yellow mustard,   
+Chop very fine - ⅛  onion, ¼ tomato, 2 garlic, jalapeno ,add to chicken - marinate **2 hours**
 
-½ T Trinidad Curry \+ ½ t turmeric \+ ¼  cup water  
+½ T Trinidad Curry + ½ t turmeric + ¼  cup water  
 Skillet ML, oil, curry slurry **2m**  
 ⅛ onion, **5m**  
 Add Chicken & coat.  Cook half covered **5m**  
 Turn, ½ cup water.  Stir every 5m for **20m**  
-s\&p 
+s&p 
 
 Serve over rice
 
@@ -13149,8 +11389,6 @@ Serve over rice
 - **Ingredients:** 1 pint cherry or grape tomatoes, 2 shallots, quartered lengthwise, 4 garlic cloves, 2 green Thai chiles, stems removed, Juice of 2 limes, 1/4 cup coarsely chopped cilantro, 2 Tbsp. fish sauce (or more to taste), 1 tsp. sugar, 4 thin-cut bone-in pork chops (about 1 1/2 lb. total), Salt, to taste, Black pepper, to taste, High-heat cooking oil, as needed, Cooked white rice, for serving
 
 ### Blueprint
-# [Tuk Trey Ping Poh](https://www.bonappetit.com/recipe/tuk-trey-ping-poh-with-pork-chops)
-
 BROIL 5m, turn, 5m  
 1 pint cherry or grape tomatoes  
 2 shallots, quartered lengthwise  
@@ -13163,8 +11401,8 @@ Juice of 2 limes
 2 Tbsp. (or more) fish sauce  
 1 tsp. sugar
 
-4 thin-cut bone-in pork chops (about 1½ lb. total) S\&P  
-Skillet H oil, 2m per side \-\> plate
+4 thin-cut bone-in pork chops (about 1½ lb. total) S&P  
+Skillet H oil, 2m per side -> plate
 
 Cooked white rice (for serving)
 
@@ -13181,36 +11419,10 @@ Cooked white rice (for serving)
 - **Ingredients:** tuna steaks, oil (to coat), sesame seeds (to taste, optional), avocado, pineapple, orange bell pepper, 3 tbsp lime juice, 1/4 tsp ginger, 1/4 tsp wasabi, salt and pepper (to taste), green beans
 
 ### Blueprint
-# [Tuna](https://www.hy-vee.com/recipes-ideas/recipes/tuna-steaks-with-summer-salsa)
-
-Salsa \- avocado, pineapple, orange bell pepper, 3T lime, 1/4t ginger, 1/4t wasabi, s\&p  
+Salsa - avocado, pineapple, orange bell pepper, 3T lime, 1/4t ginger, 1/4t wasabi, s&p  
 Coat tuna in oil, (coat in sesame seeds), Grill 4m/side
 
 Green beans
-
----
-
-## Turkey (`rec_turkey_700895`)
-- **Type:** main (standard)
-- **Cuisine:** American | **Effort:** Medium
-- **Seasons:** autumn, winter
-- **Vibe:** smoky, savory, herbaceous, citrusy
-- **Dietary:** dairy-free, gluten-free
-- **Times (min):** Prep: 25, Cook: 150, Oven: 0
-- **Source:** Kate Sumner (https://biggreenegg.com/recipes/smoked-turkey/)
-- **Ingredients:** 1 whole turkey, 1 gallon water, 1/2 cup brown sugar, 1 orange (rind only), 3 sprigs fresh rosemary, 1 cup salt, 3 onions, 1 head garlic, 3 lemons, 10 sprigs fresh thyme, 10 leaves fresh sage, olive oil to taste, black pepper to taste, garlic powder to taste
-
-### Blueprint
-## [Turkey](https://biggreenegg.com/recipes/smoked-turkey/)
-
-Brine?  12 hours in gallon water, ½ cup brown sugar, rind of an orange, 3 sprigs rosemary, cup salt, 2 onions, ½ garlic head, 2 lemons
-
-BGE \- 325, pecan, indirect  
-Stuff dried turkey with lemon, onion, ½ head garlic, 10 thyme, 10 sage  
-O.o., Pepper  & garlic powder on outside  
-Turkey on rack in roaster pan  
-Cook to 165 (2-3 hours) \- 12m/pound  
-Rest covered foil 15 m
 
 ---
 
@@ -13225,15 +11437,13 @@ Rest covered foil 15 m
 - **Ingredients:** 1 whole turkey, 1 gallon water, 1/2 cup brown sugar, Rind of 1 orange, 3 sprigs fresh rosemary, 1 cup salt, 3 onions, quartered, 1 head garlic, halved, 3 lemons, quartered, 10 sprigs fresh thyme, 10 leaves fresh sage, Olive oil to taste, Black pepper to taste, Garlic powder to taste
 
 ### Blueprint
-## [Turkey](https://biggreenegg.com/recipes/smoked-turkey/)
-
 Brine?  12 hours in gallon water, ½ cup brown sugar, rind of an orange, 3 sprigs rosemary, cup salt, 2 quartered onions, ½ garlic head, 2 quarters lemons
 
-BGE \- 325, pecan, indirect  
+BGE - 325, pecan, indirect  
 Stuff dried turkey with quartered lemon & onion, ½ head garlic, 10 thyme, 10 sage  
 O.o., Pepper  & garlic powder on outside  
 Turkey on rack in roaster pan  
-Cook to 165 (2-3 hours) \- 12m/pound  
+Cook to 165 (2-3 hours) - 12m/pound  
 Rest covered foil 15 m
 
 ---
@@ -13249,17 +11459,15 @@ Rest covered foil 15 m
 - **Ingredients:** whole turkey, kosher salt (3 parts per dry brine mix, 1 tbsp mix per 4 lb turkey), brown sugar (1 part per dry brine mix, 1 tbsp mix per 4 lb turkey), lemon, quartered, onion, quartered, 1/2 head garlic, 10 sprigs thyme, 10 sprigs sage, olive oil to taste, black pepper to taste, garlic powder to taste
 
 ### Blueprint
-## [Turkey](https://biggreenegg.com/recipes/smoked-turkey/)
-
-Dry brine \- 3 kosher salt \+ 1 brown sugar, T per 4 lb.   
+Dry brine - 3 kosher salt + 1 brown sugar, T per 4 lb.   
 On skin, in cavity, under skin, refrigerate uncovered  
 Season before cooking
 
-BGE \- 325, pecan, indirect \- or 180 for 3 hours first, then 325  
+BGE - 325, pecan, indirect - or 180 for 3 hours first, then 325  
 Stuff dried turkey with quartered lemon & onion, ½ head garlic, 10 thyme, 10 sage  
 O.o., Pepper  & garlic powder on outside  
 Turkey on rack in roaster pan  
-Cook to 165 (2-3 hours) \- 12m/pound  
+Cook to 165 (2-3 hours) - 12m/pound  
 Rest covered foil 15 m
 
 ---
@@ -13274,17 +11482,15 @@ Rest covered foil 15 m
 - **Ingredients:** 2 lbs ground turkey, 1/2 cup plus 2 tablespoons mayonnaise, 3 cloves garlic, 1 lemon, zested and chopped, 1/2 cup fresh parsley, 1/2 cup parmesan cheese, plus extra to taste, 2 tsp salt and pepper, plus extra to taste, 2 big pinches red pepper flakes, olive oil to taste, 1 lb orzo, 2 tbsp shallots, 1 cup chopped green olives, 10 oz greens
 
 ### Blueprint
-# [Turkey Meatball Orzo](https://food52.com/recipes/73534-tender-turkey-meatballs-and-orzo-with-whole-lemon-vinaigrette)
-
-2lbs ground turkey, ½ cup mayo, 3 garlic,1 lemon zest, ½ cup parsley, ½ cup parm, 2t s\&p, 2 big pinches red pepper flakes
+2lbs ground turkey, ½ cup mayo, 3 garlic,1 lemon zest, ½ cup parsley, ½ cup parm, 2t s&p, 2 big pinches red pepper flakes
 
 Make 1.5” meatballs. Roll in o.o.  Foil-lined sheet pan, BROIL 5m, flip, 5m
 
 Make 1lb orzo, add 2T mayo
 
-2T Shallots, cup chopped green olives, chopped lemon, s\&p, sautee in o.o. 4m
+2T Shallots, cup chopped green olives, chopped lemon, s&p, sautee in o.o. 4m
 
-Add all together with 10 oz greens, more parm.  Add s\&p, lemon as needed
+Add all together with 10 oz greens, more parm.  Add s&p, lemon as needed
 
 ---
 
@@ -13299,8 +11505,6 @@ Add all together with 10 oz greens, more parm.  Add s\&p, lemon as needed
 - **Ingredients:** 2 turkey tenderloins, 1 tablespoon brown sugar, 1 tablespoon paprika, 2 teaspoons sage, 2 teaspoons kosher salt, 2 teaspoons thyme, 2 teaspoons garlic powder, 1/4 teaspoon cayenne, cooking oil to taste, salt to taste
 
 ### Blueprint
-# [Turkey Tenderloin](https://www.thekitchn.com/turkey-tenderloin-recipe-23218324)
-
 T brown sugar, T paprika, 2t sage, 2t kosher salt, 2t thyme, 2t garlic powder, 1/4 t cayenne
 
 rub 2 tenderloins with that.
@@ -13309,7 +11513,7 @@ refrigerate 4 hours
 
 325 oven
 
-brown over MH \+ oil, 2m/flip/sm
+brown over MH + oil, 2m/flip/sm
 
 bake 25minutes (to 155\)  
 rest 15m, slice, salt
@@ -13326,10 +11530,8 @@ rest 15m, slice, salt
 - **Ingredients:** 3 tbsp soy sauce, 1 tbsp toasted sesame oil, 1 tbsp rice vinegar, 1 tbsp honey, 1 tsp chili garlic sauce, 1 tbsp cornstarch, 1 lb ground turkey, cooking oil to taste, salt and black pepper to taste, 3 cloves garlic, minced, 1 tbsp fresh ginger, minced, 4 scallions, whites and greens separated, 1 lb shredded green cabbage (approx. 1/2 head), 1 cup matchstick carrots, sesame seeds to taste
 
 ### Blueprint
-# Turkey cabbage stir fry
-
-Whisk \- 3T soy, 1T sesame oil, T rice vinegar, T honey, t chili garlic sauce, T cornstarch  
-Brown lb ground turkey in oil, s\&p (8m), remove
+Whisk - 3T soy, 1T sesame oil, T rice vinegar, T honey, t chili garlic sauce, T cornstarch  
+Brown lb ground turkey in oil, s&p (8m), remove
 
 Oil, 3 garlic, T ginger, 4 white scallions, 30sec
 
@@ -13352,10 +11554,8 @@ Scallion greens & sesame
 - **Ingredients:** 4 chicken breast halves, Kosher salt to taste, Black pepper to taste, Cooking oil to taste, 1 onion, chopped, 2 carrots, chopped, 2 tbsp fresh thyme, 5 cloves garlic, 1/2 cup white wine, 1 bunch kale, stemmed and sliced, 1/4 tsp salt, 1 cup chicken stock, 1 can tomatoes, 1 can cannellini beans, 2 tsp lemon zest, 1 tbsp tomato paste, Italian seasoning blend (basil, oregano, rosemary, marjoram, sage, fennel, garlic, thyme) to taste
 
 ### Blueprint
-# [Tuscan Chicken](https://www.cookinglight.com/recipes/tuscan-chicken-white-beans-kale)
-
-Kosher s\&p 4 chicken breast halves  
-MH skillet, oil, **4m** / side \-\> remove
+Kosher s&p 4 chicken breast halves  
+MH skillet, oil, **4m** / side -> remove
 
 Chopped onion, 2 chopped carrots, 2T fresh thyme, 5 garlic **5m**  
 ½ cup white wine, **2m**  
@@ -13376,16 +11576,14 @@ Seasoning \=  Basil, oregano, rosemary, marjoram, sage, fennel, garlic, thyme
 - **Ingredients:** 1 onion, 4 cloves garlic, 2 carrots, rotisserie chicken to taste, dried thyme to taste, dried oregano to taste, red pepper flakes to taste, broth to taste, gnocchi to taste, kale to taste, salt and black pepper to taste
 
 ### Blueprint
-# Veg Soup
-
 Sautee Onion, 4 garlic  
 2 carrots  
 Roto chicken  
-Thyme, s\&p, oregano, red pepper  
+Thyme, s&p, oregano, red pepper  
 Broth  
 Gnocchi 5m or whateer  
 Kale  
-s\&p
+s&p
 
 ---
 
@@ -13399,10 +11597,8 @@ s\&p
 - **Ingredients:** 1.5 cups rice, rinsed, 1/3 cup vermicelli, oil (to taste), 2.25 cups water, 1 tsp salt
 
 ### Blueprint
-## Vermicelli Rice
-
 1.5 cups rice, rinsed  
-toast 1/3 cup vermicelli in oil MH 3m \- do not burn  
+toast 1/3 cup vermicelli in oil MH 3m - do not burn  
 2.25 cups water, t salt, boil, low, cover, **15m**
 
 ---
@@ -13418,8 +11614,6 @@ toast 1/3 cup vermicelli in oil MH 3m \- do not burn
 - **Ingredients:** pork chops to taste, 5 tbsp sugar, 2 tbsp soy sauce, 4 tbsp fish sauce, 1/2 tsp msg, 4 tbsp oil, 6 tbsp lemongrass, 7 cloves garlic, 2 tbsp shallots, 6 tbsp water, 1.5 tbsp lime juice, 1 chile
 
 ### Blueprint
-# [Vietnamese Pork Chop](https://www.hungryhuy.com/vietnamese-pork-chops/) & [Green Beans](https://food52.com/recipes/56483-seared-string-beans-w-fish-sauce-and-garlic)
-
 overnight  
 marinade 3T sugar, 2T soy, 2T fish sauce, 1/2 t msg. 4T oil  
 6T lemongrass, 6 garlic, 2 T shallots
@@ -13442,8 +11636,6 @@ dipping sauce
 - **Ingredients:** 1 tablespoon olive oil, 2 teaspoons fresh lemon juice, 1/4 teaspoon salt, 2 cups cubed seedless watermelon, 1 cup thinly sliced English cucumber, 1/4 cup thinly vertically sliced red onion, 1 tablespoon thinly sliced fresh basil
 
 ### Blueprint
-## [Watermelon cucumber salad](https://www.myrecipes.com/recipe/watermelon-cucumber-salad)
-
 * 1 tablespoon olive oil  
 * 2 teaspoons fresh lemon juice  
 * ¼ teaspoon salt  
@@ -13464,9 +11656,7 @@ dipping sauce
 - **Ingredients:** 2 lb beef tenderloin, Salt and pepper to taste, High-heat cooking oil as needed, Prepared horseradish to taste, Mustard to taste, 1 lb mushrooms, very finely chopped, Butter as needed, 2 shallots, minced, 2 tsp fresh thyme, 1/2 cup cognac, 1/2 cup heavy cream, 2 tsp soy sauce, Prosciutto slices as needed, Pâté to taste (optional), 1 sheet puff pastry, 1 egg, beaten (for egg wash), Flaky sea salt to taste
 
 ### Blueprint
-# [Wellington](https://www.seriouseats.com/the-ultimate-beef-wellington-recipe)
-
-tie up tenderloin every 1"  (2lb?), s\&p
+tie up tenderloin every 1"  (2lb?), s&p
 
 oil, high heat, 2m/side (10m total)  
 remove twine  
@@ -13477,7 +11667,7 @@ chop lb mushrooms VERY FINE
 cook in butter MH, 12m.  
 add 2 shallots and 2t fresh thyme, 2m more  
 deglaze with 1/2 cup cognac, 4m more  
-1/2 cup cream \+ 2t soy, cook to thick paste, s\&p
+1/2 cup cream + 2t soy, cook to thick paste, s&p
 
 refrigerate (30m)
 
@@ -13515,16 +11705,14 @@ rest 10m
 - **Ingredients:** 2 lb boneless skinless chicken thighs, halved, salt and pepper to taste, skillet oil to taste, 1 can diced tomatoes, 2 tbsp fish sauce, 1 serrano chili, 1/4 cup peanut butter, lemon zest and juice to taste, parsley to taste
 
 ### Blueprint
-# [West African Peanut Chicken](https://www.177milkstreet.com/recipes/west-african-peanut-chicken-cookish?allow_token=3f77d99d-6e14-41be-82d3-9f144b471b2d&utm_source=Klaviyo&utm_medium=email&utm_campaign=Free%20This%20Week%20-%20West%20African%20Peanut%20Chicken%20%2801GSDE1S1CH0B07JY6G8H2NS39%29&triplesource=klaviyo&_kx=Rn5Sob1E1jd8_ggG1A4kE6pbjnZWu12dcBLZkX2u0Wk%3D.Vdqjt7)
-
 2lb boneless skinless chicken thighs, halved  
-Dry, s\&p  
+Dry, s&p  
 Skillet oil, Medium, brown the thighs  
 Turn, add can diced tomatoes, 2T fish sauce, 1 serrano chili  
 Scrape  
 Cover and cook 20m  
 ¼ cup Peanut butter, simmer to thicken  
-s\&p, lemon zest \+ juice, parsley
+s&p, lemon zest + juice, parsley
 
 ---
 
@@ -13539,9 +11727,7 @@ s\&p, lemon zest \+ juice, parsley
 - **Ingredients:** oil to taste, 1 lb chicken legs, 1 onion, chopped, 3 cloves garlic, minced, 1 tbsp ginger, minced, 1 tsp cumin, 1/2 tsp turmeric, 1/4 tsp cayenne pepper, 14.5 oz can diced tomatoes, 4 cups chicken broth, 1 sweet potato, diced, 1/2 cup peanut butter, 1 cup frozen okra, salt to taste, pepper to taste, parsley to taste, rice or couscous for serving
 
 ### Blueprint
-# [West African Peanut Stew](https://www.aspicyperspective.com/african-peanut-soup-with-chicken-maafe/)
-
-Heat the oil in a large pot over medium heat. Add lb chicken legs and cook until browned on all sides, about 5 minutes \+ 3m.  
+Heat the oil in a large pot over medium heat. Add lb chicken legs and cook until browned on all sides, about 5 minutes + 3m.  
 Add 1 onion, 3 garlic, T ginger, t cumin, 1/2 t turmeric, and 1/4 tcayenne pepper to the pot and cook until softened, about 5 minutes.  
 Stir in 14.5 oz can diced tomatoes,4 cups chicken broth, diced sweet potato, and 1/2 cup peanut butter. Bring to a simmer and cook for 30 minutes.  
 Stir in cup frozen okra and cook for 5 minutes more, or until the okra is heated through.  
@@ -13560,10 +11746,8 @@ Season with salt and pepper to taste, parsley. Serve over rice or couscous.
 - **Ingredients:** 1 lb ground chicken, olive oil to taste, salt and pepper to taste, 1 cup onion, chopped, 4 cloves garlic, minced, 2 poblano peppers, chopped, 2 tsp ground cumin, 1 tsp dried oregano, 1/2 tsp cayenne pepper, 2 cups corn, 3 cans great northern beans (1 can mashed), 1 can green chilis, 3 cups chicken broth, 1 cup sour cream, avocado to taste, jalapeno to taste, tortilla chips to taste, lime to taste
 
 ### Blueprint
-# [White Chicken Chili](https://www.howewelive.com/the-best-white-chicken-chili-in-the-instant-pot/#recipe)
-
-Instant pot brown lb ground chicken in o.o., s\&p  
-Sautee \- maybe wok this stuff, to get it really browned  
+Instant pot brown lb ground chicken in o.o., s&p  
+Sautee - maybe wok this stuff, to get it really browned  
 Cup onion  
 4 garlic  
 2 poblano  
@@ -13593,15 +11777,13 @@ Add cup sour cream, avocado, jalapeno, tortilla chips,.lime, ..
 - **Ingredients:** 1 lb ground turkey, cooking oil as needed, 1 tsp ground cumin, 1 tsp dried oregano, 1/2 tsp garlic powder, 1/4 tsp salt, 2 cans white beans, 1/2 cup broth, 1 cup tomatillo salsa
 
 ### Blueprint
-# [White Turkey Chili](https://www.kitchenskip.com/instant-pot-white-bean-and-turkey-chili/)
-
 Sautee Lb ground turkey on oil **6m**   
 t cumin, t oregano, ½ t garlic powder, 1/4t salt  
 2 cans white beans  
 ½ cup broth  
 Cup tomatillo salsa
 
-**15m \+ 10m**
+**15m + 10m**
 
 ---
 
@@ -13615,8 +11797,6 @@ Cup tomatillo salsa
 - **Ingredients:** chicken wings to taste, peri peri sauce to taste, cooking oil to taste
 
 ### Blueprint
-## Wings
-
 Marinate wings in peri peri sauce  
 Oiled Grill Med, turning, for 15-20m  
 Or bake 425 for 30 / turn / 15
@@ -13634,16 +11814,14 @@ Or bake 425 for 30 / turn / 15
 - **Ingredients:** 16 oz vermicelli or dried thin flat rice noodles, canola oil, divided (to taste), 8 oz flank steak, sliced 3 inch x 1/2 inch x 1/4 inch, 1 tbsp soy sauce, divided, 1 tsp cornstarch, 1/2 tsp kosher salt, 1/4 tsp black pepper, 2 large eggs, beaten, 1 cup bean sprouts, 2 stalks celery, thinly sliced, 1 tbsp fish sauce
 
 ### Blueprint
-# [Wok-Fried Noodles](https://www.sfgate.com/recipes/article/Slanted-Door-Charles-Phan-authors-book-3884497.php)
-
 Cook 16 oz vermicelli / dried thin flat rice noodles (a little undercook)  
 Dunk in cool water, then spread on baking tray and add canola oil
 
-8oz flank steak sliced 3” x ½” x ¼” \+ t soy \+ t cornstarch \+ ½ t kosher salt \+ ¼ t pepper \+ t canola, mix and wait 10m
+8oz flank steak sliced 3” x ½” x ¼” + t soy + t cornstarch + ½ t kosher salt + ¼ t pepper + t canola, mix and wait 10m
 
 Wok high, then T oil,  then meat, 4m & remove  
 Wipe wok  
-Wok high, 2 beaten eggs, spread out and cook very briefly, add noodles \+ cup bean sprouts, 2 celery thin sliced.  3t fish sauce, 2t soy, 2 minutes  
+Wok high, 2 beaten eggs, spread out and cook very briefly, add noodles + cup bean sprouts, 2 celery thin sliced.  3t fish sauce, 2t soy, 2 minutes  
 Add meat to warm & mix.  serve.
 
 ---
@@ -13658,8 +11836,6 @@ Add meat to warm & mix.  serve.
 - **Ingredients:** 1 whole turkey, achiote paste to taste, 1 cup orange juice, 1/2 cup lime juice, 1 grapefruit, 8 cloves garlic, 1 tbsp oregano, 1 tsp cumin, 1 tsp allspice, 1 tsp black pepper, 2 tbsp kosher salt, 1/4 cup olive oil
 
 ### Blueprint
-# Yucatan Turkey
-
 Achiote, cup OJ, ½ cup lime, grapefruit, 8 garlic, T oregano, t cumin, t allspice, t pepper, 2T kosher salt, ¼ cup o.o.  
 SPATCHCOCK  
 Rub marinade under skin and all over  
@@ -13682,9 +11858,7 @@ OR BGE indirect 325-350 for ⅖ hours.  Pecan wood
 - **Ingredients:** 4 (5 oz) thin cut sirloin steaks, salt and pepper, to taste, oregano, to taste, 1.5 lb yellow potatoes, quartered, zest & juice of 1/2 lemon, 2 tsp capers, 2 tbsp pine nuts, 5 tbsp parsley, chopped (divided), 5 oz baby spinach, 4 tsp horseradish, 5 oz yogurt
 
 ### Blueprint
-# [Zingy steak / potato salad](https://www.simplybeefandlamb.co.uk/recipes/zingy-steaks-with-warm-potato-salad/)
-
-4 5 oz thin cut sirloin steaks, s\&p, oregano, M grill, **2m/side**
+4 5 oz thin cut sirloin steaks, s&p, oregano, M grill, **2m/side**
 
 Boil 1.5 lb yellow potatoes, quartered, **20m**  
 Add zest & juice of ½ lemon  
@@ -13711,10 +11885,8 @@ T parsley
 - **Ingredients:** 3 zucchini, chopped, Taco seasoning, to taste, Oil, to taste, Salt and pepper, to taste, Lime juice, to taste, Cotija cheese, to taste, Cilantro, to taste
 
 ### Blueprint
-## [Zucchini](https://www.bowlofdelicious.com/mexican-roasted-zucchini/)
-
 3 zucchini, chopped  
-Taco seasoning & oil, s\&p  
+Taco seasoning & oil, s&p  
 **25m** @ 425
 
 Lime juice, cotija, cilantro
@@ -13731,12 +11903,10 @@ Lime juice, cotija, cilantro
 - **Ingredients:** brussels sprouts, halved (to taste), olive oil (to taste), salt (to taste), 2 cloves garlic, sliced, balsamic vinegar (to taste), lime juice (to taste), soy sauce (to taste)
 
 ### Blueprint
-## airfryer brussels
-
 385
 
 halve sprouts  
-o.o. \+ salt,   
+o.o. + salt,   
 12m, shaking halfway through  
 2 cloves sliced garlic, 3 more minutes  
 add a little balsamic / lime / soy
@@ -13754,17 +11924,18 @@ add a little balsamic / lime / soy
 - **Ingredients:** 1.25 lb chicken thighs, cut into 1-inch pieces, 1 tsp paprika, 1.5 tsp garlic powder, divided, 1 tsp salt, 1/2 tsp onion powder, 1/2 tsp black pepper, 1 tsp cornstarch, 1 tbsp olive oil, 1/4 cup mayonnaise, 2 tbsp sweet chili sauce, 1 tsp soy sauce, sriracha to taste, coconut rice to taste, avocado to taste, cucumber to taste, honey to taste, lime to taste, salt and pepper to taste
 
 ### Blueprint
-# [bang bang chicken](https://www.chelseasmessyapron.com/bang-bang-chicken-skewers/)
-
-1.25 lb chicken thighs, 1”  \- if cooking whole thighs, pan skin down MH 6 m (DON’t BURN), flip M 12m \-\> 165  
+1.25 lb chicken thighs, 1”  - if cooking whole thighs, pan skin down MH 6 m (DON’t BURN), flip M 12m -> 165  
 t paprika, t garlic powder, t salt, 1/2 t onion powder, 1/2 t pepper, t cornstarch  
 T olive oil  
 broil high (6” away) for 12m
 
-sauce \= 1/4 cup mayo, 2T sweet chili sauce, 1/2 t garlic powder, t soy sauce, sriracha
+# sauce 
+1/4 cup mayo, 2T sweet chili sauce, 1/2 t garlic powder, t soy sauce, sriracha
 
 coconut rice  
-salad \= avocado, cucumber, honey, o.o. lime, s\&p
+
+# salad
+ avocado, cucumber, honey, o.o. lime, s&p
 
 ---
 
@@ -13779,8 +11950,6 @@ salad \= avocado, cucumber, honey, o.o. lime, s\&p
 - **Ingredients:** 1 whole chicken, chopped into pieces, star anise, to taste, 1 bunch green onions, whites and greens separated, 2 inches fresh ginger, 5 cups water, 2 tablespoons Shaoxing wine, 3 tablespoons soy sauce, 1 teaspoon sugar, 3/4 teaspoon salt, plus more to taste, mushrooms, to taste, cooked rice, for serving
 
 ### Blueprint
-## [braised chicken & mushroom](https://omnivorescookbook.com/moms-best-braised-chicken-with-mushrooms/)
-
 Chop up a chicken. Brown it (3m/side), remove  
 Add to wok: star anise, white part of green onion, 2” ginger (2m)  
 Add back chicken, water to cover chicken (5 cups)  
@@ -13804,10 +11973,8 @@ rice
 - **Ingredients:** 8 chicken thighs, oil to taste, 2 shallots, sliced, 8 cloves garlic, 10 oz white wine, 8 oz green beans, sliced, 16 oz stock, 1 tomato, cubed, 3 oz peas, salt to taste, black pepper to taste, lemon zest to taste, parsley to taste, tarragon to taste, chives to taste, coriander to taste, sour cream to taste
 
 ### Blueprint
-# [braised chicken \+ fricassee](https://www.deliciousmagazine.co.uk/recipes/braised-chicken-with-a-runner-bean-fricassee/)
-
 salt 8 chicken thighs  
-high heat, oil, skin down 5m \-\> remove
+high heat, oil, skin down 5m -> remove
 
 2 sliced shallots 2m  
 8 garlic 1m  
@@ -13817,7 +11984,7 @@ chicken, skin up, on top
 reduce by half  
 16 oz stock (don't cover chicken), simmer 30m
 
-cube a tomato, 3 oz peas, s\&p, lemon zest, herbs (parsley, tarragon, chives, coriander)
+cube a tomato, 3 oz peas, s&p, lemon zest, herbs (parsley, tarragon, chives, coriander)
 
 if dried herbs, add during simmer instead
 
@@ -13835,8 +12002,6 @@ sour cream, potentially.
 - **Ingredients:** carrots, sliced (to taste), honey (to taste), lime (to taste), salt (to taste)
 
 ### Blueprint
-## carrots
-
 Also, honey lime o.o. Salt, and roast sliced carrots for 30m @ 350
 
 ---
@@ -13852,14 +12017,12 @@ Also, honey lime o.o. Salt, and roast sliced carrots for 30m @ 350
 - **Ingredients:** cooking oil to taste, salt and pepper to taste, 4 chicken thighs, 1 onion, chopped, 2 cloves garlic, minced, 1 tbsp ground cumin, 2 tsp ground coriander, 1 1/3 cups rice, 1 can (14 oz) diced tomatoes, 2 tbsp peanut butter, 1 1/3 cups stock, 5 oz green beans, fresh cilantro to taste, peanuts to taste, fresh chili to taste
 
 ### Blueprint
-# [chili peanut chicken rice](https://www.taste.com.au/recipes/chilli-peanut-chicken-rice-recipe/0o66ok9b)
-
 350 preheat
 
-MH heat oil, s\&p 4 chicken thighs, skin down 4m, turn, 2m \-\> plate  
+MH heat oil, s&p 4 chicken thighs, skin down 4m, turn, 2m -> plate  
 M heat onion, 2 garlic, 3m  
 T cumin, 2t coriander, 30sec  
-1 ⅓ cup rice, (whisk can diced tomatoes \+ 2T peanut butter \+ 1 1/3 cup stock), s\&p  
+1 ⅓ cup rice, (whisk can diced tomatoes + 2T peanut butter + 1 1/3 cup stock), s&p  
 boil, add chicken, cover and bake 30m  
 fluff, add 5 oz green beans and cilantro, bake 5m  
 top with cilantro, peanuts, chili
@@ -13868,7 +12031,7 @@ Maybe try some fish sauce in the broth, lime juice at the end
 
 ---
 
-## cucumber, tomato, pickled red onion salad \- lacha pyaaz (`rec_cucumber_tomato_pickled_red_on_a34ead`)
+## cucumber, tomato, pickled red onion salad - lacha pyaaz (`rec_cucumber_tomato_pickled_red_on_a34ead`)
 - **Type:** side (salad)
 - **Cuisine:** Indian | **Effort:** Low
 - **Seasons:** summer, spring
@@ -13878,9 +12041,7 @@ Maybe try some fish sauce in the broth, lime juice at the end
 - **Ingredients:** 1 red onion, cucumber to taste, tomato to taste, 2 tbsp lime juice, fresh mint to taste, fresh cilantro to taste, chili pepper to taste, salt to taste, ground cumin to taste, ground coriander to taste, fennel seeds to taste, dried lime powder to taste, black pepper to taste
 
 ### Blueprint
-## cucumber, tomato, pickled red onion salad \- lacha pyaaz
-
-Slice red onion \-\> rings, soak water 5m  
+Slice red onion -> rings, soak water 5m  
 Mint, cilantro, chili pepper, lime, salt, cumin, coriander, fennel, mint, dried lime, pepper,...  
 2T lime for 1 onion  
 rice
@@ -13898,10 +12059,8 @@ rice
 - **Ingredients:** 3 lb baby gold potatoes, halved, broth, to taste, oil, to taste, lemon zest, to taste, oregano, to taste, salt and pepper, to taste, parsley, to taste
 
 ### Blueprint
-## [greek potatoes](https://www.fromvalerieskitchen.com/greek-potatoes/)
-
 3lb baby gold, halved  
-Bathe in broth \+ oil \+ zest \+ oregano, \+ s\&p
+Bathe in broth + oil + zest + oregano, + s&p
 
 400 x **20m**, toss, **25m** more, parsley
 
@@ -13918,8 +12077,6 @@ Bathe in broth \+ oil \+ zest \+ oregano, \+ s\&p
 - **Ingredients:** 4 (6 oz) salmon fillets, 2 tbsp brown sugar, 1 tsp honey, 1 tsp ground allspice, 1 tsp ground cumin, 6 tbsp lime juice (divided), 1/2 tsp salt, 1/4 tsp dried thyme, 1/4 tsp cayenne pepper, 1/4 tsp paprika, 1/4 tsp garlic powder, 1/8 tsp ground cinnamon, 2 tbsp olive oil, 1 cup pineapple, diced, 1/2 red bell pepper, diced, 1/2 red onion, diced, 1/4 cup tomatoes, diced, 1/3 cup cilantro, chopped, 1 jalapeno, seeded and diced
 
 ### Blueprint
-# [jerk salmon](https://grandbaby-cakes.com/jerk-salmon-with-pineapple-salsa/)
-
 375   
 for 4 x 6 oz of salmon filet  
 2T brown sugar, t honey, t allspice, t cumin, 4T lime ,1/2 t salt, 1/4 t thyme, 1/4 t cayenne, 1/4 t paprika, 1/4 t garlic powder, 1/8 t cinnamon,  2T o.o.  
@@ -13940,8 +12097,6 @@ cup pineapple, 1/2 red bell pepper, 1/2 red onion, 1/4 cup tomatoes, 1/3 cup cil
 - **Ingredients:** 3 sweet potatoes, cut into 1-inch cubes, 1 tbsp allspice, 1/4 tsp cinnamon, 1/4 cup light brown sugar, 1 tsp red pepper, 1/4 tsp cloves, 1/4 tsp cumin, 2 tsp salt, 1 tsp pepper, 1/2 cup softened butter
 
 ### Blueprint
-## [jerk sweet potatoes](https://www.today.com/recipes/nina-compton-s-jerk-sweet-potatoes-recipe-t197152)
-
 3 sweet potatoes 1" cube
 
 T allspice  
@@ -13969,18 +12124,16 @@ mix all together, 375 for 20 minutes, stir in the middle
 - **Ingredients:** 12 oz baby potatoes, halved, 8 oz carrots, cut into pieces, brussels sprouts, to taste (optional), 2 tbsp olive oil, divided, salt and pepper, to taste, 4 whole chicken legs, 2 tbsp Dijon mustard, 2 tbsp whole grain mustard, 1 tbsp maple syrup, 1 tsp fresh thyme, red pepper flakes, to taste, fresh parsley, to taste
 
 ### Blueprint
-# [maple mustard chicken legs](https://www.delish.com/cooking/recipe-ideas/a30535853/baked-chicken-leg-quarters-recipe/)
-
 450
 
 Fill baking dish  
-12 oz baby potatoes / halved \- or sweet potatoes  
+12 oz baby potatoes / halved - or sweet potatoes  
 8 oz carrots, pieces  
 brussels maybe  
-T olive oil, s\&p
+T olive oil, s&p
 
 dry 4 whole chicken legs @ room temp  
-T oil, s\&p
+T oil, s&p
 
 skin side up on top of veg
 
@@ -14005,9 +12158,7 @@ parsley
 - **Ingredients:** peas, bacon, vinegar, salt and black pepper to taste
 
 ### Blueprint
-## [peas](https://www.marthastewart.com/1154536/peas-bacon)
-
-Peas / bacon / t vinegar / S\&P
+Peas / bacon / t vinegar / S&P
 
 ---
 
@@ -14022,9 +12173,7 @@ Peas / bacon / t vinegar / S\&P
 - **Ingredients:** pink oyster mushrooms to taste, butter to taste, garlic to taste, onion to taste, salt and pepper to taste, rosemary to taste, 2 zucchini, diced, basil to taste, oregano to taste, 1/2 cup white wine, pasta water to taste, linguine to taste
 
 ### Blueprint
-# [pink oyster mushroom pasta](https://www.simplyveganized.com/post/creamy-oyster-mushrooms-zucchini-pasta)
-
-Sauté mushrooms a couple minutes in butter garlic s\&p onion  
+Sauté mushrooms a couple minutes in butter garlic s&p onion  
 Rosemary
 
 2 zucchini diced, brown  
@@ -14047,12 +12196,10 @@ Linguine
 - **Ingredients:** 1.5 tsp oregano, 0.25 tsp cumin seeds, 1 whole clove, 1 whole allspice berry, 3 oranges (2 juiced to 1/3 cup, 1 sliced into 1/4-inch rounds), 0.25 cup white vinegar, 1.5 tbsp achiote powder, 2 tbsp olive oil, 1.5 tbsp salt, 1.5 tsp white pepper, 1.5 tsp garlic powder, 6 bone-in skin-on chicken thighs, tortillas (for serving), pickled onion (for serving), salsa (for serving)
 
 ### Blueprint
-# [pollo yucateco](https://www.foodandwine.com/pollo-yucateco-asada-7497888)
-
 toast 1.5 t oregano, 1/4 t cumin seeds, 1 clove, 1 allspice M heat 2m, pulverize  
 juice 2 oranges (1/3 cup), cut a 3rd orange into 1/4" slices  
 mix spices, juice, orange slices, 1/4 cup white vinegar, 1.5 T ACHIOTE / ANNATO POWDER, 2T o. oil, 1.5 T salt, 1.5 t white pepper, 1.5 t garlic powder,  
-add 6 bone in skin on chicken thighs (patted dry) \- **2 hours** in fridge to overnight
+add 6 bone in skin on chicken thighs (patted dry) - **2 hours** in fridge to overnight
 
 preheat grill to high, oil grill, skin down 3m, flip, 3m  
 move to low heat, cover, flipping occassionally for about 15 or 20m, to 165\.  
@@ -14073,8 +12220,6 @@ tortillas, pickled onion, salsa
 - **Ingredients:** 12 oz Japanese eggplant, cut into 2x1/2-inch pieces, 3 tbsp Chinese rice wine, 2 tbsp soy sauce, 1 tbsp sugar, 1 tbsp balsamic vinegar, 1/4 tsp pepper, 2/3 cup water, 2 tbsp cooking oil, divided, 8 oz ground pork, 2 tbsp garlic, minced, 2 chilies, 3 oz mushrooms
 
 ### Blueprint
-# [pork/eggplant/mushroom](https://cooking.nytimes.com/recipes/1014735-braised-eggplant-pork-and-mushrooms)
-
 2” x1/2” japanese eggplant cuts (12 oz)
 
 3T chinese rice Wine, 2T soy, T sugar, T balsamic vinegar, ¼ t pepper, ⅔ cup water
@@ -14096,8 +12241,6 @@ Add 3 oz Mushrooms, remove from heat
 - **Ingredients:** 2 tbsp butter, 2 tbsp olive oil, 1 lb shallots, thinly sliced, water, as needed to prevent burning, 4 cloves garlic, 1 tsp red pepper flakes, 1/4 tsp sage, 8 oz crimini mushrooms, quartered, 1 lemon, zested and juiced, 1 lb cooked pasta, 1/2 cup pasta water, salt, to taste, black pepper, to taste, parmesan cheese, to taste, chives, to taste
 
 ### Blueprint
-# shallot mushroom pasta
-
 skillet MH melt 2T butter, 3m  
 2T o.o.  
 lb shallots thin sliced 30m\! stirring  
@@ -14108,8 +12251,8 @@ going for dark golden brown, add water & lower temp to prevent burning
 8 oz crimini mushrooms, quartered 5m  
 1 lemon zest, juice, salt
 
-add lb cooked pasta \+ 1/2 cup pasta water  
-s\&p, parm, chives
+add lb cooked pasta + 1/2 cup pasta water  
+s&p, parm, chives
 
 ---
 
@@ -14124,17 +12267,15 @@ s\&p, parm, chives
 - **Ingredients:** 2 sweet potatoes, 1 butternut squash, 3 parsnips, olive oil, to taste, salt and pepper, to taste, 2 tablespoons butter, 1 onion, diced, 2 cloves garlic, 1/4 cup flour, 1 cup milk, 1/4 cup parmesan cheese, 1 1/4 cups gruyere cheese, fresh thyme, to taste, fresh rosemary, to taste, fresh parsley, to taste
 
 ### Blueprint
-# [spiralized winter vegetable gratin](https://www.purewow.com/recipes/spiralized-winter-vegetable-gratin)
-
 peel & spiralize 2 sweet potatoes, butternut squash, 3 parsnips  
 grease 9x13  
-o.o., s\&p, mix
+o.o., s&p, mix
 
 30m @ 400
 
 M heat sautee 2T butter, diced onion 4m, 2 garlic 1m  
 1/4 cup flour, 1m, cup milk, simmer & stir  
-1/4 cup parm, 3/4 cup gruyere, s\&p
+1/4 cup parm, 3/4 cup gruyere, s&p
 
 pour sauce over veg
 
@@ -14154,18 +12295,16 @@ fresh thyme, rosemary, parsley
 - **Ingredients:** 1 lb spaghetti, 1/2 cup frozen peas, 3 slices bacon, 4 oz asparagus, cut on 1/8" diagonal, 10 basil leaves, thinly sliced, 5 eggs, room temperature, 2 tbsp milk, 1/2 cup Parmesan cheese, grated
 
 ### Blueprint
-# [springtime carbonara](https://cooking.nytimes.com/recipes/1017998-springtime-spaghetti-carbonara)
-
 boil water, 1/2 cup frozen peas, 5m  
 lb spaghetti
 
-sautee 3 bacon 5m \-\> paper towel  
+sautee 3 bacon 5m -> paper towel  
 add peas, 4 oz asparagus 1/8" diagonal cut, 5m  
 add 10 thin sliced basil leaves
 
-5 eggs, room temp \+ 2T milk, 1/2 cup parm
+5 eggs, room temp + 2T milk, 1/2 cup parm
 
-mix egg mix into hot pasta, add veg \+ bacon
+mix egg mix into hot pasta, add veg + bacon
 
 ---
 
@@ -14180,13 +12319,11 @@ mix egg mix into hot pasta, add veg \+ bacon
 - **Ingredients:** 3 persian cucumbers, sliced thin, salt to taste (for salting cucumbers), 2.25 tbsp rice vinegar, 0.75 tbsp sugar, 0.25 tsp salt, 0.25 tsp soy sauce, sesame seeds to taste
 
 ### Blueprint
-## [sumonomo](https://www.hungryhuy.com/sunomono-japanese-cucumber-salad-recipe/)
-
 3 persian cucumbers, sliced thin  
 salt & sit 10m  
 rinse, drain, squeeze
 
-2.25 T rice vinegar, 3/4 T sugar, 1/4 t salt, 1/4 t soy \- 1 hour  
+2.25 T rice vinegar, 3/4 T sugar, 1/4 t salt, 1/4 t soy - 1 hour  
 sesame seeds
 
 ---
@@ -14202,12 +12339,10 @@ sesame seeds
 - **Ingredients:** thick bread, to taste, butter, to taste, mayonnaise, to taste, roasted salted sunflower seeds, to taste, fresh tomato slices, to taste, salt and pepper, to taste, fresh dill, to taste, fresh basil, to taste, lemon juice, to taste
 
 ### Blueprint
-# [turkey and wolf tomato sandwich](https://gardenandgun.com/recipe/how-mason-hereford-makes-the-ultimate-tomato-sandwich/)
-
 butter both sides thick bread and brown in skillet 1-2m  
 mayo  
 roasted salted sunflower seeds  
-s\&p tomato slices both sides  
+s&p tomato slices both sides  
 fresh dill, basil (LOTS)  
 lemon juice
 
@@ -14224,14 +12359,10 @@ lemon juice
 - **Ingredients:** 2 zucchini, 4 potatoes, 1 red bell pepper, 1 garlic clove, 1/2 cup bread crumbs, 1/4 cup olive oil, salt to taste, black pepper to taste, paprika to taste, pork chops to taste, dijon mustard to taste, 2 cups grapes, 1 red onion, 1/2 tsp red pepper flakes
 
 ### Blueprint
-## [zuc/potato bake](https://www.allrecipes.com/recipe/89195/zucchini-and-potato-bake/)
+Cut up 2 zucchini, 4 potato, 1 red pepper, 1 garlic, ½ cup bread crumbs, ¼ cup o.o., s&p, paprika  
+**1 hour** @ 425
 
-Cut up 2 zucchini, 4 potato, 1 red pepper, 1 garlic, ½ cup bread crumbs, ¼ cup o.o., s\&p, paprika  
-**1 hour**
 
-Dry pork, s\&p, dijon mustard  
-Sear **4m/side**, add 2 cups grapes, 1 red onion, ½ t red pepper flakes,  
-Roast 15m (**7m** for chops) for pork, \+**10m** more for grapes
 
 ---
 
