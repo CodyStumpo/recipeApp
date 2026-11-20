@@ -11,3 +11,5 @@ The app will also suggest a few sides to go with a main and vice versa based on 
 * For any search:
   * Include live web search to find recipes I would be likely to curate in, consolidate across top hits to create best version
   * Include generated recipes I would be likely to curate in
+  * Build test suite, deterministic + LLM as judge
+  * Architect for phase 2 
